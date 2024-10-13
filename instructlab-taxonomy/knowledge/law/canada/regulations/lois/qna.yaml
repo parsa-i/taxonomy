@@ -1,0 +1,241 @@
+created_by: Leah Zhang
+version: 3
+domain: Bank of Canada Act
+seed_examples:
+  - context: |
+      ## Executive Committee
+      Marginal note:Constitution of Executive Committee
+      - **13**(1)There shall be an Executive Committee of the Board consisting of the Governor, the Deputy
+      Governor and not less than two or more than four directors selected by the Board.
+      - Marginal note:Deputy Minister of Finance to be member of Executive Committee
+      (2)In addition to the members of the Executive Committee as constituted by subsection (1), the
+      person who is a member of the Board by virtue of subsection 5(2) is a member of the Executive
+      Committee, but that person does not have the right to vote.
+      - Marginal note:Powers of Executive Committee
+      (3)The Executive Committee is competent to deal with any matter within the competence of the Board
+      and shall keep minutes of its proceedings, which shall be submitted to the Board at its next
+      meeting.
+      - R.S., c. B-2, s. 13
+      - 1980-81-82-83, c. 40, s. 47
+    questions_and_answers:
+      - question: |
+          In the Bank of Canada, who are the members of the Executive Committee of the Board?
+        answer: |
+          The Executive Committee of the Board consists of the Governor, the Deputy Governor, and not less than
+          two or more than four directors selected by the Board.
+      - question: |
+          In the Bank of Canada, what are the powers of the Executive Committee?
+        answer: |
+          The Executive Committee is competent to deal with any matter within the competence of the Board.
+      - question: |
+          In the Bank of Canada, what records must the Executive Committee keep?
+        answer: |
+          The Executive Committee must keep minutes of its proceedings, which shall be submitted to the Board
+          at its next meeting.
+  - context: |
+      ## Reserve Funds
+      Marginal note:Reserve fund
+      **27**The Bank shall establish a reserve fund and, after making the provision that the Board thinks
+      proper for bad and doubtful debts, depreciation in assets, pension funds and all other matters that
+      are properly provided for by banks, the ascertained surplus available from the operations of the
+      Bank during each financial year is to be applied by the Board as follows:
+      - (a)if the Bank’s reserve fund is less than the paid-up capital, one third of the surplus is to be
+      allocated to the reserve fund, and the residue is to be paid to the Receiver General and form part
+      of the Consolidated Revenue Fund;
+      - (b)if the reserve fund is not less than the paid-up capital, one fifth of the surplus is to be
+      allocated to the reserve fund until the reserve fund reaches an amount five times the paid-up
+      capital, and the residue is to be paid to the Receiver General and form part of the Consolidated
+      Revenue Fund; and
+      - (c)if the reserve fund is not less than five times the paid-up capital, the whole of the surplus
+      is to be paid to the Receiver General and form part of the Consolidated Revenue Fund.
+      - R.S., 1985, c. B-2, s. 27
+      - 2007, c. 6, s. 395(E)
+      [Previous Version](section-27-20030101.html "Link to previous version of section 27")
+      Marginal note:Special reserve fund — unrealized valuation losses
+      - **27.1**(1)Despite section 27, the Bank may establish a special reserve fund and may, pursuant to
+      a resolution passed by the Board, allocate to the fund out of the ascertained surplus available from
+      the operations of the Bank during each financial year an amount to offset unrealized valuation
+      losses due to changes in the fair value of the investment portfolio of the Bank.
+      - Marginal note:Maximum
+      (2)The amount that may be held in the fund shall not be more than $400,000,000 at any time.
+      - 2007, c. 6, s. 396
+    questions_and_answers:
+      - question: |
+          In the Bank of Canada, what happens if the Bank's reserve fund is less than the paid-up capital?
+        answer: |
+          If the Bank's reserve fund is less than the paid-up capital, one third of the surplus is to be allocated
+          to the reserve fund, and the residue is to be paid to the Receiver General and form part of the
+          Consolidated Revenue Fund.
+
+      - question: |
+          In the Bank of Canada, what happens if the reserve fund is not less than five times the paid-up capital?
+        answer: |
+          If the reserve fund is not less than five times the paid-up capital, the whole of the surplus
+          is to be paid to the Receiver General and form part of the Consolidated Revenue Fund.
+
+      - question: |
+          In the Bank of Canada, what is the maximum amount that can be held in the special reserve fund for unrealized
+          valuation losses?
+        answer: |
+          The maximum amount that can be held in the special reserve fund for unrealized valuation losses is
+          $400,000,000 at any time.
+  - context: |
+
+      ## Audit
+      Marginal note:Appointment of auditors
+      - **28**(1)The Governor in Council shall, on the recommendation of the Minister, appoint two firms
+      of accountants eligible to be appointed as auditors of a bank to audit the affairs of the Bank.
+      - Marginal note:Term of office
+      (2)Every firm of accountants appointed after November 30, 1980 shall be appointed to perform annual
+      audits for the five fiscal years following the year of its appointment except that one of the first
+      two firms of accountants appointed after November 30, 1980 shall be appointed to perform annual
+      audits for the three years following the year of its appointment.
+      - Marginal note:Vacancies
+      (3)Where any vacancy occurs in the office of auditor of the Bank, notice thereof shall forthwith be
+      given by the Bank to the Minister who thereupon shall appoint some other firm of accountants
+      eligible to be appointed under this section to audit the affairs of the Bank for the balance of the
+      term of the firm of accountants so replaced.
+      - Marginal note:Persons who may not act
+      (4)No firm of accountants of which a director is a member is eligible for appointment as an auditor
+      and no auditor of the Bank is eligible for appointment for a second successive term.
+      - Marginal note:Reports to Minister
+      (5)The Minister may from time to time require the auditors to report to the Minister on the adequacy
+      of the procedure adopted by the Bank for the protection of its creditors or shareholders and the
+      sufficiency of their own procedure in auditing the affairs of the Bank, and the Minister may, at his
+      discretion, enlarge or extend the scope of the audit or direct that any other procedure be
+      established or that any other examination be made by the auditors as the public interest may seem to
+      require.
+      - Marginal note:Copies of reports to be sent to Minister
+      (6)A copy of every report made by the auditors to the Bank under this section shall be transmitted
+      to the Minister by the auditors at the same time as that report is transmitted to the Bank.
+      - R.S., c. B-2, s. 24
+      - 1980-81-82-83, c. 40, s. 51
+    questions_and_answers:
+      - question: |
+          In the Bank of Canada, who appoints the auditors for the Bank?
+        answer: |
+          The Governor in Council appoints the auditors for the Bank on the recommendation of the Minister.
+      - question: |
+          In the Bank of Canada, what is the term of office for auditors appointed after November 30, 1980?
+        answer: |
+          Every firm of accountants appointed after November 30, 1980 shall be appointed to perform annual
+          audits for the five fiscal years following the year of its appointment, except for one of the first
+          two firms appointed after that date, which shall be appointed for three years.
+      - question: |
+          In the Bank of Canada, who receives copies of the auditors' reports?
+        answer: |
+          A copy of every report made by the auditors to the Bank shall be transmitted to the Minister at the
+          same time as it is transmitted to the Bank.
+  - context: |
+
+      ## Returns
+      Marginal note:Weekly financial information
+      - **29**(1)The Bank shall, as soon as practicable after the last business day of each week, post on
+      its website financial information about its assets and liabilities.
+      - Marginal note:Monthly balance sheet
+      (2)The Bank shall, as soon as practicable after the last business day of each month, post on its
+      website its balance sheet as at the close of business on that day. The balance sheet shall set out
+      information regarding the Bank’s investments in securities issued or guaranteed by the Government of
+      Canada.
+      - R.S., 1985, c. B-2, s. 29
+      - 1997, c. 15, s. 104
+      - 2001, c. 9, s. 199
+      - 2007, c. 6, s. 397
+      - 2012, c. 5, s. 184
+      [Previous Version](section-29-20070420.html "Link to previous version of section 29")
+      Marginal note:Fiscal year
+      - **30**(1)The fiscal year of the Bank shall be the calendar year.
+      - Marginal note:Financial statements to Minister
+      (2)Within two months after the end of each financial year, the Bank shall send to the Minister its
+      audited financial statements for the financial year, in the form prescribed by the by-laws of the
+      Bank.
+      - Marginal note:Signing of statements
+      (2.1)The financial statements must be signed by the Governor or the Deputy Governor and the Chief
+      Accountant or Acting Chief Accountant of the Bank.
+      - Marginal note:Other information
+      (2.2)The financial statements must be accompanied by any summary or report by the Governor that the
+      Governor considers desirable or that is required by the Minister. A copy of the signed and audited
+      financial statements must without delay be published in the [Canada
+      Gazette](http://www.gazette.gc.ca/).
+      - Marginal note:Report to Parliament
+      (3)The Minister shall lay the copy of the accounts and Governor’s report mentioned in subsection (2)
+      before Parliament on any of the first twenty-one days that either House of Parliament is sitting
+      after the Minister receives it.
+      - R.S., 1985, c. B-2, s. 30
+      - 1997, c. 15, s. 105
+    questions_and_answers:
+      - question: |
+          In the Bank of Canada, what financial information must the Bank post on its website weekly?
+        answer: |
+          The Bank must post financial information about its assets and liabilities on its website as soon as
+          practicable after the last business day of each week.
+      - question: |
+          What must the Bank of Canada post on its website monthly?
+        answer: |
+          The Bank must post its balance sheet as at the close of business on the last business day of each month,
+          including information regarding its investments in securities issued or guaranteed by the Government of
+          Canada.
+      - question: |
+          What is the fiscal year of the Bank of Canada?
+        answer: |
+          The fiscal year of the Bank is the calendar year.
+  - context: |
+
+      ## By-laws
+      Marginal note:By-laws
+      - **35**(1)The Board, with the approval of the Governor in Council, may make by-laws with respect to
+      - (a)the calling of meetings of the Board and of the Executive Committee and what number of persons
+      shall constitute a quorum in each case, and how questions considered at those meetings shall be
+      determined;
+      - (b)the fees of directors;
+      - (c)the duties and conduct of officers and employees of the Bank;
+      - (d)the form of the annual statement of accounts; and
+      - (e)generally, the management and disposition of the stock, property and undertakings of the Bank.
+      - Marginal note:Publication
+      (2)Every by-law and every amendment or repeal thereof shall take effect when published in the
+      [Canada Gazette](http://www.gazette.gc.ca/).
+      - R.S., 1985, c. B-2, s. 35
+      - 1997, c. 15, s. 106(E)
+      - 2001, c. 4, s. 60(F)
+      I, ![blank line](https://laws-lois.justice.gc.ca/img/ii_spacer.gif), do solemnly swear (or affirm)
+      that I will faithfully and to the best of my judgment and ability perform the duties that relate to
+      any office or position in the Bank held by me.
+      I also solemnly swear (or affirm) that I will not
+      communicate or allow to be communicated, to any person not entitled to it, any confidential
+      information that relates to the business or affairs of the Bank that I may learn in the course of
+      performing those duties;
+      use any such information for any purpose other than to perform those duties; or
+      allow any person to inspect or have access to any books and records that belong to or that are in
+      the possession of the Bank and that relate to the business or affairs of the Bank, unless the person
+      is legally entitled to inspect them or to have access to them.
+      - R.S., 1985, c. B-2, Sch. I
+      - 1997, c. 15, s. 107
+      - 2001, c. 9, s. 202
+      \[Repealed, 2001, c. 9, s. 202\]
+      Close(escape key)
+      × Close: Table of Contents (escape key)
+    questions_and_answers:
+      - question: |
+          In the Bank of Canada, who approves the by-laws made by the Board?
+        answer: |
+          The Governor in Council approves the by-laws made by the Board.
+
+      - question: |
+          In the Bank of Canada, what do the by-laws made by the Board cover?
+        answer: |
+          The by-laws made by the Board cover the calling of meetings, fees of directors, duties and conduct
+          of officers and employees, form of the annual statement of accounts, and the management and disposition
+          of the stock, property and undertakings of the Bank.
+
+      - question: |
+          In the Bank of Canada, when do the by-laws and their amendments or repeals take effect?
+        answer: |
+          The by-laws and their amendments or repeals take effect when published in the Canada Gazette.
+document_outline: |
+  The Bank of Canada Act is a statute that sets out the governance structure and powers of the Bank of Canada,
+  which was created in 1934 as Canada's central bank.
+document:
+  repo: https://github.com/parsa-i/taxonomy/
+  commit: 9019c082dfd350953bfc597209ca4e2cdf9f2b62
+  patterns:
+    - markdown/lois/*

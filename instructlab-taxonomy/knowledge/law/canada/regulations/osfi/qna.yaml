@@ -1,0 +1,267 @@
+created_by: Chung Zheng
+version: 3
+domain: Capital Adequacy Requirements
+seed_examples:
+  - context: >
+      #### 1.3.1. Credit Risk
+
+      8. RWA for credit risk (including counterparty credit risk) is calculated as the sum of:
+
+
+      1. Credit RWA for banking book exposures which, except the RWA listed in (b) through (e) below,
+      is calculated using:
+            1. the standardized approach (as set out in Chapter 4); or
+            2. the Internal Ratings-Based (IRB) approach (as set out in Chapter 5).
+      2. RWA for counterparty credit risk from banking book exposures and trading book exposures
+      (as set out in Chapter 7), except the exposures listed in (c) and (f) below.
+      3. Credit RWA for equity investments in funds that are held in the banking book calculated using one or more of
+      the approaches set out in Chapter 4:
+            1. The look-through approach
+            2. The mandate-based approach
+            3. The fall-back approach
+      4. RWA for securitization exposures held in the banking book, calculating using one or more of the approaches set
+      out in Chapter 6:
+            1. Securitization Standardized Approach (SEC-SA)
+            2. Securitization External Ratings-Based Approach (SEC-ERBA)
+            3. Securitization Internal Ratings-Based Approach (SEC-IRBA)
+            4. Securitization Internal Assessment Approach (SEC-IAA)
+            5. A risk weight of 1250% in cases where the institution cannot use (i) to (iv) above.
+      5. RWA for exposures to central counterparties in the banking book and trading book, calculated using the
+      approach set out in Chapter 7.
+      6. RWA for the risk posed by unsettled transactions and failed trades, where the transactions are in the banking
+      book or trading book and are within the scope of the rules set out in Chapter 7.
+      7. RWA for credit valuation adjustment (CVA) risk for exposures in the trading and banking book, calculated
+      as set out in Chapter 8 using either:
+            1. The standardized approach for CVA; or
+            2. The advanced approach for CVA.
+    questions_and_answers:
+      - question: |
+          In Canada, what is the Credit RWA for banking book exposures?
+        answer: >
+          The Credit RWA for banking book exposures is calculated using:
+          1. the standardized approach.
+          2. the Internal Ratings-Based (IRB) approach.
+      - question: |
+          In Canada, what approaches are used for the Credit RWA for equity investments
+        answer: >
+          1. The look-through approach
+          2. The mandate-based approach
+          3. The fall-back approach
+      - question: |
+          In Canada, how do I calculate RWA for credit risk?
+        answer: |
+          RWA for credit risk is calculated using the following:
+          1. Credit RWA for banking book exposures
+          2. RWA for counterparty credit risk from banking book exposures and trading book exposures
+          3. Credit RWA for equity investments
+          4. RWA for securitization exposures
+          5. RWA for exposures to central counterparties in the banking book and trading book
+          6. RWA for the risk posed by unsettled transactions and failed trades
+          7. RWA for credit valuation adjustment (CVA) risk for exposures
+  - context: >
+      #### 1.3.2. Market Risk
+
+      15. Market risk requirements, as outlined in Chapter 9, apply to internationally active institutions and all
+      institutions designated by OSFI as D-SIBs. OSFI retains the right to apply the framework to other institutions,
+      on a case-by-case basis, if trading activities are a large proportion of overall operations.
+
+      16. Institutions subject to market risk requirements must identify the instruments that are in the trading book
+      following the requirements of Chapter 9. All instruments that are not in the trading book and all other assets
+      of the institution (termed "banking book exposures") must be treated under one of the credit risk approaches.
+      \[Basel Framework, RBC 20.5\]
+
+      17. RWA for market risk are calculated as RWA for market risk for instruments in the trading book and for foreign
+      exchange risk and commodities risk for exposures in the banking book, calculated using:
+
+          1. The standardized approach, as described in section 9.5; or
+          2. The internal models approach set out in section 9.6.
+    questions_and_answers:
+      - question: >
+          In Canada, who do market risk requirements apply to?
+        answer: >
+          Market risk requirements, apply to internationally active institutions and all institutions designated by
+          OSFI as D-SIBs.
+      - question: >
+          In Canada, how are RWA for market risk calculated?
+        answer: >
+          RWA for market risk are calculated using either:
+          1. The standardized approach, as described in section 9.5; or
+          2. The internal models approach set out in section 9.6.
+      - question: >
+          In Canada, what do institutions subject to market risk requirements need to identify?
+        answer: >
+          Institutions subject to market risk requirements must identify the instruments that are in the trading book
+          following the requirements of Chapter 9.
+  - context: |
+      #### 2.1.2.5 Capital instruments issued out of branches and subsidiaries outside Canada
+      25. In addition to any other requirements prescribed in this guideline, where an institution wishes
+      to consolidate a capital instrument issued out of a branch or subsidiary outside Canada, it must
+      provide OSFI's Capital Division with the following documentation:
+      - a copy of the instrument's terms and conditions;
+      - certification from a senior executive of the institution, together with the institution's
+      supporting analysis, that confirms that the instrument meets or exceeds the Basel III qualifying
+      criteria for the tier of regulatory capital in which the institution intends to include the
+      instrument on a consolidated basis; and
+      - an undertaking whereby both the institution and the subsidiary confirm that the instrument will
+      not be redeemed, purchased for cancellation, or amended without the prior approval of the
+      Superintendent. Such undertaking will not be required where the prior approval of the Superintendent
+      is incorporated into the terms and conditions of the instrument.
+    questions_and_answers:
+      - question: |
+          In Canada, what must an institution provide to OSFI's Capital Division when consolidating a capital
+          instrument issued out of a branch or subsidiary outside Canada?
+        answer: |
+          An institution must provide a copy of the instrument's terms and conditions, certification from a senior
+          executive confirming the instrument meets or exceeds Basel III qualifying criteria, and an undertaking that
+          the instrument will not be redeemed, purchased for cancellation, or amended without the prior approval
+          of the Superintendent.
+      - question: |
+          In Canada, who must certify that the capital instrument meets or exceeds the Basel III qualifying criteria?
+        answer: |
+          A senior executive of the institution must certify that the capital instrument meets or exceeds the Basel
+          III qualifying criteria.
+      - question: |
+          In Canada, when is an undertaking not required for the redemption, purchase for cancellation, or amendment
+          of the capital instrument?
+        answer: |
+          An undertaking is not required when the prior approval of the Superintendent is incorporated into the
+          terms and conditions of the instrument.
+  - context: |
+
+      ### 2.1.3 Tier 2 Capital
+      26. Tier 2 capital (prior to regulatory adjustments) consists of the following elements:
+      - Instruments issued by the institution that meet the criteria for inclusion in Tier 2 capital (and
+      are not included in Tier 1 capital);
+      - Stock surplus (i.e. share premium) resulting from the issue of instruments included in Tier 2
+      capital. Surplus that is not eligible for inclusion in Tier 1 will only be permitted to be included
+      in Tier 2 capital if the shares giving rise to the surplus are permitted to be included in Tier 2
+      capital. \[Basel Framework, CAP 10.17\];
+      - Instruments issued by consolidated subsidiaries of the institution and held by third parties that
+      meet the criteria for inclusion in Tier 2 capital and are not included in Tier 1 capital (see
+      sections 2.1.3.1 and 2.1.3.3); and
+      - Certain loan loss allowances as specified in section 2.1.3.7.
+      \[Basel Framework, CAP 10.14\]
+    questions_and_answers:
+      - question: |
+          In Canada, what does Tier 2 capital consist of?
+        answer: |
+          Tier 2 capital consists of instruments issued by the institution that meet the criteria for inclusion
+          in Tier 2 capital (and are not included in Tier 1 capital),
+          stock surplus resulting from the issue of instruments included in Tier 2 capital,
+          instruments issued by consolidated subsidiaries of the institution and held by third parties that meet the
+          criteria for inclusion in Tier 2 capital and are not included in Tier 1 capital,
+          and certain loan loss allowances.
+
+      - question: |
+          In Canada, what is the condition for including stock surplus in Tier 2 capital?
+        answer: |
+          Stock surplus that is not eligible for inclusion in Tier 1 will only be permitted to be included in Tier 2
+          capital if the shares giving rise to the surplus are permitted to be included in Tier 2 capital.
+
+      - question: |
+          In Canada, what other elements besides instruments issued by the institution are included in Tier 2 capital?
+        answer: |
+          Besides instruments issued by the institution, Tier 2 capital also includes stock surplus resulting from
+          the issue of instruments included in Tier 2 capital, instruments issued by consolidated subsidiaries of the
+          institution and held by third parties that meet the criteria for inclusion in Tier 2 capital and are not
+          included in Tier 1 capital, and certain loan loss allowances.
+  - context: |
+
+      #### 2.1.3.2 Tier 2-qualifying capital instruments issued by a subsidiary to third parties
+      33. Total capital instruments (i.e. Tier 1 and Tier 2 capital instruments) issued by a fully
+      consolidated subsidiary of the institution to third-party investors (including amounts under
+      sections 2.1.1.3 and 2.1.2.2) may receive recognition in the consolidated Total capital of the
+      parent institution only if the instruments would, if issued by the institution, meet all of the
+      criteria for classification as Tier 1 or Tier 2 capital.
+      34. The amount of capital that will be recognized in consolidated Total Capital is calculated as
+      follows (refer to Appendix 2-1 for an illustrative example):
+      1. Total capital of the subsidiary issued to third parties that is attributable to third-party
+      investors, gross of deductions, less the amount of surplus Total Capital of the subsidiary that is
+      attributable to the third-party investors.
+      2. The surplus Total capital of the subsidiary is calculated as the Total Capital of the subsidiary,
+      net of deductions, minus the lower of: (1) the minimum Total Capital requirement of the subsidiary
+      plus the capital conservation buffer (i.e. 10.5% of RWA;[Footnote 43](#fnb43)[Footnote 44](#fnb44)
+      and (2) the portion of the parent's consolidated minimum Total Capital requirements[Footnote
+      45](#fnb45) plus the capital conservation buffer (i.e. 10.5% of RWA[Footnote 43](#fnb43)) that
+      relates to the subsidiary.
+      3. The amount of surplus Total capital that is attributable to the third-party investors is
+      calculated by multiplying the surplus Total capital of the subsidiary (calculated in (b)) by the
+      percentage of Total Capital that is attributable to third-party investors.
+      The amount of this Total capital that will be recognized in Tier 2 will exclude amounts recognized
+      in CET1 under section 2.1.1.3 and amounts recognized in Additional Tier 1 under section 2.1.2.2.
+      \[Basel Framework, CAP 10.24 and 10.25\]
+    questions_and_answers:
+      - question: |
+          In Canada, what condition must be met for Tier 2-qualifying capital instruments issued by a subsidiary
+          to be recognized in the consolidated Total capital of the parent institution?
+        answer: |
+          The instruments must meet all of the criteria for classification as Tier 1 or Tier 2 capital if they were
+          issued by the institution.
+      - question: |
+          In Canada, how is the amount of surplus Total capital that is attributable to the third-party investors
+          calculated?
+        answer: |
+          Multiply the surplus Total capital of the subsidiary by the percentage of Total Capital that is attributable
+          to third-party investors
+      - question: |
+          In Canada, what is the formula for calculating the surplus Total capital of the subsidiary?
+        answer: |
+          The surplus Total capital of the subsidiary is calculated as the Total Capital of the subsidiary,
+          net of deductions, minus the lower of: (1) the minimum Total Capital requirement of the subsidiary plus the
+          capital conservation buffer (i.e. 10.5% of RWA) and (2) the portion of the parent's consolidated minimum
+          Total Capital requirements plus the capital conservation buffer (i.e. 10.5% of RWA) that relates to the
+          subsidiary.
+  - context: |
+
+      #### 2.1.3.4 Tier 2 instruments issued to a parent
+      36. In addition to the qualifying criteria and minimum requirements specified in this guideline,
+      Tier 2 capital instruments issued by an institution to a parent, either directly or indirectly, can
+      be included in regulatory capital subject to the institution providing notification of the
+      intercompany issuance to OSFI's Capital Division together with the following:
+      - a copy of the instrument's term and conditions;
+      - the intended classification of the instrument for regulatory capital purposes;
+      - the rationale provided by the parent for not providing common equity in lieu of the subject
+      capital instrument;
+      - confirmation that the rate and terms of the instrument as at the date of the transaction are at
+      least as favourable to the institution as market terms and conditions;
+      - confirmation that the failure to make dividend or interest payments, as applicable, on the subject
+      instrument would not result in the parent, now or in the future, being unable to meet its own debt
+      servicing obligations nor would it trigger cross-default clauses or credit events under the terms of
+      any agreements or contracts of either the institution or the parent.
+    questions_and_answers:
+      - question: |
+          In Canada, what additional information must be provided to OSFI's Capital Division when a Tier 2
+          capital instrument is issued to a parent?
+        answer: |
+          The institution must provide notification of the intercompany issuance along with the instrument's
+          terms and conditions, the intended classification of the instrument for regulatory capital purposes,
+          the rationale provided by the parent for not providing common equity, confirmation that the rate and
+          terms of the instrument are at least as favourable to the institution as market terms and conditions,
+          and confirmation that the failure to make payments would not result in the parent being unable to meet
+          its own debt servicing obligations nor would it trigger cross-default clauses or credit events.
+
+      - question: |
+          In Canada wat must be confirmed about the terms and conditions of the Tier 2 capital instrument issued to
+          a parent?
+        answer: |
+          It must be confirmed that the rate and terms of the instrument as at the date of the transaction are at
+          least as favourable to the institution as market terms and conditions.
+
+      - question: |
+          In Canada, what must be confirmed about the potential consequences of failing to make payments on the
+          Tier 2 capital instrument issued to a parent?
+        answer: |
+          It must be confirmed that the failure to make dividend or interest payments on the subject instrument would
+          not result in the parent being unable to meet its own debt servicing obligations nor would it trigger
+          cross-default clauses or credit events under the terms of any agreements or contracts of either the
+          institution or the parent.
+
+document_outline: |
+  This document contains the Capital Adequacy Requirements (CAR) for banks (including federal credit unions),
+  bank holding companies, federally regulated trust companies, and federally regulated loan
+  companies
+document:
+  repo: https://github.com/parsa-i/taxonomy/
+  commit: 9019c082dfd350953bfc597209ca4e2cdf9f2b62
+  patterns:
+    - markdown/osfi/*

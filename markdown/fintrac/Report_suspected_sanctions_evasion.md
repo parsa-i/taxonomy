@@ -56,5 +56,3 @@ For information on Ministerial Directives, including the **associated obligation
 In addition to your existing reporting obligations, every person in Canada and every Canadian outside Canada must also disclose to the RCMP or CSIS the existence of property that is owned or controlled by a designated person, as well as any proposed transactions related to that property.
 
 For guidance on submitting terrorist property reports and how to disclose to the RCMP or CSIS, see [Reporting terrorist property to FINTRAC](/guidance-directives/transaction-operation/Guide5/5-eng).
-
-Date Modified: 2024-09-03
