@@ -331,6 +331,6 @@ document_outline: |
   and terrorist financing activities in Canada.
 document:
   repo: 'https://github.com/parsa-i/taxonomy/'
-  commit: 9019c082dfd350953bfc597209ca4e2cdf9f2b62
+  commit: 337db5303498689d08e162102dbf7dea4ca9e460
   patterns:
     - markdown/fintrac/*.md
