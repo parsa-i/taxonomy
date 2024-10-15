@@ -67,7 +67,7 @@ seed_examples:
       - 4.2.2 Ensuring that losses of public money and property are promptly and
       accurately recorded in the accounts of the department for applicable
       transactions;
-        
+
       #### Recovery of loss
 
       - 4.2.3 Ensuring that a claim is prepared against those responsible for a
@@ -99,7 +99,7 @@ seed_examples:
       - question: >
           In Canada, True or False: In addition to the value of the loss of
           public money or property, the financing costs associated with the loss
-          of public money should be included in the claim? 
+          of public money should be included in the claim?
         answer: >
           True.
 
@@ -149,7 +149,7 @@ seed_examples:
       - 4.3.6.2 The name and address of the person’s last known employer; and
 
       - 4.3.6.3 Any payment coming due to the person
-        
+
     questions_and_answers:
       - question: >
           In Canada, True or False: When it relates to receivables, there is no
@@ -249,20 +249,20 @@ seed_examples:
 
       - 4.7 In relation to loans and loan guarantees, senior departmental
       managers are responsible for the following:
-        
+
       - 4.7.1 Ensuring that terms and conditions for loans and loan guarantees
       are established, documented and appropriately authorized;
 
       - 4.7.2 Ensuring that the terms and conditions not detailed in authorizing
       legislation for:
-        
+
       - 4.7.2.1 Loan programs for a class of recipients and loans for named
       recipients are approved by the Governor in Council on the recommendation
       of the Minister of Finance; and
 
       - 4.7.2.2 Loan guarantee programs for a class of recipients and loan
       guarantees for named recipients are approved by the Minister of Finance;
-        
+
       - 4.7.3 Ensuring that loans and loan guarantees are structured to cover
       potential losses from non-performing loans, when appropriate and feasible;
 
@@ -304,7 +304,7 @@ seed_examples:
       - 4.7.9 Ensuring that loan guarantee agreements include a provision
       whereby actual or expected defaults are communicated by the lenders to
       departmental officials in a timely manner; and
-        
+
       - 4.7.9.1 When advised of an actual or expected default, follow-up action
       is to be taken immediately to ensure that the loan is recovered to the
       fullest extent possible.

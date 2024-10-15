@@ -326,8 +326,8 @@ seed_examples:
           The Office of the Privacy Commissioner of Canada provides further
           guidance on the use of personal information under PIPEDA in Canada.
 document_outline: |
-  The provided document contain excerpts from regulations set by the Financial Transactions and Reports 
-  Analysis Centre of Canada (FINTRAC). FINTRAC's regulations are aimed at combating money laundering 
+  The provided document contain excerpts from regulations set by the Financial Transactions and Reports
+  Analysis Centre of Canada (FINTRAC). FINTRAC's regulations are aimed at combating money laundering
   and terrorist financing activities in Canada.
 document:
   repo: 'https://github.com/parsa-i/taxonomy/'
