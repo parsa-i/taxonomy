@@ -1,0 +1,181 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: "### Notice of violation  \nAn RE subject to an AMP will receive a notice\
+    \ of violation that will include the following:  \n- The name and address of the\
+    \ RE that is subject to the AMP;\n- The penalty amount;\n- Payment instructions;\n\
+    - Information on the right to make written representations to FINTRAC's Director\
+    \ and Chief Executive Officer (CEO), up to 30 days after receiving the notice\
+    \ of violation;\n- Instructions on how to make representations to FINTRAC's Director\
+    \ and CEO, and where to obtain additional information on the AMP program;\n- A\
+    \ list of the violations committed which will include the related legislative\
+    \ and regulatory provisions;\n- The details of the penalty calculation, including\
+    \ the factors considered and the reasons; and\n- A list of all the instances of\
+    \ the committed violations, including relevant references such as account numbers,\
+    \ transaction numbers, report numbers, etc."
+  questions_and_answers:
+  - question: What information is included in a notice of violation sent to a reporting
+      entity (RE) subject to an Administrative Monetary Penalty (AMP)?
+    answer: 'A notice of violation sent to a reporting entity (RE) subject to an Administrative
+      Monetary Penalty (AMP), as per FINTRAC''s policy on Administrative Monetary
+      Penalties, includes the following information:
+
+
+      - The name and address of the RE subject to the AMP
+
+      - The penalty amount and payment instructions
+
+      - Information on the right to make written representations to FINTRAC''s Director
+      and Chief Executive Officer (CEO) within 30 days of receiving the notice
+
+      - Instructions on how to make representations and where to obtain additional
+      information on the AMP program
+
+      - A list of the violations committed, including related legislative and regulatory
+      provisions
+
+      - Details of the penalty calculation, including factors considered and reasons
+
+      - A list of all instances of the committed violations, including relevant references
+      such as account numbers, transaction numbers, and report numbers.'
+  - question: How can a reporting entity make written representations to FINTRAC's
+      Director and Chief Executive Officer (CEO) after receiving a notice of violation?
+    answer: A reporting entity can make written representations to FINTRAC's Director
+      and Chief Executive Officer (CEO) within 30 days of receiving a notice of violation.
+      The notice will include instructions on how to make these representations and
+      where to obtain additional information on the AMP program.
+  - question: What details are provided in the notice regarding the penalty calculation
+      and the violations committed by the reporting entity?
+    answer: The notice provides the penalty amount, the details of the penalty calculation
+      (including factors considered and reasons), and a list of the violations committed,
+      including the related legislative and regulatory provisions and all instances
+      of the committed violations with relevant references, as per FINTRAC's policy
+      on Administrative Monetary Penalties.
+- context: "### Categories of violations  \nThe Proceeds of Crime (Money Laundering)\
+    \ and Terrorist Financing Administrative Monetary Penalties Regulations ( AMP\
+    \ Regulations) list the non-compliance violations that could be the basis of an\
+    \ AMP. The AMP Regulations categorize violations by degree of importance, and\
+    \ assign the following penalty ranges:  \n|     |     |\n| --- | --- |\n| Minor\
+    \ violation | $1 to $1,000 per violation |\n| Serious violation | $1 to $100,000\
+    \ per violation |\n| Very serious violation | $1 to $100,000 per violation for\
+    \ an individual<br> $1 to $500,000 per violation for an entity |  \nCategories\
+    \ of violations  \nThe limits above apply to each violation, and multiple violations\
+    \ can result in a total amount that exceeds these limits."
+  questions_and_answers:
+  - question: What are the penalty ranges for minor, serious, and very serious violations
+      under the AMP Regulations?
+    answer: 'The penalty ranges for violations under the AMP Regulations are as follows:
+
+
+      - Minor violation: $1 to $1,000 per violation
+
+      - Serious violation: $1 to $100,000 per violation
+
+      - Very serious violation: $1 to $100,000 per violation for an individual, and
+      $1 to $500,000 per violation for an entity'
+  - question: How do the penalty amounts differ for individuals and entities when
+      it comes to very serious violations?
+    answer: Under the AMP Regulations, the penalty amounts for very serious violations
+      differ between individuals and entities. Individuals may face penalties ranging
+      from $1 to $100,000 per violation, while entities can be fined between $1 to
+      $500,000 per violation.
+  - question: Can the total amount of penalties exceed the specified limits if there
+      are multiple violations?
+    answer: Yes, the total amount of penalties can exceed the specified limits if
+      there are multiple violations, as stated in the Administrative Monetary Penalties
+      Policy document under the AMP Regulations.
+- context: "**Transparency**: FINTRAC officers will make sure that the expectations\
+    \ about compliance are communicated in a clear manner throughout the assessment\
+    \ process. REs will be provided with FINTRAC's findings and observations, and\
+    \ will be given the opportunity to ask questions and respond to the non-compliance\
+    \ identified before the findings are finalized.  \n**Fairness:** An RE has the\
+    \ right to understand the case being made for an AMP, and will have a fair opportunity\
+    \ to respond.  \n**Consistency**: FINTRAC officers follow established policies\
+    \ and procedures to make sure that similar REs, with the same types and extent\
+    \ of non-compliance, can expect to be treated in a similar manner.  \n**Documentation:**\
+    \ FINTRAC officers will rely on facts and document those facts and any other information\
+    \ to support their analysis and findings."
+  questions_and_answers:
+  - question: How does FINTRAC ensure transparency during the assessment process for
+      Administrative Monetary Penalties (AMPs)?
+    answer: FINTRAC ensures transparency during the assessment process for Administrative
+      Monetary Penalties (AMPs) by clearly communicating compliance expectations throughout
+      the assessment process. Reporting Entities (REs) are provided with FINTRAC's
+      findings and observations and are given the opportunity to ask questions and
+      respond to identified non-compliance before the findings are finalized.
+  - question: What rights does an RE have in understanding and responding to an AMP
+      case?
+    answer: An RE has the right to understand the case being made for an Administrative
+      Monetary Penalty (AMP) by FINTRAC and has a fair opportunity to respond. This
+      is ensured through the principles of transparency and fairness that FINTRAC
+      officers adhere to during the assessment process.
+  - question: How does FINTRAC maintain consistency in handling similar cases of non-compliance
+      among REs?
+    answer: FINTRAC maintains consistency in handling similar cases of non-compliance
+      among reporting entities (REs) by adhering to established policies and procedures,
+      ensuring that similar REs with the same types and extent of non-compliance are
+      treated in a similar manner.
+- context: "### Payment of penalty  \nUpon receipt of a notice of violation, a person\
+    \ or entity can pay the penalty by completing the remittance form and submitting\
+    \ it with the payment in Canadian funds to:  \nFINTRAC  \nFinance Unit  \n24th\
+    \ Floor, 234 Laurier Avenue West  \nOttawa, ON K1P 1H7  \nAllpayments of penalty\
+    \ amounts are to be made payable to the Receiver General for Canada. Payments\
+    \ can be made in the form of a certified cheque, money order, or bank draft. \
+    \ \nIf an RE pays the penalty indicated in the notice of violation, the RE is\
+    \ deemed to have committed the violations specified, and the AMP process ends."
+  questions_and_answers:
+  - question: What are the acceptable payment methods for an administrative monetary
+      penalty?
+    answer: Acceptable payment methods for an administrative monetary penalty include
+      certified cheque, money order, or bank draft, made payable to the Receiver General
+      for Canada.
+  - question: Where and to whom should the penalty payment be made?
+    answer: The penalty payment should be made to the Receiver General for Canada
+      and submitted to FINTRAC's Finance Unit at 24th Floor, 234 Laurier Avenue West,
+      Ottawa, ON K1P 1H7.
+  - question: What happens if a person or entity pays the penalty indicated in the
+      notice of violation?
+    answer: If a person or entity pays the penalty indicated in the notice of violation,
+      they are deemed to have committed the violations specified, and the Administrative
+      Monetary Penalty (AMP) process ends, according to FINTRAC.
+- context: "## Authority to issue an AMP  \nThe following outlines the framework applicable\
+    \ when FINTRAC has decided that an AMP is the most suitable option to address\
+    \ a specific non-compliance result.  \nFINTRAC may issue an AMP and serve a notice\
+    \ of violation when it has **reasonable grounds to believe** that an RE has violated\
+    \ a requirement of the Act and its regulations.  \nAMPs are not issued automatically\
+    \ in response to non-compliance. AMPs are one tool that is available to FINTRAC\
+    \ and are used to address repeated non-compliant behaviour. AMPs may also be used\
+    \ when there are significant issues of non-compliance or a high impact on FINTRAC's\
+    \ mandate or on the objectives of the Act and its regulations. An AMP is generally\
+    \ used when other compliance options have failed."
+  questions_and_answers:
+  - question: What are the conditions that must be met for FINTRAC to issue an Administrative
+      Monetary Penalty (AMP)?
+    answer: FINTRAC may issue an Administrative Monetary Penalty (AMP) when it has
+      reasonable grounds to believe that a reporting entity (RE) has violated a requirement
+      of the Act and its regulations. AMPs are used to address repeated non-compliant
+      behavior, significant issues of non-compliance, or high-impact situations on
+      FINTRAC's mandate or the objectives of the Act and its regulations, typically
+      after other compliance options have failed.
+  - question: Under what circumstances does FINTRAC choose to issue an AMP rather
+      than other compliance measures?
+    answer: FINTRAC chooses to issue an Administrative Monetary Penalty (AMP) rather
+      than other compliance measures when it has reasonable grounds to believe that
+      a reporting entity (RE) has violated a requirement of the Act and its regulations.
+      AMPs are typically used in cases of repeated non-compliance, significant issues
+      of non-compliance, or when there is a high impact on FINTRAC's mandate or the
+      objectives of the Act. They are generally employed when other compliance options
+      have been unsuccessful.
+  - question: What is the role of an AMP in the context of repeated non-compliant
+      behavior by a reporting entity (RE)?
+    answer: In the context of repeated non-compliant behavior by a reporting entity
+      (RE), an Administrative Monetary Penalty (AMP) serves as a tool for FINTRAC
+      to address recurring violations of the Act and its regulations. AMPs are typically
+      employed when other compliance options have failed and there are significant
+      issues of non-compliance or a high impact on FINTRAC's mandate or the objectives
+      of the Act and its regulations.
+document_outline: This document outlines FINTRAC's policy on Administrative Monetary
+  Penalties (AMPs), including the framework, principles, and guidelines used to determine
+  and issue penalties for non-compliance with Canada's anti-money laundering and terrorist
+  financing regulations.

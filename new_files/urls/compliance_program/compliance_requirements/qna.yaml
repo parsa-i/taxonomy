@@ -1,0 +1,230 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: "The review must be carried out and the results documented by an internal\
+    \ or external auditor, or by yourself if you do not have an auditor. Your review\
+    \ should be conducted by someone who is knowledgeable of your requirements under\
+    \ the Act and associated Regulations. Also, as a best practice, to ensure that\
+    \ your review is impartial, it should not be conducted by someone who is directly\
+    \ involved in your compliance program activities. Regardless of who carries out\
+    \ the review, as a reporting entity it is your responsibility to ensure that the\
+    \ review is conducted (at a minimum) every 2 years and that the review tests the\
+    \ effectiveness of your compliance program.  \nYou must also institute and document\
+    \ a plan for the two-year effectiveness review of your compliance program. This\
+    \ plan should describe the scope of the review and must include all the elements\
+    \ of your compliance program. The breadth and depth of review for each element\
+    \ may vary depending on factors such as:"
+  questions_and_answers:
+  - question: Who is responsible for ensuring that the two-year effectiveness review
+      of the compliance program is conducted?
+    answer: The internal or external auditor, or the reporting entity themselves if
+      no auditor is appointed, is responsible for ensuring that the two-year effectiveness
+      review of the compliance program is conducted, as outlined by FINTRAC's requirements.
+  - question: What is the recommended practice for ensuring an impartial review of
+      the compliance program?
+    answer: To ensure an impartial review of the compliance program, FINTRAC recommends
+      that the review should not be conducted by someone directly involved in the
+      compliance program activities. It should be carried out by an internal or external
+      auditor, or by the responsible individual if an auditor is not available, provided
+      they are knowledgeable about the requirements under the Act and associated Regulations.
+  - question: What should be included in the plan for the two-year effectiveness review
+      of the compliance program?
+    answer: The plan for the two-year effectiveness review of the compliance program
+      should describe the scope of the review and include all elements of the compliance
+      program, as required by FINTRAC.
+- context: "- **travel rule** requirements: this includes your requirement to develop\
+    \ and apply written risk-based policies and procedures to help determine whether\
+    \ you should suspend or reject an electronic funds transfer or virtual currency\
+    \ transfer that you receive, and any other follow-up measures, if the transfer\
+    \ does not include the required travel rule information and you are unable to\
+    \ obtain this information through your reasonable measures\n- **Ministerial directive**\
+    \ requirements  \nYour compliance policies and procedures should also include\
+    \ the processes and controls you have put in place to meet your requirements,\
+    \ including:  \n- when the obligation is triggered\n- the information that must\
+    \ be reported, recorded, or considered\n- the procedures you created to ensure\
+    \ that you fulfill a requirement\n- the timelines associated with your requirements\
+    \ and methods of reporting (if applicable)"
+  questions_and_answers:
+  - question: What are the travel rule requirements for reporting entities?
+    answer: Reporting entities must develop and apply written risk-based policies
+      and procedures to determine whether to suspend or reject electronic funds transfers
+      or virtual currency transfers that lack required travel rule information, as
+      per FINTRAC's guidelines. If such information is missing and cannot be obtained
+      through reasonable measures, these procedures should outline any follow-up actions.
+  - question: How should compliance policies and procedures address Ministerial directive
+      requirements?
+    answer: Compliance policies and procedures should address Ministerial directive
+      requirements by outlining the processes and controls implemented to meet these
+      obligations. This includes specifying when the obligation is triggered, detailing
+      the information that must be reported, recorded, or considered, and establishing
+      procedures to ensure requirement fulfillment. Additionally, policies should
+      outline the associated timelines and methods of reporting, in accordance with
+      FINTRAC's compliance guidance.
+  - question: What information must be reported under travel rule and Ministerial
+      directive requirements?
+    answer: 'Under the travel rule and Ministerial directive requirements, as outlined
+      by FINTRAC, the following information must be reported:
+
+
+      - For the travel rule, required information includes details that help determine
+      whether to suspend or reject an electronic funds transfer or virtual currency
+      transfer if the necessary travel rule information is missing and cannot be obtained
+      through reasonable measures.
+
+
+      - For Ministerial directive requirements, the information that must be reported,
+      recorded, or considered includes the processes and controls implemented to meet
+      obligations, such as when the obligation is triggered, the procedures to fulfill
+      requirements, and the associated timelines and methods of reporting.'
+- context: "## 2\\. Who can be a compliance officer and what are their responsibilities\
+    \  \nDepending on the size of your business, you could be the appointed compliance\
+    \ officer, or it could be another individual, such as:  \n- a senior manager,\
+    \ the owner or the operator of your small business, or\n- someone from a senior\
+    \ level who has direct access to senior management and the board of directors\
+    \ of your large business  \nIf you are a person rather than an entity, such as\
+    \ a sole proprietor, you can appoint yourself as the compliance officer, or you\
+    \ may choose to appoint someone else to help you implement the compliance program.\
+    \  \nAs a best practice, the appointed compliance officer of a larger business\
+    \ should not be directly involved in the receipt, transfer or payment of funds.\
+    \ The appointed compliance officer should also have independent oversight and\
+    \ be able to communicate directly with those parties who make decisions about\
+    \ the business such as senior management or the board of directors."
+  questions_and_answers:
+  - question: Who typically serves as a compliance officer for large and small businesses
+      in the context of FINTRAC's compliance program requirements?
+    answer: Typically, a compliance officer for large and small businesses, as required
+      by FINTRAC's compliance program, can be the business owner, a senior manager,
+      or an operator in the case of small businesses. For larger businesses, it should
+      be someone from a senior level with direct access to senior management and the
+      board of directors. If the business is run by an individual, such as a sole
+      proprietor, they can appoint themselves or someone else to implement the compliance
+      program. For larger businesses, it is recommended that the compliance officer
+      is not directly involved in financial transactions and has independent oversight.
+  - question: What should be considered as a best practice regarding the appointment
+      of a compliance officer in a larger business?
+    answer: As a best practice, the compliance officer appointed in a larger business
+      should not be directly involved in the receipt, transfer, or payment of funds,
+      according to FINTRAC's compliance program requirements. They should have independent
+      oversight and the ability to communicate directly with senior decision-makers,
+      such as senior management or the board of directors.
+  - question: How can a sole proprietor manage the implementation of the compliance
+      program?
+    answer: A sole proprietor can manage the implementation of the compliance program
+      by appointing themselves as the compliance officer, or by appointing another
+      individual to help with the implementation. This is in accordance with FINTRAC's
+      compliance program requirements.
+- context: '- a review of your agreements with agents or mandataries, as applicable,
+    as well as a review of a sample of the information that your agents or mandataries
+    referred to in order to verify the identity of persons, to assess whether client
+    identification policies and procedures are being followed
+
+    - a review of transactions to assess whether suspicious transactions were reported
+    to FINTRAC
+
+    - a review of large cash transactions to assess whether they were reported to
+    FINTRAC with accurate information and within the prescribed timelines
+
+    - a review of electronic funds transfers to assess whether reportable transfers
+    were reported to FINTRAC with accurate information and within the prescribed timelines
+    (applicable to reporting entity sectors that have electronic funds transfer obligations)
+
+    - a review of a sample of your client records to see whether the risk assessment
+    was applied in accordance with your risk assessment process'
+  questions_and_answers:
+  - question: What elements are to be included in the two-year effectiveness review
+      of a compliance program as per FINTRAC's guidelines?
+    answer: 'The two-year effectiveness review of a compliance program, as per FINTRAC''s
+      guidelines, should include the following elements:
+
+
+      1. A review of agreements with agents or mandataries and a sample of their identity
+      verification information.
+
+      2. An assessment of whether suspicious transactions were reported to FINTRAC.
+
+      3. A review of large cash transactions for accurate and timely reporting to
+      FINTRAC.
+
+      4. A review of electronic funds transfers (for applicable sectors) for accurate
+      and timely reporting to FINTRAC.
+
+      5. A sample review of client records to ensure risk assessment was applied according
+      to the established process.'
+  - question: How does FINTRAC's compliance guidance emphasize the importance of reviewing
+      agreements with agents or mandataries?
+    answer: FINTRAC's compliance guidance emphasizes the importance of reviewing agreements
+      with agents or mandataries by requiring reporting entities to include this review
+      in their two-year effectiveness assessment of the compliance program. This review
+      ensures that client identification policies and procedures are being followed
+      correctly.
+  - question: In what ways are reporting entities required to review transactions
+      as part of their two-year compliance program assessment?
+    answer: 'Reporting entities are required to review transactions as part of their
+      two-year compliance program assessment in the following ways, as outlined by
+      FINTRAC under the Proceeds of Crime (Money Laundering) and Terrorist Financing
+      Act:
+
+
+      - Assess whether suspicious transactions were reported to FINTRAC.
+
+      - Verify if large cash transactions were reported to FINTRAC accurately and
+      within the prescribed timelines.
+
+      - Check if reportable electronic funds transfers were reported to FINTRAC accurately
+      and within the prescribed timelines (applicable to certain reporting entity
+      sectors).'
+- context: "## 6\\. Training program and plan requirements  \nIf you have employees,\
+    \ agents or mandataries, or other persons authorized to act on your behalf, you\
+    \ must develop and maintain a written, ongoing compliance training program. Your\
+    \ training program should explain what your employees, agents or mandataries,\
+    \ or other persons authorized to act on your behalf, need to know and understand,\
+    \ including:  \n- your requirements under the Proceeds of Crime (Money Laundering)\
+    \ and Terrorist Financing Act (the Act) and associated Regulations\n- background\
+    \ information on money laundering and terrorist activity financing, such as the\
+    \ definition of money laundering and terrorist activity financing, and methods\
+    \ of money laundering and terrorist activity financing\n- how your business or\
+    \ profession could be vulnerable to money laundering and terrorist activity financing\
+    \ activities (provide indicators and examples)"
+  questions_and_answers:
+  - question: Why is it important for employees and authorized representatives to
+      understand their obligations under the Proceeds of Crime (Money Laundering)
+      and Terrorist Financing Act and associated Regulations?
+    answer: It is important for employees and authorized representatives to understand
+      their obligations under the Proceeds of Crime (Money Laundering) and Terrorist
+      Financing Act and associated Regulations to ensure compliance with FINTRAC's
+      guidelines. This understanding helps them recognize and mitigate risks associated
+      with money laundering and terrorist financing, thereby protecting the business
+      and upholding legal responsibilities.
+  - question: What types of information should be included in a company's compliance
+      training program regarding money laundering and terrorist activity financing?
+    answer: 'A company''s compliance training program regarding money laundering and
+      terrorist activity financing should include the following types of information,
+      as per FINTRAC''s compliance guidance:
+
+
+      - The requirements under the Proceeds of Crime (Money Laundering) and Terrorist
+      Financing Act and associated Regulations
+
+      - Background information on money laundering and terrorist activity financing,
+      including definitions and methods
+
+      - How the business or profession could be vulnerable to such activities, with
+      indicators and examples'
+  - question: How can an understanding of the definitions and methods of money laundering
+      and terrorist activity financing help in protecting a business or profession
+      from such activities?
+    answer: Understanding the definitions and methods of money laundering and terrorist
+      activity financing can help protect a business or profession by enabling employees
+      to recognize and respond to potential risks. As outlined by FINTRAC's compliance
+      guidance, a comprehensive training program should educate staff on the requirements
+      of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, as
+      well as the specific vulnerabilities of the business. This knowledge equips
+      employees to identify indicators of illicit activities and take appropriate
+      actions to mitigate risks, thereby safeguarding the business from legal and
+      reputational damage.
+document_outline: ' This document outlines FINTRAC''s compliance program requirements
+  under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, detailing
+  essential elements such as appointing a compliance officer, conducting risk assessments,
+  and implementing training programs, to ensure reporting entities meet regulatory
+  obligations.'

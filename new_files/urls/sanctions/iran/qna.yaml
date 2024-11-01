@@ -1,0 +1,195 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: "### 5.3 Reporting virtual currency transactions using the Large Virtual\
+    \ Currency Transaction Report :  \n- Any transaction involving the receipt of\
+    \ virtual currency for exchange to Iranian rial that is equivalent to an amount\
+    \ under the reporting threshold of $10,000 CAD must be reported using the Large\
+    \ Virtual Currency Transaction Report. Select 'IR2020' in the Ministerial Directive\
+    \ field to indicate the transaction is being reported under the Ministerial Directive.\
+    \  \n**Note:** Because the report is related to the Ministerial Directive, **you\
+    \ must** ensure that the information provided reflects a connection to Iran. \
+    \ \n- Virtual currency transactions received in an amount equivalent to $10,000\
+    \ CAD or more, and virtual currency transactions received that fall under the\
+    \ 24-hour rule are to be reported as normal."
+  questions_and_answers:
+  - question: What specific report should be used for virtual currency transactions
+      below $10,000 CAD that are being exchanged to Iranian rial?
+    answer: For virtual currency transactions below $10,000 CAD that are being exchanged
+      to Iranian rial, the Large Virtual Currency Transaction Report should be used,
+      as outlined by the Ministerial Directive.
+  - question: How do you indicate that a virtual currency transaction report is related
+      to a specific Ministerial Directive involving Iran?
+    answer: To indicate that a virtual currency transaction report is related to a
+      specific Ministerial Directive involving Iran, you must select 'IR2020' in the
+      Ministerial Directive field of the Large Virtual Currency Transaction Report.
+      This ensures that the transaction is reported under the Ministerial Directive
+      and reflects a connection to Iran, as required by the guidelines.
+  - question: Under what circumstances would a virtual currency transaction involving
+      Iran need to be reported using the Large Virtual Currency Transaction Report,
+      and why is it important to reflect a connection to Iran in the report?
+    answer: A virtual currency transaction involving Iran needs to be reported using
+      the Large Virtual Currency Transaction Report when the transaction involves
+      the receipt of virtual currency for exchange to Iranian rial and the amount
+      is below the $10,000 CAD threshold. It is important to reflect a connection
+      to Iran in the report to comply with the Ministerial Directive (IR2020), which
+      mandates the monitoring of such transactions.
+- context: "## 1\\. Why this Ministerial Directive was issued  \nThe Financial Action\
+    \ Task Force issued a statement in February 2020 which expressed its particular\
+    \ and exceptional concerns regarding Iran's failure to address strategic deficiencies\
+    \ in its anti-money laundering and combatting the financing of terrorism regime,\
+    \ and the serious threat this poses to the integrity of the international financial\
+    \ system. The Financial Action Task Force called on its members to apply effective\
+    \ counter-measures to protect their financial sectors from such risks.  \nAs such,\
+    \ Canada's Finance Minister issued this Ministerial Directive to ensure the safety\
+    \ and integrity of Canada's financial system.  \nThis Ministerial Directive includes\
+    \ requirements that:  \n- enhance existing obligations of the Proceeds of Crime\
+    \ (Money Laundering) and Terrorist Financing Regulations; and\n- extend the obligations\
+    \ of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations"
+  questions_and_answers:
+  - question: What specific global concerns prompted the issuance of the Ministerial
+      Directive on Financial Transactions Associated with the Islamic Republic of
+      Iran?
+    answer: The Ministerial Directive on Financial Transactions Associated with the
+      Islamic Republic of Iran was issued in response to the Financial Action Task
+      Force's February 2020 statement, which highlighted Iran's failure to address
+      strategic deficiencies in its anti-money laundering and terrorist financing
+      regime, posing a serious threat to the international financial system. Canada's
+      Finance Minister issued the directive to protect Canada's financial system and
+      apply effective counter-measures as called for by the Financial Action Task
+      Force.
+  - question: How does the Ministerial Directive aim to protect Canada's financial
+      system according to the described measures?
+    answer: The Ministerial Directive aims to protect Canada's financial system by
+      enhancing and extending the obligations of the Proceeds of Crime (Money Laundering)
+      and Terrorist Financing Regulations, in response to the Financial Action Task
+      Force's concerns about Iran's anti-money laundering and terrorist financing
+      deficiencies.
+  - question: What were the key recommendations of the Financial Action Task Force
+      in February 2020 regarding Iran's anti-money laundering and terrorist financing
+      deficiencies?
+    answer: The key recommendations of the Financial Action Task Force in February
+      2020 regarding Iran's anti-money laundering and terrorist financing deficiencies
+      were to express serious concerns about Iran's strategic deficiencies and to
+      call on its members to apply effective counter-measures to protect their financial
+      sectors from the risks posed by these deficiencies.
+- context: "## 4\\. Records you must keep and their retention period  \n### 4.1 Records\
+    \ of electronic funds and virtual currency transfers of any amount  \nFor an electronic\
+    \ funds or virtual currency transfer **of any amount**originating from or bound\
+    \ for Iran, you must keep:  \n- the information included in an electronic funds\
+    \ transfer record, and the information included in a record for virtual currency\
+    \ transfers, **even if the transaction is below $** **1,000 CAD or an equivalent\
+    \ amount in virtual currency**:  \n- if you are a bank, credit union, financial\
+    \ services cooperative or caisse populaire, you will find your record keeping\
+    \ requirements in theRecord keeping requirements for financial entities guidance\n\
+    - if you are a money services business, you will find your record keeping requirements\
+    \ in theRecord keeping requirements for money services businesses and foreign\
+    \ money services businesses guidance\n- the source of funds or virtual currency\
+    \ of the transaction; and\n- the purpose of the transaction"
+  questions_and_answers:
+  - question: What specific information must be kept for electronic funds or virtual
+      currency transfers of any amount related to Iran, regardless of the transaction
+      value?
+    answer: 'According to FINTRAC guidance on the Ministerial Directive issued on
+      July 25, 2020, the following specific information must be kept for electronic
+      funds or virtual currency transfers of any amount related to Iran, regardless
+      of the transaction value:
+
+
+      - The information included in an electronic funds transfer record or a record
+      for virtual currency transfers
+
+      - The source of funds or virtual currency of the transaction
+
+      - The purpose of the transaction'
+  - question: Where can a bank find the detailed record-keeping requirements for electronic
+      funds and virtual currency transfers originating from or bound for Iran?
+    answer: Banks can find the detailed record-keeping requirements for electronic
+      funds and virtual currency transfers originating from or bound for Iran in the
+      "Record keeping requirements for financial entities guidance" issued by FINTRAC.
+  - question: In addition to the standard record-keeping requirements, what additional
+      details must be recorded for transactions involving Iran, and why are these
+      details important?
+    answer: For transactions involving Iran, additional details that must be recorded
+      include the source of funds or virtual currency and the purpose of the transaction.
+      These details are important as they are required by the Financial Transactions
+      and Reports Analysis Centre of Canada (FINTRAC) under the Ministerial Directive
+      issued on July 25, 2020, to facilitate the detection and deterrence of money
+      laundering and terrorist financing activities.
+- context: "### 5.6. Reporting timeframes:  \n- Where the Ministerial Directive reflects\
+    \ an enhancement to a current transaction reporting obligation (for example, the\
+    \ threshold to report has been reduced or eliminated) the timing for reporting\
+    \ that transaction remains that of the obligation being enhanced:\n- Electronic\
+    \ funds transfers must be reported no later than 5 working days after the day\
+    \ the reporting entity knows that the transfer must be reported;\n- Large cash\
+    \ transactions must be reported within 15 days after the transaction.\n- Where\
+    \ the Ministerial Directive reflects an extension of reporting obligations to\
+    \ transactions that previously had no reporting obligation, such as the redemption\
+    \ of a negotiable instrument, transfers of funds within Canada, which are to be\
+    \ reported by means of the suspicious transaction reporting form, it is reasonable\
+    \ for the reporting entity to report this as soon as practicable."
+  questions_and_answers:
+  - question: What is the deadline for reporting electronic funds transfers that fall
+      under the Ministerial Directive?
+    answer: The deadline for reporting electronic funds transfers that fall under
+      the Ministerial Directive on Financial Transactions Associated with the Islamic
+      Republic of Iran is no later than 5 working days after the day the reporting
+      entity knows that the transfer must be reported.
+  - question: How quickly must large cash transactions be reported according to the
+      Ministerial Directive?
+    answer: Large cash transactions must be reported within 15 days after the transaction,
+      as specified by the Ministerial Directive on Financial Transactions Associated
+      with the Islamic Republic of Iran.
+  - question: What is the expected reporting timeframe for transactions that previously
+      had no reporting obligation, such as the redemption of a negotiable instrument?
+    answer: The expected reporting timeframe for transactions that previously had
+      no reporting obligation, such as the redemption of a negotiable instrument,
+      is to report it as soon as practicable, as specified by the Ministerial Directive
+      on Financial Transactions Associated with the Islamic Republic of Iran.
+- context: "- conducting a foreign currency or virtual currency exchange transaction\
+    \ that includes Iranian rial (for example, Canadian dollar to Iranian rial, Iranian\
+    \ rial to US dollar, virtual currency to Iranian rial, etc.); and\n- issuing or\
+    \ redeeming bank drafts or other negotiable instruments that include an Iranian\
+    \ rial component  \nThis Ministerial Directive**does not**apply to transactions\
+    \ where there is no suspicion or explicit connection with Iran and there is no\
+    \ evidence of the transaction originating from or being bound for Iran. For example:\
+    \  \n- a client who has previously sent funds to Iran requests an outgoing electronic\
+    \ funds transfer, where the transaction details do not suggest that this transaction\
+    \ is bound for Iran and you are unable to obtain further details about the transaction\
+    \ destination"
+  questions_and_answers:
+  - question: What types of transactions involving Iranian rial fall under the Ministerial
+      Directive's requirements?
+    answer: Transactions involving Iranian rial that fall under the Ministerial Directive's
+      requirements include conducting foreign currency or virtual currency exchange
+      transactions that include Iranian rial (such as Canadian dollar to Iranian rial,
+      Iranian rial to US dollar, virtual currency to Iranian rial, etc.) and issuing
+      or redeeming bank drafts or other negotiable instruments that include an Iranian
+      rial component. The Ministerial Directive does not apply to transactions where
+      there is no suspicion or explicit connection with Iran and no evidence of the
+      transaction originating from or being bound for Iran.
+  - question: Under what circumstances does the Ministerial Directive not apply to
+      transactions that might otherwise seem related to Iran?
+    answer: The Ministerial Directive does not apply to transactions where there is
+      no suspicion or explicit connection with Iran, and there is no evidence of the
+      transaction originating from or being bound for Iran. For example, it does not
+      apply when a client who has previously sent funds to Iran requests an outgoing
+      electronic funds transfer, but the transaction details do not suggest that this
+      transaction is bound for Iran and further details about the transaction destination
+      cannot be obtained.
+  - question: Can you provide an example of a transaction where the Ministerial Directive
+      would not apply despite previous involvement with Iran?
+    answer: 'An example of a transaction where the Ministerial Directive would not
+      apply despite previous involvement with Iran is: a client who has previously
+      sent funds to Iran requests an outgoing electronic funds transfer, but the transaction
+      details do not suggest that this transaction is bound for Iran, and you are
+      unable to obtain further details about the transaction destination. This is
+      because the Ministerial Directive does not apply to transactions where there
+      is no suspicion or explicit connection with Iran and no evidence of the transaction
+      originating from or being bound for Iran.'
+document_outline: This document outlines the requirements of the Ministerial Directive
+  on Financial Transactions Associated with the Islamic Republic of Iran, issued to
+  protect Canada's financial system from risks related to Iran's anti-money laundering
+  and terrorist financing deficiencies, and specifies the entities that must comply
+  and the actions they must take regarding transactions involving Iran.

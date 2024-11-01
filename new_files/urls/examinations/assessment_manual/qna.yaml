@@ -1,0 +1,184 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: '- Review your policies and procedures to confirm that they provide enough
+    guidance to your employees, agents, and those acting on your behalf to develop,
+    implement and maintain an ongoing training program.
+
+    - Review your training plan to confirm that it considers and documents the steps
+    you take to develop, maintain, and deliver your training program.
+
+    - Review your training material to confirm that the training content is suitable.
+    For example, we verify that it is tailored to your business and adequate for your
+    employees, agents and their respective responsibilities.
+
+    - Interview your employees and agents to confirm that they understand the requirements
+    as they relate to their positions, understand and follow the policies and procedures,
+    understand how your business could be vulnerable to ML/TF activities, and have
+    received adequate ongoing training.'
+  questions_and_answers:
+  - question: What key guidelines should be included in policies and procedures to
+      ensure effective ongoing compliance training?
+    answer: 'To ensure effective ongoing compliance training, key guidelines to include
+      in policies and procedures are:
+
+
+      1. **Clear Guidance**: Policies should provide sufficient instruction to employees,
+      agents, and representatives to develop, implement, and maintain an ongoing training
+      program, as required by FINTRAC.
+
+      2. **Comprehensive Training Plan**: Include a training plan that outlines the
+      steps for developing, maintaining, and delivering the training program.
+
+      3. **Tailored Training Material**: Ensure training content is suitable and tailored
+      to the specific business and the respective roles of employees and agents.
+
+      4. **Employee Understanding**: Policies should aim to ensure employees and agents
+      understand their role-specific requirements, the business''s vulnerability to
+      money laundering/terrorist financing (ML/TF) activities, and the importance
+      of ongoing training.'
+  - question: How does FINTRAC assess the suitability of training materials for a
+      business's employees and agents?
+    answer: FINTRAC assesses the suitability of training materials for a business's
+      employees and agents by verifying that the content is tailored to the specific
+      business and adequate for the respective responsibilities of the employees and
+      agents.
+  - question: In what ways do interviews contribute to evaluating the adequacy of
+      a business's ongoing training program?
+    answer: Interviews contribute to evaluating the adequacy of a business's ongoing
+      training program by allowing FINTRAC to confirm that employees and agents understand
+      the anti-money laundering and terrorist financing requirements relevant to their
+      roles, follow the established policies and procedures, recognize the business's
+      vulnerabilities to ML/TF activities, and have received sufficient ongoing training.
+- context: "To be clear, we do not require a list of the Electronic Funds Transfer\
+    \ Reports that you or your third\u2011party service provider have submitted; we\
+    \ already have these reports in our database. What we require is a list that includes\
+    \ the information about your international electronic funds transfer transactions,\
+    \ one that comes directly from your business records or the systems you or your\
+    \ third-party service provider may have used to submit Electronic Fund Transfer\
+    \ Reports. We may ask you to send us a sample of this list before requesting the\
+    \ complete list in order to verify that it is in the format that we need.  \n\
+    If you do not have an automated system that can extract the information and produce\
+    \ a list, you will need to provide the records of the transactions. These could\
+    \ be transfer slips, wire logs, foreign currency exchange transaction tickets,\
+    \ invoices, etc."
+  questions_and_answers:
+  - question: What specific records or lists of international electronic funds transfer
+      transactions does FINTRAC ask for during an examination to verify compliance?
+    answer: FINTRAC requests a list of international electronic funds transfer transactions
+      directly from business records or systems used to submit reports, rather than
+      a list of already submitted reports. They may initially ask for a sample to
+      verify the format. If an automated system is unavailable, alternative records
+      such as transfer slips, wire logs, foreign currency exchange transaction tickets,
+      or invoices must be provided.
+  - question: Why does FINTRAC not require a list of already submitted Electronic
+      Funds Transfer Reports?
+    answer: FINTRAC does not require a list of already submitted Electronic Funds
+      Transfer Reports because they already have these reports in their database.
+      Instead, FINTRAC requests original transactional data directly from business
+      records to verify compliance.
+  - question: What types of records might be used to provide transactional data if
+      an automated system is not available?
+    answer: If an automated system is not available, records such as transfer slips,
+      wire logs, foreign currency exchange transaction tickets, and invoices might
+      be used to provide transactional data, as indicated by FINTRAC.
+- context: "##### (LCTR4) Reviewing exceptions to submitting LCTRs  \n**Exception\u2014\
+    Alternative to large cash transactions**  \n**(Applicable to financial entities)**\
+    \  \nIf a financial entity has used the alternative to submitting Large Cash Transaction\
+    \ Reports, as permitted under the PCMLTFA and associated Regulations and as described\
+    \ in our guidance, we verify that all of the conditions associated with this exception\
+    \ were respected. We confirm that you submitted, within the prescribed timeframe,\
+    \ a complete and accurate Financial Entity Business Client Report that includes\
+    \ a list of all the clients to which the exception has been applied. If you continue\
+    \ to apply the alternative to a client who no longer meets the prescribed conditions,\
+    \ we will review the client's cash transactions to determine whether Large Cash\
+    \ Transaction Reports should have been submitted to FINTRAC."
+  questions_and_answers:
+  - question: Based on the document, what conditions must a financial entity meet
+      to use the alternative to submitting Large Cash Transaction Reports?
+    answer: To use the alternative to submitting Large Cash Transaction Reports, a
+      financial entity must submit a complete and accurate Financial Entity Business
+      Client Report within the prescribed timeframe, including a list of all clients
+      to which the exception has been applied, as permitted under the PCMLTFA and
+      associated Regulations.
+  - question: What type of report must be submitted if a financial entity uses the
+      alternative to submitting LCTRs, and what information should this report contain?
+    answer: If a financial entity uses the alternative to submitting Large Cash Transaction
+      Reports (LCTRs), it must submit a Financial Entity Business Client Report. This
+      report should include a list of all the clients to which the exception has been
+      applied. The governing body is FINTRAC, and the regulations are outlined in
+      the PCMLTFA and associated Regulations.
+  - question: How does FINTRAC handle cases where a client no longer meets the conditions
+      for the alternative to submitting LCTRs?
+    answer: If a client no longer meets the conditions for the alternative to submitting
+      Large Cash Transaction Reports (LCTRs), FINTRAC reviews the client's cash transactions
+      to determine whether LCTRs should have been submitted, as per the Proceeds of
+      Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA) and associated
+      Regulations.
+- context: "##### Follow-up testing  \n###### (All report types2): Ensuring that you\
+    \ resubmit the reports FINTRAC rejected for technical errors  \nFINTRAC can reject\
+    \ a report if it contains technical errors, such as the way the report is formatted,\
+    \ or when quality issues are identified by our validation process. At the assessment,\
+    \ we provide you with a list of rejected reports which you did not correct and\
+    \ resubmit.  \nIf you think this list is incorrect, we may ask you to provide\
+    \ us with the FINTRAC generated External Report Reference Number or the Reporting\
+    \ Entity's Report Reference Number to allow us to further enquire. Refer to our\
+    \ guidance on Batch Reporting Instructions and Specifications and FINTRAC Web\
+    \ Reporting system (FWR, formerly F2R).  \nFor the reports that were not resubmitted,\
+    \ we may ask you why that was the case. We may also look at the records of transactions\
+    \ to confirm whether they were reportable."
+  questions_and_answers:
+  - question: What are the reasons FINTRAC might reject a financial transaction report?
+    answer: FINTRAC might reject a financial transaction report due to technical errors,
+      such as formatting issues, or quality problems identified during their validation
+      process.
+  - question: How does FINTRAC ensure that rejected reports are corrected and resubmitted?
+    answer: FINTRAC ensures that rejected reports are corrected and resubmitted by
+      providing a list of these reports during assessments. They require entities
+      to correct and resubmit reports rejected due to technical errors. If necessary,
+      FINTRAC may ask for specific report reference numbers to verify the status of
+      the reports and can request explanations for reports that were not resubmitted.
+      They may also review transaction records to confirm their reportability.
+  - question: What specific documentation might FINTRAC require to verify the accuracy
+      of rejected reports?
+    answer: FINTRAC might require the FINTRAC generated External Report Reference
+      Number or the Reporting Entity's Report Reference Number to verify the accuracy
+      of rejected reports.
+- context: "#### Examination findings letter  \nWe will send our examination findings\
+    \ letter to your compliance officer. This letter describes the findings that we\
+    \ discussed during the exit interview.  \nThe letter will indicate the documents,\
+    \ client records, transaction records and financial transaction reports we have\
+    \ examined, as well as the consolidated results of our interviews with your employees\
+    \ and agent. When applicable, we will provide additional information, such as\
+    \ the number of documents we sampled and the number of instances of non-compliance\
+    \ that were found in the sample. The individual records and reports that we have\
+    \ found to be deficient will be listed in an annex to the letter.  \nIn some cases,\
+    \ the letter may also include \"observations\". They are included to help you\
+    \ improve your business processes and practices in order to strengthen your compliance\
+    \ program."
+  questions_and_answers:
+  - question: What is the purpose of the examination findings letter sent to a compliance
+      officer after a FINTRAC examination?
+    answer: The purpose of the examination findings letter sent to a compliance officer
+      after a FINTRAC examination is to summarize the findings discussed during the
+      exit interview, detail the records and reports examined, and provide observations
+      for improving the business's compliance program.
+  - question: What types of records and reports are examined and mentioned in the
+      examination findings letter?
+    answer: The examination findings letter examines and mentions various types of
+      records and reports, including documents, client records, transaction records,
+      and financial transaction reports. Additionally, it includes observations for
+      improving business processes and practices to strengthen compliance programs,
+      as outlined by FINTRAC.
+  - question: How do observations in the examination findings letter help improve
+      business processes and practices?
+    answer: Observations in the examination findings letter from FINTRAC help improve
+      business processes and practices by identifying areas for enhancement within
+      a company's compliance program. These observations provide specific feedback
+      based on the examination of documents, client records, transaction records,
+      and interviews with employees and agents. By addressing these observations,
+      businesses can strengthen their compliance mechanisms and ensure they meet regulatory
+      standards.
+document_outline: This document explains how FINTRAC conducts compliance examinations
+  to ensure businesses meet anti-money laundering and terrorist financing legal requirements.

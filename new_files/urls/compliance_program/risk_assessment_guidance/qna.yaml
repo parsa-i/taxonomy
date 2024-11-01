@@ -1,0 +1,196 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: "**Impact** isthe damage incurred if ML/TF occurs. Depending on business\
+    \ circumstances, the impact could be a financial loss, or a regulatory, legal,\
+    \ reputational or other impact. To help you determine the impact of your ML/TF\
+    \ risks, you can use a scale similar to this one:  \n| Rating | Likelihood of\
+    \ ML/TF risk |\n| --- | --- |\n| High | The risk has severe consequences |\n|\
+    \ Medium | The risk has moderate consequences |\n| Low | The risk has minor or\
+    \ no consequences |  \nTable 8: Rating and impact of the ML/TF risk  \nYou can\
+    \ use the matrix to help you decide which actions to take considering the overall\
+    \ risk. Each box in the matrix shows the level of resources required for:  \n\
+    - action (the need to respond to the risk)\n- effort (level of effort required\
+    \ to mitigate the risk)\n- monitoring (level of monitoring required)"
+  questions_and_answers:
+  - question: How is the impact of money laundering and terrorist financing risks
+      defined and what factors can it include?
+    answer: "The impact of money laundering (ML) and terrorist financing (TF) risks\
+      \ is defined as the damage incurred if such activities occur. This impact can\
+      \ be financial, regulatory, legal, reputational, or other, depending on business\
+      \ circumstances. The scale for assessing this impact, as outlined in the 'Risk\
+      \ assessment guidance' and 'Annex 4 \u2014 Likelihood and impact matrix' sections,\
+      \ categorizes the impact into high (severe consequences), medium (moderate consequences),\
+      \ and low (minor or no consequences). Factors to consider include the level\
+      \ of resources required for action, effort to mitigate the risk, and monitoring."
+  - question: What is the scale used to determine the impact of ML/TF risks and can
+      you describe each level?
+    answer: "The scale used to determine the impact of Money Laundering/Terrorist\
+      \ Financing (ML/TF) risks is defined by the following levels:\n\n- **High**:\
+      \ The risk has severe consequences.\n- **Medium**: The risk has moderate consequences.\n\
+      - **Low**: The risk has minor or no consequences.\n\nThis scale is outlined\
+      \ in the 'Risk assessment guidance' and 'Annex 4 \u2014 Likelihood and impact\
+      \ matrix' sections of the governing body's document."
+  - question: How can the matrix provided help in deciding on actions to mitigate
+      and monitor ML/TF risks?
+    answer: The matrix can help decide on actions to mitigate and monitor ML/TF risks
+      by categorizing the impact and likelihood of these risks. By using the defined
+      scale for impact, which ranges from low to high, and the matrix from Annex 4,
+      you can determine the level of resources required for action, effort, and monitoring
+      based on the overall risk. This structured approach, as outlined in the 'Risk
+      assessment guidance,' enables a more effective allocation of resources to address
+      ML/TF risks.
+- context: '| Your client offers online gambling | Industry intelligence, including
+    reports from the Royal Canadian Mounted Police, indicates that due to the nature
+    of the business, the gambling sector is susceptible to ML activity. Additionally,
+    the FATF has indicated that internet payment systems are an emerging risk in the
+    gambling industry. Internet payment systems are used to conduct transactions related
+    to online gambling, these two factors make the online gambling industry inherently
+    higher risk.<br>As well, higher inherent risk may exist if the online gambling
+    activities are not managed by provincial lottery and gaming corporations. |
+
+    | Your client''s business structure (or transactions) seems unusually or unnecessarily
+    complex | An unnecessarily complex business structure or complex client transactions
+    (compared to what you normally see in a similar circumstance) may indicate that
+    the client is trying to hide transactions or suspicious activities. |'
+  questions_and_answers:
+  - question: Why is the online gambling industry considered inherently higher risk?
+    answer: The online gambling industry is considered inherently higher risk due
+      to its susceptibility to money laundering (ML) activities, as indicated by industry
+      intelligence and reports from the Royal Canadian Mounted Police. Additionally,
+      the Financial Action Task Force (FATF) has highlighted internet payment systems,
+      which are commonly used in online gambling, as an emerging risk. The risk is
+      further elevated if the online gambling activities are not managed by provincial
+      lottery and gaming corporations.
+  - question: What are some indications that a client's business structure or transactions
+      might be unnecessarily complex?
+    answer: Indications that a client's business structure or transactions might be
+      unnecessarily complex include situations where the complexity seems unusual
+      or unwarranted compared to typical practices in similar circumstances. This
+      might suggest that the client is attempting to conceal transactions or suspicious
+      activities, according to the guidelines provided in Annex 5 of the risk assessment
+      guidance.
+  - question: How do internet payment systems contribute to the risk associated with
+      online gambling?
+    answer: Internet payment systems contribute to the risk associated with online
+      gambling, as indicated by the Financial Action Task Force (FATF). They facilitate
+      transactions related to online gambling, making the industry inherently higher
+      risk and more susceptible to money laundering (ML) activities.
+- context: '| Your clients use products such as bank drafts and letters of credit.
+    | **Bank drafts** can move large amounts of funds in bearer form without the bulkiness
+    of cash. They are much like cash in the sense that the holder of the draft is
+    the owner of the money. For example, a 100,000 dollar bank draft (showing a financial
+    institution as the payee) and can be passed from one person to another, effectively
+    blurring the money trail.<br>You can mitigate the inherent risk of this product
+    when it is issued as payable only to specific payees and when the information
+    about the draft''s originator are included (name, account number, etc.). <br>**Letters
+    of credit** are essentially a guarantee from a bank that a seller will receive
+    payment for goods. While guaranteed by a bank, letters of credit have a higher
+    inherent ML/TF risk as they can be used in trade-based transactions to increase
+    the appearance of legitimacy and reduce the risk of detection. Money launderers
+    using trade-based transactions'
+  questions_and_answers:
+  - question: What risks are associated with the use of bank drafts in financial transactions?
+    answer: Bank drafts pose risks such as the potential to move large funds anonymously,
+      similar to cash, which can blur the money trail and facilitate illicit activities.
+      To mitigate these risks, it's recommended to issue drafts payable only to specific
+      payees and include detailed information about the draft's originator.
+  - question: How can the risk associated with bank drafts be mitigated?
+    answer: To mitigate the risk associated with bank drafts, ensure that they are
+      issued as payable only to specific payees and include detailed information about
+      the draft's originator, such as the name and account number. This approach is
+      part of a relationship-based risk assessment strategy.
+  - question: What risks are associated with the use of letters of credit in trade-based
+      transactions?
+    answer: The use of letters of credit in trade-based transactions is associated
+      with a higher inherent money laundering/terrorist financing (ML/TF) risk. This
+      is because letters of credit can be utilized to enhance the appearance of legitimacy
+      and reduce the risk of detection, making them attractive for illicit activities.
+- context: "Delivery channels that allow for non-face-to-face transactions pose a\
+    \ higher inherent risk. Many delivery channels do not bring the client into direct\
+    \ face-to-face contact with you (for example, internet, telephone or new products\
+    \ such as virtual currency, chat applications, online document signing, etc.)\
+    \ and are accessible 24 hours a day, 7 days a week, from almost anywhere. This\
+    \ can be used to obscure the true identity of a client or beneficial owner, and\
+    \ therefore poses a higher risk. Although some delivery channels may have become\
+    \ the norm (for example, the use of internet for banking), you should nonetheless\
+    \ consider them in combination with other factors that could make a specific element,\
+    \ client or group of clients high-risk.  \nSome products, services and delivery\
+    \ channels inherently pose a higher risk. See Annex 5 \u2014 Table 9: Relationship-based\
+    \ examples of higher risk indicators and considerations for products, services\
+    \ and delivery channels."
+  questions_and_answers:
+  - question: What kinds of delivery channels are associated with higher inherent
+      risks in the context of money laundering and terrorist financing?
+    answer: Delivery channels that facilitate non-face-to-face transactions, such
+      as the internet, telephone, virtual currency, chat applications, and online
+      document signing, are associated with higher inherent risks of money laundering
+      and terrorist financing. These channels allow for transactions to be conducted
+      without direct face-to-face contact, making it easier to obscure the true identity
+      of a client or beneficial owner. This is part of the risk-based approach cycle
+      outlined by the governing body for assessing money laundering and terrorist
+      financing risks.
+  - question: How can non-face-to-face transactions obscure the true identity of a
+      client or beneficial owner?
+    answer: Non-face-to-face transactions can obscure the true identity of a client
+      or beneficial owner by eliminating direct contact with the entity. These transactions,
+      facilitated through channels like the internet, telephone, or virtual currencies,
+      can be conducted from anywhere at any time, making it easier to conceal identities
+      and increasing the risk of money laundering and terrorist financing. This is
+      a critical consideration under the risk-based approach cycle for assessing such
+      risks, as specified by regulatory guidelines.
+  - question: Why is it important to consider delivery channels in combination with
+      other factors when assessing high-risk clients or groups of clients?
+    answer: It is important to consider delivery channels in combination with other
+      factors when assessing high-risk clients or groups of clients because certain
+      delivery channels, particularly those facilitating non-face-to-face transactions,
+      inherently pose a higher risk of money laundering and terrorist financing. These
+      channels, such as internet, telephone, and virtual currency platforms, can be
+      exploited to obscure the true identity of clients or beneficial owners. While
+      some of these channels have become commonplace, assessing them in conjunction
+      with other risk indicators allows for a more comprehensive and accurate risk
+      assessment, as outlined by the risk-based approach cycle under the relationship-based
+      risk assessment guidelines.
+- context: "- applying **enhanced or special measures** to those transactions and\
+    \ business relationships identified as high-risk.Footnote 11\n- identify and assess\
+    \ potential gaps or weaknesses of your compliance program. For example, using\
+    \ an RBA can help you to identify and assess risks that could impact other parts\
+    \ of your compliance program, such as gaps in your written policies, procedures\
+    \ or training program.  \nThe PCMLTFA and associated Regulations do not prohibit\
+    \ you from having high-risk activities or high-risk business relationships. However,\
+    \ it is important that if you identify high-risk activities or high-risk business\
+    \ relationships that you document and implement appropriate controls to mitigate\
+    \ these risks and apply prescribed special measures."
+  questions_and_answers:
+  - question: What are enhanced or special measures in the context of a risk-based
+      approach (RBA)?
+    answer: Enhanced or special measures in the context of a risk-based approach (RBA)
+      refer to additional controls and procedures that are applied to transactions
+      and business relationships identified as high-risk, as outlined by FINTRAC's
+      risk assessment guidance. These measures aim to mitigate potential risks and
+      can include actions such as increased monitoring, heightened scrutiny, and more
+      rigorous reporting requirements.
+  - question: How can a risk-based approach (RBA) help in identifying and assessing
+      gaps in a compliance program?
+    answer: A risk-based approach (RBA) can help identify and assess gaps in a compliance
+      program by enabling the identification and assessment of potential weaknesses
+      or vulnerabilities. For example, using an RBA as guided by FINTRAC can help
+      uncover risks that may impact other components of the compliance program, such
+      as gaps in written policies, procedures, or training programs. By focusing on
+      high-risk transactions and business relationships, organizations can apply enhanced
+      measures to mitigate these risks and ensure compliance with the Proceeds of
+      Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA) and associated
+      regulations.
+  - question: Why is it important to document and implement controls for high-risk
+      activities or high-risk business relationships under a risk-based approach (RBA)?
+    answer: It is important to document and implement controls for high-risk activities
+      or high-risk business relationships under a risk-based approach (RBA) because
+      FINTRAC requires the application of enhanced or special measures to mitigate
+      these risks. This approach helps identify and address potential gaps or weaknesses
+      in compliance programs, ensuring that risks are effectively managed and that
+      businesses remain compliant with the Proceeds of Crime (Money Laundering) and
+      Terrorist Financing Act (PCMLTFA) and associated Regulations.
+document_outline: ' This document provides guidance from FINTRAC to help reporting
+  entities understand and assess money laundering and terrorist financing risks, and
+  implement a risk-based approach to mitigate these risks.'

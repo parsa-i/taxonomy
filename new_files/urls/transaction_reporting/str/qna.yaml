@@ -1,0 +1,237 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: "| **Suspicion type** | Select:<br>- money laundering<br>- terrorist financing<br>-\
+    \ money laundering and terrorist financing<br>- sanctions evasion<br>- money laundering\
+    \ and sanctions evasion<br>- terrorist financing and sanctions evasion<br>- money\
+    \ laundering, terrorist financing and sanctions evasion<br>If your primary suspicion\
+    \ type is sanctions evasion, and you do not have the system capability at this\
+    \ time to select the new sanctions evasion option, you must select \u201Cmoney\
+    \ laundering\u201D as suspicion type from the drop down list and add #SANCTIONS\
+    \ as part of the grounds for suspicion in the Description of suspicious activity\
+    \ section. |\n| **Public-Private partnership name** | Select the public-private\
+    \ partnership project name that the Suspicious Transaction Report is associated\
+    \ with, if applicable. |\n| **Does this report include information about an individual\
+    \ you have determined to be a politically exposed person (PEP)?** | This field\
+    \ is a \"Yes/No\" question. |"
+  questions_and_answers:
+  - question: What are the different types of suspicions that can be reported under
+      the 'Details of suspicion' section?
+    answer: 'The different types of suspicions that can be reported under the ''Details
+      of suspicion'' section include:
+
+
+      - Money laundering
+
+      - Terrorist financing
+
+      - Money laundering and terrorist financing
+
+      - Sanctions evasion
+
+      - Money laundering and sanctions evasion
+
+      - Terrorist financing and sanctions evasion
+
+      - Money laundering, terrorist financing, and sanctions evasion'
+  - question: How should a regulatory officer handle the reporting of a suspicion
+      primarily involving sanctions evasion if the system does not have the capability
+      to select the new sanctions evasion option?
+    answer: 'If the system does not have the capability to select the new sanctions
+      evasion option, the regulatory officer should select "money laundering" as the
+      suspicion type from the drop-down list. Additionally, they must add #SANCTIONS
+      as part of the grounds for suspicion in the ''Description of suspicious activity''
+      section.'
+  - question: What information is required regarding a politically exposed person
+      (PEP) in the 'Details of suspicion' section?
+    answer: The 'Details of suspicion' section requires indicating whether the report
+      includes information about an individual determined to be a politically exposed
+      person (PEP) with a "Yes/No" response.
+- context: "### Measures you can take to establish the reasonable grounds to suspect\
+    \ threshold  \nThe measures you can take to establish that there are reasonable\
+    \ grounds to suspect that the transaction or attempted transaction is related\
+    \ to the commission of a money laundering or terrorist activity financing offence\
+    \ include the following:  \n- screening for and identifying suspicious transactions\n\
+    - assessing the facts and context surrounding the suspicious transaction\n- linking\
+    \ money laundering or terrorist activity financing indicators to your assessment\
+    \ of the facts and context\n- explaining your grounds for suspicion in a Suspicious\
+    \ Transaction Report, where you articulate how the **facts**, **context** and\
+    \ **money laundering and terrorist activity financing indicators** allowed you\
+    \ to reach your grounds for suspicion  \nYour measures must be described in your\
+    \ compliance policies and procedures."
+  questions_and_answers:
+  - question: What steps can a regulatory officer take to determine if a transaction
+      is related to money laundering or terrorist financing?
+    answer: 'To determine if a transaction is related to money laundering or terrorist
+      financing, a regulatory officer can take the following steps outlined by the
+      governing compliance policies:
+
+
+      1. **Screen and Identify Suspicious Transactions**: Actively monitor and screen
+      transactions to identify any that appear unusual or suspicious.
+
+
+      2. **Assess Facts and Context**: Evaluate the specific details and circumstances
+      surrounding the suspicious transaction to understand its nature and purpose.
+
+
+      3. **Link Indicators**: Connect any observed money laundering or terrorist financing
+      indicators to the assessment of the transaction''s facts and context.
+
+
+      4. **Document Grounds for Suspicion**: Clearly articulate the reasons for suspicion
+      in a Suspicious Transaction Report, explaining how the **facts**, **context**,
+      and **indicators** led to the suspicion.
+
+
+      These steps should be detailed in the organization''s compliance policies and
+      procedures.'
+  - question: How should the grounds for suspicion be documented in a Suspicious Transaction
+      Report?
+    answer: To document the grounds for suspicion in a Suspicious Transaction Report,
+      you should articulate how the **facts**, **context**, and **money laundering
+      and terrorist activity financing indicators** led you to suspect that the transaction
+      is related to money laundering or terrorist financing. This explanation should
+      be detailed in your compliance policies and procedures, as required by the governing
+      regulations.
+  - question: What role do compliance policies and procedures play in establishing
+      reasonable grounds for suspicion in banking transactions?
+    answer: Compliance policies and procedures play a crucial role in establishing
+      reasonable grounds for suspicion in banking transactions. They detail specific
+      measures such as screening for and identifying suspicious transactions, assessing
+      the facts and context surrounding these transactions, and linking money laundering
+      or terrorist activity financing indicators to the assessment. These policies
+      require that the grounds for suspicion be clearly explained in a Suspicious
+      Transaction Report, articulating how the facts, context, and indicators led
+      to the suspicion. These measures are mandated to be documented within the institution's
+      compliance framework.
+- context: '- If the transaction involves an entity, you can include information on
+    the ownership, control and structure of the business in the Suspicious Transaction
+    Report.
+
+    - Provide **clear information** **about each person or entity''s role** in each
+    of the financial transactions described. For example, it is important to know
+    who is sending and receiving the funds and this can be elaborated in the Details
+    of suspicion section of the Suspicious Transaction Report.
+
+    - **Provide the relationships between the parties (if known).** This is very helpful
+    to FINTRAC when trying to establish networks of persons or entities suspected
+    of being involved in the commission or attempted commission of a money laundering,
+    terrorist activity financing or sanctions evasion offence.
+
+    - **When** was the transaction completed/attempted? If it was not completed, why
+    not?'
+  questions_and_answers:
+  - question: What details should be included in a Suspicious Transaction Report regarding
+      the ownership and structure of an entity involved in a transaction?
+    answer: 'The Suspicious Transaction Report should include the following details
+      regarding the ownership and structure of an entity involved in a transaction,
+      as per FINTRAC guidelines:
+
+
+      - Information on the ownership, control, and structure of the business.
+
+      - Clear information about each person or entity''s role in the financial transactions,
+      such as who is sending and receiving the funds.
+
+      - The relationships between the parties involved, if known, to help establish
+      networks of persons or entities suspected of wrongdoing.'
+  - question: How should the roles of each person or entity in financial transactions
+      be described within a Suspicious Transaction Report?
+    answer: The roles of each person or entity in financial transactions should be
+      described clearly in a Suspicious Transaction Report, as advised by FINTRAC.
+      This includes specifying who is sending and receiving the funds, detailing their
+      roles, and explaining the relationships between the parties, if known. Additionally,
+      the report should include the timeline of the transaction, noting when it was
+      completed or attempted, and any reasons for incompletion.
+  - question: Why is it important to provide information on the relationships between
+      parties in a Suspicious Transaction Report, and what specific details should
+      be included?
+    answer: 'It is important to provide information on the relationships between parties
+      in a Suspicious Transaction Report because it helps FINTRAC establish networks
+      of persons or entities suspected of being involved in money laundering, terrorist
+      activity financing, or sanctions evasion offenses. Specific details that should
+      be included are:
+
+
+      - The role of each person or entity in the financial transactions, including
+      who is sending and receiving funds.
+
+      - The relationships between the parties, if known.
+
+      - The timeline of the transaction, including when it was completed or attempted,
+      and why it was not completed, if applicable.
+
+      - If the transaction involves an entity, information on the ownership, control,
+      and structure of the business.'
+- context: "| **Time of transaction** | Enter the time of the transaction or attempted\
+    \ transaction and provide the time zone (that is, UTC offset) based on the location\
+    \ where the transaction or attempted transaction took place (for example, the\
+    \ location of where the cash was received). <br>The time must be entered in the\
+    \ following format: HH:MM:SS\xB1ZZ:ZZ. <br>- For example, 1:25:06 pm in Ottawa,\
+    \ ON would be reported as 13:25:06-05:00.<br>A report can contain multiple transactions\
+    \ that took place in different time zones.<br>If you do not know the time of an\
+    \ attempted transaction, but you are aware of the approximate time frame of when\
+    \ the attempted transaction occurred, you can indicate this in the narrative section\
+    \ of the report (Details of suspicion)\u2014for example, afternoon, morning, between\
+    \ 3 to 4 pm. |"
+  questions_and_answers:
+  - question: What format should be used to report the time of a transaction or attempted
+      transaction?
+    answer: "According to FINTRAC's guidance on reporting suspicious transactions,\
+      \ the time of a transaction or attempted transaction should be reported in the\
+      \ following format: HH:MM:SS\xB1ZZ:ZZ. This includes providing the time zone\
+      \ (UTC offset) based on the location where the transaction or attempted transaction\
+      \ took place. For example, 1:25:06 pm in Ottawa, ON would be reported as 13:25:06-05:00."
+  - question: How should different time zones be handled when reporting a transaction
+      that occurred in multiple locations?
+    answer: "According to FINTRAC's guidance on reporting suspicious transactions,\
+      \ different time zones should be handled by entering the time of the transaction\
+      \ or attempted transaction with the UTC offset based on the location where the\
+      \ transaction occurred. The time must be entered in the format HH:MM:SS\xB1\
+      ZZ:ZZ. If multiple transactions in different time zones are included in a single\
+      \ report, each should be reported with its respective time zone."
+  - question: What should be done if the exact time of an attempted transaction is
+      not known, but the approximate time frame is available?
+    answer: If the exact time of an attempted transaction is not known, but the approximate
+      time frame is available, you should indicate this in the narrative section of
+      the report under "Details of suspicion," as per FINTRAC's guidelines. For example,
+      you can note it as "afternoon," "morning," or "between 3 to 4 pm."
+- context: "##### Identification of the entity on whose behalf the transaction was\
+    \ conducted  \nProvide the following information that was used to verify the identity\
+    \ of the entity on whose behalf the transaction was conducted.  \nFor some entities,\
+    \ this information may be the same as the registration or incorporation information.\
+    \  \n| Fields | Instructions |\n| --- | --- |\n| **Identifier type** | Refer toIdentification\
+    \ fieldsunder \"Standardized field instructions\". |\n| **\u2020 If \"Other\"\
+    , please specify** | If \"Other\" identifier type is selected, you must specify\
+    \ the identifier type. |\n| **Number associated with identifier type** | Same\
+    \ instructions (Identification fields) |\n| **Jurisdiction of issue (country)**\
+    \ | Same instructions (Identification fields) |\n| **Jurisdiction of issue (province\
+    \ or state)** | Same instructions (Identification fields) |  \nInstructions for\
+    \ the fields under \"Identification 1 of N on behalf of entity B\""
+  questions_and_answers:
+  - question: What specific fields should be provided to verify the identity of the
+      entity on whose behalf a suspicious transaction was conducted?
+    answer: 'To verify the identity of the entity on whose behalf a suspicious transaction
+      was conducted, the following specific fields should be provided: Identifier
+      type, specification if "Other" identifier type is selected, number associated
+      with identifier type, jurisdiction of issue (country), and jurisdiction of issue
+      (province or state). These fields may align with the entity''s registration
+      or incorporation details.'
+  - question: Why might the identification information for an entity overlap with
+      its registration or incorporation details?
+    answer: The identification information for an entity might overlap with its registration
+      or incorporation details because the same information used to register or incorporate
+      an entity is often used to verify its identity in transactions. This can include
+      identifiers like registration numbers, jurisdiction of issue, and other details
+      that are crucial for both verifying the entity's legitimacy and tracking its
+      activities.
+  - question: How should a regulatory officer handle the situation where the identifier
+      type is specified as 'Other' when verifying an entity's identity?
+    answer: If the identifier type is specified as 'Other', the regulatory officer
+      should specify the identifier type as per the instructions under "Identification
+      fields" referenced in the "Standardized field instructions."
+document_outline: This document outlines FINTRAC's guidelines for reporting suspicious
+  transactions, detailing who must comply, what constitutes a suspicious transaction,
+  and the legal responsibilities involved.

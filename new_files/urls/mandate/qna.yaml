@@ -1,0 +1,172 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: "The Centre's mandate is to ensure the compliance of businesses subject\
+    \ to the _Proceeds of Crime (Money Laundering) and Terrorist Financing Act_ and\
+    \ associated Regulations, and to generate actionable financial intelligence for\
+    \ police, law enforcement and national security agencies to assist in the investigation\
+    \ of money laundering and terrorist activity financing offences or threats to\
+    \ the security of Canada. The Centre acts at arm's length and is independent from\
+    \ the police services, law enforcement agencies and other entities to which it\
+    \ is authorized to disclose financial intelligence.  \nFINTRAC is headquartered\
+    \ in Ottawa, with regional offices located in Montr\xE9al, Toronto, and Vancouver.\
+    \ It reports to the Minister of Finance, who is in turn accountable to Parliament\
+    \ for the activities of the Centre."
+  questions_and_answers:
+  - question: What is the primary mandate of FINTRAC as it relates to compliance and
+      intelligence generation?
+    answer: The primary mandate of FINTRAC is to ensure compliance with the _Proceeds
+      of Crime (Money Laundering) and Terrorist Financing Act_ and associated Regulations,
+      and to generate actionable financial intelligence for police, law enforcement,
+      and national security agencies to assist in the investigation of money laundering
+      and terrorist activity financing offences or threats to the security of Canada.
+  - question: How does FINTRAC maintain its independence in relation to police services
+      and law enforcement agencies?
+    answer: FINTRAC maintains its independence by acting at arm's length and being
+      separate from police services, law enforcement agencies, and other entities
+      to which it provides financial intelligence. This independence is outlined in
+      its mandate under the *Proceeds of Crime (Money Laundering) and Terrorist Financing
+      Act*.
+  - question: Where are the headquarters and regional offices of FINTRAC located,
+      and to whom does FINTRAC report?
+    answer: "FINTRAC's headquarters are in Ottawa, with regional offices in Montr\xE9\
+      al, Toronto, and Vancouver. It reports to the Minister of Finance, who is accountable\
+      \ to Parliament for the Centre's activities."
+- context: "### How does FINTRAC work with OSFI?  \nIn fulfilling its core supervisory\
+    \ and financial intelligence mandates, FINTRAC works closely with OSFI.  \nUnder\
+    \ the PCMLTFA and the OSFI Act, FINTRAC and OSFI have respective authorities to\
+    \ share information related to the compliance of federally regulated financial\
+    \ institutions with Parts 1 and 1.1 of the PCMLTFA.  \nFINTRAC and OSFI can also\
+    \ share compliance-related information for the purpose of assessing risks to the\
+    \ integrity of Canada's financial system that may arise from the grant, revocation,\
+    \ suspension or amendment of an approval under the Bank Act, the Insurance Companies\
+    \ Act and the Trust and Loan Companies Act where this information also relates\
+    \ to money laundering activities or terrorist activity financing."
+  questions_and_answers:
+  - question: What are the mandates of FINTRAC that involve collaboration with OSFI?
+    answer: FINTRAC's mandates that involve collaboration with OSFI include sharing
+      information related to the compliance of federally regulated financial institutions
+      with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA),
+      as well as assessing risks to the integrity of Canada's financial system that
+      may arise from actions taken under the Bank Act, the Insurance Companies Act,
+      and the Trust and Loan Companies Act, where such information also relates to
+      money laundering activities or terrorist activity financing.
+  - question: Under which acts do FINTRAC and OSFI share information related to the
+      compliance of federally regulated financial institutions?
+    answer: FINTRAC and OSFI share information related to the compliance of federally
+      regulated financial institutions under the PCMLTFA (Proceeds of Crime (Money
+      Laundering) and Terrorist Financing Act) and the OSFI Act.
+  - question: How do FINTRAC and OSFI assess risks to the integrity of Canada's financial
+      system related to money laundering and terrorist financing?
+    answer: FINTRAC and OSFI assess risks to the integrity of Canada's financial system
+      related to money laundering and terrorist financing by sharing information and
+      collaborating on compliance-related matters. This cooperation is facilitated
+      under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA)
+      and the OSFI Act, allowing for the exchange of information pertinent to the
+      compliance of federally regulated financial institutions with Parts 1 and 1.1
+      of the PCMLTFA. Additionally, they share information to evaluate risks arising
+      from regulatory actions under the Bank Act, the Insurance Companies Act, and
+      the Trust and Loan Companies Act when such actions relate to money laundering
+      or terrorist financing activities.
+- context: "### What does OSFI do?  \nOSFI is an independent agency of the Government\
+    \ of Canada, established to protect depositors, policyholders, financial institution\
+    \ creditors, and pension plan members, while allowing financial institutions to\
+    \ compete and take reasonable risks.  \nOSFI's overarching mandate is to contribute\
+    \ to public confidence in the Canadian financial system by:  \nfostering sound\
+    \ risk management and governance practices through a regulatory framework designed\
+    \ to control and manage risk\nsupervising and intervening early if there are material\
+    \ deficiencies, and taking corrective measures, or requiring that institution\
+    \ act to address the situation\nmonitoring and evaluating system-wide or sectoral\
+    \ developments that may have a negative impact on the financial condition of federally\
+    \ regulated financial institutions"
+  questions_and_answers:
+  - question: What is the primary mandate of the Office of the Superintendent of Financial
+      Institutions (OSFI) in Canada?
+    answer: The primary mandate of the Office of the Superintendent of Financial Institutions
+      (OSFI) in Canada is to contribute to public confidence in the Canadian financial
+      system by protecting depositors, policyholders, financial institution creditors,
+      and pension plan members. It achieves this through fostering sound risk management
+      and governance practices, supervising and intervening early in cases of material
+      deficiencies, and monitoring system-wide developments that may impact federally
+      regulated financial institutions.
+  - question: How does OSFI contribute to the stability and confidence of Canada's
+      financial system?
+    answer: OSFI contributes to the stability and confidence of Canada's financial
+      system by fostering sound risk management and governance practices through its
+      regulatory framework, supervising and intervening early to address material
+      deficiencies, and monitoring system-wide developments that could impact federally
+      regulated financial institutions.
+  - question: What actions does OSFI take when it identifies material deficiencies
+      within financial institutions?
+    answer: When OSFI identifies material deficiencies within financial institutions,
+      it supervises and intervenes early, taking corrective measures or requiring
+      the institution to act to address the situation.
+- context: "## Threats to the security of Canada  \nFINTRAC's role is to provide CSIS\
+    \ with financial intelligence to assist that agency in fulfilling its mandate\
+    \ of investigating threats to the security of Canada. Threats to the security\
+    \ of Canada are defined in the Canadian Security Intelligence Service Act as:\
+    \  \n1. espionage or sabotage that is against Canada or is detrimental to the\
+    \ interests of Canada or activities directed toward or in support of such espionage\
+    \ or sabotage;\n2. foreign influenced activities within or relating to Canada\
+    \ that are detrimental to the interests of Canada and are clandestine or deceptive,\
+    \ or involve a threat to any person;\n3. activities within or relating to Canada\
+    \ directed toward or in support of the threat or use of acts of serious violence\
+    \ against persons or property for the purpose of achieving a political, religious\
+    \ or ideological objective within Canada or a foreign state; and,"
+  questions_and_answers:
+  - question: What are the primary threats to Canada's security as defined by the
+      Canadian Security Intelligence Service Act?
+    answer: 'The primary threats to Canada''s security, as defined by the Canadian
+      Security Intelligence Service Act, are:
+
+
+      1. Espionage or sabotage against Canada, or activities supporting such actions.
+
+      2. Foreign influenced activities that are clandestine, deceptive, or threatening
+      to individuals.
+
+      3. Activities supporting the threat or use of serious violence for political,
+      religious, or ideological objectives within Canada or abroad.'
+  - question: How does FINTRAC assist CSIS in investigating threats to Canada's security?
+    answer: FINTRAC assists CSIS in investigating threats to Canada's security, as
+      defined by the Canadian Security Intelligence Service Act, by providing financial
+      intelligence related to espionage, sabotage, foreign influenced activities,
+      and activities supporting politically, religiously, or ideologically motivated
+      violence.
+  - question: What types of activities are considered detrimental to the interests
+      of Canada under the Canadian Security Intelligence Service Act?
+    answer: Activities considered detrimental to the interests of Canada under the
+      Canadian Security Intelligence Service Act include espionage, sabotage, foreign
+      influenced activities that are clandestine or deceptive, and activities supporting
+      acts of serious violence for political, religious, or ideological objectives.
+- context: "## Money laundering  \nMoney laundering is the process used to disguise\
+    \ the source of money or assets derived from criminal activity. There are three\
+    \ recognized stages in the money laundering process:  \n1. **Placement** involves\
+    \ placing the proceeds of crime in the financial system.\n2. **Layering** involves\
+    \ converting the proceeds of crime into another form and creating complex layers\
+    \ of financial transactions to disguise the trail and the source and ownership\
+    \ of funds. This stage may involve transactions such as the buying and selling\
+    \ of stocks, commodities or property.\n3. **Integration** involves placing the\
+    \ laundered proceeds back into the economy to create the perception of legitimacy.\
+    \  \nThe money laundering process is continuous, with new 'dirty' money constantly\
+    \ being introduced into the financial system."
+  questions_and_answers:
+  - question: What are the three main stages of the money laundering process?
+    answer: The three main stages of the money laundering process are placement, layering,
+      and integration.
+  - question: How is the 'layering' stage in money laundering designed to obscure
+      the source of funds?
+    answer: The 'layering' stage in money laundering is designed to obscure the source
+      of funds by converting the proceeds of crime into another form and creating
+      complex layers of financial transactions. This stage may involve transactions
+      such as the buying and selling of stocks, commodities, or property to disguise
+      the trail and the source and ownership of funds.
+  - question: In the context of money laundering, what is the primary goal of the
+      'integration' stage?
+    answer: The primary goal of the 'integration' stage in money laundering is to
+      place the laundered proceeds back into the economy to create the perception
+      of legitimacy.
+document_outline: This document provides an overview of FINTRAC's mandate and describes
+  the process of money laundering to assist regulatory officers in understanding their
+  role in combating financial crimes.

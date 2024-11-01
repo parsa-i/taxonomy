@@ -1,0 +1,200 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: Record keeping violations directly affect the objective set out in subparagraph
+    3(a)(i) of the PCMLTFA. Record keeping requirements are important to Canada's
+    anti-money laundering and anti-terrorist financing (AML/ATF) regime because they
+    compel the preservation of the information that is needed to achieve the objectives
+    of the PCMLTFA and FINTRAC's mandate. The information that is required to be kept
+    serves to identify individuals and entities that own or control funds, or conduct,
+    direct or are beneficiaries to transactions. The required information also helps
+    clarify financial transactions and activities for the purposes of following the
+    flow of funds (such as transaction amounts, dates, currency types, etc.); of understanding
+    clients (such as the nature of their business, occupation, intended use of accounts,
+    etc.); of identifying relationships (such as third party information); of providing
+    evidence for law enforcement investigations and prosecutions, and complying with
+    the
+  questions_and_answers:
+  - question: Why are record-keeping requirements crucial for Canada's anti-money
+      laundering and anti-terrorist financing regime?
+    answer: Record-keeping requirements are crucial for Canada's anti-money laundering
+      and anti-terrorist financing regime because they ensure the preservation of
+      information necessary to achieve the objectives of the Proceeds of Crime (Money
+      Laundering) and Terrorist Financing Act (PCMLTFA) and FINTRAC's mandate. This
+      information is essential for identifying individuals and entities involved in
+      transactions, clarifying financial activities, and supporting law enforcement
+      investigations and prosecutions.
+  - question: How does the information preserved through record-keeping help in identifying
+      individuals and entities involved in financial transactions?
+    answer: The information preserved through record-keeping, as mandated by Canada's
+      Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA),
+      helps in identifying individuals and entities involved in financial transactions
+      by maintaining details about those who own or control funds, conduct transactions,
+      or are beneficiaries. This information is crucial for clarifying financial activities
+      and providing evidence for law enforcement investigations.
+  - question: In what ways do record-keeping requirements support law enforcement
+      investigations and prosecutions within the context of the PCMLTFA and FINTRAC's
+      mandate?
+    answer: Record-keeping requirements support law enforcement investigations and
+      prosecutions by preserving information necessary to identify individuals and
+      entities involved in financial transactions, clarify the nature and flow of
+      funds, and provide evidentiary support. These requirements are crucial to achieving
+      the objectives of the Proceeds of Crime (Money Laundering) and Terrorist Financing
+      Act (PCMLTFA) and the Financial Transactions and Reports Analysis Centre of
+      Canada's (FINTRAC) mandate.
+- context: "### 1.1 Purpose of the guide  \nThis guide presents how FINTRAC approaches\
+    \ the harm done criterion and the base penalty amount for violations under the\
+    \ _Proceeds of Crime (Money Laundering) and Terrorist Financing Act_ (the Act)\
+    \ and its regulations. According to section 73.11 of the Act, FINTRAC must consider\
+    \ the harm done by a violation, that the purpose of an administrative monetary\
+    \ penalty (AMP) is to encourage compliance rather than to punish, and all other\
+    \ criteria prescribed in the regulations, including a reporting entity's (RE)\
+    \ history of compliance, when determining the amount of a penalty. Considerations\
+    \ for the non-punitive nature of an AMP and an REs' compliance history are assessed\
+    \ in another step in the penalty calculation and are outlined separately in FINTRAC's\
+    \ AMP policy."
+  questions_and_answers:
+  - question: What is the primary objective of the administrative monetary penalties
+      (AMPs) imposed by FINTRAC, and how does this relate to the concept of compliance?
+    answer: The primary objective of the administrative monetary penalties (AMPs)
+      imposed by FINTRAC is to encourage compliance with the _Proceeds of Crime (Money
+      Laundering) and Terrorist Financing Act_. This non-punitive approach aims to
+      promote adherence to the regulations rather than to penalize violations. The
+      concept of compliance is central to this objective, as FINTRAC considers an
+      entity's compliance history when determining the amount of a penalty.
+  - question: According to the guide, what factors does FINTRAC consider when determining
+      the amount of a penalty for violations under the _Proceeds of Crime (Money Laundering)
+      and Terrorist Financing Act_?
+    answer: According to FINTRAC, the factors considered when determining the amount
+      of a penalty for violations under the _Proceeds of Crime (Money Laundering)
+      and Terrorist Financing Act_ include the harm done by the violation, the non-punitive
+      nature of administrative monetary penalties, and the reporting entity's history
+      of compliance. These considerations are outlined in section 73.11 of the Act
+      and FINTRAC's AMP policy.
+  - question: How does FINTRAC assess the non-punitive nature of an AMP and a reporting
+      entity's compliance history in the context of penalty calculations?
+    answer: FINTRAC assesses the non-punitive nature of an Administrative Monetary
+      Penalty (AMP) and a reporting entity's compliance history as part of the penalty
+      calculation process, in accordance with section 73.11 of the _Proceeds of Crime
+      (Money Laundering) and Terrorist Financing Act_. These considerations are outlined
+      separately in FINTRAC's AMP policy.
+- context: "The highest level of harm (Level 1), which incurs a penalty of $1,000,\
+    \ is for violations that would have the greatest negative impact on the achievement\
+    \ of the objectives of the PCMLTFA and on FINTRAC's mandate. The lowest of the\
+    \ four levels of harm (Level 4) incurs a penalty of $250. Penalty amounts may\
+    \ be reduced if there are mitigating factors. All factors that may reduce a penalty\
+    \ will be considered, potentially lowering the penalty to the $1 minimum set out\
+    \ in the AMP Regulations.  \nThe information that must be kept under the Act and\
+    \ its regulations can serve one or more purposes. Therefore, non-compliance with\
+    \ one record keeping requirement can cause various harm to the achievement of\
+    \ the objectives of the Act and FINTRAC's mandate. The table below lists the levels\
+    \ of harm, the types of non-compliance and the descriptions of harm along with\
+    \ their corresponding penalty."
+  questions_and_answers:
+  - question: What is the highest level of harm and its corresponding penalty for
+      record-keeping violations related to the PCMLTFA and FINTRAC's mandate?
+    answer: The highest level of harm (Level 1) for record-keeping violations related
+      to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA)
+      and FINTRAC's mandate incurs a penalty of $1,000.
+  - question: How can mitigating factors affect the penalties for record-keeping violations
+      under the PCMLTFA?
+    answer: Mitigating factors can reduce the penalties for record-keeping violations
+      under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA)
+      by potentially lowering the penalty to the $1 minimum set out in the Administrative
+      Monetary Penalties (AMP) Regulations. FINTRAC considers all factors that may
+      reduce a penalty, which could lower the initial penalty amount corresponding
+      to the level of harm caused by the violation.
+  - question: What are the different levels of harm and their respective penalties
+      for record-keeping violations as outlined in the PCMLTFA regulations?
+    answer: 'The different levels of harm and their respective penalties for record-keeping
+      violations under the Proceeds of Crime (Money Laundering) and Terrorist Financing
+      Act (PCMLTFA) regulations are as follows:
+
+
+      - Level 1: Penalty of $1,000 for violations with the greatest negative impact
+      on PCMLTFA objectives and FINTRAC''s mandate.
+
+      - Level 4: Penalty of $250 for the lowest level of harm.
+
+
+      Penalties may be reduced to a minimum of $1 if mitigating factors are considered,
+      as per the Administrative Monetary Penalties (AMP) Regulations. Non-compliance
+      with record-keeping requirements can cause varied harm, affecting the achievement
+      of the Act''s objectives and FINTRAC''s mandate.'
+- context: "### 2.14 Penalty determination for violations related to keeping prescribed\
+    \ records  \nThe Proceeds of Crime (Money Laundering) and Terrorist Activity Financing\
+    \ Administrative Monetary Penalties Regulations (AMP Regulations) allow a penalty\
+    \ ranging from $1 to $1,000 for violations related to record keeping.  \nFINTRAC\
+    \ has identified four levels of harm related to these violations by considering\
+    \ the intended purpose of the information that must be kept and the consequences\
+    \ of not complying with the requirements on Canada's AML/ATF regime. Levels of\
+    \ harm are also based on our ability to use the information to identify individuals,\
+    \ entities, transactions and the flow of funds, to understand ML/TF risks, and\
+    \ to ensure compliance as described below. The penalty range of $1 to $1,000 is\
+    \ divided into four even intervals. Each level of harm incurs a maximum penalty\
+    \ of either: $1,000, $750, $500 or $250."
+  questions_and_answers:
+  - question: What is the range of penalties for record-keeping violations as specified
+      by the AMP Regulations?
+    answer: The range of penalties for record-keeping violations, as specified by
+      the AMP Regulations, is from $1 to $1,000. This range is divided into four levels
+      of harm with corresponding maximum penalties of $1,000, $750, $500, and $250,
+      based on the significance of the impact on Canada's AML/ATF regime.
+  - question: How are the four levels of harm determined for record-keeping violations,
+      and what factors are considered in this determination?
+    answer: The four levels of harm for record-keeping violations are determined by
+      FINTRAC based on the significance of the impact on Canada's Anti-Money Laundering
+      and Anti-Terrorist Financing (AML/ATF) regime. Factors considered include the
+      intended purpose of the information, consequences of non-compliance, and the
+      ability to identify individuals, entities, transactions, and the flow of funds
+      to understand money laundering and terrorist financing risks. The penalty ranges
+      are divided into four even intervals, with maximum penalties of $1,000, $750,
+      $500, and $250 for each level of harm.
+  - question: What are the maximum penalties associated with each of the four levels
+      of harm for record-keeping violations?
+    answer: The maximum penalties associated with each of the four levels of harm
+      for record-keeping violations, as outlined by the Proceeds of Crime (Money Laundering)
+      and Terrorist Activity Financing Administrative Monetary Penalties Regulations
+      (AMP Regulations), are $1,000, $750, $500, and $250, based on the significance
+      of the impact on Canada's AML/ATF regime.
+- context: "### 1.2 Definition of harm  \nFINTRAC defines \"harm\" as the degree to\
+    \ which a violation interferes with achieving the objectives of the ActFootnote\
+    \ 1 or with FINTRAC's ability to carry out its mandateFootnote 2. Therefore, the\
+    \ consequences of non-compliance, when an AMP is imposed, are linked to its effects\
+    \ on Canada's efforts to combat money laundering and terrorist activity financing\
+    \ (ML/TF).  \nCompliance enforcement activities are undertaken to prevent and\
+    \ correct the harm that comes from non-compliance with the Act and regulations.\
+    \ REs' adherence to requirements such as record keeping and verifying client identity\
+    \ assists in the deterrence of ML/TF and supports investigations and criminal\
+    \ prosecutions. The requirements related to reporting ensure that FINTRAC is supplied\
+    \ with the high-quality, timely financial transaction reports it needs to produce\
+    \ the financial intelligence that helps with the investigation and prosecution\
+    \ of ML/TF offences."
+  questions_and_answers:
+  - question: What does FINTRAC define as 'harm' in the context of record-keeping
+      violations?
+    answer: FINTRAC defines "harm" as the degree to which a violation interferes with
+      achieving the objectives of the Act or with FINTRAC's ability to carry out its
+      mandate. This includes the consequences of non-compliance that impede Canada's
+      efforts to combat money laundering and terrorist activity financing (ML/TF).
+  - question: How does non-compliance with record-keeping and client identity verification
+      affect Canada's efforts to combat money laundering and terrorist activity financing
+      (ML/TF)?
+    answer: Non-compliance with record-keeping and client identity verification hinders
+      Canada's efforts to combat money laundering and terrorist activity financing
+      (ML/TF) by interfering with the objectives of the Act and FINTRAC's mandate.
+      According to FINTRAC, such non-compliance diminishes the ability to deter ML/TF
+      activities and support related investigations and prosecutions. It also compromises
+      the quality and timeliness of financial transaction reports, which are crucial
+      for generating financial intelligence used in ML/TF investigations.
+  - question: What is the primary goal of compliance enforcement activities according
+      to the objectives of the Act and FINTRAC's mandate?
+    answer: The primary goal of compliance enforcement activities, according to the
+      objectives of the Act and FINTRAC's mandate, is to prevent and correct the harm
+      that arises from non-compliance, thereby supporting Canada's efforts to combat
+      money laundering and terrorist activity financing (ML/TF).
+document_outline: This document outlines FINTRAC's methodology for assessing the harm
+  caused by record-keeping violations and calculating the base penalty amount, aiming
+  to encourage compliance with the _Proceeds of Crime (Money Laundering) and Terrorist
+  Financing Act_.

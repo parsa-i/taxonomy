@@ -1,0 +1,192 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: "## 6\\. What are the exceptions to making a third party determination\
+    \  \nAs a financial entity, you do **not** need to make a third party determination\
+    \ when you open an account and are required to keep a signature card or an account\
+    \ operating agreement, if the account is for the processing of payments by credit\
+    \ card or prepaid payment product for a merchant.  \nIf you are a financial entity,\
+    \ securities dealer or casino, you do **not** need to make a third party determination\
+    \ when you open an account and are required to keep a signature card or an account\
+    \ operating agreement, if every account holder is a financial entity or a securities\
+    \ dealer that is engaged in the business of dealing in securities in Canada."
+  questions_and_answers:
+  - question: Which specific entities are exempt from making a third party determination
+      when opening an account for credit card processing?
+    answer: Financial entities are exempt from making a third party determination
+      when opening an account for credit card processing. Additionally, financial
+      entities, securities dealers, and casinos are exempt from this requirement when
+      all account holders are financial entities or securities dealers engaged in
+      business in Canada.
+  - question: Under what conditions are financial entities, securities dealers, and
+      casinos exempt from making a third party determination when all account holders
+      are financial entities or securities dealers?
+    answer: Financial entities, securities dealers, and casinos are exempt from making
+      a third party determination when opening an account if every account holder
+      is a financial entity or a securities dealer engaged in the business of dealing
+      in securities in Canada. This exemption applies when a signature card or an
+      account operating agreement is required.
+  - question: How does keeping a signature card or an account operating agreement
+      influence the requirement for third party determination in the context of opening
+      accounts for financial entities and securities dealers?
+    answer: Keeping a signature card or an account operating agreement exempts financial
+      entities and securities dealers from the requirement to make third party determinations
+      when opening accounts for credit card processing or when all account holders
+      are financial entities or securities dealers operating in Canada, as outlined
+      by the governing rules.
+- context: "- When you receive an amount of virtual currency equivalent to $10,000\
+    \ or more, and are required to submit a Large Virtual Currency Transaction Report\
+    \ to FINTRAC **or** to keep a large virtual currency transaction record\u2014\
+    whether according to the person from whom you received the virtual currency, they\
+    \ are acting on their own behalf only\n- When you open an account and are required\
+    \ to keep a signature card or an account operating agreement\u2014 whether according\
+    \ to a person who is authorized to act in respect of the account, the account\
+    \ will only be used by or on behalf of an account holder\n- When you create an\
+    \ information record\u2014whether, according to the person or entity for which\
+    \ the information record is kept, they are acting on their own behalf only, and\n\
+    - When you are required to report a casino disbursement of $10,000 or more\u2014\
+    \ whether, according to the person or entity that makes the request for the disbursement,\
+    \ they are acting on their own behalf only."
+  questions_and_answers:
+  - question: In which scenarios must entities verify if individuals are acting on
+      behalf of themselves or a third party?
+    answer: 'Entities must verify if individuals are acting on behalf of themselves
+      or a third party in the following scenarios:
+
+
+      1. When receiving virtual currency equivalent to $10,000 or more, requiring
+      a Large Virtual Currency Transaction Report to FINTRAC or keeping a large virtual
+      currency transaction record.
+
+      2. When opening an account and maintaining a signature card or an account operating
+      agreement.
+
+      3. When creating an information record.
+
+      4. When reporting a casino disbursement of $10,000 or more.'
+  - question: What is the threshold amount for virtual currency transactions that
+      require verification of the individual's representation?
+    answer: The threshold amount for virtual currency transactions that require verification
+      of the individual's representation is $10,000 or more, as per FINTRAC regulations.
+  - question: Why is it important to determine whether a person is acting on their
+      own behalf when creating an information record?
+    answer: It's important to determine whether a person is acting on their own behalf
+      when creating an information record to comply with FINTRAC (Financial Transactions
+      and Reports Analysis Centre of Canada) regulations. This helps ensure accurate
+      reporting and record-keeping, especially for large transactions, account openings,
+      and casino disbursements, to prevent financial crimes.
+- context: "- the person who conducts the large cash transaction\n- the person who\
+    \ conducts the large virtual currency transaction\n- the account holder(s)\n-\
+    \ the person or entity that the information record is kept on, or\n- the person\
+    \ or entity that requests the casino disbursement.  \nThe relationship between\
+    \ the person or entity and the third party can be for example, an accountant,\
+    \ broker, customer, employee, friend or relative.  \n- A record must be kept of\
+    \ the information obtained.\n- If you receive cash or virtual currency from an\
+    \ armoured car on behalf of another party (such as your client), you must obtain\
+    \ and keep a record of the information detailed above at the time the cash or\
+    \ virtual currency is received.  \n**Retention**: At least 5 years from the date\
+    \ the third party determination record was created"
+  questions_and_answers:
+  - question: Who are the specific individuals and entities whose information must
+      be recorded in relation to third-party transactions?
+    answer: 'According to FINTRAC''s compliance guidance on third-party determination
+      requirements, the specific individuals and entities whose information must be
+      recorded in relation to third-party transactions are:
+
+
+      - The person who conducts the large cash transaction
+
+      - The person who conducts the large virtual currency transaction
+
+      - The account holder(s)
+
+      - The person or entity that the information record is kept on
+
+      - The person or entity that requests the casino disbursement'
+  - question: "What is the retention period for records related to third-party determinations\
+      \ according to FINTRAC\u2019s compliance guidance?"
+    answer: According to FINTRAC's compliance guidance, the retention period for records
+      related to third-party determinations is at least 5 years from the date the
+      record was created.
+  - question: Under what circumstances must a record be kept when receiving cash or
+      virtual currency on behalf of another party?
+    answer: A record must be kept when receiving cash or virtual currency on behalf
+      of another party, such as a client, from an armoured car. This requirement is
+      in accordance with FINTRAC's compliance guidance on third-party determination
+      requirements.
+- context: "## 3\\. When to make a determination  \nYou must take reasonable measures\
+    \ to make a third party determination when you are required to:  \n- report a\
+    \ large cash transaction or keep a large cash transaction record\n- report a large\
+    \ virtual currency transaction or keep a large virtual currency transaction record\n\
+    - keep a signature card or an account operating agreement\n- keep an information\
+    \ record, or\n- submit a Casino Disbursement Report  \nYou must also provide information\
+    \ in an electronic funds transfer report ( **casinos, money services businesses,\
+    \ foreign money services businesses, and financial entities only**) for any person\
+    \ or entity on whose behalf an electronic funds transfer is requested or received."
+  questions_and_answers:
+  - question: What are the general situations in which a third party determination
+      must be made according to FINTRAC's guidance?
+    answer: 'According to FINTRAC''s guidance, a third party determination must be
+      made when required to:
+
+      - Report or record a large cash or virtual currency transaction
+
+      - Keep a signature card or account operating agreement
+
+      - Keep an information record
+
+      - Submit a Casino Disbursement Report
+
+      - Provide information in an electronic funds transfer report (for casinos, money
+      services businesses, foreign money services businesses, and financial entities)'
+  - question: Which specific types of entities are required to provide information
+      in an electronic funds transfer report?
+    answer: Casinos, money services businesses, foreign money services businesses,
+      and financial entities are required to provide information in an electronic
+      funds transfer report, according to FINTRAC's guidance.
+  - question: Why is it necessary to make a third party determination when keeping
+      an information record?
+    answer: It is necessary to make a third party determination when keeping an information
+      record to comply with FINTRAC's guidance on identifying and documenting third
+      parties involved in transactions. Specifically, this is required for large cash
+      or virtual currency transactions, maintaining signature cards or account operating
+      agreements, and submitting Casino Disbursement Reports. Additionally, certain
+      entities must provide this information in electronic funds transfer reports.
+- context: "## 5\\. What if I am not able to make a determination, but I suspect that\
+    \ a third party is involved  \nIf you are not able to make a third party determination,\
+    \ but have reasonable grounds to suspect that a third party is involved, you must\
+    \ keep a record that:  \n- describes the reason(s) why you suspect that the person\
+    \ or entity is acting on behalf of a third party, and\n- as applicable, your record\
+    \ must also indicate:  \n- When you receive cash in an amount of $10,000 or more,\
+    \ and are required to submit a Large Cash Transaction Report to FINTRAC **or**\
+    \ to keep a large cash transaction record\u2014whether according to the person\
+    \ who gave you the cash, they are acting on their own behalf only"
+  questions_and_answers:
+  - question: What actions are required if a bank employee suspects a third party
+      is involved but cannot determine their identity?
+    answer: If a bank employee suspects a third party is involved but cannot determine
+      their identity, they must keep a record that describes the reasons for their
+      suspicion. Additionally, if the transaction involves receiving cash of $10,000
+      or more, the employee must indicate in the record whether, according to the
+      person who gave the cash, they are acting on their own behalf only, as required
+      by FINTRAC for Large Cash Transaction Reports or records.
+  - question: What details must be included in the record when suspecting a third
+      party but unable to determine their identity?
+    answer: When suspecting a third party but unable to determine their identity,
+      the record must include the reasons for suspicion. Additionally, for large cash
+      transactions of $10,000 or more, the record should indicate whether the person
+      claims to be acting on their own behalf, as required by FINTRAC.
+  - question: How should a bank handle a large cash transaction that involves suspected
+      third party activity, particularly regarding the Large Cash Transaction Report?
+    answer: When handling a large cash transaction that involves suspected third party
+      activity, the bank must keep a record that describes the reasons for suspicion.
+      Additionally, if the transaction amounts to $10,000 or more, the bank is required
+      to submit a Large Cash Transaction Report to FINTRAC or keep a large cash transaction
+      record. This record should indicate whether, according to the person who gave
+      the cash, they are acting on their own behalf only. This is in accordance with
+      the requirements set by FINTRAC.
+document_outline: This document outlines FINTRAC's guidance on identifying and documenting
+  third parties involved in transactions to prevent money laundering and terrorist
+  financing, ensuring compliance with Canada's Proceeds of Crime (Money Laundering)
+  and Terrorist Financing Act.

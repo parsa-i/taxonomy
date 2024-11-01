@@ -1,0 +1,202 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: "## 5\\. Who is a family member of a PEP or HIO?  \nIf a person is a PEP\
+    \ or HIO, some of their family members are considered family members of PEPs or\
+    \ HIOs under the PCMLTFA and associated Regulations. These family members are:Footnote\
+    \ 8  \n- their spouse or common-law partner;\n- their biological or adoptive child(ren);\n\
+    - their mother(s) or father(s);\n- the mother(s) or father(s) of their spouse\
+    \ or common-law partner (mother-in-law or father-in-law); and\n- the child(ren)\
+    \ of their mother or father (sibling(s)).  \nOnce you determine that a person\
+    \ is a family member of a foreign PEP (including a deceased foreign PEP), they\
+    \ remain a family member of a foreign PEP forever and you are not required to\
+    \ make this determination again.Footnote 9"
+  questions_and_answers:
+  - question: Based on the provided chunk, which family members are considered related
+      to PEPs or HIOs under Canadian regulations?
+    answer: 'Under Canadian regulations, specifically the PCMLTFA and associated Regulations,
+      the following family members are considered related to PEPs or HIOs:
+
+
+      - Spouse or common-law partner
+
+      - Biological or adoptive children
+
+      - Parents
+
+      - Parents-in-law
+
+      - Siblings'
+  - question: Why are the family members of a foreign PEP always considered as such,
+      even if the PEP is deceased?
+    answer: Under Canadian regulations, specifically the Proceeds of Crime (Money
+      Laundering) and Terrorist Financing Act (PCMLTFA) and associated Regulations,
+      family members of a foreign Politically Exposed Person (PEP) are always considered
+      as such, even if the PEP is deceased. This is because once a person is identified
+      as a family member of a foreign PEP, they retain this status indefinitely.
+  - question: How does Canadian regulation define the extent of familial relationships
+      for PEPs and HIOs, and what happens after a determination is made?
+    answer: Canadian regulation, under the Proceeds of Crime (Money Laundering) and
+      Terrorist Financing Act (PCMLTFA) and its associated regulations, defines the
+      extent of familial relationships for politically exposed persons (PEPs) and
+      heads of international organizations (HIOs) to include their spouse or common-law
+      partner, biological or adoptive children, parents, parents-in-law, and siblings.
+      Once a person is determined to be a family member of a foreign PEP, they remain
+      so indefinitely, eliminating the need for repeated determinations.
+- context: "## 2\\. Who is a foreign PEP?  \nA **foreign PEP** is a person who holds\
+    \ or has held one of the following offices or positions in or on behalf of a foreign\
+    \ state:Footnote 4  \n- head of state or head of government;\n- member of the\
+    \ executive council of government or member of a legislature;\n- deputy minister\
+    \ or equivalent rank;\n- ambassador, or attach\xE9 or counsellor of an ambassador;\n\
+    - military officer with a rank of general or above;\n- president of a state-owned\
+    \ company or a state-owned bank;\n- head of a government agency;\n- judge of a\
+    \ supreme court, constitutional court or other court of last resort; or\n- leader\
+    \ or president of a political party represented in a legislature.  \nThese persons\
+    \ are foreign PEPs regardless of citizenship, residence status or birthplace.\
+    \  \nOnce you determine that a person is a foreign PEP, they remain a foreign\
+    \ PEP **forever**(including deceased foreign PEPs). You are not required to determine\
+    \ whether they are a foreign PEP again.Footnote 5"
+  questions_and_answers:
+  - question: Which positions qualify an individual as a foreign Politically Exposed
+      Person (PEP) according to FINTRAC's guidance?
+    answer: "According to FINTRAC's guidance, an individual qualifies as a foreign\
+      \ Politically Exposed Person (PEP) if they hold or have held one of the following\
+      \ positions in or on behalf of a foreign state: head of state or head of government,\
+      \ member of the executive council of government or member of a legislature,\
+      \ deputy minister or equivalent rank, ambassador or attach\xE9 or counsellor\
+      \ of an ambassador, military officer with a rank of general or above, president\
+      \ of a state-owned company or a state-owned bank, head of a government agency,\
+      \ judge of a supreme court, constitutional court or other court of last resort,\
+      \ or leader or president of a political party represented in a legislature.\
+      \ These individuals remain foreign PEPs indefinitely."
+  - question: Do foreign PEPs retain their status indefinitely?
+    answer: Yes, foreign PEPs retain their status indefinitely, according to FINTRAC's
+      guidance.
+  - question: How does FINTRAC define a foreign PEP with regard to citizenship, residence,
+      or birthplace?
+    answer: FINTRAC defines a foreign PEP based on specific high-profile positions
+      held in or on behalf of a foreign state, regardless of the individual's citizenship,
+      residence status, or birthplace.
+- context: "## 4\\. What is an international organization?  \nTo determine whether\
+    \ a person is a HIO, you must first determine whether you are dealing with an\
+    \ international organization. An international organization is set up by the governments\
+    \ of more than one member country, has activities in several countries, and is\
+    \ bound by a formal agreement among member countries. An international organization\
+    \ has its own legal status, and it is an entity that is distinct from the member\
+    \ countries.  \nLooking at how an organization was established will help you to\
+    \ determine if it is an international organization. For example, if the organization\
+    \ was established by a formally signed agreement between the governments of more\
+    \ than one country, then it is likely an international organization, and the head\
+    \ of that organization is a HIO."
+  questions_and_answers:
+  - question: What criteria must an organization meet to be classified as an international
+      organization?
+    answer: 'To be classified as an international organization, an entity must meet
+      the following criteria: it must be established by the governments of more than
+      one member country, have activities in several countries, and be bound by a
+      formal agreement among member countries. Additionally, it should have its own
+      legal status and be distinct from its member countries. These criteria are outlined
+      in the definition provided to determine if a person is a Head of an International
+      Organization (HIO).'
+  - question: How can the establishment process help determine if an organization
+      is international?
+    answer: The establishment process can help determine if an organization is international
+      by assessing whether it was created through a formally signed agreement between
+      the governments of more than one country, as outlined in the criteria defined
+      in Section 4.
+  - question: What distinguishes an international organization's legal status from
+      its member countries?
+    answer: An international organization's legal status is distinguished from its
+      member countries by its establishment through a formal agreement among multiple
+      governments, its operation across several countries, and its recognition as
+      a distinct entity with its own legal status.
+- context: "## 6\\. Who is considered a close associate of a PEP or a HIO?  \nA close\
+    \ associate can be a person who is connected to a PEP or HIO for personal or business\
+    \ reasons. Examples of relationships that could indicate that someone is a close\
+    \ associate (personal or business) could include, but are not limited to, persons\
+    \ who:  \n- are the business partners of, or who beneficially own or control a\
+    \ business with, a PEP or HIO;\n- are in a romantic relationship with a PEP or\
+    \ HIO;\n- are involved in financial transactions with a PEP or a HIO;\n- serve\
+    \ as prominent members of the same political party or union as a PEP or HIO;\n\
+    - serve as a member of the same board as a PEP or HIO;\n- carry out charitable\
+    \ works closely with a PEP or HIO; or\n- are listed as joint on a policy where\
+    \ one of the holders may be a PEP or HIO.  \nOnce you determine that a person\
+    \ is the close associate of a PEP or HIO, they remain a close associate until\
+    \ they lose that connection."
+  questions_and_answers:
+  - question: Which criteria are used to identify close associates of politically
+      exposed persons (PEPs) and heads of international organizations (HIOs)?
+    answer: Close associates of politically exposed persons (PEPs) and heads of international
+      organizations (HIOs) are identified as individuals connected to them for personal
+      or business reasons. These may include business partners, beneficial owners,
+      romantic partners, those involved in financial transactions, prominent members
+      of the same political party or union, members of the same board, individuals
+      involved in charitable works closely with the PEP or HIO, or joint policy holders.
+      This identification is governed by the "Politically exposed persons and heads
+      of international organizations guidance."
+  - question: What types of personal relationships could indicate that someone is
+      a close associate of a PEP or HIO?
+    answer: 'Personal relationships that could indicate someone is a close associate
+      of a PEP or HIO include:
+
+
+      - Being in a romantic relationship with a PEP or HIO.
+
+      - Serving as prominent members of the same political party or union as a PEP
+      or HIO.
+
+      - Carrying out charitable works closely with a PEP or HIO.
+
+      - Being listed as joint on a policy where one of the holders may be a PEP or
+      HIO.
+
+
+      These indicators are outlined under the "Politically exposed persons and heads
+      of international organizations guidance" by the relevant governing body.'
+  - question: Once identified as a close associate, under what conditions does a person
+      lose that status according to the guidance?
+    answer: According to the "Politically exposed persons and heads of international
+      organizations guidance," a person loses their status as a close associate of
+      a PEP or HIO once they lose the connection that initially identified them as
+      such.
+- context: "## 1\\. Who is a domestic PEP?  \nA **domestic PEP** is a person who currently\
+    \ holds, or has held within the last 5 years, a specific office or position in\
+    \ or on behalf of the Canadian federal government, a Canadian provincial (or territorial)\
+    \ government, or a Canadian municipal government. Specifically, the person has\
+    \ held the office or position of:Footnote 2  \n- Governor General, lieutenant\
+    \ governor or head of government;\n- member of the Senate or House of Commons\
+    \ or member of a legislature;\n- deputy minister or equivalent rank;\n- ambassador,\
+    \ or attach\xE9 or counsellor of an ambassador;\n- military officer with a rank\
+    \ of general or above;\n- president of a corporation that is wholly owned directly\
+    \ by His Majesty in right of Canada or a province;\n- head of a government agency;\n\
+    - judge of an appellate court in a province, the Federal Court of Appeal or the\
+    \ Supreme Court of Canada;\n- leader or president of a political party represented\
+    \ in a legislature; or"
+  questions_and_answers:
+  - question: Which positions qualify a person as a domestic PEP according to Canadian
+      regulations?
+    answer: According to Canadian regulations, a person qualifies as a domestic politically
+      exposed person (PEP) if they currently hold, or have held within the last 5
+      years, specific positions in the federal, provincial, or municipal governments.
+      These positions include Governor General, lieutenant governor, head of government,
+      member of the Senate or House of Commons, deputy minister, ambassador, high-ranking
+      military officer, president of a crown corporation, head of a government agency,
+      appellate court judge, or leader of a political party represented in a legislature.
+  - question: For how long does an individual remain a domestic PEP after leaving
+      their position?
+    answer: An individual remains a domestic politically exposed person (PEP) for
+      5 years after leaving their position, as defined by Canadian regulations.
+  - question: What role does a domestic PEP play in the context of Canadian government
+      and governance?
+    answer: A domestic PEP in Canada is an individual who currently holds, or has
+      held within the last five years, a specific high-ranking office or position
+      within the federal, provincial, or municipal government. These roles include
+      positions such as Governor General, member of Parliament, deputy minister, ambassador,
+      high-ranking military officer, head of a government agency, judge of an appellate
+      court, or leader of a political party, among others. These individuals are considered
+      politically exposed due to their significant influence and potential risks associated
+      with their positions.
+document_outline: This document provides guidance from FINTRAC on identifying and
+  managing risks associated with politically exposed persons (PEPs) and heads of international
+  organizations (HIOs) to prevent money laundering and terrorist financing.

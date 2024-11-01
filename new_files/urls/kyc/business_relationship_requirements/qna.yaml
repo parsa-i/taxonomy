@@ -1,0 +1,206 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: "## 6\\. Business relationship records to keep  \nOnce you enter into a\
+    \ business relationship with a client, you must keep a record of the purpose and\
+    \ intended nature of the business relationship. For sector-specific examples of\
+    \ the purpose and intended nature of a business relationship, see Annex A.  \n\
+    As a best practice, to help you meet your know your client requirements and conduct\
+    \ ongoing monitoring of your business relationships, this record should also:\
+    \  \n- describe your business dealings with the client, and\n- include information\
+    \ that would help you anticipate the types of transactions and activities that\
+    \ the client may conduct. You could then use this information to identify unusual\
+    \ or suspicious transactions while conducting your ongoing monitoring."
+  questions_and_answers:
+  - question: What type of information should financial institutions keep records
+      of regarding the purpose and nature of business relationships with clients?
+    answer: Financial institutions should keep records of the purpose and intended
+      nature of business relationships with clients, as outlined by FINTRAC's compliance
+      guidance. This includes describing business dealings with the client and documenting
+      information that helps anticipate the types of transactions and activities the
+      client may conduct, aiding in the identification of unusual or suspicious transactions
+      during ongoing monitoring.
+  - question: How can ongoing monitoring be facilitated through the records maintained
+      on business relationships with clients?
+    answer: Ongoing monitoring can be facilitated through the records maintained on
+      business relationships with clients, as outlined by FINTRAC's compliance guidance.
+      By keeping records that describe business dealings with the client and include
+      information to anticipate their transactions and activities, unusual or suspicious
+      transactions can be more easily identified during ongoing monitoring.
+  - question: What are the benefits of including a description of business dealings
+      with clients in the records?
+    answer: Including a description of business dealings with clients in the records
+      helps meet FINTRAC's know-your-client requirements and aids in ongoing monitoring.
+      It enables the anticipation of typical transactions and activities, making it
+      easier to identify unusual or suspicious transactions.
+- context: "## 4\\. Circumstances where a business relationship is not created  \n\
+    ### Financial entities, securities dealers, and casinos  \nYou do **not** enter\
+    \ into a business relationship when opening an account, for the following circumstances,\
+    \ when you:  \n- open a business account, if you have already verified the identity\
+    \ of at least 3 persons authorized to give instructions for the account\n- open\
+    \ a second account for a person who already has an account with you\n- open an\
+    \ account at the request of an entity, for a life insurance company affiliated\
+    \ with the entity to deposit a death benefit under a life insurance policy or\
+    \ annuity, if:\n- the account is opened in the name of a beneficiary that is a\
+    \ person\n- only that death benefit may be deposited into the account, and\n-\
+    \ the policy or annuity contract under which the claim for the death benefit is\
+    \ made has been in existence for a period of at least 2 years before the day on\
+    \ which the claim is made"
+  questions_and_answers:
+  - question: What are the scenarios where a business relationship is not created
+      when opening an account?
+    answer: "A business relationship is not created when opening an account in the\
+      \ following scenarios:\n\n1. **Pre-verified Authorized Persons**: When opening\
+      \ a business account and the identity of at least three persons authorized to\
+      \ give instructions for the account has already been verified.\n\n2. **Existing\
+      \ Client**: When opening a second account for a person who already has an account\
+      \ with the financial entity, securities dealer, or casino.\n\n3. **Life Insurance\
+      \ Beneficiary**: When opening an account at the request of an entity, for a\
+      \ life insurance company affiliated with the entity to deposit a death benefit\
+      \ under a life insurance policy or annuity, provided that:\n   - The account\
+      \ is opened in the name of a beneficiary that is a person.\n   - Only that death\
+      \ benefit may be deposited into the account.\n   - The policy or annuity contract\
+      \ under which the claim for the death benefit is made has been in existence\
+      \ for at least two years before the day on which the claim is made."
+  - question: Under what conditions can a second account be opened for an existing
+      client without establishing a business relationship?
+    answer: A second account can be opened for an existing client without establishing
+      a business relationship when the client already has an account with the financial
+      entity, securities dealer, or casino. This is outlined in the regulations governing
+      these institutions.
+  - question: What specific criteria must be met for a life insurance death benefit
+      to be deposited without establishing a business relationship?
+    answer: 'To deposit a life insurance death benefit without establishing a business
+      relationship, the following criteria must be met:
+
+
+      1. The account is opened in the name of a beneficiary who is a person.
+
+      2. Only the death benefit may be deposited into the account.
+
+      3. The life insurance policy or annuity contract must have been in existence
+      for at least 2 years before the claim for the death benefit is made.'
+- context: "- open an account for the sale of mutual funds if there are reasonable\
+    \ grounds to believe that the client\u2019s identity has been verified by a securities\
+    \ dealer in respect of:\n- the sale of the mutual funds for which the account\
+    \ was opened, or\n- a transaction that is part of a series of transactions that\
+    \ includes that sale\n- sell an exempt policy as defined in subsection306(1) of\
+    \ the Income Tax Regulations\n- sell a group life insurance policy that does not\
+    \ provide for a cash surrender value or a savings component\n- sell an immediate\
+    \ or deferred annuity that is paid for entirely with funds that are directly transferred\
+    \ from a registered pension plan or from a pension plan that is required to be\
+    \ registered under the Pension Benefits Standards Act, 1985, or similar provincial\
+    \ legislation\n- sell a registered annuity policy or a registered retirement income\
+    \ fund\n- sell an immediate or deferred annuity that is paid for entirely with\
+    \ the proceeds of a group life insurance policy"
+  questions_and_answers:
+  - question: What types of financial transactions, as outlined by FINTRAC, do not
+      create a business relationship?
+    answer: 'According to FINTRAC''s guidance, the following types of financial transactions
+      do not create a business relationship:
+
+
+      - Opening an account for the sale of mutual funds if the client''s identity
+      has been verified by a securities dealer for the sale of those funds or as part
+      of a series of transactions including that sale.
+
+      - Selling an exempt policy as defined in subsection 306(1) of the Income Tax
+      Regulations.
+
+      - Selling a group life insurance policy without a cash surrender value or savings
+      component.
+
+      - Selling an immediate or deferred annuity paid entirely with funds directly
+      transferred from a registered pension plan or similar provincial legislation.
+
+      - Selling a registered annuity policy or a registered retirement income fund.
+
+      - Selling an immediate or deferred annuity paid entirely with the proceeds of
+      a group life insurance policy.'
+  - question: Under what conditions can a financial entity open an account for the
+      sale of mutual funds without establishing a business relationship?
+    answer: "A financial entity can open an account for the sale of mutual funds without\
+      \ establishing a business relationship if there are reasonable grounds to believe\
+      \ that the client\u2019s identity has been verified by a securities dealer in\
+      \ respect of the sale of the mutual funds for which the account was opened,\
+      \ or a transaction that is part of a series of transactions that includes that\
+      \ sale, as outlined in FINTRAC's guidance."
+  - question: Which specific insurance products can be sold without creating a business
+      relationship according to FINTRAC's guidance?
+    answer: 'According to FINTRAC''s guidance, the following specific insurance products
+      can be sold without creating a business relationship:
+
+
+      - Exempt policies as defined in subsection 306(1) of the Income Tax Regulations
+
+      - Group life insurance policies that do not provide for a cash surrender value
+      or a savings component
+
+      - Immediate or deferred annuities paid for entirely with funds directly transferred
+      from a registered pension plan or similar legislation
+
+      - Registered annuity policies or registered retirement income funds
+
+      - Immediate or deferred annuities paid for entirely with the proceeds of a group
+      life insurance policy'
+- context: "### All reporting entity sectors  \nYou do not enter into a business relationship\
+    \ that would otherwise have been formed after the first or second time you are\
+    \ required to verify identity (as applicable to your reporting entity sector),\
+    \ if you are not required to verify the identity of a client under the Regulations\
+    \ because of a related exception. This is because your obligation to verify identity\
+    \ for a particular transaction, activity, or client does not apply in that circumstance.\
+    \ For example, if your requirement to verify identity does not apply because your\
+    \ client is a public body, a very large corporation, or a subsidiary of either\
+    \ of those, whose financial statements are consolidated, then a business relationship\
+    \ would not be formed."
+  questions_and_answers:
+  - question: When is a business relationship not formed according to the given regulations?
+    answer: A business relationship is not formed when identity verification is not
+      required due to exceptions outlined in the Regulations, such as when the client
+      is a public body or a large corporation.
+  - question: How does the concept of 'public bodies' and 'very large corporations'
+      affect the formation of a business relationship?
+    answer: If the client is a public body or a very large corporation, the requirement
+      to verify identity may not apply as per the Regulations, and therefore, a business
+      relationship is not formed. This is because the obligation to verify identity,
+      which is a prerequisite for establishing a business relationship, is exempted
+      in these cases.
+  - question: What specific exceptions are mentioned for identity verification that
+      prevent the formation of a business relationship?
+    answer: Specific exceptions that prevent the formation of a business relationship
+      due to identity verification include when the client is a public body, a very
+      large corporation, or a subsidiary of either with consolidated financial statements,
+      as outlined in the Regulations.
+- context: "If you already have a record of this information that is readily available\
+    \ in other records that you are required to keep, you are not required to keep\
+    \ an additional record. For example, for clients who already hold accounts, you\
+    \ may use the information found in the intended use of the account record, client\
+    \ credit file, credit card account record or a service agreement to satisfy this\
+    \ obligation.  \n**Retention**: You must keep these records for 5 years from the\
+    \ day they were created."
+  questions_and_answers:
+  - question: How long must business relationship records be kept according to the
+      document?
+    answer: Business relationship records must be kept for 5 years from the day they
+      were created.
+  - question: Can existing records satisfy the obligation to keep business relationship
+      records?
+    answer: Yes, existing records can satisfy the obligation to keep business relationship
+      records, provided they contain the necessary information. The rule allows using
+      records like account details, client credit files, or service agreements to
+      meet this requirement. These records must be kept for 5 years from the date
+      of their creation.
+  - question: What is the significance of using information from other records to
+      meet the record-keeping obligation mentioned in the document?
+    answer: Using information from other records to meet the record-keeping obligation
+      is significant because it allows businesses to avoid duplication of records
+      and reduces administrative burden. According to the guidelines, if the necessary
+      information is readily available in existing records that a business is already
+      required to maintain, such as account records or service agreements, creating
+      additional records is not required. This ensures efficiency in record-keeping
+      while still meeting the 5-year retention requirement.
+document_outline: This document outlines FINTRAC's guidance on establishing and managing
+  business relationships with clients, including sector-specific obligations under
+  the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, to help reporting
+  entities comply with their legal requirements.

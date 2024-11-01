@@ -1,0 +1,198 @@
+created_by: CE
+version: 3
+domain: Canadian Regulations
+seed_examples:
+- context: "## 8\\. Verifying the identity of an entity if it has been previously\
+    \ verified  \nYou do **not** need to verifythe identity of a corporation or other\
+    \ entity for subsequent transactions or activities, as required, if you have already\
+    \ verified their identity by using:  \n- One of the methods explained in this\
+    \ guidance; or\n- in the case of an **entity**, you confirmed the entity's existence\
+    \ in accordance with the PCMLTFR, and you complied with the related record keeping\
+    \ provisions, as they read at the time prior to June 1, 2021; **or**\n- in the\
+    \ case of a **corporation**, you confirmed the corporation's existence and ascertained\
+    \ its name and address and the names of its directors in accordance with PCMLTFR,\
+    \ and you complied with the related record keeping provisions, as they read at\
+    \ the time prior to June 1, 2021"
+  questions_and_answers:
+  - question: What are the criteria that need to be met for the identity of a corporation
+      or other entity not to be re-verified for subsequent transactions or activities?
+    answer: To avoid re-verifying the identity of a corporation or other entity for
+      subsequent transactions or activities, the identity must have been previously
+      verified using one of the methods outlined in the guidance, or, prior to June
+      1, 2021, the entity's existence must have been confirmed in accordance with
+      the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations
+      (PCMLTFR), with the related record-keeping provisions complied with at the time.
+      For corporations, this includes confirming the corporation's existence, ascertaining
+      its name and address, and identifying its directors in accordance with the PCMLTFR.
+  - question: How does the verification process for entities differ from that of corporations
+      in the context of the PCMLTFR?
+    answer: The verification process for entities differs from that of corporations
+      under the PCMLTFR in that for entities, only their existence needs to be confirmed,
+      while for corporations, their existence, name, address, and the names of directors
+      must be ascertained. Both cases require compliance with related record-keeping
+      provisions as they read prior to June 1, 2021.
+  - question: Why is June 1, 2021, a significant date in the context of verifying
+      the identity of corporations and entities for subsequent transactions or activities?
+    answer: June 1, 2021, is significant because it marks the date after which the
+      previous identity verification methods and record-keeping provisions under the
+      Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations (PCMLTFR)
+      are no longer applicable for re-verifying the identity of corporations and entities
+      for subsequent transactions or activities. If the identity was verified before
+      this date using the methods that complied with the PCMLTFR at that time, re-verification
+      is not required.
+- context: "### 7.1 Confirmation of existence method  \n#### Corporation  \nTo verify\
+    \ the identity of **a corporation**, you may refer to:Footnote 37  \n- a certificate\
+    \ of incorporation;\n- a record that has to be filed annually under provincial\
+    \ securities legislation; **or**\n- the most recent version of any other record\
+    \ that confirms the corporation's existence and contains its name and address\
+    \ and the names of its directors, such as a certificate of active corporate status,\
+    \ the corporation's published annual report signed by an audit firm, or a letter\
+    \ or notice of assessment for the corporation from a municipal, provincial, territorial\
+    \ or federal government.  \nThe record you refer to must be authentic, valid and\
+    \ current.Footnote 38  \nYou may obtain a corporation's name and address and the\
+    \ names of its directors from a publicly accessible database, such as a provincial\
+    \ or federal database like the Corporations Canada database, or a corporation\
+    \ search and registration service through subscription."
+  questions_and_answers:
+  - question: What are the acceptable documents to verify the identity of a corporation?
+    answer: Acceptable documents to verify the identity of a corporation include a
+      certificate of incorporation, annual filings under provincial securities legislation,
+      or the most recent version of any other valid record confirming the corporation's
+      existence, such as a certificate of active corporate status, a published annual
+      report signed by an audit firm, or a letter or notice of assessment from a municipal,
+      provincial, territorial, or federal government. These records must be authentic,
+      valid, and current, and can be obtained from publicly accessible databases like
+      the Corporations Canada database or other corporation search and registration
+      services.
+  - question: How can you ensure that a record used to verify a corporation's identity
+      is authentic, valid, and current?
+    answer: To ensure that a record used to verify a corporation's identity is authentic,
+      valid, and current, you can refer to a certificate of incorporation, annual
+      filings required by provincial securities legislation, or the most recent version
+      of other records confirming the corporation's existence. These records should
+      be obtained from publicly accessible databases, such as provincial or federal
+      databases like the Corporations Canada database, as per the guidelines outlined
+      by the relevant governing bodies.
+  - question: Where can you obtain a corporation's name, address, and the names of
+      its directors from publicly accessible sources?
+    answer: You can obtain a corporation's name, address, and the names of its directors
+      from publicly accessible databases such as provincial or federal databases like
+      the Corporations Canada database, or through a corporation search and registration
+      service via subscription.
+- context: "If any of the information provided by the person (name, address or date\
+    \ of birth) does not match the information in the credit file, you cannot use\
+    \ that credit file to verify the identity of the person. You will need to use\
+    \ another credit file from a different provider (credit bureau or third party\
+    \ vendor) or use a different method (for example, the government-issued photo\
+    \ identification method or the dual-process method) to verify the person's identity.\
+    \  \nOn occasion, information found in the credit file may contain a variation\
+    \ on the name or a discrepancy in the address that was provided to you by the\
+    \ person. In these instances, you must determine whether the information in the\
+    \ credit file matches the information provided by the person. For example:  \n\
+    - If there is a slight typo in the address or name, you may determine that the\
+    \ information still matches what the person provided."
+  questions_and_answers:
+  - question: What should you do if there is a mismatch between the information provided
+      by an individual and their credit file during identity verification using the
+      credit file method?
+    answer: If there is a mismatch between the information provided by an individual
+      and their credit file during identity verification using the credit file method,
+      you cannot use that credit file for verification. According to FINTRAC guidelines,
+      you should either use another credit file from a different provider or switch
+      to a different method, such as the government-issued photo identification method
+      or the dual-process method, to verify the person's identity. If there is a minor
+      discrepancy like a typo, you may determine that the information still matches.
+  - question: What are some acceptable variations in the information found in a credit
+      file that may still be considered a match during identity verification?
+    answer: According to FINTRAC guidelines, acceptable variations in the information
+      found in a credit file that may still be considered a match during identity
+      verification include slight typos in the address or name.
+  - question: According to FINTRAC guidelines, what alternative methods can be used
+      to verify an individual's identity if the credit file method is not sufficient
+      due to discrepancies or mismatches?
+    answer: According to FINTRAC guidelines, if the credit file method is not sufficient
+      due to discrepancies or mismatches, alternative methods that can be used to
+      verify an individual's identity include using another credit file from a different
+      provider, the government-issued photo identification method, or the dual-process
+      method.
+- context: "### 2.2 Credit file method  \nYou may verify the identity of a person\
+    \ by referring to information that is in their credit file.Footnote 4 To do so,\
+    \ the credit file must:  \n- contain information that is **valid and current**;Footnote\
+    \ 5\n- be from a Canadian credit bureau (credit files from foreign credit bureaus\
+    \ are not acceptable);\n- have been in existence for at least three years;\n-\
+    \ contain information that is derived from more than one source (i.e. more than\
+    \ one tradeline); and\n- match the name, address and date of birth of the person\
+    \ being identified.  \nA credit file provides a rating on a person's ability to\
+    \ repay loans; however, it is possible to request a credit file to verify a person's\
+    \ identifying information that does not include a credit assessment. You do not\
+    \ need a credit assessment to verify the identity of a person. Equifax Canada\
+    \ and TransUnion Canada are Canadian credit bureaus that provide credit file information\
+    \ for identification purposes."
+  questions_and_answers:
+  - question: What specific criteria must a credit file meet to be used for identity
+      verification according to FINTRAC guidelines?
+    answer: 'According to FINTRAC guidelines, a credit file must meet the following
+      specific criteria to be used for identity verification:
+
+
+      - It must contain information that is valid and current.
+
+      - It must be from a Canadian credit bureau.
+
+      - It must have been in existence for at least three years.
+
+      - It must contain information derived from more than one source (i.e., more
+      than one tradeline).
+
+      - It must match the name, address, and date of birth of the person being identified.'
+  - question: Which sources are acceptable for providing credit file information for
+      identification purposes in Canada?
+    answer: Equifax Canada and TransUnion Canada are acceptable sources for providing
+      credit file information for identification purposes in Canada, as per FINTRAC
+      guidelines.
+  - question: How does the requirement for the credit file to be valid and current
+      impact its use for identity verification?
+    answer: The requirement for the credit file to be valid and current, as stipulated
+      by FINTRAC, ensures that the information used for identity verification is up-to-date
+      and reliable. This criterion is crucial for accurately confirming the identity
+      of an individual, as outdated or invalid information could lead to incorrect
+      verification.
+- context: Your compliance program's policies and procedures must describe the processes
+    you follow to determine whether a government-issued photo identification document
+    is authentic, whether the client is present or not, and how you will confirm that
+    it is valid and current. Your policies and procedures must also describe the steps
+    you use to confirm that the name and photograph are those of the person. Your
+    processes to determine that a government-issued photo identification document
+    is authentic, valid, and current, **and** the verification step (ensuring that
+    the name and photo match the name and appearance of the person), do **not** need
+    to happen at the same time. It is up to you to determine the timing, but you must
+    complete both steps.
+  questions_and_answers:
+  - question: What processes does the compliance program require to verify the authenticity
+      and validity of government-issued photo identification?
+    answer: The compliance program, as per Canada's anti-money laundering and anti-terrorist
+      financing regulations, requires processes to determine the authenticity and
+      validity of government-issued photo identification, even when the person is
+      not physically present. This includes confirming that the identification document
+      is authentic, valid, and current, as well as verifying that the name and photograph
+      match the person's identity. These two steps do not need to occur simultaneously
+      but must both be completed.
+  - question: According to the regulations, is it necessary to verify photo identification
+      and ensure the name and photograph match at the same time?
+    answer: According to Canada's anti-money laundering and anti-terrorist financing
+      regulations, it is not necessary to verify photo identification and ensure the
+      name and photograph match at the same time. The processes can occur separately.
+  - question: How do banks determine the timing for verifying the authenticity and
+      validity of government-issued photo identification under Canada's anti-money
+      laundering and anti-terrorist financing regulations?
+    answer: Banks determine the timing for verifying the authenticity and validity
+      of government-issued photo identification under Canada's anti-money laundering
+      and anti-terrorist financing regulations at their discretion. However, they
+      must ensure that both the verification of the document's authenticity and the
+      confirmation of the name and photograph matching the individual are completed,
+      even if not simultaneously. This is in accordance with the requirements set
+      out by the regulations.
+document_outline: This document provides guidance from FINTRAC on the methods that
+  reporting entities, such as banks, must use to verify the identity of persons and
+  entities in compliance with Canada's anti-money laundering and anti-terrorist financing
+  regulations.
