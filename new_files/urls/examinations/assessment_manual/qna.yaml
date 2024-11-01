@@ -182,3 +182,8 @@ seed_examples:
       standards.
 document_outline: This document explains how FINTRAC conducts compliance examinations
   to ensure businesses meet anti-money laundering and terrorist financing legal requirements.
+document:
+  repo: 'https://github.com/parsa-i/taxonomy/'
+  commit: 22f1b63497212111f53022804c2e38d85af028e3
+  patterns:
+    - new_files/urls/examonations/assessment_manual/FINTRAC_assessment_manual:_The_approach_and_methods_used_during_examinations.md

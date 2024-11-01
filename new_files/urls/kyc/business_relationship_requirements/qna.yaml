@@ -204,3 +204,8 @@ document_outline: This document outlines FINTRAC's guidance on establishing and 
   business relationships with clients, including sector-specific obligations under
   the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, to help reporting
   entities comply with their legal requirements.
+document:
+  repo: 'https://github.com/parsa-i/taxonomy/'
+  commit: 22f1b63497212111f53022804c2e38d85af028e3
+  patterns:
+    - new_files/urls/kyc/business_relationship_requirements/Business_relationship_requirements.md

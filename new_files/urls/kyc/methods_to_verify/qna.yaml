@@ -196,3 +196,8 @@ document_outline: This document provides guidance from FINTRAC on the methods th
   reporting entities, such as banks, must use to verify the identity of persons and
   entities in compliance with Canada's anti-money laundering and anti-terrorist financing
   regulations.
+document:
+  repo: 'https://github.com/parsa-i/taxonomy/'
+  commit: 22f1b63497212111f53022804c2e38d85af028e3
+  patterns:
+    - new_files/urls/kyc/methods_to_verify/Methods_to_verify_the_identity_of_persons_and_entities.md

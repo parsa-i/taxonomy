@@ -190,3 +190,8 @@ document_outline: This document outlines FINTRAC's guidance on identifying and d
   third parties involved in transactions to prevent money laundering and terrorist
   financing, ensuring compliance with Canada's Proceeds of Crime (Money Laundering)
   and Terrorist Financing Act.
+document:
+  repo: 'https://github.com/parsa-i/taxonomy/'
+  commit: 22f1b63497212111f53022804c2e38d85af028e3
+  patterns:
+    - new_files/urls/kyc/3rd_party_determination_requirements/Third_party_determination_requirements.md

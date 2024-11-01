@@ -166,3 +166,8 @@ document_outline: This document outlines FINTRAC's ongoing monitoring requiremen
   for banks, detailing the process and frequency of reviewing client information to
   detect suspicious transactions, update records, reassess risk, and ensure consistency
   with client profiles.
+document:
+  repo: 'https://github.com/parsa-i/taxonomy/'
+  commit: 22f1b63497212111f53022804c2e38d85af028e3
+  patterns:
+    - new_files/urls/kyc/ongoing_monitoring/Ongoing_monitoring_requirements.md

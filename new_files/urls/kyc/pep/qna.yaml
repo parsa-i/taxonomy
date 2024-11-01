@@ -200,3 +200,8 @@ seed_examples:
 document_outline: This document provides guidance from FINTRAC on identifying and
   managing risks associated with politically exposed persons (PEPs) and heads of international
   organizations (HIOs) to prevent money laundering and terrorist financing.
+document:
+  repo: 'https://github.com/parsa-i/taxonomy/'
+  commit: 22f1b63497212111f53022804c2e38d85af028e3
+  patterns:
+    - new_files/urls/kyc/pep/Politically_exposed_persons_and_heads_of_international_organizations_guidance.md
