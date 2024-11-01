@@ -228,3 +228,8 @@ document_outline: ' This document outlines FINTRAC''s compliance program require
   essential elements such as appointing a compliance officer, conducting risk assessments,
   and implementing training programs, to ensure reporting entities meet regulatory
   obligations.'
+document:
+  repo: 'https://github.com/parsa-i/taxonomy/'
+  commit: 22f1b63497212111f53022804c2e38d85af028e3
+  patterns:
+    - new_files/urls/compliance_program/compliance_requirements/Compliance_program_requirements.md
