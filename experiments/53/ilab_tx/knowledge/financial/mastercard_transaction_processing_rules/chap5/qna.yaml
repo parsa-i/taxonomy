@@ -1,0 +1,177 @@
+created_by: CE
+version: 3
+document:
+  commit: 06419f3bf49a0c6a2b7f92a2d99323fd1b84d616
+  patterns:
+  - ilab_tx/knowledge/financial/financial/mastercard_transaction_processing_rules/chap5/*.md
+  repo: https://github.com/parsa-i/taxonomy
+domain: Mastercard Transaction Processing Rules
+seed_examples:
+- context: "9. The Issuer is responsible for fraud in connection with any e-commerce\
+    \ Transaction that the Issuer has approved, unless it can be proved that the Merchant\
+    \ and/or Acquirer participated in the fraud or the Merchant Website does not support\
+    \ the passing of UCAF data. However, the Issuer will have a chargeback right for\
+    \ fraudulent Transactions containing the Corporation-assigned static AAV in the\
+    \ UCAF field.  \nNOTE: Modifications to this Rule appear in the \"Asia/Pacific\
+    \ Region,\" \"Europe Region,\" \"Latin America and the Caribbean Region,\" \"\
+    Middle East/Africa Region,\" and the \"Additional U.S. Region and U.S. Territory\
+    \ Rules\" sections at the end of this chapter.  \n# 5.1.3 Use of Static AAV for\
+    \ Card-not-present Transactions  \nNOTE: A Rule on this subject appears in the\
+    \ \u201CEurope Region\u201D section of this chapter."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, who is primarily
+      responsible for fraud in e-commerce transactions involving the use of static
+      AAVs?
+    answer: According to Mastercard Transaction Processing Rules, the Issuer is primarily
+      responsible for fraud in e-commerce transactions involving the use of static
+      AAVs.
+  - question: According to Mastercard Transaction Processing Rules, under what conditions
+      does the Issuer have a chargeback right for fraudulent transactions containing
+      the Corporation-assigned static AAV in the UCAF field?
+    answer: According to Mastercard Transaction Processing Rules, the Issuer has a
+      chargeback right for fraudulent transactions containing the Corporation-assigned
+      static AAV in the UCAF field.
+  - question: According to Mastercard Transaction Processing Rules, which regions
+      have specific modifications to the rules regarding the use of static AAVs for
+      card-not-present transactions?
+    answer: According to Mastercard Transaction Processing Rules, the regions with
+      specific modifications to the rules regarding the use of static AAVs for card-not-present
+      transactions are the "Asia/Pacific Region," "Europe Region," "Latin America
+      and the Caribbean Region," "Middle East/Africa Region," and the "Additional
+      U.S. Region and U.S. Territory Rules."
+- context: "# Additional U.S. Region and U.S. Territory Rules  \nBefore a Merchant\
+    \ may conduct Card-not-present purchase aggregation Transactions, the Merchant\
+    \ must be registered in the Mastercard Micropayment Solution. To propose a Merchant\
+    \ for registration:  \n- The Acquirer must submit the completed Mastercard Micropayment\
+    \ Solution registration form to micropayments@mastercard.com;\n- The Acquirer\
+    \ must provide all information and material required by Mastercard in connection\
+    \ with the proposed registration; and\n- The Acquirer and the Merchant must each\
+    \ satisfy all participation requirements described in the Mastercard Micropayment\
+    \ Solution guidelines.  \nThe Mastercard Micropayment Solution guidelines and\
+    \ registration form are available in the Forms Library on Mastercard Connect\xAE\
+    .  \nMastercard, in its sole discretion, may approve or reject any application\
+    \ for the registration of a Merchant in the Mastercard Micropayment Solution."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what must a merchant
+      do before conducting card-not-present purchase aggregation transactions in the
+      U.S. region and U.S. territories?
+    answer: According to Mastercard Transaction Processing Rules, before conducting
+      card-not-present purchase aggregation transactions in the U.S. region and U.S.
+      territories, a merchant must be registered in the Mastercard Micropayment Solution.
+  - question: According to Mastercard Transaction Processing Rules, what steps must
+      an Acquirer take to propose a Merchant for registration in the Mastercard Micropayment
+      Solution?
+    answer: 'According to Mastercard Transaction Processing Rules, to propose a Merchant
+      for registration in the Mastercard Micropayment Solution, an Acquirer must:
+
+
+      - Submit the completed Mastercard Micropayment Solution registration form to
+      micropayments@mastercard.com;
+
+      - Provide all information and material required by Mastercard in connection
+      with the proposed registration;
+
+      - Ensure that both the Acquirer and the Merchant satisfy all participation requirements
+      described in the Mastercard Micropayment Solution guidelines.'
+  - question: According to Mastercard Transaction Processing Rules, what criteria
+      does Mastercard use to approve or reject an application for the registration
+      of a Merchant in the Mastercard Micropayment Solution?
+    answer: According to the Mastercard Transaction Processing Rules, Mastercard uses
+      its sole discretion to approve or reject an application for the registration
+      of a Merchant in the Mastercard Micropayment Solution.
+- context: "# 5.1.1 Acquirer and Merchant Requirements  \nIn Nigeria, the Rule on\
+    \ this subject is modified as follows. Each Acquirer and each Merchant must request\
+    \ Cardholder authentication using EMV 3DS and comply with the requirements set\
+    \ forth in the Identity Check authentication program.  \nIn Qatar, the Rule on\
+    \ this subject is modified as follows. Each Acquirer and each Merchant must request\
+    \ Cardholder authentication using EMV 3DS and comply with the requirements set\
+    \ forth in the Identity Check authentication program."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what method of
+      Cardholder authentication is mandated in Nigeria?
+    answer: According to Mastercard Transaction Processing Rules, EMV 3DS is mandated
+      for Cardholder authentication in Nigeria.
+  - question: According to Mastercard Transaction Processing Rules, which authentication
+      program must Acquirers and Merchants comply with in Qatar?
+    answer: According to Mastercard Transaction Processing Rules, Acquirers and Merchants
+      in Qatar must comply with the Identity Check authentication program.
+  - question: According to Mastercard Transaction Processing Rules, what common requirement
+      is specified for both Nigeria and Qatar regarding Cardholder authentication
+      and compliance programs?
+    answer: According to Mastercard Transaction Processing Rules, both Nigeria and
+      Qatar require that each Acquirer and Merchant must request Cardholder authentication
+      using EMV 3DS and comply with the requirements set forth in the Identity Check
+      authentication program.
+- context: "|112 (Additional Data [China Use])|37 (Delegated Business Information)|\n\
+    | |All subfields must appear|  \nProcessing of Recurring Payment Transactions\
+    \  \nThe Acquirer must verify the China Recurring Payment Transaction \u2013 Recurring\
+    \ Payment Terms before sending a recurring payment Transaction to the China Switch.\
+    \ If the China Recurring Payment Transaction \u2013 Recurring Payment Terms are\
+    \ not consistent with the Cardholder consent, the Acquirer must not submit the\
+    \ Transaction to the China Switch. If the Recurring Payment Terms are consistent\
+    \ with the Cardholder consent, the Acquirer must populate the China Recurring\
+    \ Payment Transaction \u2013 Recurring Payment Terms in Data Element 112 (Additional\
+    \ Data [China Use]) Subelement 37 (Delegated Business Information).  \nThe Acquirer\
+    \ must identify each recurring payment Transaction with the following values:"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what must an acquirer
+      verify before sending a recurring payment transaction to the China Switch?
+    answer: "According to the Mastercard Transaction Processing Rules, an acquirer\
+      \ must verify the China Recurring Payment Transaction \u2013 Recurring Payment\
+      \ Terms before sending a recurring payment transaction to the China Switch."
+  - question: "According to Mastercard Transaction Processing Rules, what action should\
+      \ an acquirer take if the China Recurring Payment Transaction \u2013 Recurring\
+      \ Payment Terms are not consistent with the Cardholder consent?"
+    answer: "According to Mastercard Transaction Processing Rules, if the China Recurring\
+      \ Payment Transaction \u2013 Recurring Payment Terms are not consistent with\
+      \ the Cardholder consent, the acquirer must not submit the Transaction to the\
+      \ China Switch."
+  - question: According to Mastercard Transaction Processing Rules, which data element
+      and subelement must be populated with the Recurring Payment Terms if they are
+      consistent with the Cardholder consent?
+    answer: According to Mastercard Transaction Processing Rules, Data Element 112
+      (Additional Data [China Use]), Subelement 37 (Delegated Business Information)
+      must be populated with the Recurring Payment Terms if they are consistent with
+      the Cardholder consent.
+- context: "- 6538 (MoneySend Funding)\n- 6540 (POI Funding Transaction)\n- 7995 (Gambling\
+    \ Transactions)  \nIn Russia, the following additional MCCs are also excluded:\
+    \  \n- 9311 Tax payments\n- 9399 Government services - Not Elsewhere Classified\n\
+    - 9211 Court Costs including Alimony and Child Support\n- 9222 Fines\n- 9223 Bail\
+    \ and Bond Payments\n- 9402 Postal services - government only\n- 8211 Schools,\
+    \ Elementary and Secondary\n- 8220 Colleges, Universities, Professional Schools,\
+    \ and Junior Colleges"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, which Merchant
+      Category Code (MCC) is used to exclude Gambling Transactions?
+    answer: According to Mastercard Transaction Processing Rules, Merchant Category
+      Code 7995 is used to exclude Gambling Transactions.
+  - question: According to Mastercard Transaction Processing Rules, what additional
+      MCCs are excluded in Russia for transaction processing?
+    answer: 'According to Mastercard Transaction Processing Rules, the additional
+      MCCs excluded in Russia for transaction processing are:
+
+      - 9311 Tax payments
+
+      - 9399 Government services - Not Elsewhere Classified
+
+      - 9211 Court Costs including Alimony and Child Support
+
+      - 9222 Fines
+
+      - 9223 Bail and Bond Payments
+
+      - 9402 Postal services - government only
+
+      - 8211 Schools, Elementary and Secondary
+
+      - 8220 Colleges, Universities, Professional Schools, and Junior Colleges.'
+  - question: According to Mastercard Transaction Processing Rules, which MCC is associated
+      with POI Funding Transactions that are excluded from certain transaction processing
+      rules?
+    answer: According to Mastercard Transaction Processing Rules, MCC 6540 is associated
+      with POI Funding Transactions that are excluded from certain transaction processing
+      rules.
+document_outline: This document outlines the rules and requirements for processing
+  card-not-present transactions, specifically focusing on electronic commerce (e-commerce)
+  transactions, including authorization procedures, merchant obligations, and regional-specific
+  additions.

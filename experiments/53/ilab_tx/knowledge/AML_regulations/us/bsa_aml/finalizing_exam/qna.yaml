@@ -1,0 +1,241 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/us/bsa_aml/finalizing_exam/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines the process for examiners to finalize a Bank
+  Secrecy Act/Anti-Money Laundering (BSA/AML) examination by formulating conclusions,
+  discussing findings with the bank, and preparing a written report.
+domain: USA Regulations
+seed_examples:
+- context: "Examiners should determine and document what supervisory response, if\
+    \ any, is recommended. The BSA/AML examination findings may include violations\
+    \ of laws or regulations or other deficiencies. Any substantive deficiencies in\
+    \ the BSA/AML compliance program, including violations, should be included in\
+    \ the ROE in such a manner that allows the reader to understand the cause of the\
+    \ deficiencies. The extent to which violations and other deficiencies affect the\
+    \ examiner\u2019s evaluation of the adequacy of the bank\u2019s BSA/AML compliance\
+    \ program and the bank\u2019s compliance with BSA regulatory requirements is based\
+    \ on the nature, duration, and severity of the problem. In some cases, the appropriate\
+    \ supervisory response is for the bank to correct the violations or other deficiencies\
+    \ as part of the normal supervisory process. These remediation efforts should\
+    \ be documented in the ROE. In appropriate circumstances, however, an agency may\
+    \ take either informal or formal enforcement actions to address"
+  questions_and_answers:
+  - answer: Examiners should document the supervisory response to BSA/AML examination
+      findings, including violations and deficiencies, in the Report of Examination
+      (ROE). The ROE should detail substantive deficiencies and their causes, and
+      outline remediation efforts. If necessary, the ROE should reflect informal or
+      formal enforcement actions taken by the agency, guided by the nature, duration,
+      and severity of the issues.
+    question: How should examiners document the supervisory response to BSA/AML examination
+      findings?
+  - answer: The examiner's evaluation of the adequacy of a bank's BSA/AML compliance
+      program is influenced by the nature, duration, and severity of any violations
+      or deficiencies identified during the examination. This assessment aligns with
+      the guidelines set by the governing bodies for BSA/AML compliance.
+    question: What factors influence the examiner's evaluation of the adequacy of
+      a bank's BSA/AML compliance program?
+  - answer: An agency might take formal enforcement actions to address BSA/AML violations
+      or deficiencies when the nature, duration, and severity of the problem are substantial,
+      and remediation through the normal supervisory process is deemed insufficient.
+      This is in accordance with the guidelines for examiners determining and documenting
+      the appropriate supervisory response in the Report of Examination (ROE).
+    question: Under what circumstances might an agency take formal enforcement actions
+      to address BSA/AML violations or deficiencies?
+- context: '-  Whether there is evidence of similar violations by the bank in a series
+    of transactions or in different divisions or departments. This is not an exact
+    calculation and examiners should consider the number, significance, and frequency
+    of violations identified throughout the organization. Violations identified within
+    various divisions or departments may or may not indicate a systemic violation.
+    These violations should be evaluated in a broader context to determine if training
+    or other compliance system weaknesses are also present.
+
+    -  The relationship of the violations to one another (e.g., whether the violations
+    occurred in the same area of the bank, in the same product line, in the same branch
+    or department, or with one employee).
+
+    -  The impact the violation or violations have on the bank''s suspicious activity
+    monitoring and reporting capabilities.'
+  questions_and_answers:
+  - answer: 'When determining if BSA/AML violations are systemic within a bank, examiners
+      should consider the following factors:
+
+
+      - The pervasiveness of violations, including the number, significance, and frequency
+      of similar violations across various transactions, divisions, or departments.
+
+      - The interrelation of violations, such as whether they occurred within the
+      same area of the bank, product line, branch, department, or involved the same
+      employee.
+
+      - The impact of the violations on the bank''s suspicious activity monitoring
+      and reporting capabilities.'
+    question: What factors should examiners consider when determining if BSA/AML violations
+      are systemic within a bank?
+  - answer: The interrelation of violations within a bank can impact the assessment
+      of BSA/AML compliance by revealing systemic or repeat issues. According to the
+      criteria outlined by the governing body, examiners should consider whether similar
+      violations occur across multiple transactions, divisions, or departments. The
+      relationship between violations, such as those occurring in the same product
+      line or branch, can indicate broader compliance system weaknesses. Additionally,
+      the impact of these violations on the bank's suspicious activity monitoring
+      and reporting capabilities is a crucial factor in assessing overall BSA/AML
+      compliance.
+    question: How can the interrelation of violations within a bank impact the assessment
+      of BSA/AML compliance?
+  - answer: BSA/AML violations can affect a bank's suspicious activity monitoring
+      and reporting capabilities by potentially indicating systemic or repeat issues
+      within the bank's operations. According to the criteria outlined by the governing
+      body, if violations are pervasive, interrelated, and significantly impact the
+      bank's processes, they may highlight weaknesses in the bank's compliance systems
+      or training, thereby compromising the effectiveness of its monitoring and reporting
+      mechanisms.
+    question: In what ways can BSA/AML violations affect a bank's suspicious activity
+      monitoring and reporting capabilities?
+- context: "In the final phase of the BSA/AML examination, examiners should assemble\
+    \ all findings from the examination and testing procedures completed. From those\
+    \ findings, examiners should develop and document conclusions about the adequacy\
+    \ of the bank\u2019s BSA/AML compliance program, relative to its risk profile,\
+    \ and the bank\u2019s compliance with BSA regulatory requirements. When formulating\
+    \ conclusions, examiners are reminded that banks have flexibility in the design\
+    \ of their BSA/AML compliance programs, which will vary based on the bank\u2019\
+    s risk profile, size or complexity, and organizational structure. Examiners should\
+    \ primarily focus on whether the bank has established appropriate processes to\
+    \ manage ML/TF and other illicit financial activity risks, and that the bank has\
+    \ complied with BSA requirements."
+  questions_and_answers:
+  - answer: 'When developing conclusions about a bank''s BSA/AML compliance program
+      during the final phase of the examination, examiners should consider the following
+      key elements:
+
+
+      1. **Adequacy of the Compliance Program**: Assess whether the bank''s BSA/AML
+      compliance program is adequate relative to its risk profile.
+
+      2. **Compliance with BSA Requirements**: Verify that the bank has complied with
+      the regulatory requirements of the Bank Secrecy Act (BSA).
+
+      3. **Risk Management Processes**: Evaluate if the bank has established appropriate
+      processes to manage money laundering, terrorist financing (ML/TF), and other
+      illicit financial activity risks.
+
+      4. **Flexibility and Risk-Based Approach**: Recognize that banks have flexibility
+      in designing their BSA/AML compliance programs based on their risk profile,
+      size, complexity, and organizational structure.'
+    question: What key elements should examiners consider when developing conclusions
+      about a bank's BSA/AML compliance program during the final phase of the examination?
+  - answer: "The risk profile of a bank significantly influences the design and evaluation\
+      \ of its BSA/AML compliance program. According to the guidelines outlined for\
+      \ the final phase of the BSA/AML examination, examiners must assess the adequacy\
+      \ of the bank\u2019s BSA/AML compliance program relative to its risk profile.\
+      \ Banks have the flexibility to tailor their compliance programs based on their\
+      \ specific risks, size, complexity, and organizational structure. The primary\
+      \ focus for examiners is ensuring that the bank has established appropriate\
+      \ processes to manage money laundering (ML), terrorist financing (TF), and other\
+      \ illicit financial activity risks, and that it complies with BSA regulatory\
+      \ requirements."
+    question: How does the risk profile of a bank influence the design and evaluation
+      of its BSA/AML compliance program?
+  - answer: Flexibility plays a crucial role in the assessment of a bank's BSA/AML
+      compliance program as it allows banks to tailor their programs based on their
+      specific risk profiles, size, complexity, and organizational structure. This
+      flexibility is emphasized by the governing body as examiners should primarily
+      focus on whether the bank has established appropriate processes to manage money
+      laundering/terrorist financing (ML/TF) risks and complied with BSA requirements,
+      rather than adhering to a one-size-fits-all approach. It is important for examiners
+      to consider this factor to ensure that their assessments are fair, risk-based,
+      and reflective of the unique circumstances of each bank.
+    question: What role does flexibility play in the assessment of a bank's BSA/AML
+      compliance program, and why is it important for examiners to consider this factor?
+- context: '-  The designated individual or individuals responsible for coordinating
+    and monitoring day-to-day compliance is competent, has properly executed policies
+    and procedures, and has the appropriate authority, independence, and access to
+    resources.
+
+    -  Personnel are sufficiently trained to follow legal, regulatory, and policy
+    requirements.
+
+    -  The board of directors and senior management are aware of BSA/AML regulatory
+    requirements, adequately oversee BSA/AML compliance, and commit, as necessary,
+    to corrective actions that address independent testing or regulatory examination
+    findings and recommendations in a timely manner. The board of directors and senior
+    management clearly communicate the need and support for BSA/AML risk management
+    and internal controls throughout the organization.
+
+    -  Communication of policies, procedures, and processes is adequate throughout
+    the bank.'
+  questions_and_answers:
+  - answer: The criteria used to assess the competency of the individual responsible
+      for day-to-day BSA/AML compliance include their competence, proper execution
+      of policies and procedures, appropriate authority, independence, and access
+      to resources. These criteria are outlined in the BSA/AML examination procedures.
+    question: What criteria are used to assess the competency of the individual responsible
+      for day-to-day BSA/AML compliance?
+  - answer: The bank ensures that its personnel are adequately trained to meet BSA/AML
+      regulatory requirements by providing sufficient training to follow legal, regulatory,
+      and policy requirements. This is outlined in the BSA/AML examination procedures,
+      which are designed to assess the competency and awareness of personnel involved
+      in compliance.
+    question: How does the bank ensure that its personnel are adequately trained to
+      meet BSA/AML regulatory requirements?
+  - answer: The board of directors and senior management play a crucial role in overseeing
+      BSA/AML compliance and addressing corrective actions. They must be aware of
+      BSA/AML regulatory requirements, adequately oversee compliance, and commit to
+      corrective actions that address independent testing or regulatory examination
+      findings and recommendations in a timely manner. Additionally, they are responsible
+      for clearly communicating the need and support for BSA/AML risk management and
+      internal controls throughout the organization.
+    question: What role do the board of directors and senior management play in overseeing
+      BSA/AML compliance and addressing corrective actions?
+- context: "-  The bank understands its ML/TF and other illicit financial activity\
+    \ risks. This may be determined by reviewing the bank\u2019s risk assessment process,\
+    \ including whether the risk assessment provides a comprehensive analysis of the\
+    \ ML/TF and other illicit financial activity risks of the bank and is provided\
+    \ to all business lines across the bank, the board of directors, management, and\
+    \ appropriate staff.\n-  The BSA/AML compliance program is written, approved by\
+    \ the board of directors, and noted in the board minutes.\n-  BSA/AML policies,\
+    \ procedures, and processes are reasonably designed to assure and monitor compliance\
+    \ with the BSA and appropriately address higher-risk operations (products, services,\
+    \ customers, and geographic locations). The bank\u2019s practices correspond to\
+    \ the policies, procedures, and processes."
+  questions_and_answers:
+  - answer: A review of the bank's risk assessment process helps examiners understand
+      its ML/TF and other illicit financial activity risks by evaluating whether the
+      bank has conducted a comprehensive analysis of these risks and effectively communicated
+      them across all business lines, the board of directors, management, and appropriate
+      staff, as outlined by the Bank Secrecy Act/Anti-Money Laundering (BSA/AML) compliance
+      program requirements.
+    question: How does a review of the bank's risk assessment process help examiners
+      understand its ML/TF and other illicit financial activity risks?
+  - answer: 'The key components that must be included in a BSA/AML compliance program
+      to ensure its adequacy are:
+
+
+      1. **Risk Assessment**: The bank must understand and assess its money laundering/terrorist
+      financing (ML/TF) and other illicit financial activity risks, with a comprehensive
+      analysis provided to all business lines, the board of directors, management,
+      and appropriate staff.
+
+
+      2. **Approved Written Program**: The BSA/AML compliance program should be written
+      and approved by the board of directors, with this approval noted in the board
+      minutes.
+
+
+      3. **Policies, Procedures, and Processes**: The program should include policies,
+      procedures, and processes designed to assure and monitor compliance with the
+      Bank Secrecy Act (BSA). These should appropriately address higher-risk operations
+      such as products, services, customers, and geographic locations, and the bank''s
+      practices should correspond to these policies.'
+    question: What are the key components that must be included in a BSA/AML compliance
+      program to ensure its adequacy?
+  - answer: BSA/AML policies, procedures, and processes should be designed to assure
+      and monitor compliance with the Bank Secrecy Act (BSA) and should appropriately
+      address higher-risk operations, including products, services, customers, and
+      geographic locations. The bank's practices should correspond to these established
+      policies, procedures, and processes.
+    question: How should BSA/AML policies, procedures, and processes be designed to
+      address higher-risk operations in a bank?
+version: 3

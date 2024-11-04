@@ -1,0 +1,169 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/us/bsa_aml/assessing_compliance/special_info_sharing/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: The purpose of this document is to evaluate a bank's compliance
+  with special information sharing procedures mandated by the Bank Secrecy Act to
+  deter money laundering and terrorist activity, as outlined in Section 314 of the
+  USA PATRIOT Act.
+domain: USA Regulations
+seed_examples:
+- context: "Failure to comply with the requirements of 31 CFR 1010.540, however, results\
+    \ in loss of this safe harbor protection. A bank is not required to file a SAR\
+    \ solely as a result of receiving a request to share information under Section\
+    \ 314(b). The bank\u2019s policies and procedures on filing SARs should be in\
+    \ accordance with suspicious activity reporting regulations.22 Section 314(b)\
+    \ does not authorize a bank to share a SAR, nor does it permit a bank to disclose\
+    \ the existence of a SAR.23 However, a bank may share the underlying transactions\
+    \ and customer information that formed the basis of a SAR. A bank may use information\
+    \ obtained under Section 314(b) to determine whether to file a SAR, and financial\
+    \ institutions sharing information pursuant to Section 314(b) may work together\
+    \ to file joint SARs pursuant to suspicious activity reporting requirements.24"
+  questions_and_answers:
+  - answer: A bank that fails to comply with the requirements of 31 CFR 1010.540 loses
+      the safe harbor protection provided by Section 314(b) of the USA PATRIOT Act.
+    question: What are the potential consequences for a bank that fails to comply
+      with the requirements of 31 CFR 1010.540?
+  - answer: Under Section 314(b) of the USA PATRIOT Act, a bank can share the underlying
+      transactions and customer information that formed the basis of a Suspicious
+      Activity Report (SAR), but it does not authorize the sharing of the SAR itself
+      or the disclosure of its existence.
+    question: Under Section 314(b) of the USA PATRIOT Act, what types of information
+      can a bank share related to a Suspicious Activity Report (SAR)?
+  - answer: Financial institutions may collaborate under Section 314(b) of the USA
+      PATRIOT Act to file Suspicious Activity Reports (SARs) by sharing the underlying
+      transactions and customer information that formed the basis of a SAR, and they
+      may work together to file joint SARs as per the suspicious activity reporting
+      requirements outlined in 31 CFR 1010.540.
+    question: How might financial institutions collaborate under Section 314(b) to
+      file Suspicious Activity Reports (SARs)?
+- context: "A federal, state, local, or foreign law enforcement agency investigating\
+    \ ML or terrorist activity may request that the Financial Crimes Enforcement Network\
+    \ (FinCEN) solicit,1 on the investigating agency\u2019s behalf, certain information\
+    \ from banks and other financial institutions or a group of financial institutions.2\
+    \ The law enforcement agency must provide a written certification to FinCEN that,\
+    \ at a minimum, states that each individual, entity, or organization about which\
+    \ the law enforcement agency is seeking information is engaged in, or is reasonably\
+    \ suspected based on credible evidence of engaging in, ML or terrorist activity.\
+    \ The law enforcement agency must provide enough specific identifiers, such as\
+    \ a date of birth, address, and taxpayer identification number, to permit a bank\
+    \ or other financial institution to differentiate between common or similar names;\
+    \ and identify one person at the agency who can be contacted with any questions\
+    \ relating to the request. Upon receiving the"
+  questions_and_answers:
+  - answer: Under Section 314(a) of the USA PATRIOT Act, federal, state, local, or
+      foreign law enforcement agencies investigating money laundering (ML) or terrorist
+      activity can request information from financial institutions through FinCEN.
+    question: What kind of law enforcement agencies can request information from financial
+      institutions through FinCEN under Section 314(a) of the USA PATRIOT Act?
+  - answer: According to Section 314(a) of the USA PATRIOT Act, law enforcement agencies
+      must provide FinCEN with a written certification stating that the individuals
+      or entities in question are engaged in or reasonably suspected of money laundering
+      or terrorist activity based on credible evidence. Additionally, they must supply
+      specific identifiers such as date of birth, address, and taxpayer identification
+      number to distinguish between similar names, and designate a point of contact
+      for any questions related to the request.
+    question: What specific information must a law enforcement agency provide to FinCEN
+      when requesting information about individuals or entities suspected of money
+      laundering or terrorist activity?
+  - answer: FinCEN acts as an intermediary between law enforcement agencies and financial
+      institutions under Section 314(a) of the USA PATRIOT Act. It receives requests
+      from federal, state, local, or foreign law enforcement agencies investigating
+      money laundering or terrorist activity, and then solicits the relevant information
+      from banks and other financial institutions on behalf of the requesting agency.
+    question: What role does FinCEN play in facilitating information requests from
+      law enforcement agencies to financial institutions under Section 314(a) of the
+      USA PATRIOT Act?
+- context: "## Examiner Assessment of Compliance  \nExaminers should assess the adequacy\
+    \ of the bank\u2019s policies, procedures, and processes related to the bank\u2019\
+    s compliance with the BSA regulatory requirements for special information sharing\
+    \ procedures to deter ML and terrorist activity (Section 314 information requests).\
+    \ Examiners may review information, such as independent testing or audit reports,\
+    \ to aid in their assessment of the bank\u2019s compliance with information sharing\
+    \ requirements. Refer to the _Assessing the BSA/AML Compliance Program - BSA/AML\
+    \ Internal Controls_ section of this Manual for more information.  \n**Objective:**\
+    \ _Assess the bank\u2019s compliance with the Bank Secrecy Act (BSA) regulatory\
+    \ requirements for special information sharing procedures to deter money laundering\
+    \ (ML) and terrorist activity (Section 314 information requests)._"
+  questions_and_answers:
+  - answer: "The primary objective of an examiner when assessing a bank's compliance\
+      \ is to evaluate the bank\u2019s adherence to the Bank Secrecy Act (BSA) regulatory\
+      \ requirements for special information sharing procedures, specifically those\
+      \ outlined under Section 314, to deter money laundering and terrorist activity."
+    question: What is the primary objective of an examiner when assessing a bank's
+      compliance with the BSA special information sharing procedures?
+  - answer: Examiners may utilize independent testing or audit reports to evaluate
+      the adequacy of a bank's policies, procedures, and processes related to its
+      compliance with the BSA's Section 314 information requests. This helps them
+      assess the bank's adherence to special information sharing procedures aimed
+      at deterring money laundering and terrorist activity.
+    question: How might examiners utilize independent testing or audit reports in
+      their assessment of a bank's adherence to Section 314 information requests?
+  - answer: Examiners are looking to evaluate the adequacy of a bank's policies, procedures,
+      and processes related to its compliance with the Bank Secrecy Act (BSA) regulatory
+      requirements for special information sharing procedures, as outlined under Section
+      314, to deter money laundering and terrorist activity.
+    question: What specific BSA regulatory requirements are examiners looking to evaluate
+      when ensuring a bank's compliance with special information sharing procedures
+      to deter money laundering and terrorist activity?
+- context: "According to FinCEN\u2019s 314(a) FAQs, if a bank fails to perform or\
+    \ complete searches on one or more Section 314(a) information requests received\
+    \ during the previous 12 months, the bank must immediately obtain these prior\
+    \ requests from FinCEN and perform a retroactive search of the bank\u2019s records.10\
+    \ The bank is not required to perform retroactive searches in connection with\
+    \ Section 314(a) information requests that were transmitted more than 12 months\
+    \ before the date upon which it discovers that it failed to perform or complete\
+    \ the requested search. Additionally, in performing retroactive searches, a bank\
+    \ is not required to search records created after the date of the original information\
+    \ request."
+  questions_and_answers:
+  - answer: "If a bank discovers it failed to comply with Section 314(a) information\
+      \ requests within the past 12 months, it must immediately obtain these prior\
+      \ requests from FinCEN and perform a retroactive search of the bank\u2019s records,\
+      \ as per FinCEN\u2019s 314(a) FAQs."
+    question: What are the actions a bank must take if it discovers it failed to comply
+      with Section 314(a) information requests within the past 12 months?
+  - answer: No, banks are not required to perform retroactive searches for Section
+      314(a) information requests that are more than 12 months old, according to FinCEN's
+      314(a) FAQs.
+    question: Are banks required to perform retroactive searches for Section 314(a)
+      information requests that are more than 12 months old?
+  - answer: No, banks are not obligated to include records created after the date
+      of the original Section 314(a) information request when conducting retroactive
+      searches, as per FinCEN's 314(a) FAQs.
+    question: When conducting retroactive searches, are banks obligated to include
+      records created after the date of the original Section 314(a) information request?
+- context: "- any transaction25 conducted by or on behalf of a named suspect, or any\
+    \ transmittal of funds conducted in which a named suspect was either the transmitter\
+    \ or the recipient, during the preceding six months that is required under law\
+    \ or regulation to be recorded by the financial institution or is recorded and\
+    \ maintained electronically by the institution.\n- Protect the security and confidentiality\
+    \ of the Section 314(a) subject list.\n2. Verify that the bank has designated\
+    \ POCs and is receiving Section 314(a) information requests from FinCEN. If the\
+    \ bank is not receiving Section 314(a) information requests or needs to make changes\
+    \ to POC information, the bank should use information provided on FinCEN\u2019\
+    s website to update POC information in accordance with instructions provided by\
+    \ its primary regulator."
+  questions_and_answers:
+  - answer: Banks are required to share information on any transaction conducted by
+      or on behalf of a named suspect, or any transmittal of funds where a named suspect
+      was either the transmitter or the recipient, that occurred within the preceding
+      six months and was recorded as required by law or maintained electronically,
+      as per the Bank Secrecy Act's special information sharing procedures and Section
+      314(a) information requests from FinCEN.
+    question: What specific types of transactions related to a named suspect are banks
+      required to share information on?
+  - answer: It is important for banks to protect the security and confidentiality
+      of the Section 314(a) subject list to ensure compliance with the special information
+      sharing procedures under the Bank Secrecy Act, as required by FinCEN.
+    question: Why is it important for banks to protect the security and confidentiality
+      of the Section 314(a) subject list?
+  - answer: "If a bank is not receiving Section 314(a) information requests from FinCEN,\
+      \ it should use the information provided on FinCEN\u2019s website to update\
+      \ its point of contact (POC) information in accordance with instructions provided\
+      \ by its primary regulator."
+    question: What steps should a bank take if it is not receiving Section 314(a)
+      information requests from FinCEN?
+version: 3

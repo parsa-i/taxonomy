@@ -1,0 +1,159 @@
+created_by: CE
+version: 3
+document:
+  commit: 06419f3bf49a0c6a2b7f92a2d99323fd1b84d616
+  patterns:
+  - ilab_tx/knowledge/financial/financial/mastercard_transaction_processing_rules/chap7/*.md
+  repo: https://github.com/parsa-i/taxonomy
+domain: Mastercard Transaction Processing Rules
+seed_examples:
+- context: "In all Regions except the Canada and United States Regions, a Terminal\u2019\
+    s PIN entry device (PED) or encrypting PIN pad (EPP) must accept PINs having four\
+    \ to six numeric characters. In the Canada and United States Regions, each PED\
+    \ and EPP must support PINs of up to 12 alphanumeric characters. It is recommended\
+    \ that all PEDs and EPPs support the input of PINs in letter-number combinations\
+    \ as follows:  \n|1|Q, Z|6|M, N, O|\n|---|---|---|---|\n|2|A, B, C|7|P, R, S|\n\
+    |3|D, E, F|8|T, U, V|\n|4|G, H, I|9|W, X, Y|\n|5|J, K, L| | |  \nThe support of\
+    \ the following PED function keys is recommended:"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what is the maximum
+      length of PINs that PEDs and EPPs must support in the Canada and United States
+      Regions?
+    answer: According to Mastercard Transaction Processing Rules, the maximum length
+      of PINs that PEDs and EPPs must support in the Canada and United States Regions
+      is 12 alphanumeric characters.
+  - question: According to Mastercard Transaction Processing Rules, what is the recommended
+      range of numeric characters for PINs that PEDs or EPPs must accept in all regions
+      except the Canada and United States Regions?
+    answer: According to Mastercard Transaction Processing Rules, the recommended
+      range of numeric characters for PINs that PEDs or EPPs must accept in all regions
+      except the Canada and United States Regions is four to six numeric characters.
+  - question: According to Mastercard Transaction Processing Rules, which function
+      keys are recommended for support on PEDs to enhance user interaction?
+    answer: According to Mastercard Transaction Processing Rules, the support of specific
+      function keys on PEDs is recommended to enhance user interaction.
+- context: "# 7.6.1 Hybrid POS Terminal Requirements  \nHybrid POS Terminal and Chip-only\
+    \ MPOS Terminal Displays\nIn the U.S. Region and U.S. Territories, the Rule on\
+    \ this subject is replaced with the following:\nA Hybrid POS Terminal (including\
+    \ any Hybrid MPOS Terminal) and a Chip-only MPOS Terminal must:  \n1. For each\
+    \ debit Account (including any prepaid debit Account) on a Card, display to the\
+    \ Cardholder at least one mutually supported application label or preferred name,\
+    \ which the Merchant may select.\n2. For each credit Account on a Card, display\
+    \ all mutually supported application labels or preferred names. Multiple matching\
+    \ applications must be displayed in the Issuer's priority sequence.\n3. Display\
+    \ to the Cardholder the Transaction amount and Transaction currency, if different\
+    \ from the Merchant's or cash disbursement agent's local currency.  \nFor more\
+    \ information, refer to the U.S. Region section in Chapter 2 of the M/Chip Requirements\
+    \ for Contact and Contactless manual."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what information
+      must be displayed on a Hybrid POS Terminal for debit accounts in the U.S. Region
+      and U.S. Territories?
+    answer: According to Mastercard Transaction Processing Rules, a Hybrid POS Terminal
+      for debit accounts in the U.S. Region and U.S. Territories must display at least
+      one mutually supported application label or preferred name, the transaction
+      amount, and the transaction currency if different from the merchant's local
+      currency.
+  - question: According to Mastercard Transaction Processing Rules, how should multiple
+      matching applications be displayed on a Chip-only MPOS Terminal for credit accounts?
+    answer: According to Mastercard Transaction Processing Rules, multiple matching
+      applications for credit accounts on a Chip-only MPOS Terminal must be displayed
+      in the Issuer's priority sequence.
+  - question: According to Mastercard Transaction Processing Rules, what currency
+      information must be shown to the Cardholder on a Hybrid POS Terminal during
+      a transaction?
+    answer: According to Mastercard Transaction Processing Rules, a Hybrid POS Terminal
+      must display the Transaction amount and Transaction currency to the Cardholder
+      during a transaction, if different from the Merchant's or cash disbursement
+      agent's local currency.
+- context: "# 7.7 Mastercard Consumer-Presented QR-enabled POS Terminals  \nIn the\
+    \ Canada Region, the Rule on this subject is modified to add the following: An\
+    \ Acquirer must transmit the device type indicator in DE 48, subelement 23 (Payment\
+    \ Initiation Channel), subfield 1 (Device Type) of the Authorization Request/0100\
+    \ message when present in the Access Device used to effect a Transaction. The\
+    \ Acquirer must also include the device type indicator when present in PDS 0198\
+    \ (Device Type Indicator) of the First Presentment/1240 message."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what indicator
+      must be included in the Authorization Request/0100 message for Mastercard Consumer-Presented
+      QR-enabled POS Terminals in the Canada Region?
+    answer: According to Mastercard Transaction Processing Rules, the Authorization
+      Request/0100 message for Mastercard Consumer-Presented QR-enabled POS Terminals
+      in the Canada Region must include the device type indicator in DE 48, subelement
+      23 (Payment Initiation Channel), subfield 1 (Device Type).
+  - question: According to Mastercard Transaction Processing Rules, where should the
+      device type indicator be included in the First Presentment/1240 message for
+      Mastercard Consumer-Presented QR-enabled POS Terminals in the Canada Region?
+    answer: The device type indicator should be included in PDS 0198 (Device Type
+      Indicator) of the First Presentment/1240 message, as per Mastercard Transaction
+      Processing Rules.
+  - question: According to Mastercard Transaction Processing Rules, under what conditions
+      must an Acquirer transmit the device type indicator in both the Authorization
+      Request/0100 message and the First Presentment/1240 message for Mastercard Consumer-Presented
+      QR-enabled POS Terminals in the Canada Region?
+    answer: According to Mastercard Transaction Processing Rules, for Mastercard Consumer-Presented
+      QR-enabled POS Terminals in the Canada Region, an Acquirer must transmit the
+      device type indicator in both the Authorization Request/0100 message and the
+      First Presentment/1240 message when it is present in the Access Device used
+      to effect a Transaction. Specifically, this information should be included in
+      DE 48, subelement 23 (Payment Initiation Channel), subfield 1 (Device Type)
+      for the Authorization Request, and in PDS 0198 (Device Type Indicator) for the
+      First Presentment message.
+- context: "- Contactless magnetic stripe technology (\"Magnetic Stripe Mode\") only;\n\
+    - Both contactless magnetic stripe and contactless chip technology (\"EMV Mode\"\
+    ); or\n- EMV mode only.  \nAny contactless-enabled POS Terminal submitted to the\
+    \ Corporation for MTIP testing as a new project must only support EMV Mode Contactless\
+    \ Transactions and must not support Magstripe Mode Contactless Transactions. \
+    \ \nThe following requirements apply to online PIN support on the contact and\
+    \ contactless interface of a Dual Interface POS Terminal and on the contactless\
+    \ interface of a contactless-only POS Terminal:  \n- In China, all POS Terminals\
+    \ (including MPOS Terminals) that accept China Domestic Transactions must support\
+    \ online PIN. For Cross-border Transactions, online PIN must be enabled in accordance\
+    \ with the below Asia/Pacific Region schedule.\n- In all other Asia/Pacific Region\
+    \ countries and territories except Japan, Republic of Korea, and Taiwan:"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, which modes of
+      contactless transactions are required to be supported by new POS terminals submitted
+      for MTIP testing?
+    answer: According to Mastercard Transaction Processing Rules, new POS terminals
+      submitted for MTIP testing must support EMV Mode contactless transactions and
+      must not support Magnetic Stripe Mode contactless transactions.
+  - question: According to Mastercard Transaction Processing Rules, what are the requirements
+      for online PIN support in China for POS terminals that accept China Domestic
+      Transactions?
+    answer: According to Mastercard Transaction Processing Rules, all POS terminals
+      in China that accept China Domestic Transactions must support online PIN.
+  - question: According to Mastercard Transaction Processing Rules, in which Asia/Pacific
+      Region countries and territories are online PIN requirements different for Cross-border
+      Transactions?
+    answer: 'According to Mastercard Transaction Processing Rules, online PIN requirements
+      for Cross-border Transactions are different in the following Asia/Pacific Region
+      countries and territories: Japan, Republic of Korea, and Taiwan.'
+- context: "# 7.5.3 Contactless-enabled ATM and Bank Branch Terminals  \nAll contactless-enabled\
+    \ ATM and Bank Branch Terminals must support EMV Mode Contactless Transactions.\
+    \  \nAll newly-deployed contactless-enabled ATM and Bank Branch Terminals, including\
+    \ any contactless-enabled Terminal submitted to the Corporation for MTIP testing\
+    \ as a new project, must only support EMV Mode Contactless Transactions and must\
+    \ not support Magnetic Stripe Mode Contactless Transactions.  \nEffective 1 January\
+    \ 2024, all contactless-enabled ATM and Bank Branch Terminals must only support\
+    \ EMV Mode Contactless Transactions and must not support Magnetic Stripe Mode\
+    \ Contactless Transactions."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what type of contactless
+      transactions must all contactless-enabled ATM and bank branch terminals support?
+    answer: According to Mastercard Transaction Processing Rules, all contactless-enabled
+      ATM and bank branch terminals must support EMV Mode Contactless Transactions.
+  - question: According to Mastercard Transaction Processing Rules, what is the deadline
+      for phasing out Magnetic Stripe Mode Contactless Transactions in all contactless-enabled
+      ATM and bank branch terminals?
+    answer: According to Mastercard Transaction Processing Rules, the deadline for
+      phasing out Magnetic Stripe Mode Contactless Transactions in all contactless-enabled
+      ATM and bank branch terminals is 1 January 2024.
+  - question: According to Mastercard Transaction Processing Rules, what type of contactless
+      transactions must newly-deployed contactless-enabled ATM and bank branch terminals
+      support exclusively?
+    answer: According to Mastercard Transaction Processing Rules, newly-deployed contactless-enabled
+      ATM and bank branch terminals must support exclusively EMV Mode Contactless
+      Transactions.
+document_outline: This document outlines the eligibility criteria and technical requirements
+  for various types of terminals that can process Mastercard transactions.

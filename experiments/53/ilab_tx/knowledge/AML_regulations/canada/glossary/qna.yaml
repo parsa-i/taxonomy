@@ -1,0 +1,198 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/glossary/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document provides a comprehensive glossary of terms used in
+  FINTRAC's guidance, essential for understanding and complying with Canada's anti-money
+  laundering and terrorist financing regulations.
+domain: Canadian Regulations
+seed_examples:
+- context: "### Large cash transaction record  \nA record that indicates the receipt\
+    \ of an amount of $10,000 or more in cash in a single transaction and that contains\
+    \ the following information:  \n01. (a) the date of the receipt;\n02. (b) if the\
+    \ amount is received for deposit into an account, the number of the account, the\
+    \ name of each account holder and the time of the deposit or an indication that\
+    \ the deposit is made in a night deposit box outside the recipient's normal business\
+    \ hours;\n03. (c) the name and address of every other person or entity that is\
+    \ involved in the transaction, the nature of their principal business or their\
+    \ occupation and, in the case of a person, their date of birth;\n04. (d) the type\
+    \ and amount of each fiat currency involved in the receipt;\n05. (e) the method\
+    \ by which the cash is received;\n06. (f) if applicable, the exchange rates used\
+    \ and their source;"
+  questions_and_answers:
+  - answer: The minimum amount in cash that triggers the requirement for a 'Large
+      cash transaction record' is $10,000, as defined by FINTRAC's guidance.
+    question: According to Fintrac, What is the minimum amount in cash that triggers
+      the requirement for a 'Large cash transaction record'?
+  - answer: According to FINTRAC's guidance, if the amount is deposited into an account,
+      the 'Large cash transaction record' must include the number of the account,
+      the name of each account holder, and the time of the deposit. If the deposit
+      is made in a night deposit box outside normal business hours, this should also
+      be indicated.
+    question: According to Fintrac, What information must be included in a 'Large
+      cash transaction record' if the amount is deposited into an account?
+  - answer: 'As per FINTRAC''s guidance, aside from the name and address, the following
+      details are required about each person involved in a transaction that necessitates
+      a ''Large cash transaction record'': their principal business or occupation,
+      and if the individual is a person, their date of birth.'
+    question: According to Fintrac, What details are required about each person involved
+      in a transaction that necessitates a 'Large cash transaction record', aside
+      from their name and address?
+- context: "### Family member  \nFor the purposes of subsection 9.3(1) of the Act,\
+    \ a prescribed family member of a politically exposed foreign person, a politically\
+    \ exposed domestic person or a head of an international organization is:  \n1.\
+    \ (a) their spouse or common-law partner;\n2. (b) their child;\n3. (c) their mother\
+    \ or father;\n4. (d) the mother or father of their spouse or common-law partner;\
+    \ or\n5. (e) a child of their mother or father.  \n(membre de la famille)"
+  questions_and_answers:
+  - answer: According to the Act, specifically subsection 9.3(1), a prescribed family
+      member of a politically exposed foreign person includes their spouse or common-law
+      partner, child, mother or father, the mother or father of their spouse or common-law
+      partner, or a child of their mother or father.
+    question: According to Fintrac, According to the definition provided, who is considered
+      a prescribed family member of a politically exposed foreign person under subsection
+      9.3(1) of the Act?
+  - answer: No, a step-parent cannot be considered a family member as defined by subsection
+      9.3(1) of the Act. The Act specifies that a "family member" includes a spouse
+      or common-law partner, child, mother or father, the mother or father of the
+      spouse or common-law partner, or a child of the mother or father. Step-parents
+      are not included in this definition.
+    question: According to Fintrac, Can a step-parent be considered a family member
+      as defined in this context?
+  - answer: No, a person who is the child of a politically exposed domestic person’s
+      sibling would not be considered a prescribed family member under the definition
+      provided in subsection 9.3(1) of the Act.
+    question: According to Fintrac, If a person is the child of a politically exposed
+      domestic person’s sibling, would they be considered a prescribed family member
+      under this definition?
+- context: '07. (g) the number of every other account that is affected by the transaction,
+    the type of account and the name of each account holder
+
+    08. (h) every reference number that is connected to the transaction and has a
+    function equivalent to that of an account number;
+
+    09. (i) the purpose of the transaction;
+
+    10. (j) the following details of the remittance of, or in exchange for, the cash
+    received:
+
+    1. (i) the method of remittance;
+
+    2. (ii) if the remittance is in funds, the type and amount of each type of funds
+    involved;
+
+    3. (iii) if the remittance is not in funds, the type of remittance and its value,
+    if different from the amount of cash received; and
+
+    4. (iv) the name of every person or entity involved in the remittance and their
+    account number or policy number or, if they have no account number or policy number,
+    their identifying number; and
+
+    11. (k) if the amount is received by a dealer in precious metals and precious
+    stones for the sale of precious metals, precious stones or jewellery:'
+  questions_and_answers:
+  - answer: 'According to the "Guidance glossary" definition of a "Large cash transaction
+      record," the following specific details must be recorded for the remittance
+      of, or in exchange for, the cash received in a large cash transaction:
+
+
+      1. The method of remittance;
+
+      2. If the remittance is in funds, the type and amount of each type of funds
+      involved;
+
+      3. If the remittance is not in funds, the type of remittance and its value,
+      if different from the amount of cash received;
+
+      4. The name of every person or entity involved in the remittance and their account
+      number, policy number, or identifying number if they have no account or policy
+      number.'
+    question: According to Fintrac, What specific details must be recorded for the
+      remittance of, or in exchange for, the cash received in a large cash transaction?
+  - answer: The purpose of recording every reference number connected to the transaction
+      that functions equivalent to an account number is to ensure thorough tracking
+      and transparency, as required by the governing body's guidelines for large cash
+      transaction records.
+    question: According to Fintrac, In the context of a large cash transaction, what
+      is the purpose of recording every reference number connected to the transaction
+      that functions equivalent to an account number?
+  - answer: "If the amount for a large cash transaction is received by a dealer in\
+      \ precious metals and precious stones, the following information should be recorded\
+      \ as per the \"Large cash transaction record\" definition in the \"Guidance\
+      \ glossary\":\n\n- The number and type of every other account affected by the\
+      \ transaction, and the name of each account holder.\n- Every reference number\
+      \ connected to the transaction that functions equivalently to an account number.\n\
+      - The purpose of the transaction.\n- Details of the remittance of, or in exchange\
+      \ for, the cash received, including:\n  - The method of remittance.\n  - If\
+      \ the remittance is in funds, the type and amount of each type of funds involved.\n\
+      \  - If the remittance is not in funds, the type of remittance and its value.\n\
+      \  - The name of every person or entity involved in the remittance and their\
+      \ account number, policy number, or identifying number if they have no account\
+      \ or policy number."
+    question: According to Fintrac, What type of information should be recorded if
+      the amount for a large cash transaction is received by a dealer in precious
+      metals and precious stones?
+- context: "### Politically exposed domestic person  \nA person who, at a given time,\
+    \ holds—or has held within a prescribed period before that time—one of the offices\
+    \ or positions referred to in any of paragraphs (a) and (c) to (j) in or on behalf\
+    \ of the federal government or a provincial government or any of the offices or\
+    \ positions referred to in paragraphs (b) and (k):  \n01. (a) Governor General,\
+    \ lieutenant governor or head of government;\n02. (b) member of the Senate or\
+    \ House of Commons or member of a legislature of a province;\n03. (c) deputy minister\
+    \ or equivalent rank;\n04. (d) ambassador, or attaché or counsellor of an ambassador;\n\
+    05. (e) military officer with a rank of general or above;\n06. (f) president of\
+    \ a corporation that is wholly owned directly by His Majesty in right of Canada\
+    \ or a province;\n07. (g) head of a government agency;\n08. (h) judge of an appellate\
+    \ court in a province, the Federal Court of Appeal or the Supreme Court of Canada;"
+  questions_and_answers:
+  - answer: A "politically exposed domestic person," as defined by FINTRAC, includes
+      individuals who currently or recently held positions such as Governor General,
+      lieutenant governor, head of government, member of the Senate or House of Commons,
+      deputy minister, ambassador, high-ranking military officer, president of a wholly-owned
+      government corporation, head of a government agency, or judge of an appellate
+      court.
+    question: What positions are considered under the term 'politically exposed domestic
+      person' within FINTRAC's guidance document?
+  - answer: A 'politically exposed domestic person' is someone who holds—or has held
+      within a prescribed period before a given time—specific high-profile positions
+      within the federal or provincial government, as defined by FINTRAC's guidance.
+      These positions include Governor General, lieutenant governor, head of government,
+      deputy minister, ambassador, high-ranking military officer, president of a crown
+      corporation, head of a government agency, or judge of an appellate court.
+    question: According to Fintrac, Who is considered a 'politically exposed domestic
+      person' if they have held a position within the prescribed period before the
+      given time?
+  - answer: According to FINTRAC, a 'politically exposed domestic person' includes
+      military officers with a rank of general or above.
+    question: Which military ranks are included in the definition of a 'politically
+      exposed domestic person' according to FINTRAC?
+- context: "### Funds  \nMeans:  \n1. (a) cash and other fiat currencies, and securities,\
+    \ negotiable instruments or other financial instruments that indicate a title\
+    \ or right to or interest in them; or\n2. (b) a private key of a cryptographic\
+    \ system that enables a person or entity to have access to a fiat currency other\
+    \ than cash.  \nFor greater certainty, it does not include virtual currency. (fonds)"
+  questions_and_answers:
+  - answer: 'According to FINTRAC''s Guidance glossary, "Funds" refers to:
+
+      1. (a) Cash and other fiat currencies, and securities, negotiable instruments
+      or other financial instruments that indicate a title or right to or interest
+      in them; or
+
+      2. (b) A private key of a cryptographic system that enables a person or entity
+      to have access to a fiat currency other than cash.
+
+      It explicitly excludes virtual currency.'
+    question: What does the term 'Funds' refer to in the context of the Guidance glossary
+      according to FINTRAC's document?
+  - answer: No, the term 'Funds' as defined by FINTRAC does not include virtual currency.
+    question: Does the term 'Funds' as defined by FINTRAC include virtual currency?
+  - answer: According to FINTRAC's Guidance glossary, 'Funds' include cash and other
+      fiat currencies, securities, negotiable instruments, or other financial instruments
+      that indicate a title, right, or interest. Additionally, it includes a private
+      key of a cryptographic system enabling access to a fiat currency other than
+      cash. Virtual currency is explicitly excluded from this definition.
+    question: What types of instruments fall under the definition of 'Funds' according
+      to FINTRAC's Guidance glossary?
+version: 3

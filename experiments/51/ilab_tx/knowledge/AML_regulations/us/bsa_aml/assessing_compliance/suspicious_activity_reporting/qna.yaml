@@ -1,0 +1,183 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/us/bsa_aml/assessing_compliance/suspicious_activity_reporting/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines guidelines for assessing a bank's compliance
+  with suspicious activity reporting requirements to combat financial crimes.
+domain: USA Regulations
+seed_examples:
+- context: Federal law ( 31 USC 5318(g)(3)) provides protection from civil liability
+    for all reports of suspicious transactions made to appropriate authorities, including
+    supporting documentation, regardless of whether such reports are filed pursuant
+    to the SAR instructions. Specifically, the law provides that a bank and its directors,
+    officers, employees, and agents that make a disclosure to the appropriate authorities
+    of any possible violation of law or regulation, including a disclosure in connection
+    with the preparation of SARs, "shall not be liable to any person under any law
+    or regulation of the United States, any constitution, law, or regulation of any
+    State or political subdivision of any State, or under any contract or other legally
+    enforceable agreement (including any arbitration agreement), for such disclosure
+    or for any failure to provide notice of such disclosure to the person who is the
+    subject of such disclosure or any other person identified in the disclosure."
+    The safe harbor
+  questions_and_answers:
+  - answer: Federal law, specifically 31 USC 5318(g)(3), provides protection from
+      civil liability for banks and their directors, officers, employees, and agents
+      when they report suspicious transactions to appropriate authorities. This includes
+      supporting documentation and applies whether or not the reports are filed pursuant
+      to Suspicious Activity Report (SAR) instructions. The law ensures that those
+      making such disclosures are not liable to any person under any law or regulation,
+      including state laws or contracts, for the disclosure or for failing to notify
+      the subject of the disclosure.
+    question: What legal protections are provided to banks and their personnel when
+      they report suspicious activities?
+  - answer: Federal law, specifically 31 USC 5318(g)(3), protects banks and their
+      personnel from civil liability when they report suspicious transactions to the
+      appropriate authorities. This protection covers the disclosure of potential
+      law or regulation violations, including those reported in Suspicious Activity
+      Reports (SARs). The law ensures that banks and their directors, officers, employees,
+      and agents are not liable to any person for making such disclosures or for failing
+      to notify the subject of the disclosure.
+    question: How does federal law protect banks from civil liability when they report
+      suspicious transactions?
+  - answer: Federal law 31 USC 5318(g)(3) ensures that banks and their employees are
+      not liable for reporting possible violations of law or regulation.
+    question: What specific provision in federal law ensures that banks and their
+      employees are not liable for reporting possible violations of law or regulation?
+- context: "A company having the power, directly or indirectly, to direct the management\
+    \ policies of an industrial loan company or a parent company or to vote 25 percent\
+    \ or more of any class of voting shares of an industrial loan company or parent\
+    \ company.  \nThe guidance confirms that:  \nA U.S. branch or agency of a foreign\
+    \ bank may share a SAR with its head office outside the United States.\nA U.S.\
+    \ bank may share a SAR with controlling companies whether domestic or foreign.\
+    \  \nIn addition, a bank that has filed a SAR may share the SAR, or any information\
+    \ that would reveal the existence of the SAR, with an affiliate provided the affiliate\
+    \ is subject to a SAR regulation. 81 An affiliate is defined as any company under\
+    \ common control with, or controlled by, that depository institution. Under \"\
+    common control\" means that another company:"
+  questions_and_answers:
+  - answer: A U.S. branch or agency of a foreign bank can share a Suspicious Activity
+      Report (SAR) with its head office outside the United States, as confirmed by
+      regulatory guidance.
+    question: Under what conditions can a U.S. branch or agency of a foreign bank
+      share a Suspicious Activity Report (SAR) with its head office outside the United
+      States?
+  - answer: A U.S. bank may share a Suspicious Activity Report (SAR) with controlling
+      companies, whether domestic or foreign, as confirmed by the guidance provided.
+      Additionally, a U.S. branch or agency of a foreign bank may share a SAR with
+      its head office outside the United States. These practices are permissible under
+      specific conditions outlined in the guidelines for sharing SARs.
+    question: What are the permissible scenarios for a U.S. bank to share a SAR with
+      controlling companies, whether domestic or foreign?
+  - answer: An 'affiliate,' in the context of SAR sharing, is defined as any company
+      under common control with, or controlled by, a depository institution. Common
+      control means that another company has the power, directly or indirectly, to
+      direct the management policies or vote 25 percent or more of any class of voting
+      shares of the depository institution or its parent company. A bank that has
+      filed a Suspicious Activity Report (SAR) may share the SAR, or any information
+      that would reveal its existence, with an affiliate provided the affiliate is
+      also subject to SAR regulations.
+    question: What is the definition of an 'affiliate' in the context of SAR sharing,
+      and under what circumstances can a bank share a SAR with such an affiliate?
+- context: Funds transfer records.The BSA requires banks to maintain records of funds
+    transfer in amounts of $3,000 and above. Periodic review of this information can
+    assist banks in identifying patterns of unusual activity. A periodic review of
+    the funds transfer records in banks with low funds transfer activity is usually
+    sufficient to identify unusual activity. For banks with more significant funds
+    transfer activity, use of spreadsheet or vendor software is an efficient way to
+    review funds transfer activity for unusual patterns. Most vendor software systems
+    include standard suspicious activity filter reports. These reports typically focus
+    on identifying certain higher-risk geographic locations and larger dollar funds
+    transfer transactions for individuals and businesses. Each bank should establish
+    its own filtering criteria for both individuals and businesses. Noncustomer funds
+    transfer transactions and payable upon proper identification (PUPID) transactions
+    should be reviewed for unusual
+  questions_and_answers:
+  - answer: The minimum amount for which banks are required to maintain records of
+      funds transfers according to the Bank Secrecy Act (BSA) is $3,000.
+    question: What is the minimum amount for which banks are required to maintain
+      records of funds transfers according to the BSA?
+  - answer: Banks with significant funds transfer activity can efficiently review
+      these transactions for unusual patterns by utilizing spreadsheet or vendor software,
+      as recommended by the Bank Secrecy Act (BSA). This method allows banks to establish
+      their own filtering criteria and focus on higher-risk geographic locations and
+      larger dollar transactions for both individuals and businesses.
+    question: How can banks with significant funds transfer activity efficiently review
+      these transactions for unusual patterns?
+  - answer: It is important for each bank to establish its own filtering criteria
+      for individuals and businesses when reviewing funds transfer transactions to
+      effectively identify unusual activity and comply with the Bank Secrecy Act (BSA)
+      requirements. This ensures that the bank's monitoring system is tailored to
+      its specific risk profile and customer base, enabling it to detect and report
+      suspicious activities accurately.
+    question: Why is it important for each bank to establish its own filtering criteria
+      for individuals and businesses when reviewing funds transfer transactions?
+- context: Relative to surveillance monitoring, system capabilities and thresholds
+    refer to the parameters or filters used by banks in their monitoring processes.
+    Parameters and filters should be reasonable and tailored to the activity that
+    the bank is trying to identify or control. After parameters and filters have been
+    developed, they should be reviewed before implementation to identify any gaps
+    (common money laundering techniques or frauds) that may not have been addressed.
+    For example, a bank may discover that its filter for cash structuring is triggered
+    only by a daily cash transaction in excess of $10,000. The bank may need to refine
+    this filter in order to avoid missing potentially suspicious activity because
+    common cash structuring techniques often involve transactions that are slightly
+    under the CTR threshold.
+  questions_and_answers:
+  - answer: It is important for banks to set reasonable and tailored parameters for
+      their surveillance monitoring systems to effectively identify suspicious activities,
+      such as cash structuring techniques that may fall just below the Currency Transaction
+      Report (CTR) threshold, as required by anti-money laundering regulations.
+    question: Why is it important for banks to set reasonable and tailored parameters
+      for their surveillance monitoring systems?
+  - answer: Common money laundering techniques that might be missed if a bank's cash
+      structuring filter is set too high include transactions that are slightly under
+      the Currency Transaction Report (CTR) threshold, as these are often used in
+      cash structuring schemes to avoid detection.
+    question: What common money laundering techniques might be missed if a bank's
+      cash structuring filter is set too high?
+  - answer: To effectively identify potentially suspicious activities related to cash
+      structuring, banks should set reasonable and tailored parameters for their surveillance
+      monitoring systems. These parameters should be designed to capture transactions
+      that may fall just below the Currency Transaction Report (CTR) threshold, as
+      cash structuring techniques often involve transactions slightly under this limit.
+      Regular reviews of these parameters are essential to identify and address any
+      gaps that could allow common money laundering techniques or frauds to go undetected.
+    question: How can banks ensure that their surveillance monitoring systems effectively
+      identify potentially suspicious activities related to cash structuring?
+- context: The decision maker, whether an individual or committee, should have the
+    authority to make the final SAR filing decision. When the bank uses a committee,
+    there should be a clearly defined process to resolve differences of opinion on
+    filing decisions. Banks should document SAR decisions, including the specific
+    reason for filing or not filing a SAR. Thorough documentation provides a record
+    of the SAR decision-making process, including final decisions not to file a SAR.
+    However, due to the variety of systems used to identify, track, and report suspicious
+    activity, as well as the fact that each suspicious activity reporting decision
+    will be based on unique facts and circumstances, no single form of documentation
+    is required when a bank decides not to file. 64
+  questions_and_answers:
+  - answer: The decision maker, whether an individual or committee, within a bank
+      has the authority to make the final decision on filing a Suspicious Activity
+      Report (SAR).
+    question: Who or what entity within a bank has the authority to make the final
+      decision on filing a Suspicious Activity Report (SAR)?
+  - answer: It is important for banks to document SAR filing decisions, including
+      those where a SAR is not filed, to maintain a record of the decision-making
+      process. This documentation should include the specific reasons for filing or
+      not filing a SAR. While there is no single required form of documentation when
+      a bank decides not to file, thorough documentation helps resolve any differences
+      of opinion and provides a clear trail of the bank's assessment and actions.
+      This practice aligns with the guidelines provided by regulatory bodies to ensure
+      transparency and accountability in suspicious activity reporting.
+    question: Why is it important for banks to document SAR filing decisions, including
+      those where a SAR is not filed?
+  - answer: 'In the context of SAR filing decisions, the variety in documentation
+      methods used by banks is attributed to two main factors: the diversity of systems
+      employed to identify, track, and report suspicious activity, and the unique
+      facts and circumstances surrounding each suspicious activity reporting decision.
+      This flexibility is acknowledged by the governing regulations, which do not
+      mandate a single form of documentation when a bank decides not to file a SAR.'
+    question: In the context of SAR filing decisions, what factors contribute to the
+      variety in documentation methods used by banks?
+version: 3

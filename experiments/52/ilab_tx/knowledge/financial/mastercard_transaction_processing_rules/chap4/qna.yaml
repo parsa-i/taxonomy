@@ -1,0 +1,158 @@
+created_by: CE
+version: 3
+document:
+  commit: 06419f3bf49a0c6a2b7f92a2d99323fd1b84d616
+  patterns:
+  - ilab_tx/knowledge/financial/financial/mastercard_transaction_processing_rules/chap4/*.md
+  repo: https://github.com/parsa-i/taxonomy
+domain: Mastercard Transaction Processing Rules
+seed_examples:
+- context: '4. In Switzerland the purchase amount, cash back amount, and Transaction
+    amount must all be in the same currency. The cash back amount must not be lower
+    than CHF 10. An Issuer must decline the Transaction if the cash back amount exceeds
+    CHF 300. The purchase amount of a purchase with cash back Transaction must not
+    be lower than CHF 20.
+
+    5. An Issuer in Armenia, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Russia, Tajikistan,
+    Turkmenistan, Ukraine, and Uzbekistan must not apply a cash back limit lower than
+    those specified in the above table of maximum cash back amounts.
+
+    6. Intracountry Transactions in Moldova must be processed in MDL only.'
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what is the minimum
+      cash back amount allowed in Switzerland?
+    answer: According to Mastercard Transaction Processing Rules, the minimum cash
+      back amount allowed in Switzerland is CHF 10.
+  - question: According to Mastercard Transaction Processing Rules, what currency
+      must be used for intracountry transactions in Moldova?
+    answer: According to Mastercard Transaction Processing Rules, intracountry transactions
+      in Moldova must be processed in MDL only.
+  - question: According to Mastercard Transaction Processing Rules, what is the maximum
+      cash back amount that an Issuer must decline if exceeded in Switzerland?
+    answer: According to Mastercard Transaction Processing Rules, the maximum cash
+      back amount that an Issuer must decline if exceeded in Switzerland is CHF 300.
+- context: "# Aggregation Procedures  \nThe following requirements apply for each\
+    \ tap aggregation period:  \n1. Following successful account verification as described\
+    \ above, the Merchant or its Acquirer maintains a record of each subsequent tap\
+    \ that occurs within the 24-hour aggregation period.\n2. At the end of the aggregation\
+    \ period, the Merchant uses the last tap to initiate an Authorization Request/0100\
+    \ or Financial Transaction Request/0200 message for the combined total amount\
+    \ of taps (rides taken) during the aggregation period. The total aggregated amount\
+    \ must not exceed the applicable contactless Transaction CVM limit amount (USD\
+    \ 100)."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what is the duration
+      of the tap aggregation period?
+    answer: The tap aggregation period is 24 hours, according to Mastercard Transaction
+      Processing Rules.
+  - question: According to Mastercard Transaction Processing Rules, what should the
+      merchant do at the end of the aggregation period with regards to the tap transactions?
+    answer: According to Mastercard Transaction Processing Rules, at the end of the
+      aggregation period, the merchant should use the last tap to initiate an Authorization
+      Request/0100 or Financial Transaction Request/0200 message for the combined
+      total amount of taps during the aggregation period. The total aggregated amount
+      must not exceed the applicable contactless Transaction CVM limit amount (USD
+      100).
+  - question: According to Mastercard Transaction Processing Rules, what is the maximum
+      total aggregated amount that must not be exceeded during the aggregation period
+      for contactless transactions?
+    answer: According to Mastercard Transaction Processing Rules, the maximum total
+      aggregated amount that must not be exceeded during the aggregation period for
+      contactless transactions is USD 100.
+- context: "# 4.17.1 ATM Access Fees\u2014Domestic Transactions  \nIn the Latin America\
+    \ and the Caribbean Region, the Rule on this subject, as it applies to Domestic\
+    \ Transactions occurring in the countries listed below, is replaced with the following:\
+    \ Subject to complying with the ATM Access Fee notification requirements, the\
+    \ Acquirer may assess an ATM Access Fee on a Domestic Transaction provided the\
+    \ Acquirer applies the ATM Access Fee in a consistent and nondiscriminatory manner.\
+    \  \nFor the purposes of this Rule, \u201CATM Access Fee\u201D means a fee charged\
+    \ by an Acquirer in connection with any financial Transaction initiated at that\
+    \ Acquirer\u2019s ATM with a Card and added to the amount of the Transaction transmitted\
+    \ to the Issuer.  \nArgentina\nBrazil  \n162"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, under what conditions
+      can an Acquirer in Argentina or Brazil assess an ATM Access Fee on a Domestic
+      Transaction?
+    answer: According to Mastercard Transaction Processing Rules, an Acquirer in Argentina
+      or Brazil can assess an ATM Access Fee on a Domestic Transaction if they comply
+      with the ATM Access Fee notification requirements and apply the fee in a consistent
+      and nondiscriminatory manner.
+  - question: According to Mastercard Transaction Processing Rules, what is the definition
+      of an 'ATM Access Fee' in the context of Domestic Transactions in Argentina
+      and Brazil?
+    answer: "According to Mastercard Transaction Processing Rules, an 'ATM Access\
+      \ Fee' in the context of Domestic Transactions in Argentina and Brazil is defined\
+      \ as a fee charged by an Acquirer in connection with any financial transaction\
+      \ initiated at that Acquirer\u2019s ATM with a Card, which is added to the amount\
+      \ of the transaction transmitted to the Issuer."
+  - question: According to Mastercard Transaction Processing Rules, what notification
+      requirements must be met for an Acquirer to charge an ATM Access Fee on Domestic
+      Transactions in the Latin America and the Caribbean Region?
+    answer: According to Mastercard Transaction Processing Rules, for an Acquirer
+      to charge an ATM Access Fee on Domestic Transactions in the Latin America and
+      the Caribbean Region, particularly in Argentina and Brazil, the Acquirer must
+      comply with the ATM Access Fee notification requirements and apply the fee in
+      a consistent and nondiscriminatory manner.
+- context: "3. The Issuer must make an individual authorization decision for each\
+    \ purchase with cash back Transaction. An Issuer that chooses not to offer the\
+    \ cash back service to particular Cardholders must be capable of providing a value\
+    \ of 87 (Purchase Amount Only, No Cash Back Allowed) in DE 39 (Response Code)\
+    \ of the authorization request response message for an Account in good standing\
+    \ and having a sufficient balance, if the POS Terminal indicates support for purchase-amount-only\
+    \ approvals.  \nNOTE: Variations to this Rule appear in the \"Asia/Pacific Region,\"\
+    \ \"Canada Region,\" \"Europe Region,\" \"Latin America and the Caribbean Region,\"\
+    \ \"Middle East/Africa Region,\" and \"United States Region\" sections at the\
+    \ end of this chapter.  \n# 4.10 Transactions at Unattended POS Terminals"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what decision
+      must the Issuer make for each purchase with cash back transaction?
+    answer: According to Mastercard Transaction Processing Rules, the Issuer must
+      make an individual authorization decision for each purchase with cash back transaction.
+  - question: According to Mastercard Transaction Processing Rules, what response
+      code should an Issuer provide if it does not offer the cash back service to
+      certain Cardholders, and the POS Terminal supports purchase-amount-only approvals?
+    answer: According to Mastercard Transaction Processing Rules, the Issuer should
+      provide response code 87 (Purchase Amount Only, No Cash Back Allowed) if it
+      does not offer the cash back service to certain Cardholders, and the POS Terminal
+      supports purchase-amount-only approvals.
+  - question: According to Mastercard Transaction Processing Rules, in which scenarios
+      might an Issuer need to use the Response Code 87 in the authorization request
+      response message for a purchase with cash back transaction?
+    answer: According to Mastercard Transaction Processing Rules, an Issuer might
+      need to use the Response Code 87 in the authorization request response message
+      for a purchase with cash back transaction when they choose not to offer the
+      cash back service to particular Cardholders, given that the POS terminal supports
+      purchase-amount-only approvals. This applies to accounts in good standing with
+      sufficient balance.
+- context: "# 4.9 Purchase with Cash Back Transactions  \nIn the U.S. Region, the\
+    \ Rule on this subject is modified as follows.  \nA Merchant located in the United\
+    \ States that has received prior approval from its Acquirer may offer a Cardholder\
+    \ a cash back Transaction with or without an accompanying purchase when a Debit\
+    \ Mastercard (including prepaid) Card is presented. A maximum cash back amount\
+    \ must be established in an amount that does not exceed USD 200 per Transaction.\
+    \  \nA Merchant may charge a fee on the cash back portion of a Transaction. The\
+    \ fee charged by the Merchant must be:  \n1. The same or less than the fee charged\
+    \ for a cash back transaction for all other payment networks."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what is the maximum
+      cash back amount allowed per transaction for a Debit Mastercard in the U.S.
+      Region?
+    answer: According to Mastercard Transaction Processing Rules, the maximum cash
+      back amount allowed per transaction for a Debit Mastercard in the U.S. Region
+      is USD 200.
+  - question: According to Mastercard Transaction Processing Rules, what approval
+      must a merchant in the U.S. Region obtain to offer cash back transactions with
+      a Debit Mastercard?
+    answer: According to Mastercard Transaction Processing Rules, a merchant in the
+      U.S. Region must obtain prior approval from its Acquirer to offer cash back
+      transactions with a Debit Mastercard.
+  - question: According to Mastercard Transaction Processing Rules, what are the limitations
+      on the fees that a merchant in the U.S. Region can charge for the cash back
+      portion of a transaction?
+    answer: According to Mastercard Transaction Processing Rules, in the U.S. Region,
+      a merchant may charge a fee for the cash back portion of a transaction, but
+      this fee must be the same or less than the fee charged for a cash back transaction
+      for all other payment networks.
+document_outline: This document outlines the requirements and procedures for processing
+  chip transactions at hybrid terminals, including the necessity of unique transaction
+  certificates and the handling of EMV chip data.

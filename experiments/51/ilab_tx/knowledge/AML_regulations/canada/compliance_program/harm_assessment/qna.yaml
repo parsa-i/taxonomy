@@ -1,0 +1,197 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/compliance_program/harm_assessment/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: ' The purpose of this document is to outline FINTRAC''s method for
+  assessing the harm caused by compliance program violations and calculating the corresponding
+  base penalty amounts, in accordance with the _Proceeds of Crime (Money Laundering)
+  and Terrorist Financing Act_.'
+domain: Canadian Regulations
+seed_examples:
+- context: "### 4.2 Penalty determination for a violation related to compliance policies\
+    \ and procedures  \nFINTRAC will assess the level of harm and penalty for failing\
+    \ to develop, document and apply written compliance policies and procedures using\
+    \ the criteria listed below.  \n| Level of harm | Type of non-compliance | Description\
+    \ of the non-compliance with the compliance policies and procedures requirement\
+    \ | Penalty (not considering mitigating factors) |\n| --- | --- | --- | --- |\n\
+    | Level1 | The requirement is not met to any degree, or what is in place is not\
+    \ functional, causing widespread non-compliance. <br>This is complete or widespread\
+    \ non-compliance. | Policies and procedures for all, or most, of the requirements\
+    \ are not developed or applied. | $100,000 |"
+  questions_and_answers:
+  - answer: FINTRAC assesses the level of harm and determines penalties for violations
+      related to compliance policies and procedures using specific criteria. For Level
+      1 non-compliance, where the requirement is not met to any degree or is not functional,
+      causing widespread non-compliance, the penalty is $100,000. This level of non-compliance
+      is characterized by the absence of developed or applied policies and procedures
+      for all or most requirements.
+    question: What criteria does FINTRAC use to assess the level of harm and determine
+      penalties for violations related to compliance policies and procedures?
+  - answer: The penalty for a Level 1 non-compliance related to compliance policies
+      and procedures, assuming no mitigating factors are considered, is $100,000 according
+      to FINTRAC's assessment criteria.
+    question: According to Fintrac, What is the penalty for a Level 1 non-compliance
+      related to compliance policies and procedures, assuming no mitigating factors
+      are considered?
+  - answer: Level 1 non-compliance, as defined by FINTRAC, refers to a situation where
+      the requirement for compliance policies and procedures is not met at all or
+      what is in place is non-functional, leading to widespread non-compliance. This
+      includes cases where policies and procedures for all or most of the requirements
+      are not developed or applied. The consequence for Level 1 non-compliance is
+      a penalty of $100,000, not considering any mitigating factors.
+    question: According to Fintrac, How is a Level 1 non-compliance defined in the
+      context of compliance policies and procedures, and what are the consequences?
+- context: "#### 3.2.1 Level1 harm: Failure to appoint a person responsible for the\
+    \ implementation of the compliance program  \nWhen an RE fails to assign the duties\
+    \ related to the implementation of the compliance program to a person, the objectives\
+    \ of the Act and FINTRAC's mandate suffer from the highest level of harm. This\
+    \ is because there would be no oversight to ensure that, for example, policies\
+    \ and procedures are followed, or that ongoing training is provided. This lack\
+    \ of oversight means that there is a high risk that the existing compliance program\
+    \ will become out-of-date or ineffective. Over time, this would likely have an\
+    \ important impact on an RE's compliance with the Act and its regulations, and\
+    \ would likely result in other requirements not being met, such as reporting,\
+    \ record keeping and verifying client identity. As a result, the associated penalty\
+    \ is the prescribed maximum of $100,000."
+  questions_and_answers:
+  - answer: The highest level of harm when an RE fails to appoint a compliance officer
+      is considered to be suffering the objectives of the Act and FINTRAC's mandate,
+      as it leads to a lack of oversight and a high risk of the compliance program
+      becoming outdated or ineffective. This is penalized with the prescribed maximum
+      of $100,000.
+    question: According to Fintrac, What is considered the highest level of harm when
+      an RE fails to appoint a compliance officer?
+  - answer: Some potential consequences of not having oversight for a compliance program
+      include the risk of the program becoming out-of-date or ineffective, which can
+      lead to non-compliance with the Act and its regulations. This may result in
+      failures in reporting, record keeping, and verifying client identity. According
+      to FINTRAC's guidelines, the highest level of harm in such cases can result
+      in a maximum penalty of $100,000.
+    question: According to Fintrac, What are some of the potential consequences of
+      not having oversight for a compliance program?
+  - answer: The maximum penalty for a Level 1 harm related to failing to appoint a
+      compliance officer is $100,000, as prescribed by FINTRAC.
+    question: According to Fintrac, What is the maximum penalty for a Level 1 harm
+      related to failing to appoint a compliance officer?
+- context: "| Level4 | An element that enables the efficient achievement of the objectives\
+    \ of the Act or FINTRAC's mandate is not met. <br>This is partial non-compliance\
+    \ with lesser weaknesses. | Diminishes the efficient achievement of the objectives\
+    \ of the Act and FINTRAC's mandate. | $25,000 |  \nTable1—Levels of harm and penalties\
+    \ for violations related to compliance program  \nThe highest level of harm (Level1)\
+    \ applies to situations of complete or widespread non-compliance because they\
+    \ have the greatest potential impact on the Act's objectives or FINTRAC's mandate.\
+    \ As such, they incur the prescribed maximum penalty which is $100,000.  \nLevels\
+    \ of harm2, 3 and 4 apply to situations of partial non-compliance and incur penalty\
+    \ amounts decreasing in intervals from $75,000 to $50,000 and to $25,000 respectively.\
+    \  \nFINTRAC will consider relevant mitigating factors that could reduce the penalty\
+    \ down to the prescribed minimum penalty amount of $1, regardless of the violation's\
+    \ level of harm."
+  questions_and_answers:
+  - answer: Partial non-compliance with lesser weaknesses is described as a situation
+      where an element enabling the efficient achievement of the objectives of the
+      Act or FINTRAC's mandate is not met. The corresponding penalty for this level
+      of non-compliance is $25,000.
+    question: According to Fintrac, What type of non-compliance is described as 'partial
+      non-compliance with lesser weaknesses' and what is its corresponding penalty?
+  - answer: The highest level of harm is Level 1, which applies to situations of complete
+      or widespread non-compliance with the greatest potential impact on the objectives
+      of the Act or FINTRAC's mandate. The corresponding penalty for Level 1 non-compliance
+      is the prescribed maximum penalty of $100,000.
+    question: According to Fintrac, What is the highest level of harm and what is
+      the corresponding penalty for complete or widespread non-compliance?
+  - answer: FINTRAC determines the penalty amount by considering the level of harm
+      associated with the non-compliance, ranging from $100,000 for complete non-compliance
+      to $25,000 for partial non-compliance with lesser weaknesses. However, relevant
+      mitigating factors can reduce the penalty down to a minimum of $1, regardless
+      of the initial level of harm.
+    question: How does FINTRAC determine the penalty amount when considering relevant
+      mitigating factors?
+- context: '| Level2 | An element that is priority for achieving the objectives of
+    the Act or FINTRAC''s mandate is not met. <br>This is partial non-compliance with
+    important weaknesses. | Policies and procedures relating to priority requirements
+    for enhanced measures are not developed or applied for:<br>1. Verifying client
+    identity;<br>2. Keeping client and beneficial ownership information up to date;
+    and;<br>3. Conducting ongoing monitoring of business relationships to identify
+    suspicious transactions. | $75,000 |
+
+    | Level3 | An element that forms the basis for achieving the objectives of the
+    Act or FINTRAC''s mandate is not met.<br>This is partial non-compliance with moderate
+    weaknesses. | Policies and procedures relating to basic requirements for enhanced
+    measures are not developed or applied, which includes any other measures needed
+    to mitigate high risk. | $50,000 |'
+  questions_and_answers:
+  - answer: The penalty for not developing or applying policies and procedures relating
+      to priority requirements for enhanced measures, such as verifying client identity,
+      is $75,000, as outlined by FINTRAC's guidelines for assessing harm done for
+      compliance program violations.
+    question: According to Fintrac, What are the penalties for not developing or applying
+      policies and procedures relating to priority requirements for enhanced measures,
+      such as verifying client identity?
+  - answer: The consequences differ between Level 2 and Level 3 non-compliance with
+      FINTRAC guidelines in terms of the severity of the weaknesses and the penalty
+      amounts. Level 2 non-compliance involves important weaknesses in priority requirements,
+      such as verifying client identity and ongoing monitoring, with a penalty of
+      $75,000. In contrast, Level 3 non-compliance involves moderate weaknesses in
+      basic requirements for enhanced measures to mitigate high risk, with a penalty
+      of $50,000.
+    question: How do the consequences differ between Level 2 and Level 3 non-compliance
+      with FINTRAC guidelines?
+  - answer: 'The primary areas of priority requirements for enhanced measures that
+      must be met to avoid significant penalties under FINTRAC''s guidelines are:
+
+
+      1. Verifying client identity
+
+      2. Keeping client and beneficial ownership information up to date
+
+      3. Conducting ongoing monitoring of business relationships to identify suspicious
+      transactions'
+    question: What are the primary areas of priority requirements for enhanced measures
+      that must be met to avoid significant penalties under FINTRAC's guidelines?
+- context: "Failing to appoint a person responsible for the implementation of the\
+    \ compliance program may result in the RE not meeting the reporting, record keeping,\
+    \ verifying identity, and applying other compliance measures requirements. This\
+    \ could result in structural gaps that leave the RE vulnerable to ML/TF offences,\
+    \ which affects the achievement of the objectives of the Act and FINTRAC's ability\
+    \ to carry out its mandate, which potentially exposes Canada's financial system\
+    \ and Canadians to ML/TF risks.  \nDeficiencies in other compliance requirements,\
+    \ such as reporting, record keeping and verifying identity, may be the result\
+    \ of the deficient implementation of a compliance program. FINTRAC will consider\
+    \ the overall effectiveness of the compliance program and the fulfillment of other\
+    \ compliance requirements when it assesses an RE's compliance with the requirement\
+    \ to appoint a compliance officer."
+  questions_and_answers:
+  - answer: The potential risks of not appointing a compliance officer in a financial
+      institution include failing to meet critical requirements such as reporting,
+      record keeping, and identity verification. This can lead to structural gaps
+      that make the institution vulnerable to money laundering and terrorist financing
+      (ML/TF) offenses. Consequently, it may hinder the achievement of the objectives
+      set by the Act and impede FINTRAC's ability to carry out its mandate, potentially
+      exposing Canada's financial system and citizens to ML/TF risks. FINTRAC will
+      assess the overall effectiveness of the compliance program and the fulfillment
+      of other compliance requirements when evaluating the institution's adherence
+      to the requirement to appoint a compliance officer.
+    question: According to Fintrac, What potential risks arise from not appointing
+      a compliance officer in a financial institution?
+  - answer: Deficiencies in compliance requirements, such as reporting, record keeping,
+      and verifying identity, can significantly impact the overall effectiveness of
+      a compliance program. According to FINTRAC's guidelines, failing to appoint
+      a compliance officer may lead to structural gaps, leaving the reporting entity
+      (RE) vulnerable to money laundering and terrorist financing (ML/TF) offenses.
+      This not only affects the achievement of the objectives of the Act but also
+      compromises FINTRAC's ability to carry out its mandate, potentially exposing
+      Canada's financial system and Canadians to ML/TF risks. FINTRAC assesses the
+      overall effectiveness of the compliance program and the fulfillment of other
+      compliance requirements when evaluating an RE's compliance with the requirement
+      to appoint a compliance officer.
+    question: According to Fintrac, How might deficiencies in compliance requirements
+      impact the overall effectiveness of a compliance program?
+  - answer: In assessing an entity's compliance with the requirement to appoint a
+      compliance officer, FINTRAC considers the overall effectiveness of the compliance
+      program and the fulfillment of other compliance requirements, such as reporting,
+      record keeping, and verifying identity.
+    question: In assessing an entity's compliance with the requirement to appoint
+      a compliance officer, what factors does FINTRAC consider?
+version: 3

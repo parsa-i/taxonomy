@@ -1,0 +1,186 @@
+created_by: CE
+version: 3
+document:
+  commit: 06419f3bf49a0c6a2b7f92a2d99323fd1b84d616
+  patterns:
+  - ilab_tx/knowledge/financial/financial/mastercard_transaction_processing_rules/chap3/*.md
+  repo: https://github.com/parsa-i/taxonomy
+domain: Mastercard Transaction Processing Rules
+seed_examples:
+- context: "At a POS Terminal in France, a paper Transaction receipt must not be automatically\
+    \ provided. A paper Transaction receipt must be provided in the following cases:\
+    \  \n- if the Cardholder expressly requests one,\n- in case of cancellation of\
+    \ the Transaction,\n- if the Transaction is for a refund,\n- if the purchase is\
+    \ of durable goods for which a legal guarantee applies, and\n- in any other case\
+    \ specified in applicable law, as amended from time to time.  \nWhen a paper Transaction\
+    \ receipt is not provided to the Cardholder, the Merchant is permitted to provide\
+    \ a digital receipt."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, under what conditions
+      must a paper transaction receipt be provided at a POS terminal in France?
+    answer: 'According to Mastercard Transaction Processing Rules, a paper transaction
+      receipt must be provided at a POS terminal in France under the following conditions:
+      if the cardholder expressly requests one, in case of transaction cancellation,
+      if the transaction is for a refund, if the purchase is of durable goods with
+      a legal guarantee, or in any other case specified by applicable law.'
+  - question: According to Mastercard Transaction Processing Rules, what are the scenarios
+      in which a digital receipt can be provided instead of a paper receipt at a POS
+      terminal in France?
+    answer: 'According to Mastercard Transaction Processing Rules, a digital receipt
+      can be provided instead of a paper receipt at a POS terminal in France when
+      the transaction does not fall under the following scenarios:
+
+
+      - The cardholder does not expressly request a paper receipt,
+
+      - The transaction is not canceled,
+
+      - The transaction is not a refund,
+
+      - The purchase does not involve durable goods with a legal guarantee, and
+
+      - There is no other applicable law requiring a paper receipt.'
+  - question: According to Mastercard Transaction Processing Rules, what specific
+      situations require a mandatory paper transaction receipt at a POS terminal in
+      France?
+    answer: 'According to Mastercard Transaction Processing Rules, a mandatory paper
+      transaction receipt at a POS terminal in France is required in the following
+      specific situations:
+
+
+      - If the cardholder expressly requests one
+
+      - In case of cancellation of the transaction
+
+      - If the transaction is for a refund
+
+      - If the purchase is of durable goods for which a legal guarantee applies
+
+      - In any other case specified in applicable law'
+- context: "7. For signature-based Transactions occurring at a Merchant that chooses\
+    \ to perform or is required by applicable law or regulation to perform signature\
+    \ collection, adequate space for the Cardholder\u2019s signature on the Merchant\u2019\
+    s copy (and optionally on the Cardholder\u2019s copy). A space for the Cardholder\u2019\
+    s signature should be omitted from the Transaction receipt if the Transaction\
+    \ is completed with a PIN or Consumer Device CVM (CDCVM) as the CVM or no CVM\
+    \ is used. The Transaction receipt may optionally indicate that successful PIN\
+    \ or CDCVM verification has occurred.  \nIf personal identification is requested\
+    \ for a face-to-face unique Transaction or Manual Cash Disbursement Transaction,\
+    \ the personal identification type and number must not be recorded on the Transaction\
+    \ receipt (refer to Rule 3.1.1).  \nIf a receipt is produced following an unsuccessful\
+    \ Transaction attempt, the receipt must indicate the response or failure reason."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, when should a
+      space for the Cardholder's signature be included on a Transaction receipt?
+    answer: According to Mastercard Transaction Processing Rules, a space for the
+      Cardholder's signature should be included on a Transaction receipt when the
+      transaction is signature-based and occurs at a Merchant that chooses or is required
+      by law to perform signature collection.
+  - question: According to Mastercard Transaction Processing Rules, what should be
+      omitted from the Transaction receipt if the Transaction is completed with a
+      PIN or CDCVM?
+    answer: According to Mastercard Transaction Processing Rules, the signature space
+      should be omitted from the transaction receipt if the transaction is completed
+      with a PIN or Consumer Device CVM (CDCVM).
+  - question: According to Mastercard Transaction Processing Rules, what information
+      must be included on a receipt following an unsuccessful Transaction attempt?
+    answer: According to Mastercard Transaction Processing Rules, a receipt following
+      an unsuccessful transaction attempt must indicate the response or failure reason.
+- context: "# 3.14.1 Refund Transactions  \nIn Angola, Botswana, Comoros, Democratic\
+    \ Republic of the Congo, Djibouti, Eritrea, Ethiopia, Ghana, Gambia, Lesotho,\
+    \ Liberia, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Nigeria, Rwanda,\
+    \ Seychelles, Sierra Leone, Somalia, South Sudan, Swaziland, Tanzania, Uganda,\
+    \ Zambia, and Zimbabwe, the Rule on this subject is modified as follows with respect\
+    \ to Maestro POS Transaction refunds: The refund Transaction may be used to return\
+    \ the unused gambling value to the Cardholder, up to the amount of the original\
+    \ purchase occurring on a Maestro Card. The Gaming Payment Transaction must be\
+    \ used to transfer gambling winnings to the Cardholder."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, in which specific
+      African countries are the refund transaction rules for Maestro POS transactions
+      related to gambling modified?
+    answer: 'According to Mastercard Transaction Processing Rules, the refund transaction
+      rules for Maestro POS transactions related to gambling are modified in the following
+      African countries: Angola, Botswana, Comoros, Democratic Republic of the Congo,
+      Djibouti, Eritrea, Ethiopia, Ghana, Gambia, Lesotho, Liberia, Madagascar, Malawi,
+      Mauritius, Mozambique, Namibia, Nigeria, Rwanda, Seychelles, Sierra Leone, Somalia,
+      South Sudan, Swaziland, Tanzania, Uganda, Zambia, and Zimbabwe.'
+  - question: According to Mastercard Transaction Processing Rules, what is the purpose
+      of the refund transaction for Maestro POS transactions related to gambling in
+      the specified African countries?
+    answer: According to Mastercard Transaction Processing Rules, the purpose of the
+      refund transaction for Maestro POS transactions related to gambling in the specified
+      African countries is to return the unused gambling value to the cardholder,
+      up to the amount of the original purchase occurring on a Maestro Card.
+  - question: According to Mastercard Transaction Processing Rules, how are gambling
+      winnings transferred to the cardholder in the specified African countries for
+      Maestro POS transactions?
+    answer: According to Mastercard Transaction Processing Rules, gambling winnings
+      for Maestro POS transactions in the specified African countries are transferred
+      to the cardholder using the Gaming Payment Transaction.
+- context: "# At ATM Terminals  \nATM Terminals that do not have receipt-printing\
+    \ capability may be deployed in the Europe Region. For every completed Transaction,\
+    \ an ATM Terminal with receipt printing capability must make a receipt available\
+    \ to the Cardholder, either automatically or upon the Cardholder's request. A\
+    \ cash withdrawal without a printed receipt is allowed only if the ATM Terminal\
+    \ does not have receipt-printing capability or is out of paper. The Cardholder\
+    \ must be advised prior to the Transaction that a printed receipt is not available.\
+    \  \nAs an exception to this Rule, an ATM Terminal in France must have receipt-printing\
+    \ capability and must not automatically provide a paper Transaction receipt. A\
+    \ paper Transaction receipt must be provided in the following cases:  \n- upon\
+    \ Cardholder request,\n- in case of cancellation of the Transaction, and\n- in\
+    \ any other case specified in applicable law, as amended from time to time."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what is the requirement
+      for ATM terminals without receipt-printing capability in the Europe Region?
+    answer: According to Mastercard Transaction Processing Rules, ATM terminals without
+      receipt-printing capability may be deployed in the Europe Region. However, the
+      Cardholder must be advised prior to the Transaction that a printed receipt is
+      not available.
+  - question: According to Mastercard Transaction Processing Rules, under what conditions
+      is a cash withdrawal without a printed receipt allowed?
+    answer: A cash withdrawal without a printed receipt is allowed if the ATM terminal
+      does not have receipt-printing capability or is out of paper, according to Mastercard
+      Transaction Processing Rules. The cardholder must be advised prior to the transaction
+      that a printed receipt is not available.
+  - question: According to Mastercard Transaction Processing Rules, what are the specific
+      requirements for ATM terminals in France regarding the provision of transaction
+      receipts?
+    answer: According to Mastercard Transaction Processing Rules, ATM terminals in
+      France must have receipt-printing capability. They must not automatically provide
+      a paper transaction receipt, but a receipt must be provided upon cardholder
+      request, in case of transaction cancellation, or as specified by applicable
+      law.
+- context: "# 3.13 Transaction Receipts  \nThe Transaction receipt must include a\
+    \ statement indicating that the estimated amount charged for repairs will be adjusted\
+    \ upon completion of the repairs and submission of the invoice for such repairs.\
+    \  \nThe final amount of a Transaction relating to repairs must not exceed the\
+    \ Merchant\u2019s estimated amount. If the Merchant obtains a preauthorization\
+    \ for an estimated amount, and the Transaction amount exceeds the authorized amount,\
+    \ the Merchant may request an additional authorization. In connection with such\
+    \ Transactions, the Issuer must not place a hold on the Cardholder\u2019s Account\
+    \ in excess of the authorized amount.  \n# 3.13 Transaction Receipts  \nA Transaction\
+    \ receipt (also called a Transaction Information Document, or TID) must be offered\
+    \ to the Cardholder upon completion of a Transaction as required by and in a form\
+    \ that is compliant with the Standards and applicable law or regulation."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what must a transaction
+      receipt include when the transaction involves repairs?
+    answer: According to Mastercard Transaction Processing Rules, a transaction receipt
+      involving repairs must include a statement indicating that the estimated amount
+      charged for repairs will be adjusted upon completion of the repairs and submission
+      of the invoice for such repairs.
+  - question: According to Mastercard Transaction Processing Rules, what is the requirement
+      for the final amount of a transaction relating to repairs in comparison to the
+      merchant's estimated amount?
+    answer: According to Mastercard Transaction Processing Rules, the final amount
+      of a transaction relating to repairs must not exceed the merchant's estimated
+      amount.
+  - question: According to Mastercard Transaction Processing Rules, when must a transaction
+      receipt or Transaction Information Document (TID) be offered to the cardholder?
+    answer: According to Mastercard Transaction Processing Rules, a transaction receipt
+      or Transaction Information Document (TID) must be offered to the cardholder
+      upon completion of a transaction.
+document_outline: This document outlines the acceptance procedures for Mastercard
+  transactions, specifically detailing the requirements and steps for processing card-present
+  transactions and verifying the validity of Mastercard cards in face-to-face environments.

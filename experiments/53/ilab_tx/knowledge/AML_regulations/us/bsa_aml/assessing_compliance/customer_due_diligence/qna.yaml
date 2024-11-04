@@ -1,0 +1,196 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/us/bsa_aml/assessing_compliance/customer_due_diligence/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document provides an overview of customer due diligence (CDD)
+  requirements for banks, emphasizing the importance of risk-based policies and procedures
+  to detect and report suspicious activity and comply with regulatory expectations.
+domain: USA Regulations
+seed_examples:
+- context: Customer information collected under the CDD rule may be relevant to other
+    regulatory requirements, including but not limited to,identifying suspicious activity,
+    identifying nominal and beneficial owners of private banking accounts, and determining
+    OFAC sanctioned parties. The bank should define in its policies, procedures and
+    processes how customer information will be used to meet other regulatory requirements.
+    For example, the bank is expected to use the customer information and customer
+    risk profile in its suspicious activity monitoring process to understand the types
+    of transactions a particular customer would normally be expected to engage in
+    as a baseline against which suspicious transactions are identified and to satisfy
+    other regulatory requirements.5
+  questions_and_answers:
+  - answer: The information gathered through Customer Due Diligence (CDD) can be used
+      to identify suspicious activity in a banking context by establishing a baseline
+      of expected transactions for each customer based on their profile and risk assessment.
+      This baseline, derived from customer information, helps banks detect anomalous
+      transactions that deviate from the norm, thereby flagging them as potentially
+      suspicious. This process is expected under the CDD rule to meet various regulatory
+      requirements, including those related to identifying and reporting suspicious
+      activities.
+    question: How can the information gathered through Customer Due Diligence (CDD)
+      be used to identify suspicious activity in a banking context?
+  - answer: Some of the regulatory requirements that can be addressed by effectively
+      utilizing customer information obtained through CDD include detecting suspicious
+      activity, identifying nominal and beneficial owners of private banking accounts,
+      and determining OFAC sanctioned parties. According to the CDD rule, banks must
+      define in their policies and procedures how this information will be used to
+      meet these requirements.
+    question: What are some of the regulatory requirements that can be addressed by
+      effectively utilizing customer information obtained through CDD?
+  - answer: To meet various regulatory requirements, a bank should define the use
+      of customer information in its policies and procedures by outlining how data
+      collected through Customer Due Diligence (CDD) will be employed to detect suspicious
+      activity, identify beneficial owners, and determine OFAC sanctioned parties.
+      This includes using the customer information and risk profile to establish a
+      baseline for typical transactions, aiding in the identification of suspicious
+      activities as per expectations outlined in regulations such as those enforced
+      by FinCEN and OFAC.
+    question: How should a bank define the use of customer information in its policies
+      and procedures to meet various regulatory requirements?
+- context: "The bank\u2019s procedures should establish criteria for when and by whom\
+    \ customer relationships will be reviewed, including updating customer information\
+    \ and reassessing the customer\u2019s risk profile. The procedures should indicate\
+    \ who in the organization is authorized to change a customer\u2019s risk profile.\
+    \ A number of factors may be relevant in determining when it is appropriate to\
+    \ review a customer relationship including, but not limited to:  \n-  Significant\
+    \ and unexplained changes in account activity\n-  Changes in employment or business\
+    \ operation\n-  Changes in ownership of a business entity\n-  Red flags identified\
+    \ through suspicious activity monitoring\n-  Receipt of law enforcement inquiries\
+    \ and requests such as criminal subpoenas, National Security Letters (NSL), and\
+    \ section 314(a) requests\n-  Results of negative media search programs\n-  Length\
+    \ of time since customer information was gathered and the customer risk profile\
+    \ assessed"
+  questions_and_answers:
+  - answer: Some key factors that should prompt a bank to review a customer relationship
+      and update their information, as outlined by ongoing monitoring procedures for
+      customer due diligence, include significant and unexplained changes in account
+      activity, changes in employment or business operation, changes in ownership
+      of a business entity, red flags identified through suspicious activity monitoring,
+      receipt of law enforcement inquiries, results of negative media search programs,
+      and the length of time since customer information was gathered and the customer
+      risk profile assessed.
+    question: What are some key factors that should prompt a bank to review a customer
+      relationship and update their information?
+  - answer: Typically, the bank's procedures determine who within the organization
+      is authorized to change a customer's risk profile.
+    question: Who within the bank is typically authorized to change a customer's risk
+      profile?
+  - answer: Red flags identified through suspicious activity monitoring can trigger
+      a review of a customer relationship, as outlined by customer due diligence procedures.
+      These red flags may necessitate updates to customer information and a reassessment
+      of the customer's risk profile, in accordance with ongoing monitoring requirements.
+    question: How might red flags identified through suspicious activity monitoring
+      influence the review of a customer relationship?
+- context: "## Customer Risk Profile  \nThe bank should have an understanding of the\
+    \ money laundering and terrorist financing risks of its customers, referred to\
+    \ in the rule as the customer risk profile.3 This concept is also commonly referred\
+    \ to as the customer risk rating. Any customer account may be used for illicit\
+    \ purposes, including money laundering or terrorist financing. Further, a spectrum\
+    \ of risks may be identifiable even within the same category of customers. The\
+    \ bank\u2019s program for determining customer risk profiles should be sufficiently\
+    \ detailed to distinguish between significant variations in the money laundering\
+    \ and terrorist financing risks of its customers. Improper identification and\
+    \ assessment of a customer\u2019s risk can have a cascading effect, creating deficiencies\
+    \ in multiple areas of internal controls and resulting in an overall weakened\
+    \ BSA compliance program."
+  questions_and_answers:
+  - answer: The primary purpose of a bank understanding the customer risk profile,
+      as outlined by the FFIEC Bank Secrecy Act/Anti-Money Laundering InfoBase, is
+      to identify and assess the money laundering and terrorist financing risks associated
+      with its customers. This understanding helps the bank to distinguish between
+      significant variations in risks and prevents improper identification, which
+      could weaken the overall BSA compliance program.
+    question: What is the primary purpose of a bank understanding the customer risk
+      profile in relation to money laundering and terrorist financing?
+  - answer: Improper identification and assessment of a customer's risk can lead to
+      deficiencies in multiple areas of internal controls, resulting in an overall
+      weakened BSA compliance program, as outlined by the FFIEC.
+    question: How might an improper identification and assessment of a customer's
+      risk impact the overall BSA compliance program?
+  - answer: It's important for a bank to distinguish between significant variations
+      in the money laundering and terrorist financing risks of its customers because
+      improper identification and assessment of a customer's risk can lead to deficiencies
+      in internal controls, thereby weakening the bank's overall compliance with the
+      Bank Secrecy Act (BSA) program, as outlined by the Federal Financial Institutions
+      Examination Council (FFIEC).
+    question: Why is it important for a bank to distinguish between significant variations
+      in the money laundering and terrorist financing risks of its customers?
+- context: "## Transaction Testing  \n8. On the basis of a risk assessment, prior\
+    \ examination reports, and a review of the bank\u2019s audit findings, select\
+    \ a sample of customer information. Determine whether the bank collects appropriate\
+    \ information sufficient to understand the nature and purpose of the customer\
+    \ relationship and effectively incorporates customer information, including beneficial\
+    \ ownership information for legal entity customers, into the customer risk profile.\
+    \ This sample can be performed when testing the bank\u2019s compliance with its\
+    \ policies, procedures, and processes as well as when reviewing transactions or\
+    \ accounts for possible suspicious activity.  \n9. On the basis of examination\
+    \ procedures completed, including transaction testing, form a conclusion about\
+    \ the adequacy of policies, procedures, and processes associated with CDD."
+  questions_and_answers:
+  - answer: "A regulatory officer should select a sample of customer information for\
+      \ transaction testing based on a risk assessment, prior examination reports,\
+      \ and a review of the bank\u2019s audit findings. This approach ensures that\
+      \ the sample accurately reflects the bank's compliance with Customer Due Diligence\
+      \ (CDD) policies and procedures, including the collection and incorporation\
+      \ of customer information into risk profiles."
+    question: What criteria should a regulatory officer use to select a sample of
+      customer information for transaction testing?
+  - answer: "Transaction testing helps assess the adequacy of a bank's Customer Due\
+      \ Diligence (CDD) policies and procedures by evaluating the bank\u2019s ability\
+      \ to collect and incorporate appropriate customer information into risk profiles.\
+      \ This process involves selecting a sample of customer information based on\
+      \ risk assessments and audit findings, and then determining whether the bank\
+      \ gathers sufficient data to understand the nature and purpose of customer relationships.\
+      \ By performing transaction tests, examiners can conclude whether the bank's\
+      \ CDD policies, procedures, and processes are adequate, as outlined by regulatory\
+      \ guidelines."
+    question: How does transaction testing help in assessing the adequacy of a bank's
+      Customer Due Diligence (CDD) policies and procedures?
+  - answer: It is important to incorporate beneficial ownership information for legal
+      entity customers into the customer risk profile during transaction testing to
+      ensure the bank's compliance with Customer Due Diligence (CDD) policies and
+      procedures. This inclusion helps in understanding the nature and purpose of
+      the customer relationship and enables the effective assessment of risk, as outlined
+      by the governing regulations.
+    question: Why is it important to incorporate beneficial ownership information
+      for legal entity customers into the customer risk profile during transaction
+      testing?
+- context: "### Ongoing Monitoring of the Customer Relationship  \nThe requirement\
+    \ for ongoing monitoring of the customer relationship reflects existing practices\
+    \ established to identify and report suspicious transactions and, on a risk basis,\
+    \ to maintain and update customer information.  \nTherefore, in addition to policies,\
+    \ procedures, and processes for monitoring to identify and report suspicious transactions,\
+    \ the bank\u2019s CDD program must include risk-based procedures for performing\
+    \ ongoing monitoring of the customer relationship, on a risk basis, to maintain\
+    \ and update customer information, including beneficial ownership information\
+    \ of legal entity customers.11 For more information on beneficial ownership of\
+    \ legal entity customers, refer to the \"Beneficial Ownership Requirements for\
+    \ Legal Entity Customers\" section of the FFIEC BSA/AML Examination Manual."
+  questions_and_answers:
+  - answer: Ongoing monitoring of the customer relationship is crucial within a bank's
+      CDD program to identify and report suspicious transactions and to maintain and
+      update customer information, including beneficial ownership details, on a risk
+      basis. This is in line with the requirements outlined by the Federal Financial
+      Institutions Examination Council (FFIEC) in their BSA/AML Examination Manual.
+    question: Why is ongoing monitoring of the customer relationship crucial within
+      a bank's CDD program?
+  - answer: Risk assessment plays a crucial role in the ongoing monitoring of customer
+      information in a bank, as outlined by the FFIEC BSA/AML Examination Manual.
+      It helps determine the frequency and extent of updates required for customer
+      information, including beneficial ownership details, ensuring that the bank's
+      Customer Due Diligence (CDD) program is tailored to the risk profile of each
+      customer relationship. This risk-based approach enables banks to allocate resources
+      more effectively and efficiently in their ongoing monitoring efforts.
+    question: What role does risk assessment play in the ongoing monitoring of customer
+      information in a bank?
+  - answer: Maintaining and updating beneficial ownership information contributes
+      to the effectiveness of a bank's Customer Due Diligence (CDD) program by ensuring
+      that the bank has current and accurate details about the customers and their
+      associated risks. This ongoing monitoring, as required by the Federal Financial
+      Institutions Examination Council (FFIEC) BSA/AML Examination Manual, enables
+      the bank to identify and report suspicious transactions, and to assess and mitigate
+      risks effectively.
+    question: How does maintaining and updating beneficial ownership information contribute
+      to the effectiveness of a bank's CDD program?
+version: 3

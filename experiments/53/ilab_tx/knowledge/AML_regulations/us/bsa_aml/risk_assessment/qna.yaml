@@ -1,0 +1,207 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/us/bsa_aml/risk_assessment/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: The purpose of this document is to guide examiners in reviewing
+  and assessing a bank's BSA/AML risk assessment process to ensure it adequately identifies
+  and mitigates money laundering, terrorist financing, and other illicit financial
+  activity risks.
+domain: USA Regulations
+seed_examples:
+- context: "When evaluating the BSA/AML risk assessment, examiners should focus on\
+    \ whether the bank has effective processes resulting in a well-developed BSA/AML\
+    \ risk assessment. Examiners should not take any single indicator as determinative\
+    \ of the existence of a lower- or higher-risk profile for the bank. The assessment\
+    \ of risk factors is bank-specific, and a conclusion regarding the risk profile\
+    \ should be based on a consideration of all pertinent information. The bank may\
+    \ determine that some factors should be weighted more heavily than others. For\
+    \ example, the number of funds transfers may be one factor the bank considers\
+    \ when assessing risk. However, to identify and weigh the risks, the bank\u2019\
+    s risk assessment process may need to consider other factors associated with those\
+    \ funds transfers, such as whether they are international or domestic, the dollar\
+    \ amounts involved, and the nature of the customer relationships. Regardless of\
+    \ the bank\u2019s approach, sound practice would be to document the"
+  questions_and_answers:
+  - answer: Examiners should prioritize whether the bank has effective processes resulting
+      in a well-developed BSA/AML risk assessment. They should consider all pertinent
+      information and multiple risk factors, without relying on any single indicator.
+      The assessment should be bank-specific and may weigh some factors more heavily
+      than others. For instance, while evaluating funds transfers, banks should consider
+      associated factors like the transfer type (international or domestic), the amounts
+      involved, and the nature of customer relationships. Sound practice recommends
+      documenting the risk assessment process.
+    question: What criteria should examiners prioritize when evaluating a bank's BSA/AML
+      risk assessment?
+  - answer: A bank should determine the significance of different risk factors when
+      conducting a BSA/AML risk assessment by considering all pertinent information
+      specific to the bank. The assessment should not rely on any single indicator,
+      but rather weigh various factors according to their relevance. For instance,
+      while evaluating funds transfers, the bank should consider associated factors
+      like whether the transfers are international or domestic, the dollar amounts,
+      and the nature of customer relationships. The bank's approach should be documented
+      as per sound practice.
+    question: How should a bank determine the significance of different risk factors
+      when conducting a BSA/AML risk assessment?
+  - answer: When assessing the risk associated with funds transfers, a bank may consider
+      additional factors such as whether the transfers are international or domestic,
+      the dollar amounts involved, and the nature of the customer relationships, as
+      outlined by the Bank Secrecy Act/Anti-Money Laundering (BSA/AML) regulations.
+    question: What additional factors might a bank consider when assessing the risk
+      associated with funds transfers?
+- context: "The bank structures its BSA/AML compliance program to address its risk\
+    \ profile, based on the bank\u2019s assessment of risks, as well as to comply\
+    \ with BSA regulatory requirements. Specifically, the bank should develop appropriate\
+    \ policies, procedures, and processes to monitor and control its ML/TF and other\
+    \ illicit financial activity risks. For example, the bank\u2019s monitoring system\
+    \ to identify, research, and report suspicious activity should be risk-based to\
+    \ incorporate any necessary additional screening for higher-risk products, services,\
+    \ customers, and geographic locations as identified by the bank\u2019s BSA/AML\
+    \ risk assessment. Independent testing (audit) should review the bank\u2019s BSA/AML\
+    \ risk assessment, including how it is used to develop the BSA/AML compliance\
+    \ program. Refer to Appendix I - Risk Assessment Link to the BSA/AML Compliance\
+    \ Program for a chart depicting the expected link of the BSA/AML risk assessment\
+    \ to the BSA/AML compliance program.\nConsolidated BSA/AML Risk Assessment"
+  questions_and_answers:
+  - answer: To address its risk profile and comply with regulatory requirements, a
+      bank should structure its BSA/AML compliance program by developing appropriate
+      policies, procedures, and processes to monitor and control risks associated
+      with money laundering, terrorist financing, and other illicit financial activities.
+      The bank's monitoring system should be risk-based, incorporating additional
+      screening for higher-risk products, services, customers, and geographic locations
+      identified through the bank's BSA/AML risk assessment. Additionally, independent
+      testing (audit) should review the bank's BSA/AML risk assessment and its application
+      in developing the BSA/AML compliance program. This is in accordance with the
+      Bank Secrecy Act (BSA) regulatory requirements.
+    question: How should a bank structure its BSA/AML compliance program to address
+      its risk profile and comply with regulatory requirements?
+  - answer: Independent testing plays a crucial role in the development and review
+      of a bank's BSA/AML compliance program by conducting an audit that examines
+      the bank's BSA/AML risk assessment and evaluates how it is used to develop the
+      BSA/AML compliance program. This process is essential to ensure the program
+      effectively addresses the bank's risk profile and complies with BSA regulatory
+      requirements.
+    question: What role does independent testing play in the development and review
+      of a bank's BSA/AML compliance program?
+  - answer: It is important for a bank's monitoring system to be risk-based when identifying
+      and reporting suspicious activity to effectively address the bank's specific
+      risk profile and comply with Bank Secrecy Act (BSA) regulatory requirements.
+      This approach ensures that higher-risk products, services, customers, and geographic
+      locations receive additional screening, thereby enhancing the bank's ability
+      to detect and mitigate money laundering, terrorist financing, and other illicit
+      financial activities.
+    question: Why is it important for a bank's monitoring system to be risk-based
+      when identifying and reporting suspicious activity?
+- context: Banks that choose to implement a consolidated or partially consolidated
+    BSA/AML compliance program should assess risk within business lines and across
+    activities and legal entities. Consolidating ML/TF and other illicit financial
+    activity risks for larger or more complex banking organizations may assist senior
+    management and the board of directors in identifying, understanding, and appropriately
+    mitigating risks within and across the banking organization. To understand ML/TF
+    and other illicit financial activity risk exposures, the banking organization
+    should communicate across all business lines, activities, and legal entities.
+    Identifying a vulnerability in one aspect of the banking organization may indicate
+    vulnerabilities elsewhere. Refer to the BSA/AML Compliance Program Structures
+    section for more information.
+  questions_and_answers:
+  - answer: It is important for banks to assess risk within various business lines
+      and entities when implementing a consolidated BSA/AML compliance program because
+      it helps senior management and the board of directors to identify, understand,
+      and appropriately mitigate risks within and across the banking organization.
+      This process, as outlined by the Bank Secrecy Act/Anti-Money Laundering (BSA/AML)
+      guidelines, ensures that vulnerabilities detected in one part of the organization
+      can alert to potential vulnerabilities elsewhere, promoting a comprehensive
+      risk management approach.
+    question: Why is it important for banks to assess risk within various business
+      lines and entities when implementing a consolidated BSA/AML compliance program?
+  - answer: Consolidating ML/TF and other illicit financial activity risks can benefit
+      larger or more complex banking organizations by assisting senior management
+      and the board of directors in identifying, understanding, and appropriately
+      mitigating risks across the entire banking organization. This process, as guided
+      by the Bank Secrecy Act/Anti-Money Laundering (BSA/AML) regulations, enhances
+      communication across all business lines, activities, and legal entities, thereby
+      uncovering potential vulnerabilities that might otherwise go unnoticed.
+    question: How can consolidating ML/TF and other illicit financial activity risks
+      benefit larger or more complex banking organizations?
+  - answer: Communication across all business lines, activities, and legal entities
+      is crucial for understanding ML/TF risk exposures in a banking organization,
+      as emphasized by the Bank Secrecy Act/Anti-Money Laundering (BSA/AML) regulations.
+      This communication helps in identifying, understanding, and mitigating risks
+      by providing a comprehensive view of vulnerabilities that may span multiple
+      areas within the organization. Effective communication ensures that a vulnerability
+      identified in one part of the bank can be addressed holistically, thereby enhancing
+      the overall risk management strategy.
+    question: What role does communication across all business lines, activities,
+      and legal entities play in understanding ML/TF risk exposures in a banking organization?
+- context: "Various methods and formats may be used to complete the BSA/AML risk assessment;\
+    \ therefore, there is no expectation for a particular method or format. Bank management\
+    \ designs the appropriate method or format and communicates the ML/TF and other\
+    \ illicit financial activity risks to all appropriate parties. When the bank has\
+    \ established an appropriate BSA/AML risk assessment process, and has followed\
+    \ existing policies, procedures, and processes, examiners should not criticize\
+    \ the bank for individual risk or process decisions unless those decisions impact\
+    \ the adequacy of some aspect of the bank\u2019s BSA/AML compliance program or\
+    \ the bank\u2019s compliance with BSA regulatory requirements."
+  questions_and_answers:
+  - answer: The importance of flexibility in methods and formats for conducting BSA/AML
+      risk assessments in a bank is emphasized by the guidance that examiners should
+      not criticize individual decisions unless they impact compliance with BSA regulatory
+      requirements. This flexibility allows bank management to design an appropriate
+      method or format that effectively communicates ML/TF and other illicit financial
+      activity risks to relevant parties, ensuring the adequacy of the bank's BSA/AML
+      compliance program.
+    question: What is the importance of flexibility in methods and formats for conducting
+      BSA/AML risk assessments in a bank?
+  - answer: Bank management is responsible for designing the appropriate method or
+      format for BSA/AML risk assessments within a bank.
+    question: Who is responsible for designing the appropriate method or format for
+      BSA/AML risk assessments within a bank?
+  - answer: An examiner might criticize a bank's individual risk or process decisions
+      related to BSA/AML risk assessments if those decisions negatively impact the
+      adequacy of the bank's BSA/AML compliance program or if they cause the bank
+      to fall out of compliance with BSA regulatory requirements.
+    question: Under what circumstances might an examiner criticize a bank's individual
+      risk or process decisions related to BSA/AML risk assessments?
+- context: "The following example illustrates the value of the two-step risk assessment\
+    \ process. The information collected by two banks in the first step reflects that\
+    \ each sends 100 international funds transfers per day. Further analysis by the\
+    \ first bank shows that approximately 90 percent of its funds transfers are recurring\
+    \ well-documented transactions for long-term customers. Further analysis by the\
+    \ second bank shows that 90 percent of its funds transfers are nonrecurring or\
+    \ are processed for noncustomers. While these percentages appear to be the same,\
+    \ the risks may be different. This example illustrates that information collected\
+    \ for purposes of the bank\u2019s customer identification program and developing\
+    \ the customer due diligence customer risk profile is important when conducting\
+    \ a detailed analysis. Refer to the Customer Identification Program, Customer\
+    \ Due Diligence, and Appendix J \u2013 Quantity of Risk Matrix sections for more\
+    \ information."
+  questions_and_answers:
+  - answer: The two-step risk assessment process is valuable in the context of international
+      funds transfers because it allows banks to differentiate between transactions
+      that may appear similar in volume but differ significantly in risk, as outlined
+      by the FFIEC BSA/AML InfoBase. By conducting a detailed analysis, banks can
+      distinguish low-risk, recurring transactions from high-risk, nonrecurring or
+      noncustomer transactions, enabling more effective risk management.
+    question: Why is the two-step risk assessment process valuable in the context
+      of international funds transfers?
+  - answer: The risks between the two banks might differ significantly due to the
+      nature of their transactions. According to the FFIEC BSA/AML InfoBase, while
+      both banks process 100 international funds transfers daily, the first bank's
+      transactions are predominantly recurring and well-documented for established
+      customers, posing a lower risk. In contrast, the second bank handles mostly
+      nonrecurring transactions or those for noncustomers, which could present a higher
+      risk due to the increased potential for illicit activities. This underscores
+      the importance of detailed analysis and customer due diligence in risk assessment.
+    question: How might the risks differ between two banks that each process 100 international
+      funds transfers per day, given different transaction characteristics?
+  - answer: Information from a bank's Customer Identification Program (CIP) and Customer
+      Due Diligence (CDD) plays a crucial role in conducting a detailed risk analysis,
+      as emphasized by the FFIEC BSA/AML InfoBase. This information helps banks differentiate
+      between low-risk and high-risk transactions, even when the volume of transactions
+      is similar. For instance, understanding the nature of customers and their transactions
+      (whether recurring, well-documented, or involving noncustomers) provides valuable
+      context for assessing the risk associated with international funds transfers.
+    question: What role does the information from a bank's Customer Identification
+      Program and Customer Due Diligence play in conducting a detailed risk analysis?
+version: 3

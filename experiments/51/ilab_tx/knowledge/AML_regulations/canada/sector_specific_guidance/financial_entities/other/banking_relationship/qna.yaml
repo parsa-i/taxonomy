@@ -1,0 +1,240 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/sector_specific_guidance/financial_entities/other/banking_relationship/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines FINTRAC's compliance guidance for Canadian
+  financial entities on correspondent banking relationship requirements under the
+  Proceeds of Crime (Money Laundering) and Terrorist Financing Act and associated
+  regulations.
+domain: Canadian Regulations
+seed_examples:
+- context: '10. (j) the following details of the remittance of, or in exchange for,
+    the cash received:
+
+    1. (i) the method of remittance;
+
+    2. (ii) if the remittance is in funds, the type and amount of each type of funds
+    involved;
+
+    3. (iii) if the remittance is not in funds, the type of remittance and its value,
+    if different from the amount of cash received; and
+
+    4. (iv) the name of every person or entity involved in the remittance and their
+    account number or policy number or, if they have no account number or policy number,
+    their identifying number; and
+
+    11. (k) if the amount is received by a dealer in precious metals and precious
+    stones for the sale of precious metals, precious stones or jewellery:
+
+    1. (i) the type of precious metals, precious stones or jewellery;
+
+    2. (ii) the value of the precious metals, precious stones or jewellery, if different
+    from the amount of cash received, and
+
+    3. (iii) the wholesale value of the precious metals, precious stones or jewellery.'
+  questions_and_answers:
+  - answer: 'According to FINTRAC''s compliance guidance, the following details are
+      required to be reported for the remittance of cash received:
+
+
+      1. The method of remittance.
+
+      2. If the remittance is in funds, the type and amount of each type of funds
+      involved.
+
+      3. If the remittance is not in funds, the type of remittance and its value,
+      if different from the amount of cash received.
+
+      4. The name of every person or entity involved in the remittance and their account
+      number, policy number, or identifying number if they have no account or policy
+      number.
+
+
+      Additionally, if the cash is received by a dealer in precious metals and stones,
+      the following must be reported:
+
+      1. The type of precious metals, precious stones, or jewellery.
+
+      2. The value of the precious metals, precious stones, or jewellery, if different
+      from the amount of cash received.
+
+      3. The wholesale value of the precious metals, precious stones, or jewellery.'
+    question: According to Fintrac, What details are required to be reported for the
+      remittance of cash received, according to the compliance guidance?
+  - answer: 'According to FINTRAC''s guidance, when the remittance involves precious
+      metals and stones, the following specific information must be included:
+
+
+      1. The type of precious metals, precious stones, or jewellery.
+
+      2. The value of the precious metals, precious stones, or jewellery, if different
+      from the amount of cash received.
+
+      3. The wholesale value of the precious metals, precious stones, or jewellery.'
+    question: In the context of FINTRAC's guidance, what specific information must
+      be included when the remittance involves precious metals and stones?
+  - answer: When the remittance is in funds, FINTRAC requires reporting the type and
+      amount of each type of funds involved. However, if the remittance is not in
+      funds, FINTRAC requires reporting the type of remittance and its value, if different
+      from the amount of cash received.
+    question: According to Fintrac, How does the reporting of cash transactions differ
+      when the remittance is not in funds compared to when it is in funds?
+- context: "1. (a) a digital representation of value that can be used for payment\
+    \ or investment purposes that is not a fiat currency and that can be readily exchanged\
+    \ for funds or for another virtual currency that can be readily exchanged for\
+    \ funds; or\n2. (b) a private key of a cryptographic system that enables a person\
+    \ or entity to have access to a digital representation of value referred to in\
+    \ paragraph (a).  \n(monnaie virtuelle)  \nReference:  \nPCMLTFR, SOR/2002-184,\
+    \ s. 1(2) and PCMLTFSTRR, SOR/2001-317, s. 1(2).  \nVirtual currency exchange\
+    \ transaction  \nAn exchange, at the request of another person or entity, of virtual\
+    \ currency for funds, funds for virtual currency or one virtual currency for another.\
+    \ (opération de change en monnaie virtuelle)  \nReference:  \nPCMLTFR, SOR/2002-184,\
+    \ s. 1(2).  \nVirtual currency exchange transaction ticket  \nA record respecting\
+    \ a virtual currency exchange transaction—including an entry in a transaction\
+    \ register—that sets out:  \n1. (a) the date of the transaction;"
+  questions_and_answers:
+  - answer: 'According to FINTRAC, ''Virtual Currency'' is defined as:
+
+
+      1. (a) a digital representation of value that can be used for payment or investment
+      purposes that is not a fiat currency and that can be readily exchanged for funds
+      or for another virtual currency that can be readily exchanged for funds; or
+
+      2. (b) a private key of a cryptographic system that enables a person or entity
+      to have access to a digital representation of value referred to in paragraph
+      (a).
+
+
+      Reference: PCMLTFR, SOR/2002-184, s. 1(2) and PCMLTFSTRR, SOR/2001-317, s. 1(2).'
+    question: What is the definition of 'Virtual Currency' according to FINTRAC's
+      compliance guidance on correspondent banking relationship requirements?
+  - answer: A 'Virtual Currency Exchange Transaction' is defined by FINTRAC as "an
+      exchange, at the request of another person or entity, of virtual currency for
+      funds, funds for virtual currency or one virtual currency for another." This
+      definition is outlined in the Proceeds of Crime (Money Laundering) and Terrorist
+      Financing Regulations (PCMLTFR, SOR/2002-184, s. 1(2)).
+    question: How is a 'Virtual Currency Exchange Transaction' defined in FINTRAC's
+      compliance guidance?
+  - answer: According to FINTRAC's guidelines, a 'Virtual Currency Exchange Transaction
+      Ticket' must include the date of the transaction.
+    question: What information must be included in a 'Virtual Currency Exchange Transaction
+      Ticket' as per FINTRAC's guidelines?
+- context: "1. (i) loans that are made by the insurer to a policy holder if the insured\
+    \ person has a terminal illness that significantly reduces their life expectancy\
+    \ and the loan is secured by the value of an insurance policy;\n2. (ii) loans\
+    \ that are made by the insurer to the policy holder for the sole purpose of funding\
+    \ the life insurance policy; and\n3. (iii) advance payments to which the policy\
+    \ holder is entitles that are made to them by the insurer;\n4. (d) a credit union\
+    \ central when it offers financial services to a person, or to an entity that\
+    \ is not a member of that credit union central; and\n5. (e) a department, or an\
+    \ entity that is an agent of His Majesty in right of Canada or an agent or mandatary\
+    \ of His Majesty in right of a province, when it carries out an activity referred\
+    \ to in section 76.  \n(entité financière)  \nReference:  \nPCMLTFR, SOR/2002-184,\
+    \ s. 1(2).  \nFinancial Action Task Force"
+  questions_and_answers:
+  - answer: 'An insurer can make a loan to a policy holder under the following conditions,
+      as outlined by FINTRAC:
+
+
+      1. The insured person has a terminal illness that significantly reduces their
+      life expectancy, and the loan is secured by the value of an insurance policy.
+
+      2. The loan is made for the sole purpose of funding the life insurance policy.
+
+      3. The loan is an advance payment to which the policy holder is entitled.'
+    question: According to Fintrac, What are the conditions under which an insurer
+      can make a loan to a policy holder according to the provided chunk?
+  - answer: According to FINTRAC, the definition of a 'financial entity' extends to
+      a credit union central when it offers financial services to a person or to an
+      entity that is not a member of that credit union central.
+    question: How does the definition of a 'financial entity' extend to a credit union
+      central in the context of correspondent banking relationships as outlined by
+      FINTRAC?
+  - answer: A department or an entity that is an agent of His Majesty qualifies as
+      a financial entity under the PCMLTFR, SOR/2002-184, s. 1(2) when it carries
+      out an activity referred to in section 76.
+    question: According to Fintrac, Which specific activities carried out by a department
+      or an entity that is an agent of His Majesty qualify it as a financial entity
+      under the PCMLTFR, SOR/2002-184, s. 1(2)?
+- context: "An offence under subsection 462.31(1) of the Criminal Code. The United\
+    \ Nations defines money laundering as \"any act or attempted act to disguise the\
+    \ source of money or assets derived from criminal activity.\" Essentially, money\
+    \ laundering is the process whereby \"dirty money\"—produced through criminal\
+    \ activity—is transformed into \"clean money,\" the criminal origin of which is\
+    \ difficult to trace.(infraction de recyclage des produits de la criminalité)\
+    \  \nReference:  \nPCMLTFA, S.C. 2000, c 17, s. 2(1).  \nMoney laundering and\
+    \ terrorist financing indicators (ML/TF indicators)  \nPotential red flags that\
+    \ could initiate suspicion or indicate that something may be unusual in the absence\
+    \ of a reasonable explanation. \\[Indicateurs de blanchiment d'argent (BA) et\
+    \ de financement du terrorisme (FT) (indicateurs de BA/FT)\\]  \nMoney services\
+    \ business  \nA person or entity that has a place of business in Canada and that\
+    \ is engaged in the business of providing at least one of the following services:"
+  questions_and_answers:
+  - answer: The legal definition of money laundering, according to the Criminal Code,
+      is outlined under subsection 462.31(1). The United Nations describes money laundering
+      as "any act or attempted act to disguise the source of money or assets derived
+      from criminal activity."
+    question: According to Fintrac, What is the legal definition of money laundering
+      according to the Criminal Code, and how does the United Nations describe it?
+  - answer: ML/TF indicators, as defined by FINTRAC, are potential red flags that
+      could initiate suspicion or indicate that something may be unusual in the absence
+      of a reasonable explanation. They are considered important in the context of
+      financial regulation because they help financial institutions and other reporting
+      entities to identify and report suspected money laundering and terrorist financing
+      activities, thereby complying with anti-money laundering (AML) and counter-terrorism
+      financing (CTF) obligations.
+    question: According to Fintrac, What are 'ML/TF indicators,' and why are they
+      considered important in the context of financial regulation?
+  - answer: 'To be classified as a ''money services business'' under Canadian law,
+      a business must provide at least one of the following services, as outlined
+      by FINTRAC:'
+    question: According to Fintrac, What services must a business provide to be classified
+      as a 'money services business' under Canadian law?
+- context: For the purpose of section 15 of the Proceeds of Crime (Money Laundering)
+    and Terrorist Financing Regulations (PCMLTFR), means a trust that is established
+    by a corporation or other entity for a particular business purpose and includes
+    a pension plan trust, a pension master trust, a supplemental pension plan trust,
+    a mutual fund trust, a pooled fund trust, a registered retirement savings plan
+    trust, a registered retirement income fund trust, a registered education savings
+    plan trust, a group registered retirement savings plan trust, a deferred profit
+    sharing plan trust, an employee profit sharing plan trust, a retirement compensation
+    arrangement trust, an employee savings plan trust, a health and welfare trust,
+    an unemployment benefit plan trust, a foreign insurance company trust, a foreign
+    reinsurance trust, a reinsurance trust, a real estate investment trust, an environmental
+    trust and a trust established in respect of endowment, a foundation or a registered
+    charity. (fiducie
+  questions_and_answers:
+  - answer: According to section 15 of the Proceeds of Crime (Money Laundering) and
+      Terrorist Financing Regulations (PCMLTFR), a "trust" is defined as a trust established
+      by a corporation or other entity for a particular business purpose. This includes
+      various types of trusts such as pension plan trusts, mutual fund trusts, registered
+      retirement savings plan trusts, and others listed in the regulations.
+    question: According to Fintrac, What is the definition of 'trust' according to
+      section 15 of the Proceeds of Crime (Money Laundering) and Terrorist Financing
+      Regulations (PCMLTFR)?
+  - answer: 'According to section 15 of the Proceeds of Crime (Money Laundering) and
+      Terrorist Financing Regulations (PCMLTFR), the types of trusts included are:
+      pension plan trust, pension master trust, supplemental pension plan trust, mutual
+      fund trust, pooled fund trust, registered retirement savings plan trust, registered
+      retirement income fund trust, registered education savings plan trust, group
+      registered retirement savings plan trust, deferred profit sharing plan trust,
+      employee profit sharing plan trust, retirement compensation arrangement trust,
+      employee savings plan trust, health and welfare trust, unemployment benefit
+      plan trust, foreign insurance company trust, foreign reinsurance trust, reinsurance
+      trust, real estate investment trust, environmental trust, and a trust established
+      in respect of endowment, a foundation, or a registered charity.'
+    question: According to Fintrac, What types of trusts are included under the definition
+      provided in section 15 of the PCMLTFR?
+  - answer: The definition of 'trust' in section 15 of the PCMLTFR, as outlined by
+      FINTRAC, includes various types of trusts established for specific business
+      purposes, such as pension plans, mutual funds, and registered savings plans.
+      This definition is relevant to compliance requirements for correspondent banking
+      relationships, as it helps financial entities understand the scope of trusts
+      they must monitor and assess for potential money laundering and terrorist financing
+      risks, in accordance with FINTRAC's guidelines.
+    question: According to Fintrac, How does the definition of 'trust' in section
+      15 of the PCMLTFR relate to the compliance requirements for correspondent banking
+      relationships?
+version: 3

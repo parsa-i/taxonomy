@@ -1,0 +1,180 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/sector_specific_guidance/financial_entities/kyc/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines the specific circumstances under which financial
+  entities in Canada must verify the identity of persons and entities, as mandated
+  by FINTRAC under the PCMLTFA and associated regulations, to prevent money laundering
+  and terrorist financing.
+domain: Canadian Regulations
+seed_examples:
+- context: "### e. Initiating an international electronic funds transfer (EFT)—or\
+    \ any other EFT that is a SWIFT MT-103 message or its equivalent—of $1,000 or\
+    \ more  \nYou must verify the identity of every person who requests the initiation\
+    \ of an international EFT or any other EFT that is a SWIFT MT-103 or its equivalent,\
+    \ including domestic SWIFT MT-103, of $1,000 or more when the transaction is being\
+    \ requested.Footnote 9"
+  questions_and_answers:
+  - answer: The minimum amount that triggers the requirement for identity verification
+      in international electronic funds transfers is $1,000 or more.
+    question: According to Fintrac, What is the minimum amount that triggers the requirement
+      for identity verification in international electronic funds transfers?
+  - answer: The SWIFT MT-103 message format requires identity verification for transfers
+      of $1,000 or more.
+    question: According to Fintrac, Which specific type of message format requires
+      identity verification for transfers of $1,000 or more?
+  - answer: A bank is required to verify the identity of individuals initiating international
+      electronic funds transfers (EFTs) or SWIFT MT-103 messages of $1,000 or more.
+    question: According to Fintrac, Under what circumstances is a bank required to
+      verify the identity of individuals initiating international electronic funds
+      transfers?
+- context: "## 1\\. When do I have to verify the identity of persons and entities?\
+    \  \nAs an FE, you must verify the identity of clients for the following:  \n\
+    01. Large cash transactions\n02. Large virtual currency (VC) transactions\n03.\
+    \ Suspicious transactions\n04. Issuing or redeeming money orders, traveller's\
+    \ cheques or other similar negotiable instruments of $3,000 or more\n05. Initiating\
+    \ an international electronic funds transfer (EFT)—or any other EFT that is a\
+    \ SWIFT MT-103 message or its equivalent—of $1,000 or more\n06. Remitting funds\
+    \ to the beneficiary of an international EFT of $1,000 or more\n07. Transferring\
+    \ VC in an amount equivalent to $1,000 or more\n08. Remitting VC to a beneficiary\
+    \ in an amount equivalent to $1,000 or more\n09. Foreign currency exchange transactions\
+    \ of $3,000 or more\n10. VC exchange transactions in amounts equivalent to $1,000\
+    \ or more\n11. Accounts—account holders and persons authorized to give instructions\n\
+    12. Credit card accounts—account holders"
+  questions_and_answers:
+  - answer: Transactions that require financial entities to verify the identity of
+      clients as per FINTRAC regulations include large cash transactions, large virtual
+      currency transactions, suspicious transactions, issuing or redeeming money orders
+      and similar negotiable instruments of $3,000 or more, initiating or remitting
+      international electronic funds transfers of $1,000 or more, transferring or
+      remitting virtual currency in amounts equivalent to $1,000 or more, foreign
+      currency exchange transactions of $3,000 or more, virtual currency exchange
+      transactions of $1,000 or more, and activities related to accounts and credit
+      card accounts.
+    question: What types of transactions require financial entities to verify the
+      identity of clients as per FINTRAC regulations?
+  - answer: Under FINTRAC's mandates, an FE must verify the identity of clients for
+      large virtual currency transactions, suspicious transactions, and when transferring
+      or remitting virtual currencies in amounts equivalent to $1,000 or more. Additionally,
+      verification is required for virtual currency exchange transactions of $1,000
+      or more.
+    question: According to Fintrac, Under what circumstances must an FE verify the
+      identity of clients for transactions involving virtual currencies?
+  - answer: It is important for financial entities to verify the identity of clients
+      during large cash transactions and suspicious activities to comply with the
+      regulations mandated by FINTRAC, which help to prevent money laundering and
+      terrorist financing.
+    question: According to Fintrac, Why is it important for financial entities to
+      verify the identity of clients during large cash transactions and suspicious
+      activities?
+- context: "### Suspicious transactions  \nYou do not have to take reasonable measures\
+    \ to verify the identity of the person or entity that conducts or attempts to\
+    \ conduct a suspicious transaction if:  \n- you have already verified the identity\
+    \ of the person or entity and have no doubts about the identification information;Footnote\
+    \ 39 or\n- you believe that verifying the identity of the person or entity would\
+    \ inform them that you are submitting an STR.Footnote 40"
+  questions_and_answers:
+  - answer: 'A bank can avoid verifying the identity of a person or entity involved
+      in a suspicious transaction under two circumstances:
+
+
+      1. **Prior Verification**: When the bank has already verified the identity of
+      the person or entity and has no doubts about the identification information.
+
+      2. **Tip-Off Risk**: When the bank believes that verifying the identity would
+      inform the person or entity that a Suspicious Transaction Report (STR) is being
+      submitted.
+
+
+      These exceptions are outlined within the guidelines for financial entities on
+      verifying identities to prevent money laundering and terrorist financing.'
+    question: According to Fintrac, Under what circumstances can a bank avoid verifying
+      the identity of a person or entity involved in a suspicious transaction?
+  - answer: A bank might choose not to verify the identity of a person or entity despite
+      a suspicious transaction if it has already verified their identity and has no
+      doubts about the identification information, or if it believes that verifying
+      the identity would inform them that a Suspicious Transaction Report (STR) is
+      being submitted, as per the guidelines for financial entities on verifying identities
+      to prevent money laundering and terrorist financing.
+    question: According to Fintrac, Why might a bank choose not to verify the identity
+      of a person or entity despite a suspicious transaction?
+  - answer: Prior verification of a client's identity reduces the need for re-verification
+      during suspicious transactions if the financial entity has no doubts about the
+      identification information, as per the guidelines issued for preventing money
+      laundering and terrorist financing. Additionally, re-verification is not required
+      if it is believed that the process would alert the client to the submission
+      of a Suspicious Transaction Report (STR).
+    question: According to Fintrac, How does prior verification of a client's identity
+      influence the need for re-verification during suspicious transactions?
+- context: '- a transaction that is part of a reverse mortgage (a loan based on the
+    equity of a home) or a structured settlement (a financial or insurance arrangement
+    to resolve a personal injury claim);
+
+    - the opening of an account for the deposit and sale of shares from a corporate
+    demutualization or the privatization of a Crown corporation;
+
+    - the opening of an account in the name of an affiliate of an FE, if that affiliate
+    carries out activities that are similar to those of persons and entities referred
+    to in paragraphs 5(a) to (g) of the Act;
+
+    - the opening of a registered plan account, including a locked-in retirement plan
+    account, a registered retirement savings plan account, and a group registered
+    retirement savings plan account;
+
+    - the opening of an account established pursuant to the escrow requirements of
+    a Canadian securities regulator or Canadian stock exchange or any provincial legislation;'
+  questions_and_answers:
+  - answer: 'Under FINTRAC guidelines, the following transactions are exempt from
+      client identification requirements: transactions related to reverse mortgages
+      and structured settlements, opening accounts for corporate demutualization or
+      privatization of Crown corporations, accounts for affiliates of financial entities,
+      registered plan accounts, and accounts established under escrow requirements
+      of Canadian securities regulators or provincial legislation.'
+    question: What types of transactions are exempt from client identification requirements
+      under FINTRAC guidelines?
+  - answer: An account can be opened without client identification for the deposit
+      and sale of shares in the case of a corporate demutualization or the privatization
+      of a Crown corporation, as per FINTRAC guidelines.
+    question: According to Fintrac, Under what circumstances can an account be opened
+      without client identification for the deposit and sale of shares?
+  - answer: 'According to FINTRAC guidelines, the following types of registered plan
+      accounts are exempt from client identification requirements: locked-in retirement
+      plan accounts, registered retirement savings plan accounts, and group registered
+      retirement savings plan accounts.'
+    question: Which specific types of registered plan accounts are exempt from client
+      identification requirements according to FINTRAC guidelines?
+- context: "### EFT by credit/debit card or PPP  \nYour client identification requirements\
+    \ do not apply when you carry out the following transactions for a person by means\
+    \ of a credit/debit card or PPP, if the beneficiary has an agreement with the\
+    \ payment service provider that permits payments by those means for goods and\
+    \ services:Footnote 41  \n- initiate an international EFT of $1,000 or more; or\n\
+    - are the final recipient of an international EFT, or of a VC transfer equivalent\
+    \ to $1000 or more and remit the funds to the beneficiary."
+  questions_and_answers:
+  - answer: Client identification requirements are waived for international Electronic
+      Funds Transfers (EFTs) using credit/debit cards or Prepaid Payment Products
+      (PPPs) when the beneficiary has an agreement with the payment service provider
+      that permits payments for goods and services, and the transaction involves either
+      initiating an international EFT of $1,000 or more or being the final recipient
+      of an international EFT or a virtual currency transfer equivalent to $1,000
+      or more and remitting the funds to the beneficiary.
+    question: According to Fintrac, Under what circumstances are client identification
+      requirements waived for international Electronic Funds Transfers (EFTs) using
+      credit/debit cards or Prepaid Payment Products (PPPs)?
+  - answer: The threshold amount for initiating an international EFT where client
+      identification requirements do not apply when using a credit/debit card or PPP
+      is $1,000 or more, as outlined by the payment service provider agreement for
+      goods and services.
+    question: According to Fintrac, What is the threshold amount for initiating an
+      international EFT where client identification requirements do not apply when
+      using a credit/debit card or PPP?
+  - answer: An agreement between the beneficiary and the payment service provider
+      that permits payments for goods and services exempts the client identification
+      requirements when initiating or receiving international EFTs of $1,000 or more
+      using credit/debit cards or PPPs, as outlined by the governing regulations.
+    question: According to Fintrac, How does an agreement between the beneficiary
+      and the payment service provider impact the client identification requirements
+      for international EFTs using credit/debit cards or PPPs?
+version: 3

@@ -1,0 +1,158 @@
+created_by: CE
+version: 3
+document:
+  commit: 06419f3bf49a0c6a2b7f92a2d99323fd1b84d616
+  patterns:
+  - ilab_tx/knowledge/financial/financial/mastercard_transaction_processing_rules/chap6/*.md
+  repo: https://github.com/parsa-i/taxonomy
+domain: Mastercard Transaction Processing Rules
+seed_examples:
+- context: "2. For any illegal purpose or any other purpose deemed by the Corporation\
+    \ to be impermissible.\n3. For the purchase of goods or services, unless that\
+    \ Payment Transaction is expressly permitted by the Standards.\n5. Funds for the\
+    \ Payment Transaction must be deemed collected and in the control of the Acquirer\
+    \ before the Payment Transaction is submitted to the Interchange System.\n6. In\
+    \ a dual message environment, the Acquirer must submit a clearing message to the\
+    \ Interchange System within one calendar day of the Issuer\u2019s approval of\
+    \ the authorization request. The Acquirer must ensure that the amount of the Payment\
+    \ Transaction in the clearing message matches the amount in the authorization\
+    \ request.\n7. A reversal of a Payment Transaction (other than a MoneySend Payment\
+    \ Transaction) must only be submitted to correct a documented clerical error and\
+    \ upon agreement of the Issuer. In such an event, the error must be reversed within\
+    \ one calendar day of the date the"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, under what conditions
+      are transactions deemed impermissible?
+    answer: According to Mastercard Transaction Processing Rules, transactions are
+      deemed impermissible if they are for any illegal purpose or any other purpose
+      deemed by the Corporation to be impermissible, or if they involve the purchase
+      of goods or services that are not expressly permitted by the Standards.
+  - question: According to Mastercard Transaction Processing Rules, when are funds
+      for a Payment Transaction considered collected and controlled by the Acquirer?
+    answer: According to Mastercard Transaction Processing Rules, funds for a Payment
+      Transaction are considered collected and controlled by the Acquirer before the
+      Payment Transaction is submitted to the Interchange System.
+  - question: According to Mastercard Transaction Processing Rules, what are the requirements
+      for submitting a reversal of a Payment Transaction?
+    answer: According to Mastercard Transaction Processing Rules, a reversal of a
+      Payment Transaction (excluding MoneySend transactions) must be submitted to
+      correct a documented clerical error and requires the agreement of the Issuer.
+      The reversal must be processed within one calendar day of the date the error
+      was identified.
+- context: "# 6.5.2 Non-discrimination Regarding Maximum Amount Limit  \n|Terms|Description|\n\
+    |---|---|\n|Originating Institution|The Customer that notifies the China Switch\
+    \ to originate a China Funds Transfer Funding Transaction (optional) or a China\
+    \ Funds Transfer Payment Transaction. Also referred to as an Acquirer.|\n|Receiving\
+    \ Account|The Account held by a Receiving Account Holder and to which the Receiving\
+    \ Customer must ensure receipt of a China Domestic Funds Transfer Transaction.|\n\
+    |Receiving Institution|The Customer that receives and approves a China Funds Transfer\
+    \ Payment Transaction. Also referred to as the Issuer of Receiving Account in\
+    \ funds transfer transactions.|"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what role does
+      the 'Originating Institution' play in China funds transfer transactions?
+    answer: According to Mastercard Transaction Processing Rules, the 'Originating
+      Institution' is the Customer that notifies the China Switch to originate a China
+      Funds Transfer Funding Transaction or a China Funds Transfer Payment Transaction.
+      It is also referred to as an Acquirer.
+  - question: According to Mastercard Transaction Processing Rules, what is the definition
+      of a 'Receiving Account' in the context of China Domestic Funds Transfer Transactions?
+    answer: According to the Mastercard Transaction Processing Rules, a 'Receiving
+      Account' in the context of China Domestic Funds Transfer Transactions is the
+      account held by a Receiving Account Holder and to which the Receiving Customer
+      must ensure receipt of a China Domestic Funds Transfer Transaction.
+  - question: According to Mastercard Transaction Processing Rules, who is responsible
+      for receiving and approving a China Funds Transfer Payment Transaction?
+    answer: According to the Mastercard Transaction Processing Rules, the Receiving
+      Institution, also referred to as the Issuer of the Receiving Account, is responsible
+      for receiving and approving a China Funds Transfer Payment Transaction.
+- context: "# 6.1.1 Payment Transactions\u2014Acquirer and Merchant Requirements \
+    \ \nIn the Europe Region, the Rule on this subject is modified as follows. With\
+    \ respect to an interregional Payment Transaction involving a Europe Region Acquirer\
+    \ and an Issuer located in another Region, if the Acquirer does not submit a clearing\
+    \ message to the Interchange System within seven days of the authorization request,\
+    \ the Corporation collects the Payment Transaction amount and any additional fees\
+    \ charged from the Acquirer by means of a Fee Collection/1740 message."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what happens if
+      a Europe Region Acquirer fails to submit a clearing message within seven days
+      of the authorization request for an interregional payment transaction?
+    answer: If a Europe Region Acquirer fails to submit a clearing message within
+      seven days of the authorization request for an interregional payment transaction,
+      Mastercard collects the transaction amount and any additional fees from the
+      Acquirer through a Fee Collection/1740 message.
+  - question: According to Mastercard Transaction Processing Rules, how is the payment
+      transaction amount and any additional fees collected from the Acquirer if they
+      fail to submit the required clearing message?
+    answer: According to Mastercard Transaction Processing Rules, if a Europe Region
+      Acquirer fails to submit the required clearing message within seven days of
+      the authorization request, the Corporation collects the payment transaction
+      amount and any additional fees from the Acquirer using a Fee Collection/1740
+      message.
+  - question: According to Mastercard Transaction Processing Rules, which region-specific
+      modification is discussed regarding payment transactions involving a Europe
+      Region Acquirer and an Issuer located in another region?
+    answer: According to Mastercard Transaction Processing Rules, the region-specific
+      modification discussed is that if a Europe Region Acquirer does not submit a
+      clearing message within seven days of the authorization request for an interregional
+      payment transaction with an Issuer in another region, Mastercard collects the
+      transaction amount and any additional fees from the Acquirer using a Fee Collection/1740
+      message.
+- context: "# 6.1.2 Payment Transactions\u2014Issuer Requirements  \nPayment Transaction\
+    \ was submitted to the Interchange System (as a Financial Transaction/0200 message\
+    \ or First Presentment/1240 message, as applicable) for posting to an Account.\
+    \ Reversible clerical errors include, by way of example and not limitation, the\
+    \ erroneous capture of Payment Transaction data, a duplicate Payment Transaction,\
+    \ or an error caused by the transposition of data."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what are the key
+      criteria and standards that issuers must follow when processing payment transactions
+      through the Mastercard system?
+    answer: According to Mastercard Transaction Processing Rules, issuers must submit
+      payment transactions to the Interchange System using the appropriate message
+      formats (Financial Transaction/0200 or First Presentment/1240). Additionally,
+      issuers must handle reversible clerical errors, such as data capture errors,
+      duplicate transactions, or data transposition errors.
+  - question: According to Mastercard Transaction Processing Rules, what types of
+      messages can be used to submit a Payment Transaction to the Interchange System?
+    answer: According to Mastercard Transaction Processing Rules, a Payment Transaction
+      can be submitted to the Interchange System using a Financial Transaction/0200
+      message or a First Presentment/1240 message.
+  - question: According to Mastercard Transaction Processing Rules, what are some
+      examples of reversible clerical errors that issuers may encounter when processing
+      payment transactions?
+    answer: According to Mastercard Transaction Processing Rules, examples of reversible
+      clerical errors that issuers may encounter when processing payment transactions
+      include the erroneous capture of payment transaction data, duplicate payment
+      transactions, or errors caused by the transposition of data.
+- context: "# 6.4.1 Non-discrimination Regarding Maximum Transaction Amount Limit\
+    \  \nAn Acquirer may impose a maximum amount limit on China Deposit Transactions\
+    \ accepted at an ATM Terminal provided that the limit imposed on Cardholders is\
+    \ the same or more favorable than the limits imposed on cardholders of other scheme\
+    \ brands or networks. This Rule does not limit the application of other non-discrimination\
+    \ provisions contained in the Standards."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what condition
+      must an Acquirer meet when setting a maximum amount limit for China Deposit
+      Transactions at ATMs?
+    answer: According to Mastercard Transaction Processing Rules, when setting a maximum
+      amount limit for China Deposit Transactions at ATMs, an Acquirer must ensure
+      that the limit is the same or more favorable than the limits imposed on cardholders
+      of other scheme brands or networks.
+  - question: According to Mastercard Transaction Processing Rules, how does the maximum
+      amount limit for China Deposit Transactions compare to limits for other card
+      schemes?
+    answer: According to Mastercard Transaction Processing Rules, the maximum amount
+      limit for China Deposit Transactions at ATMs must be the same or more favorable
+      than the limits set for other card schemes.
+  - question: According to Mastercard Transaction Processing Rules, what is the primary
+      non-discrimination provision regarding maximum transaction amount limits for
+      China Deposit Transactions?
+    answer: According to Mastercard Transaction Processing Rules, the primary non-discrimination
+      provision regarding maximum transaction amount limits for China Deposit Transactions
+      is that an Acquirer can set a maximum amount limit, provided that the limit
+      is the same or more favorable than the limits imposed on cardholders of other
+      scheme brands or networks.
+document_outline: This document outlines the rules and requirements for processing
+  payment transactions within the Mastercard system, including authorization, clearing,
+  settlement, and restrictions on transaction usage.

@@ -1,0 +1,220 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/us/bsa_aml/assessing_compliance/customer_identification_program/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines the requirements for a bank's Customer Identification
+  Program (CIP) as part of its BSA/AML compliance, including identity verification
+  procedures and account definitions.
+domain: USA Regulations
+seed_examples:
+- context: "# CUSTOMER IDENTIFICATION PROGRAM EXAMINATION AND TESTING PROCEDURES \
+    \ \nObjective:  Assess the bank\u2019s compliance with the BSA regulatory requirements\
+    \ for the Customer Identification Program (CIP).  \n1. Verify that the bank has\
+    \ a written CIP appropriate for its size and type of business. The written program\
+    \ must be included within the bank\u2019s BSA/AML compliance program and must\
+    \ contain procedures that address:  \n-  Obtaining the required identifying information\
+    \ (including name, date of birth for an individual, address, and identification\
+    \ number).\n-  Verifying the identity of each customer to the extent reasonable\
+    \ and practicable through risk-based procedures.\n-  Responding to circumstances\
+    \ in which the bank cannot form a reasonable belief that it knows the true identity\
+    \ of a customer, including determining when a suspicious activity report (SAR)\
+    \ should be filed.\n-  Complying with recordkeeping requirements."
+  questions_and_answers:
+  - answer: 'The key elements that must be included in a bank''s written Customer
+      Identification Program (CIP) according to the BSA regulatory requirements are:
+
+
+      1. **Obtaining Required Identifying Information**: This includes collecting
+      the customer''s name, date of birth (for individuals), address, and identification
+      number.
+
+      2. **Verifying Customer Identity**: Implementing risk-based procedures to verify
+      the identity of each customer to the extent reasonable and practicable.
+
+      3. **Responding to Unverifiable Identities**: Establishing procedures for when
+      the bank cannot form a reasonable belief that it knows the true identity of
+      a customer, including determining when to file a suspicious activity report
+      (SAR).
+
+      4. **Complying with Recordkeeping Requirements**: Ensuring that all necessary
+      records are kept in accordance with the BSA regulations.'
+    question: What are the key elements that must be included in a bank's written
+      Customer Identification Program (CIP) according to the BSA regulatory requirements?
+  - answer: A bank verifies the identity of each customer under the Customer Identification
+      Program (CIP) by obtaining required identifying information such as name, date
+      of birth, address, and identification number. The verification process is risk-based
+      and must be reasonable and practicable, as outlined by the Bank Secrecy Act
+      (BSA) regulatory requirements. Factors influencing this process include the
+      bank's size and type of business, as well as the specific risks associated with
+      the customer.
+    question: How does a bank verify the identity of each customer under the Customer
+      Identification Program (CIP), and what factors influence this process?
+  - answer: 'If a bank cannot form a reasonable belief that it knows the true identity
+      of a customer, as outlined in the Customer Identification Program (CIP) under
+      the Bank Secrecy Act (BSA) regulatory requirements, it should take the following
+      steps: determine the appropriate response to the circumstances, which may include
+      filing a suspicious activity report (SAR) when necessary.'
+    question: What steps should a bank take if it cannot form a reasonable belief
+      that it knows the true identity of a customer, as outlined in the Customer Identification
+      Program (CIP)?
+- context: "4. Select a sample of new accounts opened since the most recent examination\
+    \ to review for compliance with the bank\u2019s CIP. The sample should include\
+    \ a cross-section of accounts as indicated by the bank\u2019s risk assessment\
+    \ (e.g., consumers and businesses, loans and deposits, credit card relationships,\
+    \ and accounts opened via U.S. mail and online).  The sample should also, on a\
+    \ risk basis, include the following:  \n-  New accounts opened using the exception\
+    \ for customers that have applied for a TIN.\n-  New accounts opened using documentary\
+    \ methods, and new accounts opened using non-documentary methods.\n-  New accounts\
+    \ identified by the bank as higher risk.\n-  New accounts opened with incomplete\
+    \ verification information, if applicable.\n-  New accounts opened by a third\
+    \ party as the bank\u2019s agent (e.g., indirect loans), if applicable.  \n5.\
+    \ From the previous sample of new accounts, determine whether the bank has performed\
+    \ the following procedures:"
+  questions_and_answers:
+  - answer: "When selecting a sample of new accounts for reviewing a bank's Customer\
+      \ Identification Program (CIP) compliance, the following factors should be considered\
+      \ to ensure a comprehensive assessment as indicated by the bank\u2019s risk\
+      \ assessment:\n\n1. **Account Type Variety**: Include a cross-section of accounts\
+      \ such as consumer and business accounts, loans and deposits, and credit card\
+      \ relationships.\n2. **Opening Method**: Include accounts opened via different\
+      \ methods such as U.S. mail and online.\n3. **TIN Exception**: New accounts\
+      \ opened using the exception for customers that have applied for a Taxpayer\
+      \ Identification Number (TIN).\n4. **Documentary and Non-Documentary Methods**:\
+      \ Accounts opened using both documentary and non-documentary methods.\n5. **Higher\
+      \ Risk Accounts**: Accounts identified by the bank as higher risk.\n6. **Incomplete\
+      \ Verification**: Accounts opened with incomplete verification information,\
+      \ if applicable.\n7. **Third-Party Agents**: Accounts opened by a third party\
+      \ as the bank\u2019s agent, such as indirect loans, if applicable.\n\nThese\
+      \ considerations align with the guidelines for ensuring thorough compliance\
+      \ with CIP procedures."
+    question: What factors should be considered when selecting a sample of new accounts
+      for reviewing a bank's Customer Identification Program (CIP) compliance?
+  - answer: To ensure a diverse range of account types and risk levels, a regulatory
+      officer should select a sample of new accounts that includes a cross-section
+      of accounts as indicated by the bank's risk assessment, such as consumers and
+      businesses, loans and deposits, credit card relationships, and accounts opened
+      via different channels like U.S. mail and online. Additionally, the sample should
+      include new accounts opened using various methods (documentary and non-documentary),
+      those identified as higher risk, accounts with incomplete verification information,
+      and those opened by third parties, in accordance with the bank's Customer Identification
+      Program (CIP) as outlined by the governing regulations.
+    question: How should a regulatory officer ensure that the sample of new accounts
+      includes a diverse range of account types and risk levels?
+  - answer: The sample should include new accounts opened using the exception for
+      customers that have applied for a TIN, accounts opened using both documentary
+      and non-documentary methods, those identified as higher risk by the bank, accounts
+      with incomplete verification information (if applicable), and accounts opened
+      by a third party acting as the bank's agent (such as indirect loans), if applicable.
+      This is in accordance with the guidelines for examining a bank's Customer Identification
+      Program (CIP) to ensure compliance with the bank's procedures.
+    question: What specific types of new accounts should be included in the sample
+      based on their risk attributes and opening methods?
+- context: "-  Compared the customer\u2019s name against any list of known or suspected\
+    \ terrorists or terrorist organizations, if applicable.  \n6. Review the adequacy\
+    \ of the bank\u2019s customer notice and the timing of the notice\u2019s delivery.\
+    \  \n7. If the bank relies on other financial institutions to perform its CIP\
+    \ (or portions of its CIP), select a sample of new accounts opened under the reliance\
+    \ provision.  \n-  Determine whether the bank\u2019s customer is opening or has\
+    \ opened an account at, or has established a similar formal banking or business\
+    \ relationship with, the other financial institution to provide or engage in services,\
+    \ dealings, or other financial transactions.\n-  Determine whether the other financial\
+    \ institution is subject to a final rule implementing the AML program requirements\
+    \ of 31 USC 5318(h) and is regulated by a federal functional regulator.\n-  Review\
+    \ the contract between the parties, annual certifications, and other information,\
+    \ such as the other financial institution\u2019s CIP."
+  questions_and_answers:
+  - answer: "The steps involved in verifying a customer's name against lists of known\
+      \ or suspected terrorists or terrorist organizations, as part of the Customer\
+      \ Identification Program (CIP) outlined under 31 USC 5318(h), include:\n\n1.\
+      \ Comparing the customer\u2019s name against any list of known or suspected\
+      \ terrorists or terrorist organizations.\n2. Reviewing the adequacy of the bank\u2019\
+      s customer notice and the timing of its delivery.\n3. If the bank relies on\
+      \ other financial institutions for CIP compliance, verifying that the customer\
+      \ has a formal banking relationship with the other institution.\n4. Ensuring\
+      \ the other financial institution is subject to a final rule implementing AML\
+      \ program requirements and is regulated by a federal functional regulator.\n\
+      5. Reviewing the contract, annual certifications, and the other financial institution\u2019\
+      s CIP."
+    question: What are the steps involved in verifying a customer's name against lists
+      of known or suspected terrorists or terrorist organizations?
+  - answer: A bank evaluates the adequacy of its customer notice and the timing of
+      its delivery as part of the Customer Identification Program (CIP) examination
+      and testing procedures, in accordance with the AML program requirements of 31
+      USC 5318(h).
+    question: How does a bank evaluate the adequacy of its customer notice and the
+      timing of its delivery?
+  - answer: "When a bank relies on other financial institutions to perform its Customer\
+      \ Identification Program (CIP), the following criteria must be met according\
+      \ to the AML program requirements of 31 USC 5318(h):\n\n1. The bank's customer\
+      \ must have opened an account or established a formal banking relationship with\
+      \ the other financial institution.\n2. The other financial institution must\
+      \ be subject to a final rule implementing the AML program requirements of 31\
+      \ USC 5318(h) and be regulated by a federal functional regulator.\n3. The bank\
+      \ must review the contract between the parties, annual certifications, and other\
+      \ information, such as the other financial institution\u2019s CIP."
+    question: What criteria must be met when a bank relies on other financial institutions
+      to perform its Customer Identification Program (CIP)?
+- context: "## Additional Resources  \nThe U.S. Department of the Treasury, FinCEN,\
+    \ and the federal banking agencies have issued Frequently Asked Questions (FAQs),\
+    \ which may be revised periodically.49 FinCEN and the federal banking agencies\
+    \ have issued interagency guidance to issuing banks on applying CIP requirements\
+    \ to holders of prepaid cards.50 There is also guidance encouraging banks to use\
+    \ non-documentary verification methods permitted by the CIP requirements for customers\
+    \ who cannot provide standard identification documents because of the effects\
+    \ of natural disasters.51 The FAQs, guidance, exceptive relief, and other related\
+    \ documents (e.g., the CIP rule) are available on the websites of FinCEN and the\
+    \ federal banking agencies."
+  questions_and_answers:
+  - answer: Additional resources for understanding CIP requirements include FAQs,
+      interagency guidance on prepaid cards, and guidance on non-documentary verification
+      methods for disaster-affected customers. These resources can be found on the
+      websites of the U.S. Department of the Treasury, FinCEN, and the federal banking
+      agencies.
+    question: What types of additional resources are available for understanding CIP
+      requirements, and where can they be found?
+  - answer: The guidance provided by FinCEN and the federal banking agencies assists
+      banks in applying CIP requirements to holders of prepaid cards by offering specific
+      interagency guidance tailored to this context. This guidance helps banks understand
+      how to implement the Customer Identification Program (CIP) rules for prepaid
+      card holders effectively.
+    question: How does the guidance provided assist banks in applying CIP requirements
+      to holders of prepaid cards?
+  - answer: Banks are encouraged by FinCEN and federal banking agencies to use non-documentary
+      verification methods for customers who cannot provide standard identification
+      documents due to natural disasters.
+    question: What options are available for banks to verify customers who cannot
+      provide standard identification documents due to natural disasters?
+- context: "The CIP must contain risk-based19 procedures for verifying the identity\
+    \ of the customer within a reasonable period of time after the account is opened.20\
+    \ The verification procedures must use the \u201Cinformation obtained in accordance\
+    \ with [31 CFR 1020.220(a)(2)(i)],\u201D namely the identifying information obtained\
+    \ by the bank.21 A bank need not establish the accuracy of every element of identifying\
+    \ information obtained, but it must verify enough information to form a reasonable\
+    \ belief that it knows the true identity of the customer.22 The bank\u2019s procedures\
+    \ must describe when it uses documents, non-documentary methods, or a combination\
+    \ of both methods to verify the identity of its customers.23"
+  questions_and_answers:
+  - answer: The primary methods banks use to verify customer identities as part of
+      the Customer Identification Program (CIP) are documents, non-documentary methods,
+      or a combination of both. These procedures are outlined in accordance with 31
+      CFR 1020.220(a)(2)(i) and must be sufficient to form a reasonable belief in
+      the true identity of the customer.
+    question: What are the primary methods banks use to verify customer identities
+      as part of the Customer Identification Program (CIP)?
+  - answer: The CIP ensures that banks form a 'reasonable belief' about the true identity
+      of their customers by requiring them to verify enough identifying information
+      obtained from the customer, as outlined in 31 CFR 1020.220(a)(2)(i). This verification
+      process involves using documents, non-documentary methods, or a combination
+      of both, as described in the bank's procedures.
+    question: How does the CIP ensure that banks form a 'reasonable belief' about
+      the true identity of their customers?
+  - answer: According to the Customer Identification Program (CIP) outlined in 31
+      CFR 1020.220, a bank may use non-documentary methods to verify a customer's
+      identity under certain circumstances. These methods are employed when the bank
+      deems it necessary based on its risk assessment, or when documents are not available
+      or insufficient to form a reasonable belief about the true identity of the customer.
+    question: Under what circumstances might a bank use non-documentary methods to
+      verify a customer's identity according to the CIP?
+version: 3

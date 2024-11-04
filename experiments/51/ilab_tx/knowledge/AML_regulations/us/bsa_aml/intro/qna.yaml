@@ -1,0 +1,176 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/us/bsa_aml/intro/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document provides an examination manual for the Bank Secrecy
+  Act/Anti-Money Laundering regulations, outlining the history, requirements, and
+  compliance procedures for financial institutions to prevent and detect money laundering.
+domain: USA Regulations
+seed_examples:
+- context: "\u201CHawala\u201D refers to one specific type of informal value transfer\
+    \ system. FinCEN describes hawala as \u201Ca method of monetary value transmission\
+    \ that is used in some parts of the world to conduct remittances, most often by\
+    \ persons who seek to legitimately send money to family members in their home\
+    \ country. It has also role in moving terrorist funds. Transactions through hawalas\
+    \ are difficult to detect given the lack of documentation, their size, and the\
+    \ nature of the transactions involved. Funding for terrorist attacks does not\
+    \ always require large sums of money, and the associated transactions may not\
+    \ be complex."
+  questions_and_answers:
+  - answer: Hawala is an informal value transfer system used for remittances, often
+      by individuals sending money to family members abroad. According to FinCEN,
+      Hawala transactions are challenging to detect due to the lack of documentation
+      and the often simple and small nature of the transfers. Additionally, Hawala
+      has been known to play a role in moving terrorist funds.
+    question: What is 'Hawala' and how does it function as an informal value transfer
+      system?
+  - answer: The lack of documentation in Hawala transactions contributes to the challenges
+      in detecting terrorist financing, as highlighted by FinCEN. This absence of
+      paper trails makes it difficult to track the movement of funds, which can often
+      be used to facilitate terrorist activities. Additionally, the transactions are
+      often small and simple, further complicating detection efforts.
+    question: How does the lack of documentation in Hawala transactions contribute
+      to the challenges in detecting terrorist financing?
+  - answer: Terrorist organizations might use Hawala for funding their activities
+      because it is an informal value transfer system that can be used to move funds
+      discreetly. According to FinCEN, Hawala transactions are particularly difficult
+      to trace due to the lack of documentation, their often small size, and the nature
+      of the transactions involved. Additionally, funding for terrorist attacks does
+      not always require large sums of money, making these transactions less complex
+      and easier to conceal.
+    question: Why might terrorist organizations use Hawala for funding their activities,
+      and what makes these transactions particularly difficult to trace?
+- context: "Terrorists generally finance their activities through both unlawful and\
+    \ legitimate sources. Unlawful activities, such as extortion, kidnapping, and\
+    \ narcotics trafficking, have been found to be a major source of funding. Other\
+    \ observed activities include smuggling, fraud, theft, robbery, identity theft,\
+    \ use of conflict diamonds, and improper use of charitable or relief funds. In\
+    \ the last case, donors may have no knowledge that their donations have been diverted\
+    \ to support terrorist causes.  \nOther legitimate sources have also been found\
+    \ to provide terrorist organizations with funding; these legitimate funding sources\
+    \ are a key difference between terrorist financiers and traditional criminal organizations.\
+    \ In addition to charitable donations, legitimate sources include foreign government\
+    \ sponsors, business ownership, and personal employment."
+  questions_and_answers:
+  - answer: Some of the unlawful activities commonly used by terrorists to finance
+      their operations, as outlined under the Bank Secrecy Act/Anti-Money Laundering
+      Examination Manual, include extortion, kidnapping, narcotics trafficking, smuggling,
+      fraud, theft, robbery, identity theft, use of conflict diamonds, and the improper
+      use of charitable or relief funds.
+    question: What are some of the unlawful activities commonly used by terrorists
+      to finance their operations?
+  - answer: Charitable donations may be misused to support terrorist activities through
+      their improper diversion. Donors might be unaware that their contributions,
+      intended for charitable or relief funds, are being redirected to fund terrorist
+      causes. This is highlighted under the Bank Secrecy Act/Anti-Money Laundering
+      Examination Manual, which discusses various sources of terrorist financing.
+    question: How might charitable donations be misused to support terrorist activities?
+  - answer: The key difference between terrorist financiers and traditional criminal
+      organizations lies in the use of legitimate funding sources. According to the
+      Bank Secrecy Act/Anti-Money Laundering Examination Manual, while both may engage
+      in unlawful activities like extortion and trafficking, terrorist organizations
+      also exploit legitimate sources such as charitable donations, foreign government
+      sponsors, business ownership, and personal employment to finance their activities.
+    question: What distinguishes terrorist financiers from traditional criminal organizations
+      in terms of their funding sources?
+- context: "Although the motivation differs between traditional money launderers and\
+    \ terrorist financiers, the actual methods used to fund terrorist operations can\
+    \ be the same as or similar to those methods used by other criminals that launder\
+    \ funds. For example, terrorist financiers use currency smuggling, structured\
+    \ deposits or withdrawals from bank accounts; purchases of various types of monetary\
+    \ instruments; credit, debit, or prepaid cards; and funds transfers.  \nThere\
+    \ is also evidence that some forms of informal banking (e.g., \u201Chawala\u201D\
+    ) have played a significant role in terrorist financing.  \nConflict diamonds\
+    \ originate from areas controlled by forces or factions opposed to legitimate\
+    \ and internationally recognized governments and are used to fund military action\
+    \ in opposition to those governments, or in contravention of the decisions of\
+    \ the United Nations Security Council."
+  questions_and_answers:
+  - answer: According to the Bank Secrecy Act/Anti-Money Laundering Examination Manual,
+      some methods used by terrorist financiers that are similar to those used by
+      traditional money launderers include currency smuggling, structured deposits
+      or withdrawals from bank accounts, purchases of various types of monetary instruments,
+      use of credit, debit, or prepaid cards, and funds transfers. Additionally, some
+      forms of informal banking, such as "hawala," have played a significant role
+      in terrorist financing.
+    question: What are some of the methods used by terrorist financiers that are similar
+      to those used by traditional money launderers?
+  - answer: Informal banking systems like 'hawala' contribute to terrorist financing
+      by providing a means for terrorist financiers to transfer funds, often evading
+      traditional banking regulations. As noted in the Bank Secrecy Act/Anti-Money
+      Laundering Examination Manual, these systems have played a significant role
+      in funding terrorist activities, allowing for the movement of money in ways
+      that can be difficult to trace and monitor.
+    question: How do informal banking systems like 'hawala' contribute to terrorist
+      financing?
+  - answer: Conflict diamonds are those sourced from areas controlled by forces opposing
+      legitimate governments, used to fund military action against them or in defiance
+      of United Nations Security Council decisions. They are involved in funding terrorist
+      activities through methods similar to money laundering, such as currency smuggling,
+      structured deposits, and informal banking systems like "hawala," as outlined
+      in the Bank Secrecy Act/Anti-Money Laundering Examination Manual.
+    question: What are conflict diamonds and how are they involved in funding terrorist
+      activities?
+- context: "### Civil Penalties for Violations of the BSA  \nPursuant to 12 USC 1818(i)\
+    \ and 1786(k), and 31 USC 5321, the federal banking agencies and FinCEN, respectively,\
+    \ can bring civil money penalty actions for violations of the BSA. Moreover, in\
+    \ addition to criminal and civil money penalty actions taken against them, individuals\
+    \ may be removed from banking pursuant to 12 USC 1818(e)(2) for a violation of\
+    \ the BSA.  \nIt has been noted that hawala, and other such systems, are possibly\
+    \ being used as conduits for terrorist financing or other illegal activity. For\
+    \ additional information and guidance on hawalas and FinCEN\u2019s report to Congress\
+    \ in accordance with section 359 of the USA PATRIOT Act, refer to www.fincen.gov."
+  questions_and_answers:
+  - answer: The potential civil penalties for violations of the Bank Secrecy Act (BSA)
+      include civil money penalties brought by the federal banking agencies and FinCEN,
+      pursuant to 12 USC 1818(i) and 1786(k), and 31 USC 5321. Additionally, individuals
+      may be removed from banking pursuant to 12 USC 1818(e)(2) for a violation of
+      the BSA.
+    question: What are the potential civil penalties for violations of the Bank Secrecy
+      Act (BSA)?
+  - answer: The federal banking agencies and FinCEN can bring civil money penalty
+      actions for violations of the BSA, pursuant to 12 USC 1818(i) and 1786(k), and
+      31 USC 5321.
+    question: Which federal agencies can bring civil money penalty actions for BSA
+      violations?
+  - answer: Hawala systems may be involved in illegal activities, such as terrorist
+      financing, as noted in the document under the 'Civil Penalties for Violations
+      of the BSA' within the 'Money Laundering and Terrorist Financing' section of
+      the 'Bank Secrecy Act/Anti-Money Laundering Examination Manual.'
+    question: How might hawala systems be involved in illegal activities, according
+      to the document?
+- context: "Banks should take reasonable and prudent steps to combat money laundering\
+    \ and terrorist financing and to minimize their vulnerability to the risk associated\
+    \ with such activities. Some banking organizations have damaged their reputations\
+    \ and have been required to pay civil money penalties for failing to implement\
+    \ adequate controls within their organization resulting in noncompliance with\
+    \ the BSA. In addition, due to the AML assessment required as part of the application\
+    \ process, BSA/AML concerns can have an impact on the bank\u2019s strategic plan.\
+    \ For this reason, the federal banking agencies\u2019 and FinCEN\u2019s commitment\
+    \ to provide guidance that assists banks in complying with the BSA remains a high\
+    \ supervisory priority."
+  questions_and_answers:
+  - answer: It's important for banks to take steps to combat money laundering and
+      terrorist financing to avoid reputational damage and potential civil money penalties
+      for noncompliance with the Bank Secrecy Act (BSA). The Federal Financial Institutions
+      Examination Council (FFIEC) and the Financial Crimes Enforcement Network (FinCEN)
+      emphasize this by prioritizing guidance to help banks comply with these regulations.
+    question: Why is it important for banks to take steps to combat money laundering
+      and terrorist financing?
+  - answer: Banks that fail to implement adequate controls against money laundering
+      and terrorist financing may face reputational damage and civil money penalties
+      for noncompliance with the Bank Secrecy Act (BSA). Additionally, these concerns
+      can impact the bank's strategic plan due to the Anti-Money Laundering (AML)
+      assessment required during the application process.
+    question: What potential consequences can banks face for failing to implement
+      adequate controls against money laundering and terrorist financing?
+  - answer: Federal banking agencies and FinCEN support banks in complying with the
+      Bank Secrecy Act (BSA) by providing guidance that helps banks implement adequate
+      controls to combat money laundering and terrorist financing. This commitment
+      is a high supervisory priority, aimed at assisting banks in minimizing reputational
+      damage and potential penalties.
+    question: How do federal banking agencies and FinCEN support banks in complying
+      with the Bank Secrecy Act (BSA)?
+version: 3

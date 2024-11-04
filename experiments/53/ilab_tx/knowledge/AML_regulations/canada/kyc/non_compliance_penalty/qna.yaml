@@ -1,0 +1,197 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/kyc/non_compliance_penalty/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines FINTRAC's methodology for assessing the harm
+  caused by "Know your client" violations and calculating the corresponding base penalty
+  amount.
+domain: Canadian Regulations
+seed_examples:
+- context: Criminals who would launder the proceeds of crime or finance terrorist
+    activities often resort to third parties to hide their identity. By doing so,
+    they mask their involvement in the financial transactions and activities, maintain
+    their anonymity while giving instructions for the funds and while retaining the
+    benefits of the funds. The PCMLTFR require RE to take reasonable measures to determine
+    whether a transaction is being conducted on behalf of a third party, whether a
+    client is acting on behalf of a third party or whether an account will be used
+    for the benefit of a third party. Failing to make a third party determination
+    may result in financial transactions and activities being directed by unknown
+    individuals and entities. When this occurs, REs cannot properly assess the risks
+    posed by the transactions/activities, or report on all the parties involved in
+    the transactions conducted. The information on third parties involved in transactions
+    is required to be reported so that
+  questions_and_answers:
+  - answer: Failing to determine third-party involvement in transactions impedes a
+      bank's ability to accurately assess risks, as it may allow unknown individuals
+      or entities to direct financial activities. This oversight could facilitate
+      money laundering or terrorist financing, contravening the requirements set by
+      the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations
+      (PCMLTFR). Without this information, banks cannot properly evaluate transaction
+      risks or report all involved parties, compromising their risk management and
+      regulatory compliance efforts.
+    question: According to Fintrac, What implications does failing to determine third-party
+      involvement in transactions have on a bank's ability to assess risks?
+  - answer: It is important for banks to identify whether a transaction is being conducted
+      on behalf of a third party to prevent money laundering and terrorist financing,
+      as required by the Proceeds of Crime (Money Laundering) and Terrorist Financing
+      Regulations (PCMLTFR). Failing to do so may allow criminals to hide their identity,
+      making it impossible for banks to properly assess risks and report all parties
+      involved in transactions.
+    question: According to Fintrac, Why is it important for banks to identify whether
+      a transaction is being conducted on behalf of a third party?
+  - answer: Criminals use third parties to launder money or finance terrorist activities
+      by masking their identity and involvement in financial transactions. This allows
+      them to maintain anonymity while controlling funds and reaping their benefits.
+      To prevent this, banks must adhere to the Proceeds of Crime (Money Laundering)
+      and Terrorist Financing Regulations (PCMLTFR), which require them to take reasonable
+      measures to determine if a transaction involves a third party. Failure to do
+      so could result in transactions being directed by unknown entities, hindering
+      proper risk assessment and reporting. Banks should ensure they identify and
+      report all parties involved in transactions to mitigate these risks.
+    question: According to Fintrac, How do criminals use third parties to launder
+      money or finance terrorist activities and what measures should banks take to
+      prevent this?
+- context: Ongoing monitoring must be conducted for the purposes of 1) detecting suspicious
+    transactions that are required to be reported, 2) keeping client information up
+    to date, 3) reassessing the level of risk, and 4) determining whether the transactions
+    and activities are consistent with the information and risk level associated to
+    a given client. Enhanced ongoing monitoring means that the above listed measures
+    are conducted more frequently. When only some of the prescribed enhanced ongoing
+    monitoring measures are conducted, or when all measures are conducted but not
+    more frequently than for a lower risk situation, the ML/TF risks are only partially
+    mitigated. Therefore, the penalty amount may be reduced based on the circumstances.
+    When not performing enhanced ongoing monitoring results in the failure to report
+    an STR, a separate violation and penalty can be imposed.
+  questions_and_answers:
+  - answer: 'The primary objectives of ongoing monitoring in a financial institution
+      are to:
+
+
+      1. Detect and report suspicious transactions.
+
+      2. Keep client information up to date.
+
+      3. Reassess the level of risk associated with clients.
+
+      4. Ensure that transactions and activities align with the known information
+      and risk level of each client.
+
+
+      These objectives are crucial for effectively managing Money Laundering and Terrorist
+      Financing (ML/TF) risks, as outlined by regulatory bodies.'
+    question: According to Fintrac, What are the primary objectives of ongoing monitoring
+      in a financial institution?
+  - answer: High-risk clients, such as Politically Exposed Persons (PEPs) and Heads
+      of International Organizations (HIOs), require enhanced ongoing monitoring.
+      This means that the monitoring measures—detecting suspicious transactions, updating
+      client information, reassessing risk levels, and ensuring transaction consistency—are
+      conducted more frequently for these clients compared to lower-risk clients.
+    question: According to Fintrac, How does the frequency of ongoing monitoring differ
+      for high-risk clients compared to lower-risk clients?
+  - answer: If enhanced ongoing monitoring is not properly conducted for PEPs and
+      HIOs, a financial institution may face potential reductions in penalty amounts
+      for only partially mitigating ML/TF risks. Additionally, if the failure to conduct
+      proper monitoring results in not reporting suspicious transactions, separate
+      violations and penalties can be imposed.
+    question: According to Fintrac, What potential penalties might a financial institution
+      face if enhanced ongoing monitoring is not properly conducted for PEPs and HIOs?
+- context: "### 12.2 Penalty determination for violations related to source of funds\
+    \ determination  \nOnce it has been determined that a client is a PEP, HIO, family\
+    \ member or close associate, a higher risk situation has been identified. Not\
+    \ taking reasonable measures to determine the source of funds for these higher-risk\
+    \ clients will result in the prescribed maximum penalty of $1,000 per instance.\
+    \ This amount may be reduced in consideration of the relevant mitigating factors\
+    \ of each situation. For example, should FINTRAC become aware of the violation\
+    \ prior to any transaction being conducted, the penalty may be reduced to the\
+    \ lower end of the penalty range to an amount that is sufficient to encourage\
+    \ compliance with the requirement, while recognizing that the potential harm is\
+    \ reduced considering no transactions have been conducted."
+  questions_and_answers:
+  - answer: The maximum penalty for not determining the source of funds for clients
+      identified as PEPs or HIOs is $1,000 per instance, as prescribed by FINTRAC.
+    question: According to Fintrac, What is the maximum penalty for not determining
+      the source of funds for clients identified as PEPs or HIOs?
+  - answer: The penalty for not determining the source of funds for high-risk clients,
+      such as Politically Exposed Persons (PEPs) and Heads of International Organizations
+      (HIOs), may be reduced if FINTRAC becomes aware of the violation before any
+      transaction is conducted. In such cases, the penalty might be lowered to encourage
+      compliance while acknowledging that the potential harm is reduced since no transactions
+      have occurred.
+    question: According to Fintrac, Under what circumstances might the penalty for
+      not determining the source of funds for high-risk clients be reduced?
+  - answer: Recognizing the potential harm affects the penalty amount for violating
+      'Know your client' requirements related to source of funds determination by
+      potentially reducing the penalty. According to FINTRAC guidelines, if the violation
+      is identified before any transaction occurs, the penalty may be lowered to encourage
+      compliance, acknowledging that the potential harm is mitigated since no transactions
+      have taken place.
+    question: According to Fintrac, How does recognizing the potential harm affect
+      the penalty amount for violating 'Know your client' requirements related to
+      source of funds determination?
+- context: "### 14.3 Penalty determination for a violation related to enhanced ongoing\
+    \ monitoring of activities in respect of a PEP or HIO's account  \nThe penalty\
+    \ is set at the prescribed maximum amount of $1,000 for each account where enhanced\
+    \ ongoing monitoring is not conducted. This violation poses a high level of harm\
+    \ to the achievement of the objectives of the PCMLTFA and of FINTRAC's mandate,\
+    \ since the activity on an account held by an individual identified as being vulnerable\
+    \ to ML/TF offences could remain overlooked; in some cases, this may also result\
+    \ in the failure to report suspicious transactions. This amount may be reduced\
+    \ in consideration of mitigating factors for each situation. For example, if no\
+    \ activity was conducted within the PEP or HIO's accounts prior to FINTRAC identifying\
+    \ the violation."
+  questions_and_answers:
+  - answer: The maximum penalty for failing to conduct enhanced ongoing monitoring
+      of an account belonging to a Politically Exposed Person (PEP) or Head of International
+      Organization (HIO) is $1,000 for each account, as set by the prescribed amount
+      under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA)
+      and FINTRAC's mandate.
+    question: According to Fintrac, What is the maximum penalty for failing to conduct
+      enhanced ongoing monitoring of an account belonging to a Politically Exposed
+      Person (PEP) or Head of International Organization (HIO)?
+  - answer: The violation of not conducting enhanced ongoing monitoring for PEP or
+      HIO accounts is considered harmful because it jeopardizes the objectives of
+      the PCMLTFA and FINTRAC's mandate. Without proper monitoring, potential money
+      laundering or terrorist financing activities involving these high-risk individuals
+      might go undetected, leading to a failure in reporting suspicious transactions.
+    question: According to Fintrac, Why is the violation of not conducting enhanced
+      ongoing monitoring for PEP or HIO accounts considered harmful?
+  - answer: The penalty for failing to conduct enhanced ongoing monitoring of PEP
+      or HIO accounts might be reduced if no activity was conducted within these accounts
+      prior to FINTRAC identifying the violation.
+    question: According to Fintrac, Under what circumstances might the penalty for
+      failing to conduct enhanced ongoing monitoring be reduced?
+- context: "#### 16.2.2 Level2 harm—Policies and procedures for taking enhanced measures\
+    \ are developed but not applied  \nThe second highest level of harm relates to\
+    \ cases where policies and procedures related to taking enhanced measures for\
+    \ high-risk exist, but they are not being applied in practice. As mitigating measures\
+    \ are not taken, the prescribed activities are in fact not being treated as high-risk\
+    \ according to the requirements set out in the PCMLTFR. Therefore, the impact\
+    \ is nearly the same as in Level 1. However, an RE in this situation could more\
+    \ readily apply the procedures that it has developed in order to mitigate high-risk\
+    \ activities; therefore the harm done is potentially reduced. The penalty is $75,000\
+    \ which remains at the higher end of the prescribed range but is less than that\
+    \ of Level1 harm."
+  questions_and_answers:
+  - answer: The penalty prescribed for Level 2 harm, where policies for high-risk
+      activities exist but are not applied, is $75,000, as outlined in the guidelines
+      for assessing violations related to treating activities as high-risk under the
+      "Know your client" requirements of the PCMLTFR.
+    question: According to Fintrac, What is the penalty prescribed for Level 2 harm
+      where policies for high-risk activities exist but are not applied?
+  - answer: A regulatory entity (RE) is considered to be committing Level 2 harm when
+      it has developed policies and procedures for treating high-risk activities as
+      such but fails to apply them in practice, as outlined in the guidelines for
+      assessing violations related to "Know your client" requirements under the PCMLTFR.
+    question: According to Fintrac, Under what circumstances is a regulatory entity
+      (RE) considered to be committing Level 2 harm according to the guidelines for
+      assessing violations related to treating activities as high-risk?
+  - answer: The penalty for Level 2 harm, where high-risk policies and procedures
+      are not applied, is $75,000. This is less than the penalty for Level 1 harm
+      but still at the higher end of the prescribed range, as outlined by the Proceeds
+      of Crime (Money Laundering) and Terrorist Financing Regulations (PCMLTFR).
+    question: According to Fintrac, How does the penalty for Level 2 harm compare
+      to that of Level 1 harm in the context of not applying high-risk policies and
+      procedures?
+version: 3

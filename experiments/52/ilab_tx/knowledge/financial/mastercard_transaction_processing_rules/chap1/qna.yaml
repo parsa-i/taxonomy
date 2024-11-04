@@ -1,0 +1,152 @@
+created_by: CE
+version: 3
+document:
+  commit: 06419f3bf49a0c6a2b7f92a2d99323fd1b84d616
+  patterns:
+  - ilab_tx/knowledge/financial/financial/mastercard_transaction_processing_rules/chap1/*.md
+  repo: https://github.com/parsa-i/taxonomy
+domain: Mastercard Transaction Processing Rules
+seed_examples:
+- context: "# 1.4 ATM Terminal Connection to the Interchange System  \nExcept as otherwise\
+    \ provided in the Standards, each Customer that acquires any ATM transactions\
+    \ must at all times make available for connection to the Interchange System, and\
+    \ in particular, the Mastercard\xAE ATM Network, all of the eligible ATM Terminals\
+    \ established by that Customer (including its parents, subsidiaries, affiliates,\
+    \ and Sponsored entities) in the country in which the Customer is located and\
+    \ in every other country in which it has been Licensed to conduct ATM Transaction\
+    \ acquiring Activity.  \nA Customer Licensed only to conduct ATM Transaction acquiring\
+    \ Activity must make at least 75 percent of the ATM Terminals it establishes available\
+    \ for connection to the Interchange System.  \nNOTE: Modifications to this Rule\
+    \ appear in the \u201CAsia/Pacific Region,\u201D \u201CCanada Region,\u201D \u201C\
+    Europe Region,\u201D \u201CLatin America and the Caribbean Region,\u201D and \u201C\
+    United States Region\u201D sections at the end of this chapter."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what is the minimum
+      percentage of ATM terminals that a customer licensed only to conduct ATM transaction
+      acquiring activity must make available for connection to the Interchange System?
+    answer: According to Mastercard Transaction Processing Rules, a customer licensed
+      only to conduct ATM transaction acquiring activity must make at least 75 percent
+      of its ATM terminals available for connection to the Interchange System.
+  - question: According to Mastercard Transaction Processing Rules, which regions
+      have modifications to the rule regarding the connection of ATM terminals to
+      the Interchange System?
+    answer: According to the Mastercard Transaction Processing Rules, the regions
+      with modifications to the rule regarding the connection of ATM terminals to
+      the Interchange System are the Asia/Pacific Region, Canada Region, Europe Region,
+      Latin America and the Caribbean Region, and the United States Region.
+  - question: "According to Mastercard Transaction Processing Rules, who is responsible\
+      \ for ensuring that all eligible ATM terminals are made available for connection\
+      \ to the Mastercard\xAE ATM Network?"
+    answer: "According to Mastercard Transaction Processing Rules, each Customer that\
+      \ acquires any ATM transactions is responsible for ensuring that all eligible\
+      \ ATM terminals are made available for connection to the Mastercard\xAE ATM\
+      \ Network."
+- context: "# 1.4 ATM Terminal Connection to the Interchange System  \nIn the Asia/Pacific\
+    \ Region, the Rule on this subject is modified as follows. A Customer that acquires\
+    \ ATM Transactions must make available for connection to the Interchange System\
+    \ at least 75 percent of its eligible ATM Terminals in the Region within one year\
+    \ of the approval of its application for a License."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what percentage
+      of eligible ATM Terminals in the Asia/Pacific Region must be connected to the
+      Interchange System within one year of the approval of a License application?
+    answer: According to the Mastercard Transaction Processing Rules, a Customer that
+      acquires ATM Transactions must connect at least 75 percent of its eligible ATM
+      Terminals in the Asia/Pacific Region to the Interchange System within one year
+      of the approval of its License application.
+  - question: According to Mastercard Transaction Processing Rules, what is the specific
+      time frame given for connecting a significant portion of eligible ATM Terminals
+      to the Interchange System in the Asia/Pacific Region?
+    answer: According to Mastercard Transaction Processing Rules, a significant portion
+      (at least 75 percent) of eligible ATM Terminals in the Asia/Pacific Region must
+      be connected to the Interchange System within one year of the approval of the
+      application for a License.
+  - question: According to Mastercard Transaction Processing Rules, which entities
+      are required to ensure the connection of their ATM Terminals to the Interchange
+      System in the Asia/Pacific Region, and what is the minimum connection requirement?
+    answer: According to Mastercard Transaction Processing Rules, Customers that acquire
+      ATM Transactions in the Asia/Pacific Region are required to connect at least
+      75 percent of their eligible ATM Terminals to the Interchange System within
+      one year of the approval of their License application.
+- context: "- Each of the Acquirer\u2019s Merchants and entities that handle Account\
+    \ range files on behalf of the Acquirer or the Acquirer\u2019s Merchant have updated\
+    \ their systems accordingly as well.  \nAlternatively, the Acquirer must submit\
+    \ all authorization requests containing an Account number with a BIN in either\
+    \ the 222100 to 272099 BIN range or 510000 to 559999 BIN range to the Interchange\
+    \ System for routing to the Issuer.  \nNOTE: A modification to this Rule appears\
+    \ in the \u201CEurope Region\u201D section at the end of this chapter."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what are the BIN
+      ranges that require Acquirers to update their systems for routing authorization
+      requests for Mastercard POS transactions?
+    answer: According to the Mastercard Transaction Processing Rules, Acquirers must
+      update their systems to route authorization requests for Mastercard POS transactions
+      for BIN ranges 222100 to 272099 and 510000 to 559999.
+  - question: According to Mastercard Transaction Processing Rules, what is the alternative
+      requirement for Acquirers if they do not update their systems for handling specific
+      BIN ranges?
+    answer: According to Mastercard Transaction Processing Rules, if Acquirers do
+      not update their systems for handling specific BIN ranges, they must submit
+      all authorization requests containing an Account number with a BIN in either
+      the 222100 to 272099 BIN range or 510000 to 559999 BIN range to the Interchange
+      System for routing to the Issuer.
+  - question: According to Mastercard Transaction Processing Rules, is there a regional
+      modification to the rule regarding the handling of specific BIN ranges, and
+      if so, for which region?
+    answer: Yes, there is a regional modification to the rule regarding the handling
+      of specific BIN ranges for the Europe Region, as noted in the Mastercard Transaction
+      Processing Rules.
+- context: "# 1.4 ATM Terminal Connection to the Interchange System\u2014SEPA Only\
+    \  \nWithin SEPA, the Rule on this subject is modified as follows. A Customer\
+    \ must at all times accept all Mastercard, Maestro, and Cirrus Cards at all ATM\
+    \ Terminals owned or established by that Customer (including its parents, subsidiaries,\
+    \ affiliates, and Sponsored entities) within SEPA if it accepts cards issued under\
+    \ other acceptance brands at those ATM Terminals."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, which card brands
+      must be accepted at all ATM Terminals within SEPA if other card brands are accepted?
+    answer: According to Mastercard Transaction Processing Rules, all Mastercard,
+      Maestro, and Cirrus Cards must be accepted at all ATM Terminals within SEPA
+      if other card brands are accepted.
+  - question: According to Mastercard Transaction Processing Rules, under what conditions
+      must a Customer accept Mastercard, Maestro, and Cirrus Cards at their ATM Terminals
+      within SEPA?
+    answer: According to Mastercard Transaction Processing Rules, a Customer must
+      accept all Mastercard, Maestro, and Cirrus Cards at their ATM terminals within
+      SEPA if those terminals accept cards issued under other brands.
+  - question: According to Mastercard Transaction Processing Rules, what is the scope
+      of the requirement for accepting Mastercard, Maestro, and Cirrus Cards at ATM
+      Terminals within SEPA, considering the Customer's affiliations?
+    answer: According to Mastercard Transaction Processing Rules, the scope of the
+      requirement is that within SEPA, a Customer must always accept all Mastercard,
+      Maestro, and Cirrus Cards at all their ATM terminals, including those owned
+      by their parents, subsidiaries, affiliates, and Sponsored entities, if they
+      accept cards from other brands at these terminals.
+- context: "# 1.4 ATM Terminal Connection to the Interchange System  \nIn the Latin\
+    \ America and the Caribbean Region, the Rule on this subject is modified as follows.\
+    \ A Customer that acquires ATM Transactions must make available for connection\
+    \ to the Interchange System at least 75 percent of its eligible ATM Terminals\
+    \ in the Region within one year of the approval of its application for a License."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what percentage
+      of eligible ATM terminals in the Latin America and the Caribbean Region must
+      be connected to the Interchange System within one year of license approval?
+    answer: According to Mastercard Transaction Processing Rules, at least 75% of
+      eligible ATM terminals in the Latin America and the Caribbean Region must be
+      connected to the Interchange System within one year of license approval.
+  - question: According to Mastercard Transaction Processing Rules, what is the timeframe
+      for connecting at least 75% of eligible ATM terminals to the Interchange System
+      in the Latin America and the Caribbean Region?
+    answer: According to Mastercard Transaction Processing Rules, at least 75% of
+      eligible ATM terminals in the Latin America and the Caribbean Region must be
+      connected to the Interchange System within one year of license approval.
+  - question: According to Mastercard Transaction Processing Rules, which entity is
+      responsible for ensuring that at least 75% of eligible ATM terminals in the
+      Latin America and the Caribbean Region are connected to the Interchange System
+      within one year of license approval?
+    answer: According to Mastercard Transaction Processing Rules, the Customer that
+      acquires ATM Transactions is responsible for ensuring that at least 75% of eligible
+      ATM terminals in the Latin America and the Caribbean Region are connected to
+      the Interchange System within one year of license approval.
+document_outline: This document outlines the requirements for connecting to Mastercard's
+  Interchange System and routing authorizations for Mastercard POS transactions.

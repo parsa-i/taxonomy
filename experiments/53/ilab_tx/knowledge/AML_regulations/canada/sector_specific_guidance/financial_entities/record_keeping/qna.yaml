@@ -1,0 +1,264 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/sector_specific_guidance/financial_entities/record_keeping/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines the specific record-keeping requirements
+  that financial entities must follow under the Proceeds of Crime (Money Laundering)
+  and Terrorist Financing Act (PCMLTFA) and associated Regulations, as mandated by
+  FINTRAC.
+domain: Canadian Regulations
+seed_examples:
+- context: "#### Receipt of VC in an amount equivalent to $1,000 or more for remittance\
+    \ to a beneficiary  \nWhen you receive VC in an amount equivalent to $1,000 or\
+    \ more for remittance to a beneficiary, you must record: Footnote 29  \n- the\
+    \ date of the receipt;\n- the type and amount of each VC that is received;\n-\
+    \ if the beneficiary is a person, the name, address, date of birth and occupation,\
+    \ or in the case of a sole proprietor, the nature of their principal business\
+    \ of each beneficiary;\n- if the beneficiary is an entity, the name, address and\
+    \ the nature of principal business of each beneficiary;\n- the date of the remittance;\n\
+    - the exchange rates used for the remittance and their source;\n- if the remittance\
+    \ is in VC, the type and amount of each VC involved in the remittance;\n- if the\
+    \ remittance is not in VC, the type and value of the remittance, if different\
+    \ from the value of the received VC;\n- for every account affected by the transaction:\n\
+    - the account number and account type; and"
+  questions_and_answers:
+  - answer: 'Under the PCMLTFA, when a financial entity receives virtual currency
+      worth $1,000 or more for remittance to a beneficiary, the following information
+      must be recorded:
+
+
+      - The date of receipt
+
+      - The type and amount of each virtual currency received
+
+      - Beneficiary information (name, address, date of birth, and occupation for
+      individuals; name, address, and nature of principal business for entities)
+
+      - The date of remittance
+
+      - The exchange rates used and their source
+
+      - The type and amount of each virtual currency involved in the remittance, if
+      applicable
+
+      - The type and value of the remittance if not in virtual currency
+
+      - For every account affected by the transaction: the account number and account
+      type'
+    question: According to Fintrac, What specific information must be recorded when
+      a financial entity receives virtual currency worth $1,000 or more for remittance
+      to a beneficiary under the PCMLTFA?
+  - answer: When documenting a virtual currency transaction for remittance under the
+      PCMLTFA, if the beneficiary is a person, you must include their name, address,
+      date of birth, and occupation. If the beneficiary is a sole proprietor, you
+      should record the nature of their principal business instead of their occupation.
+    question: According to Fintrac, When documenting a virtual currency transaction
+      for remittance under the PCMLTFA, what details about the beneficiary must be
+      included if the beneficiary is a person?
+  - answer: 'Under the PCMLTFA, for every account affected by a virtual currency transaction
+      for remittance, the key pieces of information that need to be recorded are:
+
+      - the account number; and
+
+      - the account type.'
+    question: According to Fintrac, What are the key pieces of information that need
+      to be recorded for every account affected by a virtual currency transaction
+      for remittance under the PCMLTFA?
+- context: "### h. VC exchange transaction tickets  \nYou must keep a VC exchange\
+    \ transaction ticket, which may take the form of an entry in a transaction register,\
+    \ for every VC exchange transaction you conduct, regardless of the amount.Footnote\
+    \ 34 Each transaction ticket must include:Footnote 35  \n- the date of the transaction;\n\
+    - if the VC transaction was equivalent to $1,000 or more and requested by a person,\
+    \ their name, address, date of birth and occupation, or in the case of a sole\
+    \ proprietor, the nature of their principal business;\n- if the VC transaction\
+    \ was equivalent to $1,000 or more and requested by an entity, its name, address\
+    \ and the nature of its principal business;\n- the type and amount of each fund\
+    \ and each VC involved in the payment made and received by the client;\n- the\
+    \ method (VC currency exchange business) by which the payment was made and received;\n\
+    - the exchange rates used and their source;\n- for every account affected by the\
+    \ transaction:"
+  questions_and_answers:
+  - answer: 'According to FINTRAC''s record-keeping requirements, a virtual currency
+      (VC) exchange transaction ticket for transactions equivalent to $1,000 or more
+      must include the following information when requested by a person:
+
+
+      - The person''s name
+
+      - The person''s address
+
+      - The person''s date of birth
+
+      - The person''s occupation, or in the case of a sole proprietor, the nature
+      of their principal business'
+    question: According to Fintrac, What information must be included in a virtual
+      currency (VC) exchange transaction ticket for transactions equivalent to $1,000
+      or more when requested by a person?
+  - answer: 'According to FINTRAC''s record-keeping requirements for financial entities,
+      each account affected by a VC exchange transaction must record the following
+      details:
+
+
+      - The date of the transaction;
+
+      - If the transaction was equivalent to $1,000 or more and requested by a person,
+      their name, address, date of birth, and occupation, or in the case of a sole
+      proprietor, the nature of their principal business;
+
+      - If the transaction was equivalent to $1,000 or more and requested by an entity,
+      its name, address, and the nature of its principal business;
+
+      - The type and amount of each fund and each VC involved in the payment made
+      and received by the client;
+
+      - The method (VC currency exchange business) by which the payment was made and
+      received;
+
+      - The exchange rates used and their source.'
+    question: According to Fintrac, Which details are required to be recorded for
+      each account affected by a VC exchange transaction?
+  - answer: According to FINTRAC's record-keeping requirements, the method used for
+      the VC exchange transaction and the exchange rates used, along with their source,
+      must be documented in the VC exchange transaction ticket.
+    question: According to Fintrac, What specifics must be documented regarding the
+      method and exchange rates used in a VC exchange transaction?
+- context: "### g. Foreign currency exchange transaction tickets  \nYou must keep\
+    \ a transaction ticket, which may take the form of an entry in a transaction register,\
+    \ for every foreign currency exchange transaction you conduct, regardless of the\
+    \ amount.Footnote 31 Each transaction ticket must include:Footnote 32  \n- the\
+    \ date of the transaction;\n- if the transaction was of $3,000 or more and requested\
+    \ by a person, their name, address, date of birth and occupation, or in the case\
+    \ of a sole proprietor, the nature of their principal business;\n- if the transaction\
+    \ was of $3,000 or more and requested by an entity, its name, address and the\
+    \ nature of its principal business;\n- type and amount of each fiat currency received\
+    \ from the client and the type and amount of each fiat currency given to the client;\n\
+    - the method by which the payment was made and received;\n- the exchange rates\
+    \ used and their source;\n- for every account affected by the transaction:\n-\
+    \ the account number and account type; and"
+  questions_and_answers:
+  - answer: For transactions of $3,000 or more requested by an individual, the foreign
+      currency exchange transaction ticket must include the individual's name, address,
+      date of birth, and occupation. This is required under the Proceeds of Crime
+      (Money Laundering) and Terrorist Financing Act (PCMLTFA).
+    question: According to Fintrac, What specific details must be included in a foreign
+      currency exchange transaction ticket for transactions of $3,000 or more requested
+      by an individual?
+  - answer: It is important to record the exchange rates and their source in a foreign
+      currency exchange transaction ticket to comply with the Proceeds of Crime (Money
+      Laundering) and Terrorist Financing Act (PCMLTFA) record-keeping requirements.
+    question: According to Fintrac, Why is it important to record the exchange rates
+      and their source in a foreign currency exchange transaction ticket?
+  - answer: For every account affected by the transaction, the transaction ticket
+      must document the account number and account type, as per the record-keeping
+      requirements under the Proceeds of Crime (Money Laundering) and Terrorist Financing
+      Act (PCMLTFA).
+    question: According to Fintrac, What information about the accounts affected by
+      the transaction must be documented in the transaction ticket?
+- context: "- the name of each account holder;\n- every reference number connected\
+    \ to the transaction that is meant to be similar to an account number;\n- every\
+    \ transaction identifier, including transaction hashes or similar identifiers\
+    \ (if applicable), and every sending and receiving address; and\n- the name and\
+    \ address of the person or entity that requested the transfer, unless that information\
+    \ was not, despite the taking of reasonable measures, included with the transfer\
+    \ and is not otherwise known.  \n**\\*\\*Note:** When you transfer VC, you must\
+    \ include with the transfer the prescribed information in accordance with the\
+    \ travel rule. When you receive VC, you must take reasonable measures to ensure\
+    \ that the transfer includes the prescribed information. Please see FINTRAC's\
+    \ travel rule guidance for more information.  \n**Retention**: At least five years\
+    \ from the date the VC transfer or VC receipt record was created.Footnote 30"
+  questions_and_answers:
+  - answer: 'For virtual currency transfers and receipts of $1,000 or more, the following
+      specific information must be recorded and retained according to FINTRAC''s guidelines:
+
+
+      - The name of each account holder
+
+      - Every reference number connected to the transaction that is meant to be similar
+      to an account number
+
+      - Every transaction identifier, including transaction hashes or similar identifiers
+      (if applicable), and every sending and receiving address
+
+      - The name and address of the person or entity that requested the transfer,
+      unless that information is not included with the transfer and is not otherwise
+      known despite taking reasonable measures
+
+
+      This information must be retained for at least five years from the date the
+      record was created.'
+    question: According to Fintrac, What specific information must be recorded for
+      virtual currency transfers and receipts of $1,000 or more?
+  - answer: Records of virtual currency transfers and receipts should be retained
+      for at least five years, as per FINTRAC's guidelines.
+    question: According to Fintrac, How long should the records of virtual currency
+      transfers and receipts be retained?
+  - answer: To ensure compliance with the travel rule when receiving virtual currency,
+      you must take reasonable measures to ensure that the transfer includes the prescribed
+      information, such as the name of each account holder, reference numbers, transaction
+      identifiers, and sender information. This is in accordance with FINTRAC's travel
+      rule guidance. Additionally, records must be retained for at least five years
+      from the date the virtual currency receipt record was created.
+    question: According to Fintrac, What measures must be taken when receiving virtual
+      currency to ensure compliance with the travel rule?
+- context: "## 1\\. What records must I keep and what must they contain?  \nYou must\
+    \ keep the following records:  \n01. Reports – a copy of every report sent to\
+    \ FINTRAC\n- Suspicious Transaction Reports\n- Terrorist Property Reports\n- Large\
+    \ Cash Transaction Reports\n- Large Virtual Currency Transaction Reports\n- Electronic\
+    \ Funds Transfer Reports\n02. Large cash transaction records\n03. Large virtual\
+    \ currency transaction records\n04. Records of transactions of $3,000 or more\n\
+    05. Records of electronic funds transfers of $1,000 or more\n06. Records of virtual\
+    \ currency transfers in amounts equivalent to $1,000 or more\n07. Foreign currency\
+    \ exchange transaction tickets\n08. Virtual currency exchange transaction tickets\n\
+    09. Account records\n- Records for account holders and persons authorized to give\
+    \ instructions\n- Signature cards\n- Intended use of an account\n- Applications\n\
+    - Account operating agreements\n- Debit and credit memos\n- Deposit slips\n- Account\
+    \ statements\n- Cleared cheque records"
+  questions_and_answers:
+  - answer: 'According to FINTRAC''s record keeping requirements, a bank must maintain
+      and submit the following types of financial reports:
+
+
+      - Suspicious Transaction Reports
+
+      - Terrorist Property Reports
+
+      - Large Cash Transaction Reports
+
+      - Large Virtual Currency Transaction Reports
+
+      - Electronic Funds Transfer Reports'
+    question: What types of financial reports must a bank maintain and submit to FINTRAC
+      according to the record keeping requirements?
+  - answer: Detailed records must be kept for large cash transactions, large virtual
+      currency transactions, transactions of $3,000 or more, electronic funds transfers
+      of $1,000 or more, and virtual currency transfers equivalent to $1,000 or more,
+      as required by FINTRAC.
+    question: According to Fintrac, For what types of large transactions and transfers
+      must detailed records be kept, and what are the minimum thresholds for these
+      transactions?
+  - answer: 'As per FINTRAC''s record keeping requirements for financial entities,
+      the specific account-related records that must be kept include:
+
+
+      - Account records for account holders and persons authorized to give instructions
+
+      - Signature cards
+
+      - Intended use of an account
+
+      - Applications
+
+      - Account operating agreements
+
+      - Debit and credit memos
+
+      - Deposit slips
+
+      - Account statements
+
+      - Cleared cheque records'
+    question: According to Fintrac, What specific account-related records are required
+      to be kept as per the outlined record keeping requirements for financial entities?
+version: 3

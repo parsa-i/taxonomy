@@ -1,0 +1,226 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/sector_specific_guidance/pep_and_hio/account_based/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines FINTRAC's guidance for financial entities,
+  securities dealers, and casinos on identifying and managing risks associated with
+  politically exposed persons (PEPs) and heads of international organizations (HIOs)
+  to comply with the PCMLTFA and associated regulations.
+domain: Canadian Regulations
+seed_examples:
+- context: "##### Casinos  \nWhen you **initiate an international EFT** in the amount\
+    \ **of $100,000 or more**, **finally** **receive for a beneficiary an international\
+    \ EFT** in the amount **of $100,000 or more,** or **receive cash or an amount\
+    \ of VC** equivalent to **$100,000 or more,** and determine that a person is a\
+    \ domestic PEP, HIO, or family member or close associate of a domestic PEP or\
+    \ HIO, **and** based on your risk assessment, you consider there to be a **high\
+    \ risk** of an ML or TF offence being committed, you must:Footnote 28  \n- take\
+    \ reasonable measures to establish the source of the funds or source of the VC\
+    \ used for the transaction and to establish the source of the person's wealth;\
+    \ and\n- ensure that a member of senior management reviews the transaction."
+  questions_and_answers:
+  - answer: When an international EFT of $100,000 or more is initiated or received
+      for a beneficiary, and the transaction is deemed high risk for money laundering
+      or terrorist financing involving a domestic PEP, HIO, or their associates, the
+      casino must take reasonable measures to establish the source of the funds and
+      the source of the person's wealth. Additionally, a member of senior management
+      must review the transaction.
+    question: According to Fintrac, What actions must a casino take when an international
+      EFT of $100,000 or more is initiated or received for a beneficiary, and the
+      transaction is deemed high risk for money laundering or terrorist financing
+      involving a domestic PEP, HIO, or their associates?
+  - answer: 'When handling high-value transactions involving cash or virtual currency
+      equivalent to $100,000 or more, especially when a domestic Politically Exposed
+      Person (PEP), Head of International Organization (HIO), or their associates
+      are involved and the risk of money laundering (ML) or terrorist financing (TF)
+      is high, casinos must:
+
+
+      - Take reasonable measures to establish the source of the funds or virtual currency
+      used for the transaction and to determine the source of the person''s wealth.
+
+      - Ensure that a member of senior management reviews the transaction.
+
+
+      These requirements are in accordance with the regulations outlined for casinos
+      to mitigate the risks associated with such high-risk transactions.'
+    question: According to Fintrac, How should a casino handle high-value transactions
+      involving cash or virtual currency equivalent to $100,000 or more, especially
+      when a domestic PEP, HIO, or their associates are involved and the risk of money
+      laundering or terrorist financing is high?
+  - answer: 'When a casino identifies a high-risk transaction involving a domestic
+      PEP, HIO, or their associates, it must take the following specific measures:
+
+
+      1. **Establish Funds Source**: Take reasonable measures to determine the source
+      of the funds or virtual currency used in the transaction and to establish the
+      source of the person''s wealth.
+
+      2. **Senior Management Review**: Ensure that a member of senior management reviews
+      the transaction.
+
+
+      The involvement of senior management is necessary to provide oversight and ensure
+      that the casino''s risk assessment and mitigation strategies are appropriately
+      implemented, given the potentially elevated risks associated with such transactions.
+      This is in line with the requirements outlined by the governing regulations
+      to prevent money laundering (ML) or terrorist financing (TF) offenses.'
+    question: According to Fintrac, What specific measures must be taken by a casino
+      when a high-risk transaction involving a domestic PEP, HIO, or their associates
+      is identified, and why is the involvement of senior management necessary in
+      such cases?
+- context: "- take your enhanced measures, including taking additional measures to\
+    \ verify the person's identity, conducting enhanced ongoing monitoring and taking\
+    \ any other enhanced measures to mitigate the risks posed by the person.  \nWhen\
+    \ you **detect a fact about an existing account,** and determine that a person\
+    \ is a close associate of a domestic PEP or HIO, **and** based on your risk assessment,\
+    \ you consider there to be a **high risk** of an ML or TF offence being committed,\
+    \ you must:Footnote 19  \n- take reasonable measures to establish the source of\
+    \ the funds or source of the VC that is or is expected to be deposited into the\
+    \ account in question and to establish the source of the person's wealth;\n- obtain\
+    \ the approval of a member of senior management to keep the account open; and"
+  questions_and_answers:
+  - answer: 'When a high risk of money laundering or terrorist financing is identified
+      with a close associate of a domestic PEP or HIO for an existing account, the
+      following specific actions should be taken:
+
+
+      1. Implement enhanced measures, including additional identity verification and
+      enhanced ongoing monitoring.
+
+      2. Establish the source of funds or virtual currency that is or is expected
+      to be deposited into the account, and determine the source of the person''s
+      wealth.
+
+      3. Obtain approval from a member of senior management to keep the account open.
+
+
+      These actions are in accordance with the regulations outlined by the relevant
+      governing body.'
+    question: According to Fintrac, What specific actions should be taken when a high
+      risk of money laundering or terrorist financing is identified with a close associate
+      of a domestic PEP or HIO for an existing account?
+  - answer: According to the Financial Transactions and Reports Analysis Centre of
+      Canada (FINTRAC) guidelines, when a high risk of money laundering (ML) or terrorist
+      financing (TF) is detected for a close associate of a domestic politically exposed
+      person (PEP) or head of international organization (HIO), reasonable measures
+      must be taken to establish the source of the funds or source of the virtual
+      currency that is or is expected to be deposited into the account in question,
+      and to establish the source of the person's wealth.
+    question: According to Fintrac, How should the source of funds or virtual currency
+      be established when a high risk of ML or TF is detected for a close associate
+      of a domestic PEP or HIO?
+  - answer: Senior management plays a role in approving the decision to keep the account
+      open when a high risk of ML or TF is detected for an account associated with
+      a close associate of a domestic PEP or HIO, as required by the governing regulations.
+    question: According to Fintrac, What role does senior management play in the decision-making
+      process when a high risk of ML or TF is detected for an account associated with
+      a close associate of a domestic PEP or HIO?
+- context: "If you are an FE or a casino then you must also take reasonable measures\
+    \ to make PEP, HIO, family member or close associate determinations for the following\
+    \ transactions:  \n- initiation of an international electronic funds transfer\
+    \ (EFT) in the amount of $100,000 or more;\n- final receipt of an international\
+    \ EFT in the amount of $100,000 or more;\n- receipt of cash or an amount of VC\
+    \ equivalent to $100,000 or more (casinos only);\n- transfers of an amount of\
+    \ VC equivalent to $100,000 or more (FEs only);\n- receipt of an amount of VC\
+    \ equivalent to $100,000 or more for remittance to a beneficiary (FEs only); and\n\
+    - payment(s) of $100,000 or more to a PPPA (FEs only).  \nSee Transaction-related\
+    \ PEP or HIO determination below, for an explanation of your requirements in these\
+    \ instances."
+  questions_and_answers:
+  - answer: Financial entities and casinos must determine if individuals are politically
+      exposed persons (PEPs) or heads of international organizations (HIOs) for transactions
+      such as international electronic funds transfers of $100,000 or more, receipt
+      of cash or virtual currency equivalent to $100,000 or more, transfers or remittances
+      of virtual currency equivalent to $100,000 or more, and payments of $100,000
+      or more to a pre-paid product or account, as per the guidance for account-based
+      reporting entity sectors.
+    question: According to Fintrac, What types of transactions require financial entities
+      and casinos to determine if individuals are politically exposed persons (PEPs)
+      or heads of international organizations (HIOs)?
+  - answer: It is important for financial entities to identify transactions involving
+      virtual currency (VC) exceeding $100,000 to comply with the guidance for account-based
+      reporting entity sectors, which requires them to determine if individuals involved
+      are politically exposed persons (PEPs), heads of international organizations
+      (HIOs), family members, or close associates in such transactions.
+    question: According to Fintrac, Why is it important for financial entities to
+      identify transactions involving virtual currency (VC) exceeding $100,000?
+  - answer: Casinos must make determinations about PEPs or HIOs when receiving cash
+      or virtual currency equivalent to $100,000 or more, as outlined in the guidance
+      for account-based reporting entity sectors.
+    question: According to Fintrac, Under what circumstances must casinos make determinations
+      about PEPs or HIOs when receiving cash or virtual currency?
+- context: '3. If you are an **FE**, you do not have to make a PEP determination or
+    keep the associated records for your activities in respect of the processing of
+    payments by credit card or by prepaid payment products for a merchant.Footnote
+    15
+
+    4. If you are an **FE** or **casino**, that initiates or is the final recipient
+    of an international EFT of $100,000 or more, by means of a credit/debit card or
+    a prepaid payment product where the beneficiary has an agreement with the payment
+    service provider that permits payment by that means for the provision of goods
+    and services, you do not need to determine if the person is a PEP, HIO or a family
+    member or close associate of a PEP or HIO.Footnote 16'
+  questions_and_answers:
+  - answer: A financial entity (FE) is exempt from making a PEP determination and
+      keeping associated records when processing payments by credit card or prepaid
+      payment products for a merchant. Additionally, FEs and casinos are exempt from
+      these requirements for international electronic funds transfers (EFTs) of $100,000
+      or more via credit/debit cards or prepaid payment products, where the beneficiary
+      has an agreement with the payment service provider for goods and services.
+    question: According to Fintrac, Under what circumstances can a financial entity
+      (FE) be exempt from making a PEP determination and keeping associated records
+      for payment processing activities?
+  - answer: If you are a financial entity (FE) or casino initiating or receiving an
+      international electronic funds transfer (EFT) of $100,000 or more using credit/debit
+      cards or prepaid payment products, you are not required to determine if the
+      person is a politically exposed person (PEP), head of an international organization
+      (HIO), or a family member or close associate of a PEP or HIO, provided that
+      the beneficiary has an agreement with the payment service provider permitting
+      payment by that means for the provision of goods and services.
+    question: According to Fintrac, What is the exception for financial entities and
+      casinos when initiating or receiving international electronic funds transfers
+      (EFTs) of $100,000 or more using credit/debit cards or prepaid payment products?
+  - answer: According to the regulations, if a beneficiary has an agreement with a
+      payment service provider that allows payment via credit/debit card or prepaid
+      payment product for goods and services, and the FE or casino initiates or receives
+      an international EFT of $100,000 or more, the requirement to determine PEP,
+      HIO, or related status is waived.
+    question: According to Fintrac, How does the involvement of a beneficiary with
+      an agreement with a payment service provider affect the requirement for PEP,
+      HIO, or related status determination for international EFTs above a certain
+      amount?
+- context: "##### Casinos  \nWhen you **initiate an international EFT** in the amount\
+    \ **of $100,000 or more,** **finally receive an international EFT for a beneficiary**\
+    \ in the amount **of $100,000 or more**, or **receive cash, or an amount of VC\
+    \ equivalent to, $100,000 or more,** and determine that a person is a foreign\
+    \ PEP, or a family member or close associate of a foreign PEP, you must:Footnote\
+    \ 24  \n- take reasonable measures to establish the source of the funds or source\
+    \ of the VC used for the transaction and to establish the source of the person's\
+    \ wealth; and\n- ensure that a member of senior management reviews the transaction."
+  questions_and_answers:
+  - answer: When dealing with transactions involving $100,000 or more from foreign
+      PEPs or their associates, casinos must take reasonable measures to establish
+      the source of the funds or source of the virtual currency used for the transaction
+      and to establish the source of the person's wealth. Additionally, a member of
+      senior management must review the transaction.
+    question: According to Fintrac, What specific actions must a casino take when
+      dealing with transactions involving $100,000 or more from foreign PEPs or their
+      associates?
+  - answer: It is important for casinos to establish the source of funds for transactions
+      of $100,000 or more involving foreign Politically Exposed Persons (PEPs) to
+      comply with anti-money laundering and counter-terrorism financing regulations
+      set by the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC).
+      This helps in detecting and deterring potential financial crimes and ensures
+      that the funds are not from illicit sources.
+    question: According to Fintrac, Why is it important for casinos to establish the
+      source of funds for transactions of $100,000 or more involving foreign PEPs?
+  - answer: In high-value transactions involving foreign PEPs in casinos, senior management
+      plays a role by reviewing the transaction. This obligation is outlined in the
+      measures that casinos must take when dealing with such transactions, as specified
+      by the governing regulations.
+    question: According to Fintrac, What role does senior management play in the review
+      process of high-value transactions involving foreign PEPs in casinos?
+version: 3

@@ -1,0 +1,263 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/sector_specific_guidance/financial_entities/transasction_reporting/mltf_indicators/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document provides guidance from FINTRAC on identifying money
+  laundering and terrorist financing indicators to help financial entities detect
+  and report suspicious transactions.
+domain: Canadian Regulations
+seed_examples:
+- context: '- Transaction is consistent with a publicly known trend in criminal activity.
+
+    - Client deposits musty, odd smelling or extremely dirty bills.
+
+    - Transaction involves a suspected shell entity (an entity that does not have
+    an economical or logical reason to exist).
+
+    - Client frequently exchanges small bills for larger bills.
+
+    - Suspicious pattern emerges from a client''s transactions (e.g. transactions
+    take place at the same time of day).
+
+    - Atypical transfers by a client on an in-and-out basis, or other methods of moving
+    funds quickly, such as a cash deposit followed immediately by a wire transfer
+    of the funds out.
+
+    - Funds transferred in and out of an account on the same day or within a relatively
+    short period of time.'
+  questions_and_answers:
+  - answer: 'Some common indicators of money laundering or terrorist financing based
+      on atypical transactional activity, as outlined by FINTRAC, include:
+
+
+      - Transactions aligning with known criminal trends.
+
+      - Deposits of musty, odd smelling, or extremely dirty bills.
+
+      - Involvement of suspected shell entities.
+
+      - Frequent exchange of small bills for larger bills.
+
+      - Emerging suspicious patterns in client transactions.
+
+      - Atypical in-and-out transfers or quick movement of funds.
+
+      - Rapid fund transfers in and out of an account.'
+    question: According to Fintrac, What are some common indicators of money laundering
+      or terrorist financing based on atypical transactional activity?
+  - answer: The physical condition of deposited bills may raise suspicion of money
+      laundering if a client deposits musty, odd smelling, or extremely dirty bills,
+      as noted by FINTRAC's guidance document.
+    question: According to Fintrac, How might the physical condition of deposited
+      bills raise suspicion of money laundering?
+  - answer: A type of entity that might be involved in a transaction indicating potential
+      financial crime is a suspected shell entity. According to FINTRAC's guidance,
+      this is suspicious because a shell entity does not have an economical or logical
+      reason to exist, suggesting it may be used for illicit activities such as money
+      laundering or terrorist financing.
+    question: According to Fintrac, What type of entity might be involved in a transaction
+      that could indicate potential financial crime, and why would it be suspicious?
+- context: "### ML/TF indicators related to transactions that involve non-Canadian\
+    \ jurisdictions  \nThere are certain types of transactions that may be sent or\
+    \ received from jurisdictions outside of Canada where there is higher ML/TF risk\
+    \ due to more permissible laws or the local ML/TF threat environment. The following\
+    \ are examples to consider when making an assessment of the financial transaction\
+    \ conducted by a person/entity through your business.  \n- Transactions with jurisdictions\
+    \ that are known to produce or transit drugs or precursor chemicals, or are sources\
+    \ of other types of criminality.\n- Transactions with jurisdictions that are known\
+    \ to be at a higher risk of ML/TF.\n- Transaction/business activity involving\
+    \ locations of concern, which can include jurisdictions where there are ongoing\
+    \ conflicts (and periphery areas), countries with weak ML/TF controls, or countries\
+    \ with highly secretive banking or other transactional laws."
+  questions_and_answers:
+  - answer: 'Indicators of money laundering and terrorist financing (ML/TF) related
+      to transactions involving non-Canadian jurisdictions include:
+
+
+      - Transactions with jurisdictions known for drug production, transit of drugs
+      or precursor chemicals, or other types of criminality.
+
+      - Transactions with jurisdictions recognized to have a higher risk of ML/TF.
+
+      - Business activity or transactions involving locations of concern, such as
+      jurisdictions with ongoing conflicts, weak ML/TF controls, or highly secretive
+      banking laws.'
+    question: According to Fintrac, What are some indicators of money laundering and
+      terrorist financing (ML/TF) related to transactions involving non-Canadian jurisdictions?
+  - answer: Jurisdictions considered high risk for ML/TF activities include those
+      known for drug production or transit, those with higher ML/TF risk due to permissible
+      laws or local threats, and locations with ongoing conflicts, weak ML/TF controls,
+      or highly secretive banking laws. These jurisdictions pose elevated risks due
+      to their association with criminal activities and lack of robust anti-money
+      laundering and counter-terrorism financing measures.
+    question: According to Fintrac, Which types of jurisdictions are considered high
+      risk for ML/TF activities and why?
+  - answer: Ongoing conflicts and weak controls in certain jurisdictions contribute
+      to the risk of money laundering and terrorist financing (ML/TF) by providing
+      environments where oversight is diminished, allowing illicit activities to thrive.
+      These jurisdictions may have highly secretive banking laws or inadequate ML/TF
+      controls, making it easier for criminal organizations to conduct transactions
+      without detection. Additionally, areas with ongoing conflicts often have diminished
+      law enforcement capabilities, further exacerbating the risk.
+    question: According to Fintrac, How do ongoing conflicts and weak controls in
+      certain jurisdictions contribute to the risk of ML/TF?
+- context: '- A product and/or service opened on behalf of a person or entity that
+    is inconsistent based on what you know about that client.
+
+    - Frequent use of safety deposit box.
+
+    - Accounts used for pass-through activities (e.g. to receive and subsequently
+    send funds to beneficiaries).
+
+    - Use of multiple foreign bank accounts for no apparent reason.
+
+    - Credit card transactions and payments are exceptionally high for what is expected
+    of the client including an excessive amount of cash advance usage, balance transfer
+    requests or transactions involving luxury items.
+
+    - Client frequently makes credit card overpayments and then requests a cash advance.
+
+    - Frequent and/or atypical transfers between the client''s products and accounts
+    for no apparent reason.
+
+    - The same person holds signing authority for accounts held by multiple entities
+    where there is no legal reason or sufficient explanation for such an arrangement.'
+  questions_and_answers:
+  - answer: 'A regulatory officer might look for the following potential red flags
+      when assessing the use of safety deposit boxes by clients, as these could indicate
+      money laundering or terrorist financing activities according to the indicators
+      outlined by regulatory guidelines:
+
+
+      - Frequent use of the safety deposit box without a clear reason.
+
+      - Inconsistency between the client''s known profile and their use of the safety
+      deposit box.
+
+      - Patterns suggesting the safety deposit box is being used for pass-through
+      activities or in conjunction with multiple foreign bank accounts without apparent
+      reason.
+
+      - Atypical transactions or activities linked to the safety deposit box, such
+      as frequent transfers between accounts or other products without explanation.'
+    question: According to Fintrac, What potential red flags might a regulatory officer
+      look for when assessing the use of safety deposit boxes by clients?
+  - answer: Frequent and/or atypical transfers between a client's products and accounts
+      may indicate potential money laundering or terrorist financing activities, as
+      highlighted by specific indicators outlined by governing bodies. These transfers,
+      when conducted without a clear purpose, can suggest attempts to layer or integrate
+      illicit funds into the financial system, aiming to disguise their origin or
+      intended use.
+    question: According to Fintrac, How might frequent and/or atypical transfers between
+      a client's products and accounts indicate potential money laundering or terrorist
+      financing activities?
+  - answer: 'Some indicators that a regulatory officer should be aware of when evaluating
+      a client''s credit card usage patterns for potential financial crimes, as outlined
+      by the relevant money laundering and terrorist financing indicators, include:
+
+
+      - Exceptionally high credit card transactions and payments that exceed the expected
+      amounts for the client, including excessive cash advance usage, frequent balance
+      transfer requests, or transactions involving luxury items.
+
+      - Frequent credit card overpayments followed by requests for cash advances.
+
+      - Atypical transfers between the client''s various products and accounts without
+      an apparent reason.
+
+      - The use of credit cards for pass-through activities, such as receiving and
+      subsequently sending funds to beneficiaries.
+
+      - Inconsistencies in the use of credit cards compared to what is known about
+      the client''s financial profile.'
+    question: According to Fintrac, What are some indicators that a regulatory officer
+      should be aware of when evaluating a client's credit card usage patterns for
+      potential financial crimes?
+- context: The ML/TF indicators in this guidance were developed by FINTRAC through
+    a three-year review of ML/TF cases, a review of high quality STRs, published literature
+    by international organizations such as the Financial Action Task Force (FATF)
+    and the Egmont Group, and consultation with reporting entity sectors. These ML/TF
+    indicators do not cover every possible situation but were developed to provide
+    you with a general understanding of what is or could be unusual or suspicious.
+    On its own, a single ML/TF indicator may not appear suspicious. However, observing
+    an ML/TF indicator could lead you to conduct an assessment of the transaction(s)
+    to determine whether there are further facts, contextual elements or additional
+    ML/TF indicators that assist in establishing reasonable grounds to suspect the
+    commission or attempted commission of an ML/TF offence which requires the submission
+    of an STR.
+  questions_and_answers:
+  - answer: FINTRAC developed the ML/TF indicators through a three-year review of
+      ML/TF cases, an analysis of high-quality Suspicious Transaction Reports (STRs),
+      a review of published literature by international organizations such as the
+      Financial Action Task Force (FATF) and the Egmont Group, and through consultation
+      with reporting entity sectors.
+    question: What process did FINTRAC undertake to develop the ML/TF indicators provided
+      in the guidance?
+  - answer: A single ML/TF indicator may not be sufficient to determine suspicious
+      activity because, as outlined by FINTRAC, it might not appear suspicious on
+      its own. It is the assessment of the transaction's context, along with additional
+      indicators or facts, that helps establish reasonable grounds to suspect money
+      laundering or terrorist financing activity, warranting the submission of a Suspicious
+      Transaction Report (STR).
+    question: According to Fintrac, Why might a single ML/TF indicator not be sufficient
+      to determine suspicious activity?
+  - answer: Upon observing an ML/TF indicator, a regulatory officer should conduct
+      an assessment of the transaction(s) to gain more context. According to FINTRAC
+      guidelines, while a single indicator may not be suspicious on its own, further
+      investigation may reveal additional indicators or facts that establish reasonable
+      grounds to suspect money laundering or terrorist financing. This could necessitate
+      submitting a Suspicious Transaction Report (STR).
+    question: According to Fintrac, How should a regulatory officer respond upon observing
+      an ML/TF indicator, and what additional steps might they take to assess the
+      situation?
+- context: "#### Use of nominee  \nA nominee is a particular type of other party that\
+    \ is authorized to open accounts and conduct transactions on behalf of a person\
+    \ or entity. There are legitimate reasons for relying on a nominee to conduct\
+    \ financial activity of behalf of someone else. However, this type of activity\
+    \ is particularly vulnerable to ML/TF as it is a common method used by criminals\
+    \ to distance themselves from the transactions that could be linked to suspected\
+    \ ML/TF offences. These are some examples of ML/TF indicators relating to the\
+    \ misuse of nominees.  \n- A person maintains multiple accounts, or maintains\
+    \ accounts in the names of family members or corporate entities with no apparent\
+    \ business or other purpose.\n- A person or entity other than the stated account\
+    \ holder conducts the majority of the transaction activity, which seems unnecessary\
+    \ or excessive."
+  questions_and_answers:
+  - answer: A nominee in financial transactions is an individual or entity authorized
+      to open accounts and conduct transactions on behalf of another person or entity.
+      While there are legitimate reasons for using nominees, their use can pose a
+      risk for money laundering or terrorist financing (ML/TF). This is because criminals
+      may employ nominees to distance themselves from transactions linked to suspected
+      ML/TF offenses. According to the guidelines provided by financial regulatory
+      authorities, indicators of misuse include maintaining multiple accounts without
+      a clear purpose or having someone other than the account holder conduct most
+      transactions unnecessarily.
+    question: According to Fintrac, What is a nominee in the context of financial
+      transactions, and why might their use be considered a risk for money laundering
+      or terrorist financing?
+  - answer: The misuse of nominees by criminals can help them distance themselves
+      from illicit transactions by allowing a third party to conduct financial activities
+      on their behalf. According to guidelines from financial authorities, this method
+      is commonly used to obscure the link between the criminal and the transactions,
+      making it more difficult to trace and detect potential money laundering or terrorist
+      financing offenses. For instance, a person might maintain multiple accounts
+      or use family members' or corporate entities' names for no apparent legitimate
+      reason, or someone other than the stated account holder might conduct most of
+      the transactions unnecessarily.
+    question: According to Fintrac, How might the misuse of nominees by criminals
+      help them distance themselves from illicit transactions?
+  - answer: 'Some specific indicators that suggest the misuse of nominees for money
+      laundering or terrorist financing purposes, as outlined by financial authorities,
+      include:
+
+
+      - A person maintaining multiple accounts or accounts in the names of family
+      members or corporate entities without a clear business or other purpose.
+
+      - A person or entity other than the stated account holder conducting the majority
+      of the transaction activity, which seems unnecessary or excessive.'
+    question: According to Fintrac, Can you identify some specific indicators that
+      suggest the misuse of nominees for money laundering or terrorist financing purposes?
+version: 3

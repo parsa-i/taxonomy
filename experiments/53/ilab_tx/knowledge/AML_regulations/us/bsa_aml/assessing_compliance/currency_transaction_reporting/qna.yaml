@@ -1,0 +1,183 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/us/bsa_aml/assessing_compliance/currency_transaction_reporting/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: The purpose of this document is to outline the regulatory requirements
+  for banks to file Currency Transaction Reports (CTRs) and the necessary identification
+  procedures for transactions over $10,000.
+domain: USA Regulations
+seed_examples:
+- context: "## Filing and Record Retention  \nAll CTRs must be filed through FinCEN\u2019\
+    s BSA E-Filing System.<sup>16</sup> Certain fields in the CTR are marked as \u201C\
+    critical\u201D for technical filing purposes; this means the BSA E-Filing System\
+    \ does not accept filings in which these fields are left blank. For these items,\
+    \ FinCEN filing instructions state that the bank must either provide the requested\
+    \ information or check \u201Cunknown.\u201D<sup>17</sup>  \nFinCEN expects that\
+    \ banks will provide the most complete filing information available, consistent\
+    \ with existing regulatory expectations, regardless of whether the individual\
+    \ fields are deemed critical for technical filing purposes.<sup>18</sup> If the\
+    \ bank receives correspondence from FinCEN identifying data quality errors, it\
+    \ should follow any required actions that FinCEN outlines in the correspondence.\
+    \ FinCEN has also issued several administrative rulings and other guidance on\
+    \ filing and completing CTRs.<sup>19</sup>"
+  questions_and_answers:
+  - answer: "The FinCEN\u2019s BSA E-Filing System is mandated for filing Currency\
+      \ Transaction Reports (CTRs)."
+    question: What system is mandated for filing Currency Transaction Reports (CTRs)?
+  - answer: FinCEN handles critical fields left blank in a CTR filing by not accepting
+      the filing through its BSA E-Filing System. Banks must either provide the requested
+      information or check "unknown" for these critical fields.
+    question: How does FinCEN handle critical fields left blank in a CTR filing?
+  - answer: If FinCEN identifies data quality errors in their CTR filings, a bank
+      should follow any required actions outlined by FinCEN in their correspondence.
+    question: What actions should a bank take if FinCEN identifies data quality errors
+      in their CTR filings?
+- context: "If the bank becomes aware, either through self-identification or through\
+    \ an examination, that it has failed to file CTRs on reportable transactions,\
+    \ or filed CTRs with errors, the bank must begin complying with CTR requirements.\
+    \ The bank may contact FinCEN\u2019s Resource Center to request a determination\
+    \ on whether to backfile unreported transactions or amend CTRs filed with errors.<sup>22</sup>\
+    \ In most cases, the bank can submit late CTRs and/or amended CTRs without the\
+    \ need to contact FinCEN for a backfiling or amendment determination. FinCEN has\
+    \ indicated, however, that in certain situations, the bank should consider contacting\
+    \ FinCEN (for example, if the bank is instructed to by its regulator,<sup>23</sup>\
+    \ if it is unclear whether the circumstances require backfiling or amending CTRs,\
+    \ or if the bank wants to request regulatory relief from submitting some or all\
+    \ of the CTRs). Once FinCEN provides a backfiling or amendment determination,\
+    \ the bank should follow the instructions for"
+  questions_and_answers:
+  - answer: 'A bank should consider contacting FinCEN regarding missed or erroneous
+      Currency Transaction Reports (CTRs) in the following circumstances: if instructed
+      by its regulator, if it is unclear whether backfiling or amending CTRs is required,
+      or if the bank wishes to request regulatory relief from submitting some or all
+      of the CTRs.'
+    question: Under what circumstances should a bank consider contacting FinCEN regarding
+      missed or erroneous Currency Transaction Reports (CTRs)?
+  - answer: When a bank discovers it has failed to file Currency Transaction Reports
+      (CTRs) or has filed them with errors, it should immediately begin complying
+      with CTR requirements. The bank can typically submit late CTRs or amended CTRs
+      directly. However, in certain situations, such as when instructed by a regulator
+      or when the need for backfiling or amending is unclear, the bank should contact
+      FinCEN's Resource Center for guidance and a determination on the appropriate
+      course of action.
+    question: What steps should a bank take when it discovers it has failed to file
+      CTRs or has filed them with errors?
+  - answer: "A bank might seek regulatory relief from submitting some or all of the\
+      \ Currency Transaction Reports (CTRs) if it is instructed to do so by its regulator,\
+      \ if there is uncertainty about whether backfiling or amending CTRs is necessary,\
+      \ or if the bank wishes to request such relief. In these situations, the bank\
+      \ should contact FinCEN\u2019s Resource Center for guidance and follow the provided\
+      \ instructions."
+    question: In what situations might a bank seek regulatory relief from submitting
+      some or all of the CTRs, and how should they proceed?
+- context: "Verification of the identity of an individual who indicates that he or\
+    \ she is an alien or is not a resident of the United States must be made by passport,\
+    \ alien identification card, or other official document evidencing nationality\
+    \ or residence (e.g., a provincial driver\u2019s license with indication of home\
+    \ address). Verification of identity in any other case must be made through a\
+    \ document, other than a bank signature card, that is normally acceptable as a\
+    \ means of identification when cashing checks for nondepositors (e.g., a driver\u2019\
+    s license or credit card). A bank signature card may be relied upon only if it\
+    \ was issued after documents establishing the identity of the individual were\
+    \ examined and notation of the specific information was made on the signature\
+    \ card. In each instance, the specific identifying information (e.g._,_ the driver\u2019\
+    s license number) used in verifying the identity of the customer must be recorded\
+    \ on the report. The mere notation of \u201Cknown customer\u201D or \u201Cbank"
+  questions_and_answers:
+  - answer: "For Currency Transaction Reporting purposes, the identity of a non-U.S.\
+      \ resident can be verified using a passport, alien identification card, or other\
+      \ official document that indicates nationality or residence, such as a provincial\
+      \ driver\u2019s license with a home address."
+    question: What types of documents can be used to verify the identity of a non-U.S.
+      resident for Currency Transaction Reporting purposes?
+  - answer: A bank signature card can be used to verify a customer's identity for
+      reporting purposes only if it was issued after examining documents that establish
+      the individual's identity, and the specific identifying information was noted
+      on the signature card. This is in accordance with the guidelines for Currency
+      Transaction Reporting.
+    question: Under what circumstances can a bank signature card be used to verify
+      a customer's identity for reporting purposes?
+  - answer: The specific identifying information that must be recorded when verifying
+      a customer's identity for a Currency Transaction Report includes details such
+      as the driver's license number or other official document numbers used in the
+      verification process, as mandated by federal regulations.
+    question: What specific identifying information must be recorded when verifying
+      a customer's identity for a Currency Transaction Report?
+- context: "## Aggregation of Currency Transactions  \nFor the purposes of currency\
+    \ reporting requirements, a bank includes all of its domestic branch offices<sup>5</sup>\
+    \ and, therefore, branch office transactions must be aggregated. Multiple currency\
+    \ transactions resulting in either cash in or cash out totaling more than $10,000\
+    \ during any one business day must be treated as a single transaction, if the\
+    \ bank has knowledge that they are conducted by or on behalf of any person. Deposits\
+    \ made at night or over a weekend or holiday must be treated as if received on\
+    \ the next business day following the deposit.<sup>6</sup> To comply with regulatory\
+    \ requirements, management must ensure that systems or practices appropriately\
+    \ aggregate currency transactions throughout the bank and report currency transactions\
+    \ subject to the BSA requirement to file CTRs."
+  questions_and_answers:
+  - answer: Multiple currency transactions must be aggregated and treated as a single
+      transaction for the purpose of filing Currency Transaction Reports (CTRs) when
+      they exceed $10,000 in a single business day and the bank has knowledge that
+      they are conducted by or on behalf of any person, as required by the Bank Secrecy
+      Act (BSA).
+    question: Under what circumstances must multiple currency transactions be aggregated
+      and treated as a single transaction for the purpose of filing Currency Transaction
+      Reports (CTRs)?
+  - answer: Deposits made at night or over a weekend or holiday must be treated as
+      if received on the next business day following the deposit, according to the
+      Bank Secrecy Act (BSA) requirements.
+    question: How should deposits made at night or over a weekend or holiday be treated
+      for the purpose of regulatory reporting?
+  - answer: Bank management plays a crucial role in ensuring compliance with the aggregation
+      and reporting requirements for currency transactions under the Bank Secrecy
+      Act (BSA). Management must implement systems or practices that accurately aggregate
+      currency transactions exceeding $10,000 in a single business day across all
+      domestic branch offices. This includes treating multiple transactions as a single
+      transaction if the bank knows they are conducted by or on behalf of the same
+      person. Additionally, management must ensure that these aggregated transactions
+      are properly reported through the filing of Currency Transaction Reports (CTRs)
+      as required by the BSA.
+    question: What is the role of bank management in ensuring compliance with the
+      aggregation and reporting requirements for currency transactions under the BSA?
+- context: "Examiners should also consider general internal controls concepts, such\
+    \ as dual controls, segregation of duties, and management approval for certain\
+    \ actions, as they relate to the bank\u2019s reporting of currency transactions.\
+    \ For example, employees who complete CTRs generally should not also be responsible\
+    \ for the decision to file the reports. Other internal controls may include BSA\
+    \ compliance officer or other senior management approval for staff actions that\
+    \ override currency aggregation systems and review of exception reports for those\
+    \ overrides.  \nExaminers should determine whether the bank\u2019s internal controls\
+    \ for reporting of currency transactions are designed to assure ongoing compliance\
+    \ with CTR requirements and are commensurate with the bank\u2019s size or complexity\
+    \ and organizational structure."
+  questions_and_answers:
+  - answer: Key internal controls that examiners should assess to ensure a bank's
+      compliance with Currency Transaction Reporting (CTR) requirements include dual
+      controls, segregation of duties, and management approval for certain actions.
+      This means that employees who complete CTRs should not also be responsible for
+      deciding to file the reports. Additionally, controls should require BSA compliance
+      officer or senior management approval for overriding currency aggregation systems
+      and regular review of exception reports. These controls should be designed to
+      assure ongoing compliance with CTR requirements and be appropriate for the bank's
+      size, complexity, and organizational structure.
+    question: What are the key internal controls that examiners should assess to ensure
+      a bank's compliance with Currency Transaction Reporting (CTR) requirements?
+  - answer: It's important for employees who complete Currency Transaction Reports
+      (CTRs) not to be responsible for the decision to file the reports to ensure
+      segregation of duties, a key internal control concept. This separation helps
+      maintain the integrity of the reporting process and prevents potential manipulation
+      or bias, aligning with the requirements of the Bank Secrecy Act (BSA).
+    question: Why is it important for employees who complete CTRs not to be responsible
+      for the decision to file the reports?
+  - answer: The design of a bank's internal controls for CTR reporting should be evaluated
+      based on whether they assure ongoing compliance with CTR requirements and are
+      appropriate for the bank's size, complexity, and organizational structure, as
+      per the guidelines provided by the examiners of the Bank Secrecy Act (BSA).
+      This includes assessing controls such as dual controls, segregation of duties,
+      and management approval processes.
+    question: How should the design of a bank's internal controls for CTR reporting
+      be evaluated in relation to the bank's size, complexity, and organizational
+      structure?
+version: 3

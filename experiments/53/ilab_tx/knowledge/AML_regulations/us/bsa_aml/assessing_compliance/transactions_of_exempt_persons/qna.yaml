@@ -1,0 +1,262 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/us/bsa_aml/assessing_compliance/transactions_of_exempt_persons/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: The purpose of this document is to assess a bank's compliance with
+  regulatory requirements for exempting certain customers from currency transaction
+  reporting under the Bank Secrecy Act.
+domain: USA Regulations
+seed_examples:
+- context: "- Is incorporated or organized under the laws of the United States or\
+    \ a state, or is registered as and eligible to do business within the United States\
+    \ or a state.  \n7. With respect solely to withdrawals for payroll purposes from\
+    \ existing exemptible accounts, any other person (referred to as a \u201Cpayroll\
+    \ customer\u201D) that:\n- Has maintained a transaction account at the bank for\
+    \ at least two months, or\n- If prior to the passing of two months\u2019 time,\
+    \ the bank conducts and documents a risk-based assessment of the customer and\
+    \ forms a reasonable belief that the customer has a legitimate business purpose\
+    \ for conducting frequent transactions in currency;<sup>7</sup>\n- Operates a\
+    \ firm that frequently withdraws more than $10,000 to pay its United States employees\
+    \ in currency; and\n- Is incorporated or organized under the laws of the United\
+    \ States or a state, or is registered as and eligible to do business within the\
+    \ United States or a state."
+  questions_and_answers:
+  - answer: 'To be exempt from currency transaction reporting under the Phase II CTR
+      Exemptions, a ''payroll customer'' must meet the following requirements outlined
+      by the Bank Secrecy Act:
+
+
+      1. Maintain a transaction account at the bank for at least two months, or if
+      less than two months, the bank must conduct and document a risk-based assessment
+      indicating the customer has a legitimate business purpose for frequent currency
+      transactions.
+
+      2. Regularly withdraw more than $10,000 to pay its United States employees in
+      currency.
+
+      3. Be incorporated or organized under the laws of the United States or a state,
+      or be registered and eligible to do business within the United States or a state.'
+    question: What are the requirements for a 'payroll customer' to be exempt from
+      currency transaction reporting under the Phase II CTR Exemptions?
+  - answer: Under the Phase II CTR Exemptions of the Bank Secrecy Act, a bank can
+      exempt a 'payroll customer' from currency transaction reporting, even if they
+      have not maintained a transaction account for at least two months, provided
+      the bank conducts and documents a risk-based assessment of the customer and
+      forms a reasonable belief that the customer has a legitimate business purpose
+      for conducting frequent transactions in currency.
+    question: Under what conditions can a bank exempt a 'payroll customer' from currency
+      transaction reporting if they have not maintained a transaction account for
+      at least two months?
+  - answer: 'According to the Bank Secrecy Act, a business is considered a ''payroll
+      customer'' exempt from currency transaction reporting if it:
+
+
+      - Has maintained a transaction account at the bank for at least two months,
+      or the bank has conducted a risk-based assessment and determined the customer
+      has a legitimate business purpose for frequent currency transactions.
+
+      - Regularly withdraws over $10,000 to pay its U.S. employees in currency.
+
+      - Is incorporated, organized, or registered and eligible to do business in the
+      United States or a state.'
+    question: How does the Bank Secrecy Act define the criteria for a business to
+      be considered a 'payroll customer' exempt from currency transaction reporting?
+- context: "## Safe Harbor for Failure to File CTRs  \nA bank is not liable for the\
+    \ failure to file a CTR for a transaction in currency by an exempt person as long\
+    \ as the bank is in compliance with the exemption rules, unless the bank knowingly\
+    \ provides false or incomplete information with respect to the transaction or\
+    \ the customer engaging in the transaction or has reason to believe that the customer\
+    \ does not qualify as an exempt person or that the transaction is not a transaction\
+    \ of the exempt person. In the absence of any specific knowledge of information\
+    \ indicating that a customer no longer meets the requirements of an exempt person,\
+    \ the bank may treat the customer as an exempt person until the date of the  \n\
+    customer\u2019s next annual review.<sup>27</sup>"
+  questions_and_answers:
+  - answer: A bank is not held liable for failing to file a Currency Transaction Report
+      (CTR) for transactions involving exempt persons if it complies with exemption
+      rules and does not knowingly provide false or incomplete information. The bank
+      must also have no reason to believe that the customer does not qualify as an
+      exempt person or that the transaction is not that of the exempt person. Until
+      the customer's next annual review, the bank can treat the customer as exempt,
+      provided there is no specific knowledge indicating a change in the customer's
+      status.
+    question: Under what conditions is a bank not held liable for failing to file
+      a Currency Transaction Report for transactions involving exempt persons?
+  - answer: A bank must ensure the accuracy of information regarding exempt persons
+      and their transactions. It is responsible for providing complete and truthful
+      information and must have no reason to believe that the customer is ineligible
+      for exemption. If the bank becomes aware of any information that could disqualify
+      a customer's exempt status, it must act accordingly. These responsibilities
+      are outlined in the exemption rules governing Currency Transaction Reports (CTRs).
+    question: What responsibilities does a bank have regarding the accuracy of information
+      about exempt persons and their transactions?
+  - answer: If a bank suspects that a customer no longer qualifies as an exempt person,
+      it should investigate the matter promptly. If the bank has reason to believe
+      the customer is indeed ineligible, it must cease treating the customer as exempt
+      and resume filing Currency Transaction Reports (CTRs) for their transactions.
+      However, if there is no specific knowledge or information indicating a change
+      in the customer's status, the bank can continue to treat the customer as exempt
+      until their next annual review, as per the exemption rules outlined by the governing
+      regulations.
+    question: How should a bank handle a situation where they suspect a customer no
+      longer qualifies as an exempt person?
+- context: "##  EXAMINATION AND TESTING PROCEDURES  \nObjective:  Assess the bank\u2019\
+    s compliance with the BSA regulatory requirements for exemptions from the currency\
+    \ transaction reporting requirements.  \n1. Review the bank\u2019s policies, procedures,\
+    \ and processes that address exempting customers from CTR filings. Determine whether\
+    \ the policies, procedures and processes provide steps for:  \n- Assuring that\
+    \ a person is an exempt person, including completing the required annual reviews\
+    \ of eligibility,\n- Documenting the basis for conclusions regarding eligibility,\
+    \ and\n- Documenting compliance with the regulation.  \n2. Select a sample of\
+    \ filed Designation of Exempt Person reports to determine whether:  \n- The reports\
+    \ are filed in accordance with FinCEN instructions within 30 days of the first\
+    \ reportable transaction that the bank sought to exempt.\n- The customer is eligible\
+    \ for designation as exempt (see categories of Phase I exempt persons and Phase\
+    \ II exempt persons)."
+  questions_and_answers:
+  - answer: 'The key steps a bank must include in its policies for exempting customers
+      from currency transaction reporting (CTR) filings, as per BSA regulations, are:
+
+
+      1. **Assuring Eligibility**: Establish procedures to assure that a person is
+      an exempt person, including completing the required annual reviews of eligibility.
+
+
+      2. **Documenting Eligibility**: Document the basis for conclusions regarding
+      a person''s eligibility for exemption.
+
+
+      3. **Documenting Compliance**: Document overall compliance with the regulation.
+
+
+      4. **Timely Filing**: File the Designation of Exempt Person reports in accordance
+      with FinCEN instructions within 30 days of the first reportable transaction
+      that the bank seeks to exempt.
+
+
+      5. **Verifying Eligibility**: Ensure the customer is eligible for designation
+      as exempt under the categories of Phase I exempt persons and Phase II exempt
+      persons.'
+    question: What are the key steps a bank must include in its policies for exempting
+      customers from currency transaction reporting (CTR) filings?
+  - answer: A regulatory officer verifies that a bank is correctly filing Designation
+      of Exempt Person reports by reviewing the bank's policies and procedures to
+      ensure they align with BSA regulations, and by examining a sample of filed reports
+      to confirm they are submitted within 30 days of the first reportable transaction
+      and that the customers are eligible for the exemption according to FinCEN instructions.
+    question: How does a regulatory officer verify that a bank is correctly filing
+      Designation of Exempt Person reports according to FinCEN instructions?
+  - answer: To be eligible for designation as an exempt person under BSA regulations,
+      a customer must meet the criteria outlined by FinCEN, which include falling
+      into specific categories of Phase I or Phase II exempt persons. Additionally,
+      the bank must file the Designation of Exempt Person report within 30 days of
+      the first reportable transaction that the bank seeks to exempt.
+    question: What criteria must be met for a customer to be eligible for designation
+      as an exempt person under BSA regulations?
+- context: "Examiners should also consider general internal controls concepts, such\
+    \ as dual controls, segregation of duties, and management approval for certain\
+    \ actions, as they relate to the bank\u2019s process for exempting customers from\
+    \ CTR filing. For example, employees who complete DOEPs generally should not also\
+    \ be responsible for the decision to file the reports. Other internal controls\
+    \ may include BSA compliance officer or other senior management approval for staff\
+    \ actions where segregation of duties cannot be achieved.  \nExaminers should\
+    \ determine whether the bank\u2019s internal controls for exempting customers\
+    \ from CTR filing are designed to assure ongoing compliance with exemption requirements\
+    \ and are  \ncommensurate with the bank\u2019s size or complexity and organizational\
+    \ structure. More information can be found in the _Assessing the BSA/AML Compliance\
+    \ Program - BSA/AML Internal Controls_ section of this Manual."
+  questions_and_answers:
+  - answer: When evaluating a bank's process for exempting customers from Currency
+      Transaction Report (CTR) filing, examiners should consider several key internal
+      controls as per the Bank Secrecy Act compliance requirements. These include
+      dual controls, segregation of duties, and management approval. For instance,
+      employees who complete Designation of Exempt Person (DOEP) forms should not
+      also be responsible for deciding whether to file the reports. In cases where
+      segregation of duties is not achievable, approval from the BSA compliance officer
+      or senior management should be required. The internal controls should be designed
+      to ensure ongoing compliance with exemption requirements and be appropriate
+      for the bank's size, complexity, and organizational structure.
+    question: What are some key internal controls that should be considered by examiners
+      when evaluating a bank's process for exempting customers from Currency Transaction
+      Report (CTR) filing?
+  - answer: A bank's internal control design for CTR exemptions should incorporate
+      general internal control concepts such as dual controls, segregation of duties,
+      and management approval to ensure ongoing compliance with exemption requirements.
+      This includes preventing employees who complete Designation of Exempt Person
+      (DOEP) forms from also deciding to file the reports. If segregation of duties
+      cannot be achieved, approval from the BSA compliance officer or senior management
+      should be required. The controls should be tailored to the bank's size, complexity,
+      and organizational structure, aligning with the Bank Secrecy Act (BSA) compliance
+      standards outlined in the _Assessing the BSA/AML Compliance Program - BSA/AML
+      Internal Controls_ section of the regulatory manual.
+    question: How should a bank's internal control design for CTR exemptions ensure
+      ongoing compliance with exemption requirements?
+  - answer: In scenarios where segregation of duties cannot be achieved, senior management
+      or the BSA compliance officer should provide approval for staff actions related
+      to exempting customers from CTR filing, as part of the bank's internal controls
+      for Bank Secrecy Act compliance.
+    question: In scenarios where segregation of duties cannot be achieved, what role
+      should senior management or the BSA compliance officer play in the bank's process
+      for exempting customers from CTR filing?
+- context: "### Ineligible Businesses  \nCertain businesses are ineligible for treatment\
+    \ as an exempt non-listed business.<sup>21</sup> An ineligible business is defined\
+    \ in this regulation as a business engaged primarily in one or more of the following\
+    \ specified activities:  \n- Serving as financial institutions or agents of financial\
+    \ institutions of any type.\n- Purchasing or selling motor vehicles of any kind,\
+    \ vessels, aircraft, farm equipment, or mobile homes.<sup>22</sup>\n- Practicing\
+    \ law, accounting, or medicine.\n- Auctioning of goods.\n- Chartering or operation\
+    \ of ships, buses, or aircraft.\n- Pawn brokerage.\n- Gaming of any kind (other\
+    \ than licensed parimutuel betting at racetracks).\n- Investment advisory services\
+    \ or investment banking services.\n- Real estate brokerage.\n- Title insurance\
+    \ and real estate closings.\n- Trade union activities.\n- Any other activity that\
+    \ may, from time to time, be specified by FinCEN, such as marijuana-related businesses.<sup>23</sup>"
+  questions_and_answers:
+  - answer: 'Businesses engaged primarily in the following activities are explicitly
+      deemed ineligible for exemption from currency transaction reporting under the
+      Bank Secrecy Act:
+
+
+      - Serving as financial institutions or agents of financial institutions.
+
+      - Purchasing or selling motor vehicles, vessels, aircraft, farm equipment, or
+      mobile homes.
+
+      - Practicing law, accounting, or medicine.
+
+      - Auctioning of goods.
+
+      - Chartering or operation of ships, buses, or aircraft.
+
+      - Pawn brokerage.
+
+      - Gaming (except licensed parimutuel betting at racetracks).
+
+      - Investment advisory or investment banking services.
+
+      - Real estate brokerage.
+
+      - Title insurance and real estate closings.
+
+      - Trade union activities.
+
+      - Any other activity specified by FinCEN, such as marijuana-related businesses.'
+    question: What types of businesses are explicitly deemed ineligible for exemption
+      from currency transaction reporting under the Bank Secrecy Act?
+  - answer: A business engaged in auctioning goods might be considered ineligible
+      for exemption from currency transaction reporting because it is specifically
+      listed as an ineligible business under the regulations of the Bank Secrecy Act,
+      as defined by FinCEN.
+    question: Why might a business engaged in auctioning goods be considered ineligible
+      for exemption from currency transaction reporting?
+  - answer: FinCEN's authority to specify additional ineligible activities broadens
+      the scope of businesses required to comply with currency transaction reporting
+      regulations by including businesses engaged in activities not initially listed
+      but later identified by FinCEN, such as marijuana-related businesses. This dynamic
+      updating of ineligible activities ensures that the regulations adapt to emerging
+      trends and concerns in financial transactions.
+    question: How does FinCEN's authority to specify additional ineligible activities
+      impact the scope of businesses required to comply with currency transaction
+      reporting regulations?
+version: 3

@@ -1,0 +1,185 @@
+created_by: CE
+version: 3
+document:
+  commit: 06419f3bf49a0c6a2b7f92a2d99323fd1b84d616
+  patterns:
+  - ilab_tx/knowledge/financial/financial/mastercard_transaction_processing_rules/chap2/*.md
+  repo: https://github.com/parsa-i/taxonomy
+domain: Mastercard Transaction Processing Rules
+seed_examples:
+- context: "3. If an additional preauthorization request is declined, then the most\
+    \ recent previously approved preauthorization remains valid. For example, if the\
+    \ Issuer approved the original USD 100 preauthorization request on 1 June and\
+    \ declined an additional USD 25 preauthorization request on 7 June, then the Transaction\
+    \ must be completed by 8 June (when the original preauthorization expires) for\
+    \ USD 100 (the original approved amount).  \n4. If any preauthorization request\
+    \ expires before the Transaction completion message is sent, then the Merchant\
+    \ or Acquirer must initiate a new original preauthorization request for the Transaction.\
+    \  \nThe processing of multiple preauthorization requests for the same Maestro\
+    \ POS Transaction must occur as follows.  \nPreauthorization message (0200/0210)\n\
+    Preauth1 (original preauthorization message)\nPreauth2 (first additional preauthorization\
+    \ message for the same Transaction)"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what happens if
+      an additional preauthorization request is declined?
+    answer: According to the Mastercard Transaction Processing Rules, if an additional
+      preauthorization request is declined, the most recent previously approved preauthorization
+      remains valid. For instance, if the initial USD 100 preauthorization is approved
+      on June 1 and an additional USD 25 preauthorization request is declined on June
+      7, the transaction must be completed by June 8 for USD 100, which is the original
+      approved amount.
+  - question: According to Mastercard Transaction Processing Rules, what action must
+      be taken if a preauthorization request expires before the Transaction completion
+      message is sent?
+    answer: According to Mastercard Transaction Processing Rules, if a preauthorization
+      request expires before the Transaction completion message is sent, the Merchant
+      or Acquirer must initiate a new original preauthorization request for the Transaction.
+  - question: According to Mastercard Transaction Processing Rules, how should the
+      processing of multiple preauthorization requests for the same Maestro POS Transaction
+      be handled?
+    answer: According to Mastercard Transaction Processing Rules, if an additional
+      preauthorization request is declined, the most recent previously approved preauthorization
+      remains valid. If any preauthorization request expires before the transaction
+      completion message is sent, the merchant or acquirer must initiate a new original
+      preauthorization request for the transaction.
+- context: "# 2.1 Acquirer Authorization Requirements  \nAn Acquirer may permit a\
+    \ Merchant to use the Authentication Outage Exception flag in authorization request\
+    \ messages. The Merchant must first attempt use of a suitable exemption (subject\
+    \ to the Acquirer's approval) before resorting to the Authentication Outage Exception.\
+    \ The Acquirer must ensure that the Merchant does not misuse the Authentication\
+    \ Outage Exception as a means to bypass authentication. Authentication failure\
+    \ must persist for at least five minutes, leading all authentications to fail\
+    \ (i.e., no attempt responses provided) before the Authentication Outage Exception\
+    \ is used. Authentication must be resumed as soon as the outage is resolved. The\
+    \ Acquirer must promptly provide full and clear evidence of the outage upon the\
+    \ Corporation's request."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, under what circumstances
+      can an Acquirer allow a Merchant to use the Authentication Outage Exception
+      in authorization request messages?
+    answer: An Acquirer can allow a Merchant to use the Authentication Outage Exception
+      in authorization request messages when authentication failure persists for at
+      least five minutes, causing all authentication attempts to fail, according to
+      Mastercard Transaction Processing Rules.
+  - question: According to Mastercard Transaction Processing Rules, what evidence
+      must an Acquirer provide in case of an authentication outage?
+    answer: According to Mastercard Transaction Processing Rules, in case of an authentication
+      outage, the Acquirer must promptly provide full and clear evidence of the outage
+      upon the Corporation's request.
+  - question: According to Mastercard Transaction Processing Rules, what steps must
+      be taken before a Merchant can use the Authentication Outage Exception?
+    answer: According to Mastercard Transaction Processing Rules, before a Merchant
+      can use the Authentication Outage Exception, the Merchant must first attempt
+      to use a suitable exemption approved by the Acquirer. The Authentication Outage
+      Exception should only be used if authentication failure persists for at least
+      five minutes, causing all authentication attempts to fail.
+- context: "# Calculation of the Issuer Failure Rate  \nThe Issuer authorization failure\
+    \ rate for Maestro POS Transactions and ATM Transactions is calculated by taking\
+    \ the total number of Transactions declined due to Issuer unavailability, malfunction,\
+    \ or timeout divided by the total number of Transactions.  \nNOTE: Modifications\
+    \ to this Rule appear in the \u201CEurope Region\u201D and \"United States Region\"\
+    \ sections at the end of this chapter."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, how is the Issuer
+      failure rate for Maestro POS and ATM transactions calculated?
+    answer: According to Mastercard Transaction Processing Rules, the Issuer failure
+      rate for Maestro POS and ATM transactions is calculated by dividing the total
+      number of transactions declined due to Issuer unavailability, malfunction, or
+      timeout by the total number of transactions.
+  - question: According to Mastercard Transaction Processing Rules, what factors contribute
+      to the total number of transactions declined due to Issuer unavailability, malfunction,
+      or timeout?
+    answer: According to Mastercard Transaction Processing Rules, the total number
+      of transactions declined due to Issuer unavailability, malfunction, or timeout
+      is determined by the total number of declined transactions for these reasons
+      divided by the total number of transactions.
+  - question: According to Mastercard Transaction Processing Rules, where can modifications
+      to the calculation of the Issuer failure rate for Maestro POS and ATM transactions
+      be found for specific regions like the Europe Region and United States Region?
+    answer: Modifications to the calculation of the Issuer failure rate for Maestro
+      POS and ATM transactions for specific regions like the Europe Region and United
+      States Region can be found in the respective sections at the end of the chapter,
+      according to Mastercard Transaction Processing Rules.
+- context: "1. An Issuer must support partial approval for all prepaid Mastercard,\
+    \ all Debit Mastercard (including prepaid), and all Maestro Account ranges.\n\
+    2. For each Merchant identified with any of the MCCs listed below, an Acquirer\
+    \ must support partial approval on Mastercard and Maestro branded prepaid and\
+    \ debit Account ranges. This requirement applies to Card-present Transactions\
+    \ occurring at attended Terminals and at Cardholder-activated Terminals (CATs)\
+    \ identified with MCC 5542 (Fuel Dispenser, Automated) or MCC 5552 (Electric Vehicle\
+    \ Charging).  \n|MCC|Description|\n|---|---|\n|5310|Discount Stores|\n|5311|Department\
+    \ Stores|\n|5411|Grocery Stores, Supermarkets|\n|5541|Service Stations (with or\
+    \ without Ancillary Services)|"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, which types of
+      Mastercard and Maestro transactions must Issuers support partial approval for?
+    answer: According to Mastercard Transaction Processing Rules, Issuers must support
+      partial approval for all prepaid Mastercard, all Debit Mastercard (including
+      prepaid), and all Maestro account ranges. Additionally, for specific Merchant
+      Category Codes (MCCs) such as 5310, 5311, 5411, and 5541, Acquirers must support
+      partial approval on Mastercard and Maestro branded prepaid and debit account
+      ranges, particularly for card-present transactions at attended terminals and
+      at cardholder-activated terminals identified with MCC 5542 or MCC 5552.
+  - question: According to Mastercard Transaction Processing Rules, under what conditions
+      must Acquirers support partial approval for prepaid and debit transactions at
+      Merchant locations?
+    answer: According to the Mastercard Transaction Processing Rules, Acquirers must
+      support partial approval for prepaid and debit transactions at Merchant locations
+      identified with specific Merchant Category Codes (MCCs), including 5310 (Discount
+      Stores), 5311 (Department Stores), 5411 (Grocery Stores, Supermarkets), and
+      5541 (Service Stations). This requirement applies to card-present transactions
+      occurring at attended terminals and at cardholder-activated terminals (CATs)
+      identified with MCC 5542 (Fuel Dispenser, Automated) or MCC 5552 (Electric Vehicle
+      Charging).
+  - question: According to Mastercard Transaction Processing Rules, which Merchant
+      Category Codes (MCCs) are explicitly mentioned as requiring partial approval
+      support for Card-present Transactions at attended Terminals and at Cardholder-activated
+      Terminals (CATs)?
+    answer: According to Mastercard Transaction Processing Rules, the Merchant Category
+      Codes (MCCs) explicitly mentioned as requiring partial approval support for
+      Card-present Transactions at attended Terminals and at Cardholder-activated
+      Terminals (CATs) are 5542 (Fuel Dispenser, Automated) and 5552 (Electric Vehicle
+      Charging). Additionally, partial approval support is required for MCCs 5310
+      (Discount Stores), 5311 (Department Stores), 5411 (Grocery Stores, Supermarkets),
+      and 5541 (Service Stations (with or without Ancillary Services)) for transactions
+      occurring at attended terminals and CATs identified with MCC 5542 or 5552.
+- context: "# 2.5.3 Preauthorizations\u2014ATM and Manual Cash Disbursement Transactions\
+    \  \nexception of automated fuel dispenser Transactions, electric vehicle charging\
+    \ Transactions, and Contactless transit aggregated Transactions.  \nAs an exception\
+    \ to the preceding Rule, preauthorizations for an estimated maximum amount are\
+    \ permitted for Maestro POS Transactions conducted in a Card-present environment,\
+    \ at vending machines located in the Netherlands and Switzerland that are identified\
+    \ with MCC 5499 (Miscellaneous Food Stores\u2014Convenience Stores, Markets, Specialty\
+    \ Stores). The Acquirer must inform the Issuer of the final Transaction amount\
+    \ via an advice message, which must be sent to the Issuer within 20 minutes of\
+    \ the authorization response message."
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what types of
+      transactions are exempt from the preauthorization rules for ATM and manual cash
+      disbursement transactions?
+    answer: According to Mastercard Transaction Processing Rules, automated fuel dispenser
+      transactions, electric vehicle charging transactions, and contactless transit
+      aggregated transactions are exempt from the preauthorization rules for ATM and
+      manual cash disbursement transactions.
+  - question: According to Mastercard Transaction Processing Rules, under what conditions
+      are preauthorizations permitted for Maestro POS Transactions at vending machines
+      in the Netherlands and Switzerland?
+    answer: "According to Mastercard Transaction Processing Rules, preauthorizations\
+      \ for Maestro POS transactions at vending machines in the Netherlands and Switzerland\
+      \ are permitted under specific conditions. These conditions include:\n\n1. The\
+      \ transaction must be conducted in a card-present environment.\n2. The vending\
+      \ machines must be identified with MCC 5499 (Miscellaneous Food Stores\u2014\
+      Convenience Stores, Markets, Specialty Stores).\n3. The acquirer must inform\
+      \ the issuer of the final transaction amount via an advice message within 20\
+      \ minutes of the authorization response message."
+  - question: According to Mastercard Transaction Processing Rules, what is the required
+      timeframe for an Acquirer to inform the Issuer of the final Transaction amount
+      for preauthorizations at vending machines in the Netherlands and Switzerland?
+    answer: According to Mastercard Transaction Processing Rules, the Acquirer must
+      inform the Issuer of the final Transaction amount for preauthorizations at vending
+      machines in the Netherlands and Switzerland within 20 minutes of the authorization
+      response message.
+document_outline: This document outlines the authorization and clearing requirements
+  for Acquirers and Merchants processing Mastercard transactions, including support
+  for various transaction types and mandatory features like online authorization and
+  refund processing.

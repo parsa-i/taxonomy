@@ -1,0 +1,268 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/us/bsa_aml/assessing_compliance/suspicous_activity_exam/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines examination procedures for assessing a bank's
+  compliance with suspicious activity reporting requirements under the Bank Secrecy
+  Act/Anti-Money Laundering regulations.
+domain: USA Regulations
+seed_examples:
+- context: "Whether management decisions to file or not file a SAR are supported and\
+    \ reasonable.\nWhether documentation is adequate.\nWhether the decision process\
+    \ is completed and SARs are filed in a timely manner.  \n24. On the basis of a\
+    \ risk assessment, prior examination reports, and a review of the bank's audit\
+    \ findings, sample the SARs downloaded from the BSA-reporting database or the\
+    \ bank's internal SAR records. Review the quality of SAR content to assess the\
+    \ following:  \nSARs contain accurate information.\nSAR narratives are complete\
+    \ and thorough, and clearly explain why the activity is suspicious (i.e., the\
+    \ SAR narrative should not simply state \"see attachment\" if the bank included\
+    \ a csv file).  \n25. On the basis of examination procedures completed, including\
+    \ transaction testing, form a conclusion about the ability of policies, procedures,\
+    \ and processes to meet regulatory requirements associated with monitoring, detecting,\
+    \ and reporting suspicious activity."
+  questions_and_answers:
+  - answer: A regulatory officer can determine if management's decisions to file or
+      not file a Suspicious Activity Report (SAR) are supported and reasonable by
+      examining the bank's processes and documentation related to SARs. This includes
+      ensuring that decisions are adequately documented, the decision-making process
+      is completed in a timely manner, and SARs contain accurate and thorough information.
+      The officer should also review the quality of SAR content, including the narratives,
+      to ensure they clearly explain why the activity is suspicious. This assessment
+      is based on the guidelines provided by the governing body for monitoring, detecting,
+      and reporting suspicious activity.
+    question: How can a regulatory officer determine if the management's decisions
+      to file or not file a Suspicious Activity Report (SAR) are supported and reasonable?
+  - answer: 'To ensure the adequacy of Suspicious Activity Report (SAR) documentation,
+      the following key elements should be present:
+
+
+      1. **Accurate Information**: SARs should contain precise and correct details
+      about the suspicious activity.
+
+      2. **Complete and Thorough Narratives**: The SAR narrative should provide a
+      comprehensive explanation of why the activity is considered suspicious. It should
+      not merely refer to attachments without providing a clear description.
+
+      3. **Support for Management Decisions**: The documentation should support and
+      justify management''s decisions to file or not file a SAR.
+
+      4. **Timely Filing**: The decision-making process and the filing of SARs should
+      be completed promptly as per regulatory requirements.
+
+
+      These elements are essential for meeting the regulatory requirements associated
+      with monitoring, detecting, and reporting suspicious activity, as outlined in
+      the Bank Secrecy Act (BSA).'
+    question: What are the key elements that should be present in the documentation
+      of a Suspicious Activity Report (SAR) to ensure its adequacy?
+  - answer: The timeliness of filing Suspicious Activity Reports (SARs) significantly
+      impacts a bank's compliance with regulatory requirements, as emphasized by the
+      guidelines for examining SAR processes. According to the Bank Secrecy Act (BSA),
+      SARs must be filed within a specified timeframe after the detection of suspicious
+      activity. Delays in filing can lead to non-compliance, potentially resulting
+      in regulatory penalties and increased scrutiny. Additionally, timely filing
+      ensures that law enforcement agencies receive critical information promptly,
+      enhancing their ability to investigate and prevent financial crimes.
+    question: How does the timeliness of filing Suspicious Activity Reports (SARs)
+      impact the bank's compliance with regulatory requirements?
+- context: "## Managing Alerts  \n9. Determine whether the bank has policies, procedures,\
+    \ and processes to ensure the timely generation of, review of, and response to\
+    \ reports used to identify unusual activities.  \n10. Determine whether policies,\
+    \ procedures, and processes require appropriate research when monitoring reports\
+    \ identify unusual activity.  \n11. Evaluate the bank\u2019s policies, procedures,\
+    \ and processes for referring unusual activity from all business lines to the\
+    \ personnel or department responsible for evaluating unusual activity. The process\
+    \ should ensure that all applicable information (e.g., criminal subpoenas, NSLs,\
+    \ and section 314(a) requests) is effectively evaluated.  \n12. Verify that staffing\
+    \ levels are sufficient to review reports and alerts and investigate items, and\
+    \ that staff possess the requisite experience level and proper investigatory tools.\
+    \ The volume of system alerts and investigations should not be tailored solely\
+    \ to meet existing staffing levels."
+  questions_and_answers:
+  - answer: 'The key elements that a bank should have in place to ensure the timely
+      management of alerts related to suspicious activity reporting include:
+
+
+      1. **Policies, Procedures, and Processes**: Implementing clear guidelines to
+      ensure the timely generation, review, and response to reports of unusual activities.
+
+      2. **Adequate Research Requirements**: Policies that mandate appropriate research
+      when monitoring reports identify unusual activity.
+
+      3. **Unified Referral System**: Establishing processes for referring unusual
+      activity from all business lines to the relevant personnel or department for
+      evaluation, ensuring all pertinent information is considered.
+
+      4. **Sufficient Staffing and Resources**: Ensuring there are enough staff members
+      with the necessary experience and investigatory tools to review reports, alerts,
+      and investigate items. Staffing levels should not be tailored solely to meet
+      existing staffing levels but should adequately address the volume of alerts
+      and investigations.'
+    question: What are the key elements that a bank should have in place to ensure
+      the timely management of alerts related to suspicious activity reporting?
+  - answer: A bank's policies, procedures, and processes should ensure that unusual
+      activity from all business lines is promptly referred to the personnel or department
+      responsible for evaluating such activity. The process should facilitate the
+      effective evaluation of all applicable information, such as criminal subpoenas,
+      National Security Letters (NSLs), and section 314(a) requests, as outlined by
+      the governing body or rule.
+    question: How should a bank's policies, procedures, and processes handle the referral
+      of unusual activity from various business lines to the appropriate personnel
+      or department?
+  - answer: 'When evaluating the sufficiency of staffing levels for reviewing alerts
+      and investigating suspicious activities in a bank, the following criteria should
+      be considered:
+
+
+      1. **Adequate Staffing Levels**: Ensure that there are enough personnel to handle
+      the volume of reports and alerts generated by the bank''s monitoring systems.
+
+      2. **Staff Experience and Training**: Verify that staff members have the necessary
+      experience and training to effectively investigate and review alerts.
+
+      3. **Proper Investigatory Tools**: Confirm that staff is equipped with the appropriate
+      tools to conduct investigations.
+
+      4. **Alert Volume Independence**: Ensure that the volume of system alerts and
+      investigations is not merely tailored to meet existing staffing levels, but
+      rather reflects the actual needs based on the bank''s risk profile and activity
+      levels.
+
+
+      These criteria are outlined in the examination procedures for assessing a bank''s
+      management of alerts related to suspicious activity reporting.'
+    question: What criteria should be considered when evaluating the sufficiency of
+      staffing levels for reviewing alerts and investigating suspicious activities
+      in a bank?
+- context: "## Identification of Unusual Activity  \n1. Review the bank\u2019s policies,\
+    \ procedures, and processes for identifying, researching, and reporting suspicious\
+    \ activity. Determine whether they include the following:  \nLines of communication\
+    \ for the referral of unusual activity to appropriate personnel.\nDesignation\
+    \ of individual(s) responsible for identifying, researching, and reporting suspicious\
+    \ activities.\nMonitoring systems used to identify unusual activity.\nProcedures\
+    \ for reviewing and evaluating the transaction activity of subjects included in\
+    \ law enforcement requests (e.g., grand jury subpoenas, section 314(a) requests,\
+    \ or National Security Letters (NSLs)) for suspicious activity. NSLs are highly\
+    \ confidential documents; as such, examiners will not review or sample specific\
+    \ NSLs. Instead, examiners should evaluate the policies, procedures, and processes\
+    \ for:\nResponding to NSLs.\nEvaluating the account of the target for suspicious\
+    \ activity.\nFiling SARs, if necessary."
+  questions_and_answers:
+  - answer: "A bank's policies and procedures for identifying and reporting suspicious\
+      \ activity should include:\n\n1. **Clear lines of communication** for referring\
+      \ unusual activity to the appropriate personnel.\n2. **Designation of responsible\
+      \ individuals** for identifying, researching, and reporting suspicious activities.\n\
+      3. **Monitoring systems** to detect unusual activity.\n4. **Procedures for handling\
+      \ law enforcement requests**, including:\n   - Responding to requests such as\
+      \ grand jury subpoenas, section 314(a) requests, or National Security Letters\
+      \ (NSLs).\n   - Evaluating the accounts of targets for suspicious activity.\n\
+      \   - Filing Suspicious Activity Reports (SARs), if necessary."
+    question: What key elements should be included in a bank's policies and procedures
+      for identifying and reporting suspicious activity?
+  - answer: A bank ensures proper communication and responsibility for handling unusual
+      activity by establishing clear lines of communication for referring unusual
+      activity to appropriate personnel and designating specific individuals responsible
+      for identifying, researching, and reporting suspicious activities. This is in
+      accordance with the examination procedures outlined for assessing a bank's policies,
+      procedures, and processes.
+    question: How does a bank ensure proper communication and responsibility for handling
+      unusual activity?
+  - answer: To evaluate transaction activity related to law enforcement requests without
+      directly reviewing National Security Letters (NSLs), a bank should have procedures
+      in place for responding to NSLs, evaluating the accounts of the targets for
+      suspicious activity, and filing Suspicious Activity Reports (SARs) if necessary.
+      These procedures should be outlined in the bank's policies and processes for
+      handling law enforcement requests, in accordance with the guidelines provided
+      by the governing authorities.
+    question: What specific procedures should a bank have in place for evaluating
+      transaction activity related to law enforcement requests without directly reviewing
+      National Security Letters (NSLs)?
+- context: "18. Review the selected accounts for unusual activity. If the examiner\
+    \ identifies unusual activity, review customer information for indications that\
+    \ the activity is typical for the customer (i.e., the sort of activity in which\
+    \ the customer is normally expected to engage). When reviewing for unusual activity,\
+    \ consider the following:  \nFor individual customers, whether the activity is\
+    \ consistent with CDD information (e.g., occupation, expected account activity,\
+    \ and sources of funds and wealth).\nFor business customers, whether the activity\
+    \ is consistent with CDD information (e.g., type of business, size, location,\
+    \ and target market).  \n19. Determine whether the transaction or surveillance\
+    \ suspicious activity monitoring system detected the activity that the examiner\
+    \ identified as unusual."
+  questions_and_answers:
+  - answer: A regulatory officer can determine if unusual activity in a bank account
+      is typical for the customer by reviewing customer information and checking if
+      the activity aligns with the Customer Due Diligence (CDD) information. For individual
+      customers, this involves verifying if the activity is consistent with their
+      occupation, expected account activity, and sources of funds and wealth. For
+      business customers, the activity should be consistent with the type of business,
+      its size, location, and target market. This process is outlined in the 'EXAMINATION
+      PROCEDURES Suspicious Activity Reporting' under the 'Transaction Testing' section.
+    question: How can a regulatory officer determine if unusual activity in a bank
+      account is typical for the customer?
+  - answer: When reviewing unusual activity in individual customer accounts, consider
+      whether the activity aligns with the Customer Due Diligence (CDD) information,
+      such as the customer's occupation, expected account activity, and sources of
+      funds and wealth. This is in accordance with the 'EXAMINATION PROCEDURES Suspicious
+      Activity Reporting' guidelines.
+    question: What factors should be considered when reviewing unusual activity in
+      individual customer accounts?
+  - answer: The transaction or surveillance suspicious activity monitoring system
+      assists in identifying unusual account activity during an examination by flagging
+      activities that deviate from expected customer behavior, as outlined in the
+      'EXAMINATION PROCEDURES Suspicious Activity Reporting.' This system helps examiners
+      by detecting unusual activities which they can then review and compare against
+      customer due diligence (CDD) information to determine if the activity is typical
+      for the customer.
+    question: How does the transaction or surveillance suspicious activity monitoring
+      system assist in identifying unusual account activity during an examination?
+- context: "20. For transactions identified as unusual, discuss the transactions with\
+    \ management. Determine whether the account officer demonstrates knowledge of\
+    \ the customer and the unusual transactions. After examining the available facts,\
+    \ determine whether management knows of a reasonable explanation for the transactions.\
+    \  \n21. Determine whether the bank has failed to identify any reportable suspicious\
+    \ activity.  \n22. From the results of the sample, determine whether the transaction\
+    \ or surveillance suspicious activity monitoring system effectively detects unusual\
+    \ or suspicious activity. Identify the underlying cause of any deficiencies in\
+    \ the monitoring systems (e.g., inappropriate filters, insufficient risk assessment,\
+    \ or inadequate decision-making).  \n23. On the basis of a risk assessment, prior\
+    \ examination reports, and a review of the bank\u2019s audit findings, select\
+    \ a sample of management\u2019s research decisions to determine the following:"
+  questions_and_answers:
+  - answer: Management's involvement in understanding unusual transactions is crucial
+      for the suspicious activity reporting process as it helps determine whether
+      there is a reasonable explanation for these transactions. According to the steps
+      outlined in the transaction testing process, discussing unusual transactions
+      with management allows examiners to assess the account officer's knowledge of
+      the customer and the transactions. This dialogue helps establish if management
+      is aware of any reportable suspicious activity and if the bank's monitoring
+      systems are effectively detecting unusual or suspicious activity. This process
+      is essential for compliance with regulations set forth by governing bodies,
+      ensuring that banks accurately identify and report suspicious activities.
+    question: How does the involvement of management in understanding unusual transactions
+      contribute to the suspicious activity reporting process?
+  - answer: "To evaluate the effectiveness of a bank's transaction or surveillance\
+      \ suspicious activity monitoring system, the following steps can be taken as\
+      \ outlined by the examination process:\n\n1. **Discuss Unusual Transactions\
+      \ with Management**: Engage with management to understand their awareness of\
+      \ unusual transactions and assess their knowledge of the customer and the transactions\
+      \ in question.\n\n2. **Verify Identification of Reportable Suspicious Activity**:\
+      \ Determine if the bank has correctly identified and reported all suspicious\
+      \ activities that meet the criteria for reporting.\n\n3. **Assess Monitoring\
+      \ System Effectiveness**: Use a sample of transactions to evaluate whether the\
+      \ monitoring system effectively detects unusual or suspicious activity. Identify\
+      \ any underlying causes of deficiencies, such as inappropriate filters, insufficient\
+      \ risk assessment, or inadequate decision-making.\n\n4. **Review Management\u2019\
+      s Research Decisions**: Based on a risk assessment, prior examination reports,\
+      \ and the bank\u2019s audit findings, select a sample of management\u2019s research\
+      \ decisions to further evaluate the system's effectiveness and compliance."
+    question: What steps can be taken to evaluate the effectiveness of a bank's transaction
+      or surveillance suspicious activity monitoring system?
+  - answer: Potential underlying causes for deficiencies in a bank's monitoring systems
+      for detecting unusual or suspicious activity may include inappropriate filters,
+      insufficient risk assessment, or inadequate decision-making, as identified by
+      the examination process outlined by regulatory bodies.
+    question: What potential underlying causes might lead to deficiencies in a bank's
+      monitoring systems for detecting unusual or suspicious activity?
+version: 3

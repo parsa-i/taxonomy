@@ -1,0 +1,185 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/us/bsa_aml/assessing_compliance/beneficial_ownership/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines the requirements and procedures for banks
+  to identify and verify the beneficial owners of legal entity customers to prevent
+  money laundering and other criminal activities.
+domain: USA Regulations
+seed_examples:
+- context: "## Reliance on Another Financial Institution  \nA bank is permitted to\
+    \ rely on the performance by another financial institution (including an affiliate)\
+    \ of the requirements of the Beneficial Ownership Rule with respect to any legal\
+    \ entity customer of the covered financial institution that is opening, or has\
+    \ opened, an account or has established a similar business relationship with the\
+    \ other financial institution to engage in services, dealings, or other financial\
+    \ transactions, provided that:  \n-  Reliance is reasonable, under the circumstances.\n\
+    -  The relied-upon financial institution is subject to a rule implementing 31\
+    \ USC 5318(h) and is regulated by a federal functional regulator.13"
+  questions_and_answers:
+  - answer: 'A bank can rely on another financial institution to fulfill beneficial
+      ownership requirements for legal entity customers under two conditions: first,
+      the reliance must be reasonable under the circumstances, and second, the other
+      financial institution must be subject to a rule implementing 31 USC 5318(h)
+      and be regulated by a federal functional regulator.'
+    question: Under what conditions can a bank rely on another financial institution
+      for fulfilling beneficial ownership requirements for legal entity customers?
+  - answer: 'The reasonableness of a bank''s reliance on another financial institution
+      for beneficial ownership requirements is determined by two factors: first, whether
+      the reliance is reasonable under the circumstances, and second, whether the
+      relied-upon financial institution is subject to a rule implementing 31 USC 5318(h)
+      and is regulated by a federal functional regulator, as outlined in the Beneficial
+      Ownership Rule.'
+    question: What factors determine whether a bank's reliance on another financial
+      institution for beneficial ownership requirements is considered reasonable?
+  - answer: To depend on another financial institution for beneficial ownership compliance,
+      the relied-upon institution must be subject to a rule implementing 31 USC 5318(h)
+      and be regulated by a federal functional regulator.
+    question: What regulatory requirements must the relied-upon financial institution
+      meet in order for a bank to depend on it for beneficial ownership compliance?
+- context: "3. On the basis of a risk assessment, prior examination reports, and a\
+    \ review of the bank\u2019s audit findings, select a sample of new accounts opened\
+    \ for legal entity customers since May 11, 2018 to review for compliance with\
+    \ the Beneficial Ownership Rule. The sample should include a cross-section of\
+    \ account types. From this sample, determine whether the bank has performed the\
+    \ following procedures:  \n-  Opened the account in accordance with the requirements\
+    \ of the Beneficial Ownership Rule (31 CFR 1010.230).\n-  Obtained the identifying\
+    \ information for each beneficial owner of a legal entity customer as required\
+    \ (e.g. name, date of birth, address, and identification number).\n-  Within a\
+    \ reasonable time after account opening, verified enough of the beneficial owner\u2019\
+    s identity information to form a reasonable belief as to the beneficial owner\u2019\
+    s true identity.\n-  Appropriately resolved situations in which beneficial owner\u2019\
+    s identity could not be reasonably established."
+  questions_and_answers:
+  - answer: "A regulatory officer should consider the following key factors when selecting\
+      \ a sample of new accounts for reviewing compliance with the Beneficial Ownership\
+      \ Rule:\n\n1. **Risk Assessment**: Evaluate the risk associated with the accounts\
+      \ to ensure a representative sample.\n2. **Prior Examination Reports**: Consider\
+      \ findings from previous examinations to focus on areas with past issues.\n\
+      3. **Audit Findings**: Incorporate insights from the bank\u2019s internal audit\
+      \ findings to identify potential problem areas.\n4. **Account Types**: Include\
+      \ a cross-section of different account types to ensure a comprehensive review.\n\
+      5. **Post-May 11, 2018 Accounts**: Focus on accounts opened after May 11, 2018,\
+      \ when the Beneficial Ownership Rule (31 CFR 1010.230) became effective.\n\n\
+      These factors help ensure that the sample is representative and covers areas\
+      \ that are most likely to reveal compliance issues."
+    question: What key factors should a regulatory officer consider when selecting
+      a sample of new accounts for reviewing compliance with the Beneficial Ownership
+      Rule?
+  - answer: "To comply with the Beneficial Ownership Rule when opening a new account\
+      \ for a legal entity customer, a bank should have performed the following specific\
+      \ procedures:\n\n- Opened the account in accordance with the requirements of\
+      \ the Beneficial Ownership Rule (31 CFR 1010.230).\n- Obtained the identifying\
+      \ information for each beneficial owner of a legal entity customer, including\
+      \ name, date of birth, address, and identification number.\n- Within a reasonable\
+      \ time after account opening, verified enough of the beneficial owner\u2019\
+      s identity information to form a reasonable belief as to the beneficial owner\u2019\
+      s true identity.\n- Appropriately resolved situations in which the beneficial\
+      \ owner\u2019s identity could not be reasonably established."
+    question: What specific procedures should a bank have performed to comply with
+      the Beneficial Ownership Rule when opening a new account for a legal entity
+      customer?
+  - answer: If the identity of a beneficial owner cannot be reasonably established,
+      the bank should appropriately resolve the situation in accordance with the Beneficial
+      Ownership Rule (31 CFR 1010.230).
+    question: How should a bank handle situations where the identity of a beneficial
+      owner cannot be reasonably established?
+- context: "## Legal Entity Customers  \nFor the purposes of the Beneficial Ownership\
+    \ Rule,2 a legal entity customer is defined as a corporation, limited liability\
+    \ company, or other entity that is created by the filing of a public document\
+    \ with a Secretary of State or other similar office, a general partnership, and\
+    \ any similar entity formed under the laws of a foreign jurisdiction that opens\
+    \ an account. A number of types of business entities are excluded from the definition\
+    \ of legal entity customer under the Beneficial Ownership rule. In addition, and\
+    \ subject to certain limitations, banks are not required to identify and verify\
+    \ the identity of the beneficial owner(s) of a legal entity customer when the\
+    \ customer opens certain types of accounts. For further information on exclusions\
+    \ and exemptions to the Beneficial Ownership Rule, see Appendix 1. These exclusions\
+    \ and exemptions do not alter or supersede other existing requirements related\
+    \ to BSA/AML and OFAC sanctions."
+  questions_and_answers:
+  - answer: A legal entity customer, as defined by the Beneficial Ownership Rule,
+      is a corporation, limited liability company, or other entity created by filing
+      a public document with a Secretary of State or similar office, a general partnership,
+      or any similar entity formed under foreign laws that opens an account.
+    question: What is the definition of a legal entity customer according to the Beneficial
+      Ownership Rule?
+  - answer: Under the Beneficial Ownership Rule, certain types of business entities
+      are excluded from the definition of a legal entity customer. These exclusions
+      and exemptions are detailed in Appendix 1 of the rule.
+    question: Which types of business entities are excluded from the definition of
+      a legal entity customer under the Beneficial Ownership Rule?
+  - answer: Banks are exempt from identifying and verifying the identity of the beneficial
+      owner(s) of a legal entity customer when the customer opens certain types of
+      accounts, as outlined in the Beneficial Ownership Rule. Specific details on
+      these exemptions can be found in Appendix 1 of the rule.
+    question: Under what circumstances are banks exempt from identifying and verifying
+      the identity of the beneficial owner(s) of a legal entity customer?
+- context: "Banks must have procedures to maintain and update customer information,\
+    \ including beneficial ownership information for legal entity customers, on the\
+    \ basis of risk. Additionally, banks are not required to conduct retroactive reviews\
+    \ to obtain beneficial ownership information on legal entity customers that were\
+    \ existing customers as of May 11, 2018. However, the bank may need to obtain\
+    \ (and thereafter update) beneficial ownership information for existing legal\
+    \ entity customers based on its ongoing monitoring. For further guidance on maintaining\
+    \ and updating of customer information including beneficial ownership information,\
+    \ please see the \u201COngoing Monitoring of Customer Relationship\u201D section\
+    \ of the \u201CCustomer Due Diligence Overview \u201D section of the FFIEC BSA/AML\
+    \ Examination Manual.12"
+  questions_and_answers:
+  - answer: Banks must maintain and update beneficial ownership information for legal
+      entity customers based on risk, according to the FFIEC BSA/AML Examination Manual.
+      They are not required to retroactively review customers existing as of May 11,
+      2018, but may need to update information based on ongoing monitoring.
+    question: What are the requirements for banks to maintain and update beneficial
+      ownership information for legal entity customers?
+  - answer: No, banks are not required to perform retroactive reviews to obtain beneficial
+      ownership information for customers existing as of May 11, 2018, according to
+      the Financial Crimes Enforcement Network (FinCEN) requirements.
+    question: Are banks required to perform retroactive reviews to obtain beneficial
+      ownership information for customers existing as of May 11, 2018?
+  - answer: A bank might need to update beneficial ownership information for existing
+      legal entity customers when its ongoing monitoring indicates changes in the
+      customer's risk profile or other relevant changes, as outlined in the "Ongoing
+      Monitoring of Customer Relationship" section of the FFIEC BSA/AML Examination
+      Manual.
+    question: Under what circumstances might a bank need to update beneficial ownership
+      information for existing legal entity customers based on ongoing monitoring?
+- context: Legal entities, whether domestic or foreign, can be used to facilitate
+    money laundering and other crimes because their true ownership can be concealed.
+    The collection of beneficial ownership information by banks about legal entity
+    customers can provide law enforcement with key details about suspected criminals
+    who use legal entity structures to conceal their illicit activity and assets.
+    Requiring legal entity customers seeking access to banks to disclose identifying
+    information, such as the name, date of birth, and Social Security number of natural
+    persons who own or control them will make such entities more transparent, and
+    thus less attractive to criminals and those who assist them.
+  questions_and_answers:
+  - answer: It is important for banks to collect beneficial ownership information
+      from legal entity customers to prevent money laundering and other crimes. By
+      obtaining details such as the name, date of birth, and Social Security number
+      of natural persons who own or control these entities, banks can provide law
+      enforcement with crucial information about potential criminals who use legal
+      structures to conceal illegal activities and assets. This transparency makes
+      legal entities less attractive to criminals and their accomplices.
+    question: Why is it important for banks to collect beneficial ownership information
+      from legal entity customers?
+  - answer: "Transparency of legal entities can help prevent money laundering by requiring\
+      \ the disclosure of beneficial ownership information. When legal entities are\
+      \ compelled to reveal identifying details\u2014such as the name, date of birth,\
+      \ and Social Security number of their owners or controllers\u2014it makes these\
+      \ entities more transparent. This transparency deters criminals from using legal\
+      \ entity structures to conceal illicit activities and assets, as law enforcement\
+      \ can more easily track and trace suspicious activities."
+    question: How can the transparency of legal entities help in preventing money
+      laundering activities?
+  - answer: 'To enhance transparency, legal entity customers should disclose the following
+      specific identifying information to banks: the name, date of birth, and Social
+      Security number of natural persons who own or control them. This is in line
+      with the requirements for collecting beneficial ownership information to prevent
+      money laundering.'
+    question: What specific identifying information should legal entity customers
+      disclose to banks to enhance transparency?
+version: 3

@@ -1,0 +1,175 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/kyc/ongoing_monitoring/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines FINTRAC's ongoing monitoring requirements
+  for banks, detailing the process and frequency of reviewing client information to
+  detect suspicious transactions, update records, reassess risk, and ensure consistency
+  with client profiles.
+domain: Canadian Regulations
+seed_examples:
+- context: "## 4\\. What are the exceptions to ongoing monitoring?  \nYou do not have\
+    \ to conduct ongoing monitoring in the following situations:  \n1. **Financial\
+    \ entities**:You do not have toconduct ongoing monitoring for a group plan account\
+    \ held within a dividend or a distribution reinvestment plan (including a plan\
+    \ that allows members to purchase additional shares or units with contributions\
+    \ other than the dividends or distributions paid by the sponsor of the plan),\
+    \ if the sponsor of the plan:Footnote 4\n- is an entity whose shares or units\
+    \ are traded on a Canadian stock exchange; **and**\n- operates in a country that\
+    \ is a member of the Financial Action Task Force.\n2. **Insurance companies, brokers\
+    \ or agents**:You do not have to conduct ongoing monitoring when you are dealing\
+    \ in reinsurance.Footnote 5"
+  questions_and_answers:
+  - answer: Financial entities are exempt from conducting ongoing monitoring for group
+      plan accounts held within a dividend or distribution reinvestment plan, provided
+      the plan sponsor is an entity whose shares or units are traded on a Canadian
+      stock exchange and operates in a country that is a member of the Financial Action
+      Task Force.
+    question: According to Fintrac, In what situations are financial entities exempt
+      from conducting ongoing monitoring?
+  - answer: Insurance companies, brokers, or agents are exempt from ongoing monitoring
+      when dealing in reinsurance.
+    question: According to Fintrac, What are the exemptions for ongoing monitoring
+      for insurance companies, brokers, or agents?
+  - answer: 'To be exempt from ongoing monitoring, a group plan account under a dividend
+      or distribution reinvestment plan must meet the following conditions:
+
+      - The plan''s sponsor must be an entity whose shares or units are traded on
+      a Canadian stock exchange.
+
+      - The sponsor must operate in a country that is a member of the Financial Action
+      Task Force (FATF).'
+    question: According to Fintrac, What conditions must be met for a group plan account
+      under a dividend or distribution reinvestment plan to be exempt from ongoing
+      monitoring?
+- context: "## 1\\. What is ongoing monitoring?  \nOngoing monitoring is a process\
+    \ that you must develop and use to review all the information you have obtained\
+    \ about the clients with whom you have a business relationship, in order to: \
+    \ \n- detect any suspicious transactions that you are required to report to FINTRAC;\n\
+    - keep client identification information, beneficial ownership information, and\
+    \ the purpose and intended nature of the business relationship record up to date;\n\
+    - reassess the level of risk associated with your client's transactions and activities;\
+    \ and\n- determine whether transactions or activities are consistent with the\
+    \ client information you obtained and your risk assessment of the client.  \n\
+    For more information about when you enter into a business relationship with a\
+    \ client see FINTRAC's Business relationship requirements guidance."
+  questions_and_answers:
+  - answer: The primary purpose of ongoing monitoring in client relationships is to
+      detect any suspicious transactions that must be reported to FINTRAC, keep client
+      information up to date, reassess the level of risk associated with clients'
+      transactions and activities, and ensure these transactions and activities align
+      with the client information obtained and the risk assessment performed.
+    question: According to Fintrac, What is the primary purpose of ongoing monitoring
+      in client relationships?
+  - answer: Ongoing monitoring helps in updating client information and assessing
+      risk by requiring businesses to review client data to keep identification information,
+      beneficial ownership information, and business relationship records up to date.
+      This process also involves reassessing the risk level associated with clients'
+      transactions and activities, ensuring that they align with the initial client
+      information and risk assessment, as required by FINTRAC.
+    question: According to Fintrac, How does ongoing monitoring help in updating client
+      information and assessing risk?
+  - answer: If transactions are inconsistent with the client information obtained
+      and the risk assessment, you should reassess the level of risk associated with
+      the client's transactions and activities, and determine whether transactions
+      or activities are suspicious and need to be reported to FINTRAC.
+    question: According to Fintrac, What actions should be taken if transactions are
+      inconsistent with the client information obtained and the risk assessment?
+- context: "You must outline the measures you use to conduct the ongoing monitoring\
+    \ of your business relationships in your policies and procedures, which can form\
+    \ part of your ongoing monitoring records. However, the information you obtain\
+    \ as a result of your ongoing monitoring is likely to be specific to a particular\
+    \ business relationship and not captured in your policies and procedures, so it\
+    \ should be documented separately. You can document and update the information\
+    \ you obtain through your ongoing monitoring activities across several records.\
+    \ For example, updates to the client identification, beneficial ownership or business\
+    \ relationship information you have, could be recorded in any file you maintain\
+    \ on a client.  \n**Retention**: You must keep a record of the ongoing monitoring\
+    \ measures taken and the information obtained from that ongoing monitoring for\
+    \ at least five years from the date the record was created.Footnote 7"
+  questions_and_answers:
+  - answer: The specific details that should be included in a bank’s policies and
+      procedures regarding ongoing monitoring measures, as per FINTRAC's requirements,
+      are the measures used to conduct ongoing monitoring of business relationships.
+      These policies should outline the methods and processes employed to monitor
+      transactions and relationships effectively. Additionally, the bank must document
+      and retain records of the ongoing monitoring measures taken and the information
+      obtained for at least five years from the date of creation.
+    question: According to Fintrac, What specific details should be included in a
+      bank’s policies and procedures regarding ongoing monitoring measures?
+  - answer: Information obtained from ongoing monitoring should be documented separately
+      from policies and procedures, as it is specific to individual business relationships.
+      This information can be recorded and updated in various client files. According
+      to FINTRAC's requirements, these records must be kept for at least five years
+      from the date of their creation.
+    question: According to Fintrac, How is the information obtained from ongoing monitoring
+      typically documented, and where should it be recorded?
+  - answer: Banks must retain records of ongoing monitoring measures and the information
+      obtained from them for at least five years from the date the record was created,
+      as required by FINTRAC.
+    question: According to Fintrac, For how long must a bank retain records of ongoing
+      monitoring measures and the information obtained from them?
+- context: "## 2\\. When must I conduct ongoing monitoring?  \n**When you enter into\
+    \ a** **business relationship with a client** you must **periodically conduct**\
+    \ ongoing monitoring of that business relationship, based on your risk assessment.Footnote\
+    \ 2  \nThe frequency at which you conduct ongoing monitoring will depend on the\
+    \ risk level assigned to clients in your risk assessment. For example, clients\
+    \ identified as posing a low risk may require less frequent ongoing monitoring\
+    \ whereas those in your high-risk category will require that you take enhanced\
+    \ measures. For more information on risk assessment requirements and enhanced\
+    \ measures, see FINTRAC's Compliance program requirements guidance.  \nFINTRAC\
+    \ expects that your policies and procedures will include the frequency at which\
+    \ you will conduct ongoing monitoring of your clients, based on your risk assessment\
+    \ for a client or group of clients."
+  questions_and_answers:
+  - answer: The frequency of ongoing monitoring for clients in a business relationship
+      with the bank is determined by the risk level assigned to clients in your risk
+      assessment, as outlined by FINTRAC's compliance program requirements. Low-risk
+      clients may require less frequent monitoring, while high-risk clients will necessitate
+      enhanced measures and more frequent monitoring.
+    question: According to Fintrac, What factors determine the frequency of ongoing
+      monitoring for clients in a business relationship with the bank?
+  - answer: The risk assessment impacts the level of ongoing monitoring required for
+      clients by determining the frequency and intensity of monitoring. According
+      to FINTRAC's guidelines, clients identified as low risk require less frequent
+      monitoring, while high-risk clients necessitate enhanced measures and more frequent
+      monitoring. The specific frequency should be outlined in the institution's policies
+      and procedures based on the risk assessment for each client or group of clients.
+    question: According to Fintrac, How does the risk assessment impact the level
+      of ongoing monitoring required for clients?
+  - answer: FINTRAC expects that your policies and procedures will include the frequency
+      at which you will conduct ongoing monitoring of your clients, based on your
+      risk assessment for a client or group of clients.
+    question: What are the expectations from FINTRAC regarding the policies and procedures
+      for ongoing monitoring of clients?
+- context: "## 5\\. What records do I need to keep for ongoing monitoring?  \nYou\
+    \ must keep records of the measures you take **and** of the information obtained\
+    \ from the ongoing monitoring of your clients with whom you have a business relationship.Footnote\
+    \ 6 This includes:  \n- your processes in place to perform ongoing monitoring;\n\
+    - your processes in place to perform the enhanced ongoing monitoring of high-risk\
+    \ clients;\n- your processes for recording the information obtained as a result\
+    \ of your ongoing monitoring;\n- your processes for recording the information\
+    \ obtained as a result of your enhanced ongoing monitoring of high-risk clients;\
+    \ and\n- the information obtained as a result of your ongoing monitoring and enhanced\
+    \ ongoing monitoring of high-risk clients."
+  questions_and_answers:
+  - answer: Banks must keep records of the measures and information obtained from
+      ongoing monitoring of clients, as per FINTRAC's guidance. This includes documenting
+      the processes for ongoing and enhanced monitoring (especially for high-risk
+      clients), as well as the information gathered from these monitoring activities.
+    question: What specific records must banks keep for ongoing monitoring of clients
+      as per FINTRAC's guidance document?
+  - answer: To monitor high-risk clients on an ongoing basis, FINTRAC requires that
+      banks keep records of their enhanced monitoring processes and the information
+      obtained from such monitoring.
+    question: According to Fintrac, What additional measures are required for the
+      ongoing monitoring of high-risk clients?
+  - answer: FINTRAC's guidance document suggests that banks should document the processes
+      used for ongoing monitoring and the information obtained from it, particularly
+      for high-risk clients. This includes recording the monitoring processes themselves,
+      as well as the data gathered from both standard and enhanced monitoring activities.
+    question: How does FINTRAC's guidance document suggest banks should document the
+      information obtained from ongoing monitoring?
+version: 3

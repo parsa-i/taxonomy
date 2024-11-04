@@ -1,0 +1,228 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/sector_specific_guidance/pep_and_hio/non_account_based/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document provides guidance from FINTRAC on how non-account-based
+  reporting entities, such as accountants and real estate brokers, must determine
+  and handle business relationships with politically exposed persons and heads of
+  international organizations to comply with anti-money laundering and terrorist financing
+  regulations.
+domain: Canadian Regulations
+seed_examples:
+- context: "#### Money services businesses and foreign money services businesses \
+    \ \nYou must determine requestor when:  \n- Initiation of an international electronic\
+    \ funds transfer in the amount of $100,000 or more\n- Transfer of an amount of\
+    \ virtual currency equivalent to $100,000 or more\n- Transport of an amount of\
+    \ $100,000 or more in cash, money orders, traveler's cheques, or other similar\
+    \ negotiable instruments or an amount of virtual currency equivalent to $100,000\
+    \ or more  \nYou must determine beneficiary when:  \n- Final receipt of an international\
+    \ electronic funds transfer in the amount of $100,000 or more\n- Receipt of an\
+    \ amount of virtual currency equivalent to $100,000 or more for remittance to\
+    \ a beneficiary"
+  questions_and_answers:
+  - answer: Money services businesses must identify the requestor of a transaction
+      when initiating an international electronic funds transfer of $100,000 or more,
+      transferring virtual currency equivalent to $100,000 or more, or transporting
+      $100,000 or more in cash, money orders, traveler's cheques, or other negotiable
+      instruments, as required by regulatory guidelines.
+    question: According to Fintrac, Under what circumstances must money services businesses
+      identify the requestor of a transaction?
+  - answer: The threshold amount for which a money services business must determine
+      the beneficiary of a virtual currency transfer is $100,000 or more, as outlined
+      by the rules governing money services businesses.
+    question: According to Fintrac, What is the threshold amount for which a money
+      services business must determine the beneficiary of a virtual currency transfer?
+  - answer: It is important for money services businesses to identify the requestor
+      or beneficiary in transactions involving large sums of money or negotiable instruments
+      to comply with regulations set by governing bodies. These regulations require
+      businesses to determine the identity of individuals involved in transactions
+      such as international electronic funds transfers, virtual currency transfers,
+      and the transport of large sums of money or negotiable instruments when the
+      amounts exceed $100,000. This helps in preventing financial crimes and ensuring
+      transparency.
+    question: According to Fintrac, Why is it important for money services businesses
+      to identify the requestor or beneficiary in transactions involving large sums
+      of money or negotiable instruments?
+- context: "### Transaction-related measures  \n#### Measures for foreign politically\
+    \ exposed persons  \n**Accountants, agents of the Crown, British Columbia notaries,\
+    \ dealers in precious metals and precious stones, mortgage administrators, mortgage\
+    \ brokers or mortgage lenders and real estate developers, brokers or sales representatives**\
+    \  \nWhen you receive an amount of $100,000 or more in cash or an amount of virtual\
+    \ currency equivalent to $100,000 or more, and determine that a person is a foreign\
+    \ politically exposed person or family member or close associate of a foreign\
+    \ politically exposed person, you must:  \n- take reasonable measures to establish\
+    \ the source of the cash or source of the virtual currency used for the transaction\
+    \ and the source of the person's wealth, and\n- ensure that a member of senior\
+    \ management reviews the transaction  \n**Money services businesses and foreign\
+    \ money services businesses**"
+  questions_and_answers:
+  - answer: The threshold amount in cash or virtual currency that triggers additional
+      measures for transactions involving foreign politically exposed persons is $100,000
+      or its equivalent in virtual currency.
+    question: According to Fintrac, What is the threshold amount in cash or virtual
+      currency that triggers additional measures for transactions involving foreign
+      politically exposed persons?
+  - answer: 'When non-account-based reporting entities, such as accountants and real
+      estate brokers, identify a transaction involving a foreign politically exposed
+      person or their associates, and the transaction amounts to $100,000 or more
+      in cash or virtual currency, they must take the following specific measures:
+
+
+      - Establish the source of the cash or virtual currency used for the transaction
+      and the source of the person''s wealth through reasonable measures.
+
+      - Ensure that a member of senior management reviews the transaction.'
+    question: According to Fintrac, What are the specific measures that must be taken
+      by non-account-based reporting entities when they identify a transaction involving
+      a foreign politically exposed person or their associates?
+  - answer: A member of senior management is responsible for reviewing transactions
+      involving foreign politically exposed persons within the context of non-account-based
+      reporting entities such as accountants and real estate brokers.
+    question: According to Fintrac, Who is responsible for reviewing transactions
+      involving foreign politically exposed persons within the context of non-account-based
+      reporting entities like accountants and real estate brokers?
+- context: "**Money services businesses and foreign money services businesses**  \n\
+    In providing services to people located in Canada, for the applicable transactions\
+    \ referred to above in this section, you have **30 days** after the day on which\
+    \ the transaction is conducted to:  \n1. take reasonable measures to determine\
+    \ whether a person is a politically exposed person, a head of an international\
+    \ organization, a family member or close associate, and\n2. if you make such a\
+    \ determination:\n- establish the source of the funds or source of the virtual\
+    \ currency used for the transaction, and\n- establish the person's source of wealth,\n\
+    - and ensure that a member of senior management reviews the transaction  \nor\
+    \  \n1. take reasonable measures to determine whether a person is a politically\
+    \ exposed person, a head of an international organization, a family member or\
+    \ close associate, and\n2. if you make such a determination, ensure that a member\
+    \ of senior management reviews the transaction"
+  questions_and_answers:
+  - answer: Money services businesses must determine if a person is a politically
+      exposed individual within 30 days after the transaction is conducted, as per
+      FINTRAC's guidance.
+    question: According to Fintrac, What is the timeframe within which money services
+      businesses must determine if a person is a politically exposed individual?
+  - answer: If a person is identified as a politically exposed individual, money services
+      businesses must, within 30 days of the transaction, establish the source of
+      the funds or virtual currency used, determine the person's source of wealth,
+      and ensure that a member of senior management reviews the transaction, as per
+      FINTRAC's guidance.
+    question: According to Fintrac, If a person is identified as a politically exposed
+      individual, what additional measures must be taken by money services businesses?
+  - answer: A member of senior management is responsible for reviewing the transaction
+      if a person is identified as a politically exposed individual within the 30-day
+      timeframe, as outlined in FINTRAC's guidance for money services businesses.
+    question: According to Fintrac, Who is responsible for reviewing the transaction
+      if a person is identified as a politically exposed individual within the specified
+      timeframe?
+- context: "- take reasonable measures to establish the source of the funds or source\
+    \ of the virtual currency used for the transaction and to establish the source\
+    \ of the person's wealth, and\n- ensure that a member of senior management reviews\
+    \ the transaction  \n**Money services businesses and foreign money services businesses**\
+    \  \nWhen in providing services to people located in Canada, you:  \n- initiate\
+    \ an international electronic funds transfer in the amount of $100,000 or more\
+    \ at the request of a person, and\n- determine that the person is a domestic politically\
+    \ exposed person, head of an international organization, or family member or close\
+    \ associate of a domestic politically exposed person or head of an international\
+    \ organization, **and**\n- based on your risk assessment, you consider there to\
+    \ be a **high risk** of a money laundering or terrorist financing offence being\
+    \ committed  \nYou must:"
+  questions_and_answers:
+  - answer: 'Non-account-based reporting entities must take the following specific
+      measures when handling transactions involving domestic politically exposed persons
+      or heads of international organizations, particularly in high-risk scenarios:
+
+
+      1. Take reasonable measures to establish the source of the funds or source of
+      the virtual currency used for the transaction and to establish the source of
+      the person''s wealth.
+
+      2. Ensure that a member of senior management reviews the transaction.
+
+
+      For money services businesses and foreign money services businesses providing
+      services to people located in Canada, additional measures are required when
+      initiating an international electronic funds transfer of $100,000 or more at
+      the request of such individuals, and a high risk of money laundering or terrorist
+      financing offence is identified. These measures are outlined by the relevant
+      governing regulations.'
+    question: According to Fintrac, What are the specific measures that non-account-based
+      reporting entities must take when handling transactions involving domestic politically
+      exposed persons or heads of international organizations?
+  - answer: Money services businesses are required to initiate additional scrutiny
+      for international electronic funds transfers involving politically exposed persons
+      when the transfer is $100,000 or more, involves a domestic politically exposed
+      person or head of an international organization (or their family members or
+      close associates), and is assessed to have a high risk of money laundering or
+      terrorist financing. This is in line with the measures outlined for domestic
+      politically exposed persons or heads of international organizations under transaction-related
+      measures.
+    question: According to Fintrac, Under what conditions are money services businesses
+      required to initiate additional scrutiny for international electronic funds
+      transfers involving politically exposed persons?
+  - answer: The risk assessment process influences the actions of money services businesses
+      (MSBs) when dealing with high-risk transactions involving politically exposed
+      persons (PEPs) by requiring them to take additional measures. When an MSB initiates
+      an international electronic funds transfer of $100,000 or more for a PEP and
+      assesses the transaction as high risk for money laundering or terrorist financing,
+      it must take two specific actions. First, the MSB must implement reasonable
+      measures to establish the source of the funds or virtual currency and the source
+      of the person's wealth. Second, a member of senior management must review the
+      transaction. These steps are mandated to mitigate the elevated risks associated
+      with such transactions.
+    question: According to Fintrac, How does the risk assessment process influence
+      the actions that money services businesses must take when dealing with high-risk
+      transactions involving politically exposed persons?
+- context: "#### Measures for domestic politically exposed persons or heads of international\
+    \ organizations  \nWhen you **enter into a business relationship**, **conduct\
+    \ periodic monitoring of business relationships**, or **detect a fact about an\
+    \ existing business relationship,** and determine that a person is a domestic\
+    \ politically exposed person, head of an international organization, or family\
+    \ member of a domestic politically exposed person or head of an international\
+    \ organization, and based on your risk assessment, you consider there to be a\
+    \ **high risk** of a money laundering or terrorist activity financing offence\
+    \ being committed, you must:  \n- take reasonable measures to establish the person's\
+    \ source of wealth, and\n- take enhanced measures, including the following:\n\
+    - taking additional measures to verify the person's identity\n- conducting enhanced\
+    \ ongoing monitoring of the business relationship\n- taking any other enhanced\
+    \ measures to mitigate the risks posed by the person"
+  questions_and_answers:
+  - answer: "When non-account-based reporting entities, such as accountants and real\
+      \ estate brokers, determine that a person involved in a business relationship\
+      \ is a domestic politically exposed person or head of an international organization\
+      \ and poses a high risk of money laundering or terrorist financing, they must:\n\
+      \n- Take reasonable measures to establish the person's source of wealth.\n-\
+      \ Implement enhanced measures, including:\n  - Taking additional measures to\
+      \ verify the person's identity.\n  - Conducting enhanced ongoing monitoring\
+      \ of the business relationship.\n  - Taking any other enhanced measures to mitigate\
+      \ the risks posed by the person."
+    question: According to Fintrac, What specific measures must non-account-based
+      reporting entities take when they determine a person involved in a business
+      relationship is a domestic politically exposed person or head of an international
+      organization and poses a high risk of money laundering or terrorist financing?
+  - answer: It is necessary for an entity to establish the source of wealth for a
+      domestic politically exposed person or head of an international organization
+      when they enter into a business relationship, conduct periodic monitoring of
+      business relationships, or detect a relevant fact about an existing business
+      relationship, and determine there is a high risk of money laundering or terrorist
+      financing, as per the specific measures outlined for non-account-based reporting
+      entities such as accountants and real estate brokers.
+    question: According to Fintrac, When is it necessary for an entity to establish
+      the source of wealth for a domestic politically exposed person or head of an
+      international organization?
+  - answer: "To mitigate the risks associated with high-risk individuals like domestic\
+      \ politically exposed persons or heads of international organizations, non-account-based\
+      \ reporting entities such as accountants and real estate brokers should:\n\n\
+      - Establish the person's source of wealth using reasonable measures.\n- Implement\
+      \ enhanced measures, including:\n  - Verifying the person's identity more rigorously.\n\
+      \  - Conducting enhanced ongoing monitoring of the business relationship.\n\
+      \  - Taking additional measures to mitigate the specific risks posed by the\
+      \ individual.\n\nThese steps should be taken when entering into a business relationship,\
+      \ during periodic monitoring, or upon detecting relevant facts, and are required\
+      \ when a high risk of money laundering or terrorist financing is identified,\
+      \ as stipulated by the governing regulations."
+    question: According to Fintrac, What enhanced measures can be taken to mitigate
+      the risks associated with high-risk individuals, such as domestic politically
+      exposed persons or heads of international organizations, in the context of money
+      laundering and terrorist financing?
+version: 3

@@ -1,0 +1,192 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/kyc/beneficial_ownership/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines FINTRAC's guidance on beneficial ownership
+  requirements, mandating reporting entities to identify and verify individuals who
+  own or control 25% or more of an entity, to mitigate money laundering and terrorist
+  financing risks.
+domain: Canadian Regulations
+seed_examples:
+- context: "## 5\\. What beneficial ownership information do I need to obtain and\
+    \ confirm the accuracy of?  \nWhen you verify an entity's identity in accordance\
+    \ with the PCMLTFR, you **must obtain** the following information about beneficial\
+    \ owners:Footnote 7  \n**Corporations**  \n- the names of all directors of the\
+    \ corporation and the names and addresses of all persons who directly or indirectly\
+    \ own or control 25% or more of the shares of the corporation.  \n**Trusts** \
+    \ \n- the names and addresses of all trustees and all known beneficiaries and\
+    \ settlors of the trust.  \n**Widely held or publicly traded trusts**  \n- the\
+    \ names of all trustees of the trust and the names and addresses of all persons\
+    \ who directly or indirectly own or control 25% or more of the units of the trust.\
+    \  \n**Entities other than corporations or trusts**  \n- the names and addresses\
+    \ of all persons who directly or indirectly own or control 25% or more of the\
+    \ entity."
+  questions_and_answers:
+  - answer: For corporations, you must obtain the names of all directors and the names
+      and addresses of all persons who own or control 25% or more of the shares, as
+      required by FINTRAC.
+    question: According to Fintrac, question1
+  - answer: For corporations, you must obtain the names of all directors and the names
+      and addresses of all persons who own or control 25% or more of the shares, as
+      required by FINTRAC.
+    question: According to Fintrac, question2
+  - answer: For corporations, you must obtain the names of all directors and the names
+      and addresses of all persons who own or control 25% or more of the shares. For
+      trusts, you need the names and addresses of all trustees, beneficiaries, and
+      settlors. For widely held or publicly traded trusts, obtain the names of all
+      trustees and the names and addresses of those who own or control 25% or more
+      of the units. For other entities, get the names and addresses of all persons
+      who own or control 25% or more of the entity. This is required by FINTRAC.
+    question: According to Fintrac, question3
+- context: "## 4\\. Are there circumstances where I do not have to obtain beneficial\
+    \ ownership information and confirm its accuracy?  \nYou do not have to obtain\
+    \ beneficial ownership information and take reasonable measures to confirm its\
+    \ accuracy in the following situations:  \n1. For a group plan account held within\
+    \ a dividend or a distribution reinvestment plan. This includes plans that permits\
+    \ purchases of additional shares or units by the member with contributions other\
+    \ than the dividends or distributions paid by the plan sponsor, if the sponsor\
+    \ is an entity:\n- whose shares or units are traded on a Canadian stock exchange;\
+    \ and\n- that operates in a country that is a member of the Financial Action Task\
+    \ Force.\n2. If you are a **financial entity**, beneficial ownership requirements\
+    \ do not apply to your activities in respect of the processing of payments by\
+    \ credit card or prepaid payment product for a merchant.Footnote 5"
+  questions_and_answers:
+  - answer: An exemption from obtaining and verifying beneficial ownership information
+      is provided for group plan accounts held within a dividend or distribution reinvestment
+      plan. This applies when the plan sponsor is an entity whose shares or units
+      are traded on a Canadian stock exchange and operates in a country that is a
+      member of the Financial Action Task Force. Additionally, financial entities
+      are exempt from beneficial ownership requirements for their activities related
+      to processing payments by credit card or prepaid payment product for a merchant.
+    question: According to Fintrac, What exemptions are provided for obtaining and
+      verifying beneficial ownership information regarding group plan accounts?
+  - answer: Financial entities are not required to comply with beneficial ownership
+      requirements for credit card and prepaid payment processing when they are processing
+      payments for a merchant, as per the Financial Action Task Force guidelines.
+    question: According to Fintrac, Under what conditions are financial entities not
+      required to comply with beneficial ownership requirements for credit card and
+      prepaid payment processing?
+  - answer: The Financial Action Task Force (FAFT) membership influences exemptions
+      for beneficial ownership information in group plan accounts by allowing reporting
+      entities to forgo obtaining and verifying this information for group plan accounts
+      held within a dividend or distribution reinvestment plan, where the plan sponsor
+      is an entity whose shares or units are traded on a Canadian stock exchange and
+      operates in a FAFT member country.
+    question: According to Fintrac, How does the Financial Action Task Force membership
+      influence the exemptions for beneficial ownership information in group plan
+      accounts?
+- context: "## 9\\. How do I verify the identity of an entity's chief executive officer\
+    \ or of the person who performs that function?  \nThe PCMLTFR does not require\
+    \ that you verify the identity of the chief executive officer or of the person\
+    \ who performs that function in accordance with the prescribed methods. However,\
+    \ you could use one of the methods outlined in the Methods to verify the identity\
+    \ of persons and entities guidance to meet this obligation.  \nAdditionally, there\
+    \ is no record keeping obligation if you have identified the chief executive officer\
+    \ or a person who performs that function using the prescribed methods to verify\
+    \ identity. However, during a FINTRAC examination, you could be asked to demonstrate\
+    \ the reasonable measures that you took to identify the chief executive officer\
+    \ or person who performs that function."
+  questions_and_answers:
+  - answer: The document suggests using methods outlined in FINTRAC's "Methods to
+      verify the identity of persons and entities guidance" for verifying the identity
+      of an entity's chief executive officer or equivalent individual.
+    question: According to Fintrac, What methods are suggested for verifying the identity
+      of an entity's chief executive officer?
+  - answer: No, there is no mandatory record-keeping requirement for the identification
+      of a chief executive officer using prescribed methods, according to the Proceeds
+      of Crime (Money Laundering) and Terrorist Financing Regulations (PCMLTFR).
+    question: According to Fintrac, Is there a mandatory record-keeping requirement
+      for the identification of a chief executive officer using prescribed methods?
+  - answer: To demonstrate reasonable measures taken to identify the chief executive
+      officer during a FINTRAC examination, a bank could present evidence that it
+      followed one of the methods outlined in FINTRAC's "Methods to verify the identity
+      of persons and entities guidance." While the PCMLTFR does not prescribe specific
+      methods, using FINTRAC's guidance shows a proactive approach to compliance.
+    question: How might a bank demonstrate reasonable measures taken to identify the
+      chief executive officer during a FINTRAC examination?
+- context: "The reasonable measures that you take to confirm the accuracy of beneficial\
+    \ ownership information, which includes ownership, control, and structure information,\
+    \ must align with your risk assessment of the entity's risk for money laundering\
+    \ or terrorist activity financing offences. The reasonable measures you take with\
+    \ entities assessed to pose a high risk must go further to help you understand\
+    \ and confirm the beneficial ownership, as well as establish the overall ownership,\
+    \ control, and structure of that entity.  \nThe reasonable measures that you take\
+    \ with entities that have a complex business structures must go further to ensure\
+    \ that you are able to understand and confirm the accuracy of beneficial ownership,\
+    \ which includes establishing the ownership, control and structure of that entity.\
+    \ This does not mean, however, that you need to consider or treat a complex entity\
+    \ as posing a high risk. You need to choose reasonable measures that are appropriate\
+    \ to the situation."
+  questions_and_answers:
+  - answer: To confirm the accuracy of beneficial ownership information, a bank must
+      take reasonable measures aligned with its risk assessment of the entity's potential
+      for money laundering or terrorist financing offenses. For high-risk entities,
+      the bank must implement more extensive measures to understand and confirm beneficial
+      ownership and the overall ownership, control, and structure of the entity. Similarly,
+      for entities with complex business structures, the bank must employ further
+      measures to ensure a clear understanding and confirmation of beneficial ownership,
+      including the establishment of the entity's ownership, control, and structure.
+      These measures should be appropriate to the specific situation, following the
+      guidelines provided by the relevant regulatory body.
+    question: According to Fintrac, What steps must a bank take to confirm the accuracy
+      of beneficial ownership information?
+  - answer: The risk assessment of an entity directly influences the measures taken
+      to confirm beneficial ownership information. According to the beneficial ownership
+      requirements, reporting entities must adopt reasonable measures commensurate
+      with the entity's risk for money laundering or terrorist activity financing
+      offenses. For entities deemed high-risk, more extensive measures are required
+      to understand and confirm beneficial ownership, as well as to establish the
+      overall ownership, control, and structure of the entity. Similarly, complex
+      business structures necessitate additional measures to ensure accurate beneficial
+      ownership information, although complexity alone does not imply high risk. The
+      measures chosen must be appropriate to the specific situation.
+    question: According to Fintrac, How does the risk assessment of an entity affect
+      the measures taken to confirm beneficial ownership information?
+  - answer: For entities with complex business structures, additional measures should
+      be taken to understand and confirm the accuracy of beneficial ownership information.
+      This includes establishing the ownership, control, and structure of the entity.
+      These measures should be aligned with the entity's risk assessment for money
+      laundering or terrorist activity financing offences, as outlined under the beneficial
+      ownership requirements. The measures chosen should be appropriate to the situation
+      and do not necessarily mean treating the complex entity as high risk.
+    question: According to Fintrac, What additional measures should be taken for entities
+      with complex business structures to confirm beneficial ownership?
+- context: "- the names and addresses of all trustees, known beneficiaries and known\
+    \ settlors of the trust; and\n- information establishing the ownership, control\
+    \ and structure of the trust.  \nFor a **widely held or publicly traded trust**,\
+    \ you must record:  \n- the names of all trustees of the trust;\n- the names and\
+    \ addresses of all persons who directly or indirectly own or control 25% or more\
+    \ of the units of the trust; and\n- information establishing the ownership, control\
+    \ and structure of the trust.  \nFor an **entity other than a corporation or trust**,\
+    \ you must record:  \n- the names and addresses of all persons who directly or\
+    \ indirectly own or control 25% or more of the entity; and\n- information establishing\
+    \ the ownership, control and structure of the entity.  \nIf you verify the identity\
+    \ of a **not-for-profit organization**, you must also keep a record that indicates\
+    \ whether the entity is:  \n- a charity registered with the Canada Revenue Agency\
+    \ under the Income Tax Act; or"
+  questions_and_answers:
+  - answer: 'According to FINTRAC''s guidance, for the beneficial ownership of trusts,
+      the following information must be recorded:
+
+
+      - The names and addresses of all trustees, known beneficiaries, and known settlors
+      of the trust.
+
+      - Information establishing the ownership, control, and structure of the trust.'
+    question: According to Fintrac, What information must be recorded for the beneficial
+      ownership of trusts?
+  - answer: For a widely held or publicly traded trust, the names and addresses of
+      all persons who directly or indirectly own or control 25% or more of the units
+      must be recorded, as per FINTRAC's guidance on beneficial ownership requirements.
+    question: According to Fintrac, For a widely held or publicly traded trust, who
+      must be recorded if they own or control 25% or more of the units?
+  - answer: When verifying the identity of a not-for-profit organization, you must
+      also keep a record that indicates whether the entity is a charity registered
+      with the Canada Revenue Agency under the Income Tax Act, as per FINTRAC's guidance
+      on beneficial ownership requirements.
+    question: According to Fintrac, When verifying the identity of a not-for-profit
+      organization, what additional record must be kept regarding its registration
+      status?
+version: 3

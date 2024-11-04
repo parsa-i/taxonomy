@@ -1,0 +1,161 @@
+created_by: CE
+version: 3
+document:
+  commit: 06419f3bf49a0c6a2b7f92a2d99323fd1b84d616
+  patterns:
+  - ilab_tx/knowledge/financial/financial/mastercard_transaction_processing_rules/appendix/*.md
+  repo: https://github.com/parsa-i/taxonomy
+domain: Mastercard Transaction Processing Rules
+seed_examples:
+- context: "# For Receipts in English  \n\"Total cost: XXXXXXX UAH\"  \n\"Number of\
+    \ payments: YY\"  \n\"First payment: XX UAH\"  \n\"Subsequent payment: XX UAH\"\
+    \  \n\"Interest rate: XX%\"  \n\"Fee: XX UAH\"  \n\"I've read and agree with the\
+    \ rules and conditions of payment in installments posted on [bank's website address]\"\
+    \  \n361"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what are the key
+      fields that must be included on receipts in English?
+    answer: 'According to Mastercard Transaction Processing Rules, the key fields
+      that must be included on receipts in English are:
+
+
+      - Total cost
+
+      - Number of payments
+
+      - First payment
+
+      - Subsequent payment
+
+      - Interest rate
+
+      - Fee
+
+      - Declaration of agreement with the payment rules'
+  - question: According to Mastercard Transaction Processing Rules, what does the
+      'Interest rate' field on a receipt signify?
+    answer: The 'Interest rate' field on a receipt signifies the percentage rate at
+      which interest is charged on the outstanding balance of the purchase, as per
+      Mastercard Transaction Processing Rules.
+  - question: According to Mastercard Transaction Processing Rules, what is the purpose
+      of the declaration 'I've read and agree with the rules and conditions of payment
+      in installments' on a receipt?
+    answer: According to Mastercard Transaction Processing Rules, the purpose of the
+      declaration 'I've read and agree with the rules and conditions of payment in
+      installments' on a receipt is to confirm that the customer has understood and
+      accepted the terms and conditions of the installment payment plan.
+- context: A Digital Secure Remote Payment Transaction is an electronic commerce Transaction
+    that contains cryptographic information, in the form of either full EMV chip data
+    passed in DE 55 or a cryptographic value derived from an M/Chip cryptogram passed
+    in the Digital Payment Data field. Subsequent to the initial Digital Secure Remote
+    Payment Transaction, a related Transaction for a partial shipment may occur, in
+    which case cryptographic information is not passed. When a Digital Secure Remote
+    Payment Transaction contains tokenized account information, the Mastercard Digital
+    Enablement Service performs token mapping and cryptographic validation services.
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what constitutes
+      a Digital Secure Remote Payment Transaction?
+    answer: According to Mastercard Transaction Processing Rules, a Digital Secure
+      Remote Payment Transaction is an electronic commerce transaction that includes
+      cryptographic information, either as full EMV chip data in DE 55 or a cryptographic
+      value derived from an M/Chip cryptogram in the Digital Payment Data field.
+  - question: According to Mastercard Transaction Processing Rules, what happens when
+      a Digital Secure Remote Payment Transaction contains tokenized account information?
+    answer: When a Digital Secure Remote Payment Transaction contains tokenized account
+      information, the Mastercard Digital Enablement Service performs token mapping
+      and cryptographic validation services, as per the Mastercard Transaction Processing
+      Rules.
+  - question: According to Mastercard Transaction Processing Rules, under what circumstances
+      might cryptographic information not be passed in a related Transaction following
+      an initial Digital Secure Remote Payment Transaction?
+    answer: According to Mastercard Transaction Processing Rules, cryptographic information
+      might not be passed in a related transaction following an initial Digital Secure
+      Remote Payment Transaction when the related transaction is for a partial shipment.
+- context: "# CAT Level 1: Automated Dispensing Machines (CAT 1)  \nThe following\
+    \ CVM requirements apply to CAT 1 devices:  \n1. CAT 1 devices must accept PIN\
+    \ as the CVM.\n2. CAT 1 devices must support online PIN and may also support offline\
+    \ PIN and CDCVM.\n1. Online PIN is the mandatory CVM for magnetic stripe Transactions.\n\
+    2. PIN (online or offline) is the mandatory CVM for Contact Chip Transactions.\n\
+    3. Either online PIN or CDCVM must be used as the CVM for Contactless Transactions.\n\
+    4. CDCVM is the mandatory CVM for Mastercard Consumer-Presented QR Transactions.\
+    \  \n312"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what is the mandatory
+      Cardholder Verification Method (CVM) for magnetic stripe transactions at CAT
+      1 devices?
+    answer: According to Mastercard Transaction Processing Rules, the mandatory Cardholder
+      Verification Method (CVM) for magnetic stripe transactions at CAT 1 devices
+      is online PIN.
+  - question: According to Mastercard Transaction Processing Rules, what are the acceptable
+      CVMs for Contactless Transactions at CAT 1 devices?
+    answer: According to Mastercard Transaction Processing Rules, the acceptable Cardholder
+      Verification Methods (CVMs) for Contactless Transactions at CAT 1 devices are
+      either online PIN or CDCVM.
+  - question: According to Mastercard Transaction Processing Rules, which CVM is mandatory
+      for Mastercard Consumer-Presented QR Transactions at CAT 1 devices?
+    answer: According to Mastercard Transaction Processing Rules, CDCVM is the mandatory
+      Cardholder Verification Method (CVM) for Mastercard Consumer-Presented QR Transactions
+      at CAT 1 devices.
+- context: "# Figure 5: POS Terminal Display Two in Polish  \nWYTYCZNE DLA AGENTA\
+    \ ROZLICZENIOWEGO  \nROZKEADANIE NA RATY ZAKUPU W PUNKCIE SPRZEDAZY PRZY DOKONYWANIU\
+    \ PEATNOSCI NA PIN-PAD NIEPROGRAMOWALNYM  \nTenenaPoSs tronsakcieoutoryracto)\
+    \ roztoryt zokup KontumcntIicibe rat mbf omach  \nponanaro  \nPIN-PAD cb potwderdro\
+    \ wtt na PIN-PAD  \nWAZNE: Komunikat n PiN-PAD powinion byc zrozumialy dla Konsumenta,\
+    \ uwzgladnioniom technicrnych morliotd PIN PADOW: Wprzypadku braku morlioid prazontod\
+    \ cucopeocrgodnla 1 docyetq Konsumenta: donych pr-i Kontum-ntanoNk-PED merchant\
+    \ udastepnla Konsumentowd wybor na terminolu POS bodi som zotwerdzo  \n352"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, what is the primary
+      requirement for the message displayed on a PIN-PAD during a transaction in Polish?
+    answer: According to Mastercard Transaction Processing Rules, the primary requirement
+      for the message displayed on a PIN-PAD during a transaction in Polish is that
+      it must be understandable to the consumer, taking into account the technical
+      capabilities of PIN-PADs. If the PIN-PAD lacks the capability to display messages
+      in a consumer-friendly manner, the merchant must provide the consumer with a
+      choice on the POS terminal for confirmation.
+  - question: According to Mastercard Transaction Processing Rules, what should merchants
+      do if the PIN-PAD lacks the technical capability to display a comprehensible
+      message to the consumer in Polish?
+    answer: According to Mastercard Transaction Processing Rules, if the PIN-PAD lacks
+      the technical capability to display a comprehensible message to the consumer
+      in Polish, the merchant should provide the consumer with a choice on the POS
+      terminal to confirm the transaction.
+  - question: According to Mastercard Transaction Processing Rules, how should merchants
+      handle the verification process for installment purchases when using a non-programmable
+      PIN-PAD in Polish transactions?
+    answer: According to Mastercard Transaction Processing Rules, merchants should
+      ensure that the PIN-PAD displays a confirmation message that is understandable
+      to the consumer during installment purchases. If the PIN-PAD lacks technical
+      capabilities to display this confirmation, the merchant must provide the consumer
+      with a choice on the POS terminal to confirm the installment plan.
+- context: "|2.5|Preauthorizations|A|\n|2.6|Undefined Authorizations|A|\n|2.7|Final\
+    \ Authorizations|A|\n|2.8|Message Reason Code 4808 Chargeback Protection Period|A|\n\
+    |2.9|Multiple Authorizations|A|\n|2.10|Multiple Clearing Messages|A|\n|2.11|Full\
+    \ and Partial Reversals|A|\n|2.12|Full and Partial Approvals|A|\n|2.13|Refund\
+    \ Transactions and Corrections|A|  \n280  \n# Compliance Zones  \n|Rule Number|Rule\
+    \ Title|Category|\n|---|---|---|\n|2.14|Balance Inquiries|B|\n|2.15|CVC 2 Verification\
+    \ for POS Transactions|A|\n|2.16|CVC 3 Verification for Maestro Magnetic Stripe\
+    \ Mode Contactless Transactions - Brazil Only|A|\n|2.17|Euro Conversion - Europe\
+    \ Region Only|C|\n|2.18|Transaction Queries and Disputes|B|\n|2.18.1|Retrieval\
+    \ Requests and Fulfillments|C|\n|2.18.2|Compliance with Dispute Procedures|A|\n\
+    |2.19|Chargebacks for Reissued Cards|C|\n|2.20|Correction of Errors|A|\n|2.21|Merchant\
+    \ Payment Gateway Identifier (MPG ID)|A|\n|2.22|Co-badged Cards - Acceptance Brand\
+    \ Identifier|B|\n|3.1|Card-Present Transactions|B|"
+  questions_and_answers:
+  - question: According to Mastercard Transaction Processing Rules, which rule deals
+      with the handling of Preauthorizations?
+    answer: According to Mastercard Transaction Processing Rules, Rule 2.5 deals with
+      the handling of Preauthorizations.
+  - question: According to Mastercard Transaction Processing Rules, what category
+      does the rule for Balance Inquiries fall under?
+    answer: According to Mastercard Transaction Processing Rules, the rule for Balance
+      Inquiries falls under Category B.
+  - question: According to Mastercard Transaction Processing Rules, which rule is
+      specific to CVC 3 Verification for Maestro Magnetic Stripe Mode Contactless
+      Transactions in Brazil?
+    answer: According to Mastercard Transaction Processing Rules, Rule 2.16 is specific
+      to CVC 3 Verification for Maestro Magnetic Stripe Mode Contactless Transactions
+      in Brazil.
+document_outline: This document defines the geographic regions recognized by Mastercard
+  for transaction processing purposes, listing the countries and territories included
+  in each region.

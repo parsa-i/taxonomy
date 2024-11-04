@@ -1,0 +1,200 @@
+created_by: CE
+document:
+  commit: fbeaccd3e6fbcb9d73301882c65230742155ae53
+  patterns:
+  - ilab_tx/knowledge/AML_regulations/canada/penalty_for_non_compliance/harm_done_assessment/*.md
+  repo: https://github.com/parsa-i/taxonomy
+document_outline: This document outlines FINTRAC's approach to assessing the harm
+  caused by violations and calculating base penalties for non-compliance with specific
+  requirements related to correspondent banking, foreign branches, subsidiaries, Minister's
+  Directive, electronic funds transfers, and assistance to FINTRAC.
+domain: Canadian Regulations
+seed_examples:
+- context: "### 4.5 Violations related to ascertaining that a foreign financial institution\
+    \ meets client identification requirements  \nRegulatory requirements are designed\
+    \ to identify individuals and entities that conduct, control, direct, or are involved\
+    \ in financial transactions in order to remove anonymity. The requirements extend\
+    \ to the clients of foreign financial institutions who can access Canada's financial\
+    \ system through a correspondent banking relationship. REs that allow clients\
+    \ of foreign financial institutions direct access to their accounts must take\
+    \ reasonable measures to find out if the foreign financial institutions apply\
+    \ the requirement to verify client identity and confirm the existence of entities\
+    \ in a manner that is consistent with the Act and its regulations. The REs must\
+    \ also take reasonable measures to find out if the foreign financial institutions\
+    \ agree to provide client identification data upon request."
+  questions_and_answers:
+  - answer: Reporting entities (REs) must ensure that foreign financial institutions
+      whose clients access Canada's financial system through correspondent banking
+      meet client identification requirements. REs are obligated to take reasonable
+      measures to confirm that these foreign institutions verify client identity and
+      agree to provide such data upon request, in accordance with the Act and its
+      regulations.
+    question: According to Fintrac, What are the regulatory obligations of reporting
+      entities regarding the clients of foreign financial institutions using correspondent
+      banking?
+  - answer: Reporting entities (REs) should take reasonable measures to ensure that
+      foreign financial institutions, which have clients accessing Canada's financial
+      system through correspondent banking, apply client identification requirements
+      consistent with the Act and its regulations. Additionally, REs must confirm
+      that these foreign financial institutions agree to provide client identification
+      data upon request.
+    question: According to Fintrac, How should reporting entities ensure that foreign
+      financial institutions comply with client identification requirements?
+  - answer: Reporting entities (REs) must take reasonable measures to confirm that
+      foreign financial institutions apply client identification requirements consistent
+      with the Act and its regulations. Additionally, REs must ensure that these foreign
+      institutions agree to provide client identification data upon request.
+    question: According to Fintrac, What actions must reporting entities take to ascertain
+      that foreign financial institutions agree to provide client identification data
+      upon request?
+- context: "The table below details the levels of harm, the types of non-compliance\
+    \ and the description of harm along with their corresponding penalties.  \nWhen\
+    \ deficiencies fall into more than one harm category, the penalty is determined\
+    \ at the highest harm category, and is not cumulative.  \n| Level of harm | Type\
+    \ of non-compliance | Harm description | Penalty (not considering mitigating factors)\
+    \ |\n| --- | --- | --- | --- |\n| Compliance policy: | Minister's directive: |\n\
+    | Level 1 | No record of fact and reasons; FINTRAC and supervisor/regulator not\
+    \ notified | Completely impedes Canadian authorities' and the RE's ability to\
+    \ assess the exception and consider associated risks for mitigation measures at\
+    \ both the national and RE level | $1,000 | $100,000 |"
+  questions_and_answers:
+  - answer: 'The levels of harm and their corresponding penalties for not recording
+      facts and reasons, as outlined by FINTRAC, are as follows:
+
+
+      - **Level 1 Harm**: No record of facts and reasons; FINTRAC and supervisor/regulator
+      not notified. This completely impedes Canadian authorities'' and the RE''s ability
+      to assess the exception and consider associated risks for mitigation measures
+      at both the national and RE level. The penalty for this level of harm is $1,000
+      under the compliance policy and $100,000 under the Minister''s directive.'
+    question: According to Fintrac, What are the levels of harm and their corresponding
+      penalties for not recording fact and reasons as described in the chunk?
+  - answer: Non-compliance with record keeping, specifically having no record of facts
+      and reasons and not notifying FINTRAC and the supervisor or regulator, completely
+      impedes Canadian authorities' and the reporting entity's (RE) ability to assess
+      risks. This lack of information prevents them from considering associated risks
+      and implementing mitigation measures at both the national and RE level. This
+      is outlined in the harm done assessment guide provided by FINTRAC.
+    question: According to Fintrac, How does non-compliance with record keeping relate
+      to the assessment of risks by Canadian authorities and the RE?
+  - answer: The specific penalty for not having a record of fact and reasons, and
+      not notifying FINTRAC and the supervisor/regulator, is $1,000 under the compliance
+      policy and $100,000 under the Minister's directive, as outlined by FINTRAC's
+      guide on harm done assessment.
+    question: According to Fintrac, What are the specific penalties outlined in the
+      guide for non-compliance with record keeping and notification, particularly
+      for not having a record of fact and reasons?
+- context: "#### 5.3.4 Level 2 harm—Record of facts and reasons exists but FINTRAC\
+    \ and supervisor/regulator are not notified  \nWhen FINTRAC and other supervisory\
+    \ or regulatory bodies are not notified of the facts and reasons why a foreign\
+    \ branch or subsidiary cannot comply, while mitigation measures may be in place\
+    \ at the RE, partners in Canada's AML/ATF regime would not be aware of the risks,\
+    \ nor would they be able to coordinate their compliance efforts and take measures\
+    \ to mitigate ML/TF risks for Canada. If the foreign compliance exception had\
+    \ regime-wide implications, FINTRAC would not have the opportunity to consider\
+    \ risk mitigation measures with other stakeholders such as the Department of Finance.\
+    \ Therefore, the penalty is set at $750 for compliance policy violations, and\
+    \ $75,000 for minister's directive violations."
+  questions_and_answers:
+  - answer: The penalties for failing to notify FINTRAC and other regulatory bodies
+      of non-compliance by foreign branches or subsidiaries, even if a record of the
+      facts and reasons exists, are $750 for compliance policy violations and $75,000
+      for minister's directive violations.
+    question: What are the penalties for failing to notify FINTRAC and other regulatory
+      bodies of non-compliance by foreign branches or subsidiaries, even if a record
+      of the facts and reasons exists?
+  - answer: The lack of notification of non-compliance by foreign branches or subsidiaries
+      would hinder the coordination of compliance efforts and mitigation of ML/TF
+      risks in Canada. According to FINTRAC's guidelines, failure to notify the regulatory
+      bodies means Canadian partners in the AML/ATF regime remain unaware of potential
+      risks and cannot coordinate their efforts effectively. Additionally, FINTRAC
+      would miss the opportunity to collaborate with stakeholders like the Department
+      of Finance to implement risk mitigation measures.
+    question: According to Fintrac, How might the lack of notification of non-compliance
+      by foreign branches or subsidiaries impact the coordination of compliance efforts
+      and mitigation of ML/TF risks in Canada?
+  - answer: The implications of not notifying FINTRAC about foreign compliance exceptions
+      with regime-wide implications include the inability of partners in Canada's
+      AML/ATF regime to coordinate compliance efforts and mitigate ML/TF risks effectively.
+      The potential penalty for minister's directive violations in such cases is $75,000.
+    question: What are the implications of not notifying FINTRAC about foreign compliance
+      exceptions that have regime-wide implications, and what is the potential penalty
+      for minister's directive violations in such cases?
+- context: "## 6\\. Violations related to including prescribed information in prescribed\
+    \ electronic funds transfers (travel rule)  \nREs that conduct EFTs in the course\
+    \ of their activities must make sure that each transfer includes the name, address\
+    \ and account number, or other reference number of the requesting client. When\
+    \ an RE receives an EFT in the course of its activities, it must take reasonable\
+    \ measures to ensure that any transfer includes the same information.  \nInformation\
+    \ that identifies the parties to a transaction is essential in establishing the\
+    \ origin and the flow of funds which are needed for analysis, investigations and\
+    \ the prosecution of ML/TF offences. The information can be used by the RE for\
+    \ risk assessment, transaction reporting and other compliance requirements, where\
+    \ applicable.  \n| Provision of the Act | Provision of the PCMLTFR | Description\
+    \ | Classification of Violation |\n| --- | --- | --- | --- |"
+  questions_and_answers:
+  - answer: To comply with the travel rule, a Reporting Entity (RE) must include the
+      name, address, and account number, or other reference number of the requesting
+      client in each electronic funds transfer (EFT). Additionally, when receiving
+      an EFT, the RE must ensure that the transfer includes the same information.
+      This requirement is outlined in the Proceeds of Crime (Money Laundering) and
+      Terrorist Financing Regulations (PCMLTFR).
+    question: According to Fintrac, What information must a Reporting Entity (RE)
+      include in each electronic funds transfer to comply with the travel rule?
+  - answer: According to the "travel rule" outlined by the Proceeds of Crime (Money
+      Laundering) and Terrorist Financing Act (PCMLTFA), including specific information
+      such as the name, address, and account number of the requesting client in electronic
+      funds transfers (EFTs) is crucial for preventing money laundering and terrorist
+      financing. This information helps in establishing the origin and flow of funds,
+      which is essential for analysis, investigations, and prosecution of ML/TF offenses.
+      It also aids reporting entities (REs) in risk assessment, transaction reporting,
+      and other compliance requirements.
+    question: According to Fintrac, How does the information included in electronic
+      funds transfers help in preventing money laundering and terrorist financing
+      according to the travel rule?
+  - answer: When receiving an electronic funds transfer, a Reporting Entity (RE) must
+      take reasonable measures to ensure that the transfer includes the name, address,
+      and account number, or other reference number of the requesting client, as required
+      by the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations
+      (PCMLTFR).
+    question: According to Fintrac, What actions must a Reporting Entity (RE) take
+      when receiving an electronic funds transfer to ensure compliance with the travel
+      rule?
+- context: "### 4.2 Violation related to obtaining approval of senior management for\
+    \ correspondent banking relationship  \nA correspondent banking relationship requires\
+    \ the financial entity's senior management oversight to ensure that it is not\
+    \ a conduit for anonymous, illicit financial transactions. Approval from senior\
+    \ management is required to enter into such a relationship, to ensure accountability\
+    \ at the highest level, and that the organization fully understands the associated\
+    \ ML/TF risks, and has the proper controls in place to mitigate risks.  \n| Provision\
+    \ of the Act | Provision of the PCMLTFRFootnote 3 | Description | Classification\
+    \ of violation |\n| --- | --- | --- | --- |\n| **9.4(1)(c)** | 15.1(1) | Failure\
+    \ of a specified entity entering into a correspondent banking relationship with\
+    \ a prescribed foreign entity to obtain the approval of senior management | Minor<br>$1-$1,000\
+    \ |  \nTable 3—Violation related to obtaining approval of senior management for\
+    \ correspondent banking relationship"
+  questions_and_answers:
+  - answer: The requirement for senior management oversight in a correspondent banking
+      relationship is mandated by provision 9.4(1)(c) of the Act and provision 15.1(1)
+      of the PCMLTFR. Senior management approval is necessary to ensure accountability
+      and understanding of associated money laundering and terrorist financing (ML/TF)
+      risks, as well as to confirm that proper controls are in place to mitigate these
+      risks.
+    question: According to Fintrac, What is the requirement for senior management
+      oversight in a correspondent banking relationship?
+  - answer: The penalties for failing to obtain senior management approval for a correspondent
+      banking relationship, as outlined under provision 9.4(1)(c) of the Act and 15.1(1)
+      of the PCMLTFR, are classified as a minor violation with a fine ranging from
+      $1 to $1,000.
+    question: According to Fintrac, According to the document, what are the penalties
+      for failing to obtain senior management approval for a correspondent banking
+      relationship?
+  - answer: Obtaining senior management approval for correspondent banking relationships
+      helps in understanding the associated Money Laundering/Terrorist Financing (ML/TF)
+      risks by ensuring accountability at the highest level. This approval process,
+      as required by provision 9.4(1)(c) of the Act and 15.1(1) of the PCMLTFR, guarantees
+      that the organization has fully assessed and understood the risks involved and
+      has implemented proper controls to mitigate these risks.
+    question: According to Fintrac, How does obtaining senior management approval
+      help in understanding the associated Money Laundering/Terrorist Financing risks?
+version: 3
