@@ -181,3 +181,8 @@ document_outline: This document outlines FINTRAC's guidance on beneficial owners
   requirements, mandating reporting entities to identify and verify individuals who
   own or control 25% or more of an entity, to mitigate money laundering and terrorist
   financing risks.
+document:
+  repo: 'https://github.com/parsa-i/taxonomy/'
+  commit: 22f1b63497212111f53022804c2e38d85af028e3
+  patterns:
+    - new_files/urls/kyc/beneficial_ownership/Beneficial_ownership_requirements.md

@@ -188,3 +188,8 @@ seed_examples:
 document_outline: This document outlines FINTRAC's methodology for assessing the harm
   caused by "Know your client" violations and calculating the corresponding base penalty
   amount.
+document:
+  repo: 'https://github.com/parsa-i/taxonomy/'
+  commit: 22f1b63497212111f53022804c2e38d85af028e3
+  patterns:
+    - new_files/urls/kyc/non_compliance_penalty/Guide_on_harm_done_assessment_for_Know_your_client_requirements_violations.md

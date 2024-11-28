@@ -194,3 +194,8 @@ seed_examples:
 document_outline: ' This document provides guidance from FINTRAC to help reporting
   entities understand and assess money laundering and terrorist financing risks, and
   implement a risk-based approach to mitigate these risks.'
+document:
+  repo: 'https://github.com/parsa-i/taxonomy/'
+  commit: 22f1b63497212111f53022804c2e38d85af028e3
+  patterns:
+    - new_files/urls/compliance_program/risk_assessment_guidance/Risk_assessment_guidance.md
